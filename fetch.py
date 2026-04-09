@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
 """
 Codeforces AC Submission Archiver
-Fetches all accepted C++ submissions, scrapes actual source code,
-problem statements, and sample tests using a headless browser.
+Uses curl_cffi to impersonate a real browser TLS fingerprint,
+bypassing Cloudflare protection on codeforces.com.
 """
 
 import os
@@ -12,9 +12,10 @@ import time
 import hashlib
 import random
 import string
-import requests
 from pathlib import Path
 from html.parser import HTMLParser
+from curl_cffi import requests as cffi_requests
+import requests  # for API calls (no CF protection on API)
 
 # ── Config ──────────────────────────────────────────────────────────────────
 CF_HANDLE = os.environ.get("CF_HANDLE", "PriyanshuIITGHY2006")
@@ -25,40 +26,28 @@ PROBLEMS_DIR = REPO_ROOT / "problems"
 TRACKER_FILE = REPO_ROOT / ".tracked_submissions.json"
 LANG_FILTER = "C++"
 REQUEST_DELAY = 3
-MAX_SCRAPE_FAILURES = 20
+MAX_SCRAPE_FAILURES = 30
 
-# ── Playwright browser (lazy init) ─────────────────────────────────────────
-_browser = None
-_page = None
-
-
-def get_page():
-    global _browser, _page
-    if _page is None:
-        from playwright.sync_api import sync_playwright
-        pw = sync_playwright().start()
-        _browser = pw.chromium.launch(headless=True)
-        _page = _browser.new_page()
-        _page.set_extra_http_headers({
-            "Accept-Language": "en-US,en;q=0.9",
-        })
-    return _page
+# ── Browser-impersonating session ───────────────────────────────────────────
+_session = cffi_requests.Session(impersonate="chrome")
 
 
-def fetch_page_html(url: str, wait_selector: str = None, retries: int = 3) -> str | None:
-    page = get_page()
+def fetch_page(url: str, retries: int = 3) -> str | None:
+    """Fetch a page using browser-impersonating TLS."""
     for attempt in range(retries):
         try:
-            page.goto(url, timeout=30000, wait_until="domcontentloaded")
-            if wait_selector:
-                try:
-                    page.wait_for_selector(wait_selector, timeout=10000)
-                except:
-                    pass
-            return page.content()
+            resp = _session.get(url, timeout=30)
+            if resp.status_code == 200:
+                return resp.text
+            if resp.status_code == 429:
+                wait = 10 * (attempt + 1)
+                print(f"    [RATE-LIMITED] Waiting {wait}s...")
+                time.sleep(wait)
+                continue
+            print(f"    [HTTP {resp.status_code}] attempt {attempt+1}/{retries}")
         except Exception as e:
-            print(f"    [Attempt {attempt+1}/{retries}] Browser error: {e}")
-            time.sleep(3 * (attempt + 1))
+            print(f"    [Error] attempt {attempt+1}/{retries}: {e}")
+        time.sleep(3 * (attempt + 1))
     return None
 
 
@@ -144,26 +133,38 @@ def get_ac_submissions() -> list[dict]:
 # ── Source code scraper ─────────────────────────────────────────────────────
 def scrape_source_code(contest_id: int, submission_id: int) -> str | None:
     url = f"https://codeforces.com/contest/{contest_id}/submission/{submission_id}"
-    html = fetch_page_html(url, wait_selector="#program-source-text")
+    html = fetch_page(url)
     if not html:
         return None
 
+    # Try <pre id="program-source-text">
     m = re.search(r'<pre\s+id="program-source-text"[^>]*>(.*?)</pre>', html, re.DOTALL)
+    if not m:
+        # Alternative: source might be in a different container
+        m = re.search(r'id="program-source-text"[^>]*>(.*?)</pre>', html, re.DOTALL)
     if m:
         code = m.group(1)
         code = code.replace("&lt;", "<").replace("&gt;", ">")
         code = code.replace("&amp;", "&").replace("&quot;", '"')
         code = code.replace("&#39;", "'").replace("&nbsp;", " ")
+        code = code.replace("&#x27;", "'")
         code = re.sub(r'<br\s*/?>', '\n', code)
         code = re.sub(r'<[^>]+>', '', code)
         return code.strip()
+
+    # Debug: check if we got a CF page or a Cloudflare block
+    if "Codeforces" in html and "source" not in html.lower():
+        print(f"    [DEBUG] Got CF page but no source code visible (login required?)")
+    elif "Cloudflare" in html or "cf-browser-verification" in html:
+        print(f"    [DEBUG] Cloudflare challenge page received")
+    
     return None
 
 
 # ── Problem page scraper ────────────────────────────────────────────────────
 def scrape_problem(contest_id: int, index: str) -> dict:
     url = f"https://codeforces.com/contest/{contest_id}/problem/{index}"
-    html = fetch_page_html(url, wait_selector=".problem-statement")
+    html = fetch_page(url)
     if not html:
         return {"statement": "", "inputs": [], "outputs": []}
 
@@ -337,7 +338,25 @@ def main():
     new_subs = [s for s in subs if str(s["id"]) not in tracked]
     print(f"New submissions to archive: {len(new_subs)}")
 
+    if not new_subs:
+        generate_index(subs)
+        print("Done.")
+        return
+
+    # Test scraping with first submission before committing to all 227
+    test_sub = new_subs[0]
+    test_cid = test_sub["problem"].get("contestId", 0)
+    test_sid = test_sub["id"]
+    print(f"\n  Testing scrape on submission {test_sid}...")
+    test_code = scrape_source_code(test_cid, test_sid)
+    if test_code:
+        print(f"  Scraping works! Got {len(test_code)} chars.\n")
+    else:
+        print(f"  Scraping test failed. Will attempt all but expect metadata-only fallback.\n")
+
     consecutive_failures = 0
+    code_success = 0
+    code_fail = 0
 
     for i, sub in enumerate(new_subs, 1):
         prob = sub["problem"]
@@ -347,37 +366,36 @@ def main():
         print(f"  [{i}/{len(new_subs)}] {cid}{idx} - {name}")
 
         # Scrape source code
-        print(f"    Fetching source code for submission {sub['id']}...")
         source_code = scrape_source_code(cid, sub["id"])
         if source_code:
-            print(f"    Got {len(source_code)} chars of source code.")
+            print(f"    Source: {len(source_code)} chars")
             consecutive_failures = 0
+            code_success += 1
         else:
-            print(f"    [WARN] Could not fetch source code.")
+            print(f"    Source: FAILED")
             consecutive_failures += 1
+            code_fail += 1
 
         time.sleep(REQUEST_DELAY)
 
         # Scrape problem page
-        print(f"    Fetching problem page...")
         scrape = scrape_problem(cid, idx)
         if scrape["statement"]:
             consecutive_failures = 0
-        else:
-            consecutive_failures += 1
 
         write_problem(sub, scrape, source_code)
         tracked.add(str(sub["id"]))
 
         if i % 10 == 0:
             save_tracker(tracked)
+            print(f"  --- Progress: {code_success} codes fetched, {code_fail} failed ---")
 
         if consecutive_failures >= MAX_SCRAPE_FAILURES:
-            print(f"\n  [ABORT] {MAX_SCRAPE_FAILURES} consecutive scrape failures.")
-            print(f"  Remaining problems archived with metadata only.")
+            print(f"\n  [ABORT] {MAX_SCRAPE_FAILURES} consecutive failures.")
+            print(f"  Remaining {len(new_subs) - i} problems: metadata only.")
             for j, sub2 in enumerate(new_subs[i:], i + 1):
                 p2 = sub2["problem"]
-                print(f"  [{j}/{len(new_subs)}] {p2.get('contestId',0)}{p2.get('index','')} - {p2.get('name','?')} (metadata only)")
+                print(f"  [{j}/{len(new_subs)}] {p2.get('contestId',0)}{p2.get('index','')} (metadata only)")
                 write_problem(sub2, {"statement": "", "inputs": [], "outputs": []}, None)
                 tracked.add(str(sub2["id"]))
             break
@@ -386,7 +404,7 @@ def main():
 
     save_tracker(tracked)
     generate_index(subs)
-    print("Done.")
+    print(f"\nDone. Source code: {code_success} success, {code_fail} failed.")
 
 
 if __name__ == "__main__":
