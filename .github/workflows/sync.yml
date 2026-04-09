@@ -2,9 +2,8 @@ name: Sync Codeforces Submissions
 
 on:
   schedule:
-    # Runs every 6 hours
     - cron: "0 */6 * * *"
-  workflow_dispatch: # Allow manual trigger
+  workflow_dispatch:
 
 permissions:
   contents: write
@@ -12,6 +11,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    timeout-minutes: 60
 
     steps:
       - name: Checkout repository
@@ -23,15 +23,14 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests
+        run: |
+          pip install requests playwright
+          playwright install chromium --with-deps
 
       - name: Run fetcher
         env:
           CF_HANDLE: PriyanshuIITGHY2006
           REPO_ROOT: "."
-          # Optional: uncomment and set as repo secrets for source code fetching
-          # CF_API_KEY: ${{ secrets.CF_API_KEY }}
-          # CF_API_SECRET: ${{ secrets.CF_API_SECRET }}
         run: python fetch.py
 
       - name: Commit and push
@@ -39,6 +38,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          # Only commit if there are changes
           git diff --staged --quiet || git commit -m "sync: archive new AC submissions [$(date -u +%Y-%m-%d)]"
           git push
