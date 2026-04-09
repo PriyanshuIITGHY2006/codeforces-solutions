@@ -6,7 +6,7 @@
 
 **Total Problems:** 252
 
-**With Source Code:** 23 / 252
+**With Source Code:** 24 / 252
 
 
 ## Problems
@@ -25,7 +25,7 @@
 | 2209C | [Find the Zero](problems/Unrated/2209C-Find-the-Zero) | ? | `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2209/problem/C) |
 | 2209B | [Array](problems/Unrated/2209B-Array) | ? | `greedy` | Yes | [CF](https://codeforces.com/contest/2209/problem/B) |
 | 2209A | [Flip Flops](problems/Unrated/2209A-Flip-Flops) | ? | `greedy` | Yes | [CF](https://codeforces.com/contest/2209/problem/A) |
-| 2210C1 | [A Simple GCD Problem (Easy Version)](problems/Unrated/2210C1-A-Simple-GCD-Problem-Easy-Version) | ? | `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2210/problem/C1) |
+| 2210C1 | [A Simple GCD Problem (Easy Version)](problems/Unrated/2210C1-A-Simple-GCD-Problem-Easy-Version) | ? | `greedy`, `number theory` | Yes | [CF](https://codeforces.com/contest/2210/problem/C1) |
 | 2211C1 | [Equal Multisets (Easy Version)](problems/Unrated/2211C1-Equal-Multisets-Easy-Version) | ? | `binary search`, `brute force`, `greedy`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2211/problem/C1) |
 | 2211B | [Mickey Mouse Constructive](problems/Unrated/2211B-Mickey-Mouse-Constructive) | ? | `constructive algorithms`, `dp`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/B) |
 | 2211A | [Antimedian Deletion](problems/Unrated/2211A-Antimedian-Deletion) | ? | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/A) |
