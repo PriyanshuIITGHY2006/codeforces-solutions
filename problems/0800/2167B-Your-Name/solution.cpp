@@ -1,5 +1,4 @@
 // Problem: 2167B - Your Name
-// Submission ID: 346749741
-// Link: https://codeforces.com/contest/2167/submission/346749741
+// Submission: https://codeforces.com/contest/2167/submission/346749741
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2167B.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 1237A - Balanced Rating Changes
-// Submission ID: 342511033
-// Link: https://codeforces.com/contest/1237/submission/342511033
+// Submission: https://codeforces.com/contest/1237/submission/342511033
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1237A.cpp into the solutions/ folder and push to add your code here.

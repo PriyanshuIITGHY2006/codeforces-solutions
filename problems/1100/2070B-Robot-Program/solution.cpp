@@ -1,5 +1,4 @@
 // Problem: 2070B - Robot Program
-// Submission ID: 339241648
-// Link: https://codeforces.com/contest/2070/submission/339241648
+// Submission: https://codeforces.com/contest/2070/submission/339241648
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2070B.cpp into the solutions/ folder and push to add your code here.

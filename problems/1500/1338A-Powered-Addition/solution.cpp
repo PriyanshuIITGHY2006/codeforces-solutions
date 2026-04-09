@@ -1,5 +1,4 @@
 // Problem: 1338A - Powered Addition
-// Submission ID: 368169536
-// Link: https://codeforces.com/contest/1338/submission/368169536
+// Submission: https://codeforces.com/contest/1338/submission/368169536
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1338A.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 662678C - Suzie, Do You Copy?
-// Submission ID: 357093199
-// Link: https://codeforces.com/contest/662678/submission/357093199
+// Submission: https://codeforces.com/contest/662678/submission/357093199
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 662678C.cpp into the solutions/ folder and push to add your code here.

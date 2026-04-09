@@ -1,5 +1,4 @@
 // Problem: 1362A - Johnny and Ancient Computer
-// Submission ID: 346417665
-// Link: https://codeforces.com/contest/1362/submission/346417665
+// Submission: https://codeforces.com/contest/1362/submission/346417665
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1362A.cpp into the solutions/ folder and push to add your code here.

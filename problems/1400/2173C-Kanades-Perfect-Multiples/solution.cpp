@@ -1,5 +1,4 @@
 // Problem: 2173C - Kanade's Perfect Multiples
-// Submission ID: 352173272
-// Link: https://codeforces.com/contest/2173/submission/352173272
+// Submission: https://codeforces.com/contest/2173/submission/352173272
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2173C.cpp into the solutions/ folder and push to add your code here.

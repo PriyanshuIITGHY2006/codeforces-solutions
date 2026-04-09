@@ -1,5 +1,4 @@
 // Problem: 680528F - Forgotten Player
-// Submission ID: 367789186
-// Link: https://codeforces.com/contest/680528/submission/367789186
+// Submission: https://codeforces.com/contest/680528/submission/367789186
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 680528F.cpp into the solutions/ folder and push to add your code here.

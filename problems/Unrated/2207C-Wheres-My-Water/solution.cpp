@@ -1,5 +1,4 @@
 // Problem: 2207C - Where's My Water?
-// Submission ID: 365976326
-// Link: https://codeforces.com/contest/2207/submission/365976326
+// Submission: https://codeforces.com/contest/2207/submission/365976326
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2207C.cpp into the solutions/ folder and push to add your code here.

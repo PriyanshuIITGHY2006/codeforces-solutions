@@ -1,5 +1,4 @@
 // Problem: 2140C - Ultimate Value
-// Submission ID: 367412720
-// Link: https://codeforces.com/contest/2140/submission/367412720
+// Submission: https://codeforces.com/contest/2140/submission/367412720
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2140C.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 662678D - The Hellfire Club !
-// Submission ID: 357101944
-// Link: https://codeforces.com/contest/662678/submission/357101944
+// Submission: https://codeforces.com/contest/662678/submission/357101944
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 662678D.cpp into the solutions/ folder and push to add your code here.

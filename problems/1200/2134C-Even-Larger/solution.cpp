@@ -1,5 +1,4 @@
 // Problem: 2134C - Even Larger
-// Submission ID: 340567712
-// Link: https://codeforces.com/contest/2134/submission/340567712
+// Submission: https://codeforces.com/contest/2134/submission/340567712
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2134C.cpp into the solutions/ folder and push to add your code here.

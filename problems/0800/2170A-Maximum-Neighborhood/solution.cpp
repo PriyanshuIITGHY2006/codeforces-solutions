@@ -1,5 +1,4 @@
 // Problem: 2170A - Maximum Neighborhood
-// Submission ID: 351003269
-// Link: https://codeforces.com/contest/2170/submission/351003269
+// Submission: https://codeforces.com/contest/2170/submission/351003269
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2170A.cpp into the solutions/ folder and push to add your code here.

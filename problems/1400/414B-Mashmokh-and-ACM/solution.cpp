@@ -1,5 +1,4 @@
 // Problem: 414B - Mashmokh and ACM
-// Submission ID: 352571763
-// Link: https://codeforces.com/contest/414/submission/352571763
+// Submission: https://codeforces.com/contest/414/submission/352571763
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 414B.cpp into the solutions/ folder and push to add your code here.

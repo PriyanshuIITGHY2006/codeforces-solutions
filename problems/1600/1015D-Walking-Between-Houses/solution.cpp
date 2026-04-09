@@ -1,5 +1,4 @@
 // Problem: 1015D - Walking Between Houses
-// Submission ID: 367306921
-// Link: https://codeforces.com/contest/1015/submission/367306921
+// Submission: https://codeforces.com/contest/1015/submission/367306921
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1015D.cpp into the solutions/ folder and push to add your code here.

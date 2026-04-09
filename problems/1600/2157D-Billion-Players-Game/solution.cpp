@@ -1,5 +1,4 @@
 // Problem: 2157D - Billion Players Game
-// Submission ID: 367282773
-// Link: https://codeforces.com/contest/2157/submission/367282773
+// Submission: https://codeforces.com/contest/2157/submission/367282773
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2157D.cpp into the solutions/ folder and push to add your code here.

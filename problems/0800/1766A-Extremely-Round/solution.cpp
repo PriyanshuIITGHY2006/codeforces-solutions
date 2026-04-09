@@ -1,5 +1,4 @@
 // Problem: 1766A - Extremely Round
-// Submission ID: 343630741
-// Link: https://codeforces.com/contest/1766/submission/343630741
+// Submission: https://codeforces.com/contest/1766/submission/343630741
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1766A.cpp into the solutions/ folder and push to add your code here.

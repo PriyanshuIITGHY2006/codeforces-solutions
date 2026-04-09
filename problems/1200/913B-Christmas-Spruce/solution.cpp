@@ -1,5 +1,4 @@
 // Problem: 913B - Christmas Spruce
-// Submission ID: 366284138
-// Link: https://codeforces.com/contest/913/submission/366284138
+// Submission: https://codeforces.com/contest/913/submission/366284138
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 913B.cpp into the solutions/ folder and push to add your code here.

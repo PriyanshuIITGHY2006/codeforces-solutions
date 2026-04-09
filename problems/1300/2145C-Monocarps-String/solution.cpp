@@ -1,5 +1,4 @@
 // Problem: 2145C - Monocarp's String
-// Submission ID: 342554765
-// Link: https://codeforces.com/contest/2145/submission/342554765
+// Submission: https://codeforces.com/contest/2145/submission/342554765
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2145C.cpp into the solutions/ folder and push to add your code here.

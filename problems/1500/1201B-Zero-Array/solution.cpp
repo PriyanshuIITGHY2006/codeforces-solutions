@@ -1,5 +1,4 @@
 // Problem: 1201B - Zero Array
-// Submission ID: 368303387
-// Link: https://codeforces.com/contest/1201/submission/368303387
+// Submission: https://codeforces.com/contest/1201/submission/368303387
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1201B.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 680528B - Bog the Frog
-// Submission ID: 367783460
-// Link: https://codeforces.com/contest/680528/submission/367783460
+// Submission: https://codeforces.com/contest/680528/submission/367783460
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 680528B.cpp into the solutions/ folder and push to add your code here.

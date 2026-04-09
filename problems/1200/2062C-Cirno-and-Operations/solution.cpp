@@ -1,5 +1,4 @@
 // Problem: 2062C - Cirno and Operations
-// Submission ID: 339188574
-// Link: https://codeforces.com/contest/2062/submission/339188574
+// Submission: https://codeforces.com/contest/2062/submission/339188574
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2062C.cpp into the solutions/ folder and push to add your code here.

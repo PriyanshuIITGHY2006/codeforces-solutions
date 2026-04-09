@@ -1,5 +1,4 @@
 // Problem: 2160A - MEX Partition
-// Submission ID: 343325141
-// Link: https://codeforces.com/contest/2160/submission/343325141
+// Submission: https://codeforces.com/contest/2160/submission/343325141
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2160A.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 2137E - Mexification
-// Submission ID: 343504419
-// Link: https://codeforces.com/contest/2137/submission/343504419
+// Submission: https://codeforces.com/contest/2137/submission/343504419
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2137E.cpp into the solutions/ folder and push to add your code here.

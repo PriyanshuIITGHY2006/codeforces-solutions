@@ -1,5 +1,4 @@
 // Problem: 678780A - Permutation Game
-// Submission ID: 367054347
-// Link: https://codeforces.com/contest/678780/submission/367054347
+// Submission: https://codeforces.com/contest/678780/submission/367054347
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 678780A.cpp into the solutions/ folder and push to add your code here.

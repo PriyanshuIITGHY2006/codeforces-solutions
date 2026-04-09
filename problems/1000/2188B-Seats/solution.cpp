@@ -1,5 +1,4 @@
 // Problem: 2188B - Seats
-// Submission ID: 360530936
-// Link: https://codeforces.com/contest/2188/submission/360530936
+// Submission: https://codeforces.com/contest/2188/submission/360530936
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2188B.cpp into the solutions/ folder and push to add your code here.

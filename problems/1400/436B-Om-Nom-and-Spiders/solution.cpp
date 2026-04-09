@@ -1,5 +1,4 @@
 // Problem: 436B - Om Nom and Spiders
-// Submission ID: 342825468
-// Link: https://codeforces.com/contest/436/submission/342825468
+// Submission: https://codeforces.com/contest/436/submission/342825468
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 436B.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 2131C - Make it Equal
-// Submission ID: 339840386
-// Link: https://codeforces.com/contest/2131/submission/339840386
+// Submission: https://codeforces.com/contest/2131/submission/339840386
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2131C.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 271B - Prime Matrix
-// Submission ID: 346871897
-// Link: https://codeforces.com/contest/271/submission/346871897
+// Submission: https://codeforces.com/contest/271/submission/346871897
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 271B.cpp into the solutions/ folder and push to add your code here.

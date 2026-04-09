@@ -1,5 +1,4 @@
 // Problem: 2037C - Superultra's Favorite Permutation
-// Submission ID: 340286299
-// Link: https://codeforces.com/contest/2037/submission/340286299
+// Submission: https://codeforces.com/contest/2037/submission/340286299
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2037C.cpp into the solutions/ folder and push to add your code here.

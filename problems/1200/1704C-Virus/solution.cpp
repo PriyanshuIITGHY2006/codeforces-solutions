@@ -1,5 +1,4 @@
 // Problem: 1704C - Virus
-// Submission ID: 351136722
-// Link: https://codeforces.com/contest/1704/submission/351136722
+// Submission: https://codeforces.com/contest/1704/submission/351136722
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1704C.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 683474A - Zeroes and Ones (Easy Version)
-// Submission ID: 369578412
-// Link: https://codeforces.com/contest/683474/submission/369578412
+// Submission: https://codeforces.com/contest/683474/submission/369578412
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 683474A.cpp into the solutions/ folder and push to add your code here.

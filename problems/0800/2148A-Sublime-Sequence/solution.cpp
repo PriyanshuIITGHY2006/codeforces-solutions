@@ -1,5 +1,4 @@
 // Problem: 2148A - Sublime Sequence
-// Submission ID: 339227040
-// Link: https://codeforces.com/contest/2148/submission/339227040
+// Submission: https://codeforces.com/contest/2148/submission/339227040
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2148A.cpp into the solutions/ folder and push to add your code here.

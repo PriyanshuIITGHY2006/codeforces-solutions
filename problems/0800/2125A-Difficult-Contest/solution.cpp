@@ -1,5 +1,4 @@
 // Problem: 2125A - Difficult Contest
-// Submission ID: 336952195
-// Link: https://codeforces.com/contest/2125/submission/336952195
+// Submission: https://codeforces.com/contest/2125/submission/336952195
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2125A.cpp into the solutions/ folder and push to add your code here.

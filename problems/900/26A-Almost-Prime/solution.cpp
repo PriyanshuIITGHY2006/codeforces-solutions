@@ -1,5 +1,4 @@
 // Problem: 26A - Almost Prime
-// Submission ID: 346777828
-// Link: https://codeforces.com/contest/26/submission/346777828
+// Submission: https://codeforces.com/contest/26/submission/346777828
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 26A.cpp into the solutions/ folder and push to add your code here.

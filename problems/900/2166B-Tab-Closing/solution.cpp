@@ -1,5 +1,4 @@
 // Problem: 2166B - Tab Closing
-// Submission ID: 353538147
-// Link: https://codeforces.com/contest/2166/submission/353538147
+// Submission: https://codeforces.com/contest/2166/submission/353538147
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2166B.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 2185F - BattleCows
-// Submission ID: 358650864
-// Link: https://codeforces.com/contest/2185/submission/358650864
+// Submission: https://codeforces.com/contest/2185/submission/358650864
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2185F.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 2202D - Recollect Numbers
-// Submission ID: 366898533
-// Link: https://codeforces.com/contest/2202/submission/366898533
+// Submission: https://codeforces.com/contest/2202/submission/366898533
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2202D.cpp into the solutions/ folder and push to add your code here.

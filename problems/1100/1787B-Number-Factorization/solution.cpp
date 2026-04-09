@@ -1,5 +1,4 @@
 // Problem: 1787B - Number Factorization
-// Submission ID: 352303897
-// Link: https://codeforces.com/contest/1787/submission/352303897
+// Submission: https://codeforces.com/contest/1787/submission/352303897
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1787B.cpp into the solutions/ folder and push to add your code here.

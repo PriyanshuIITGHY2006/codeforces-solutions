@@ -1,5 +1,4 @@
 // Problem: 2185D - OutOfMemoryError
-// Submission ID: 358647830
-// Link: https://codeforces.com/contest/2185/submission/358647830
+// Submission: https://codeforces.com/contest/2185/submission/358647830
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2185D.cpp into the solutions/ folder and push to add your code here.

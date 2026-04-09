@@ -1,5 +1,4 @@
 // Problem: 433B - Kuriyama Mirai's Stones
-// Submission ID: 342194518
-// Link: https://codeforces.com/contest/433/submission/342194518
+// Submission: https://codeforces.com/contest/433/submission/342194518
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 433B.cpp into the solutions/ folder and push to add your code here.

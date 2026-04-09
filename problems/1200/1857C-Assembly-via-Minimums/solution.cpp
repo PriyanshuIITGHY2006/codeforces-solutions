@@ -1,5 +1,4 @@
 // Problem: 1857C - Assembly via Minimums
-// Submission ID: 344535519
-// Link: https://codeforces.com/contest/1857/submission/344535519
+// Submission: https://codeforces.com/contest/1857/submission/344535519
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1857C.cpp into the solutions/ folder and push to add your code here.

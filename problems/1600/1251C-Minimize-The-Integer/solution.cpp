@@ -1,5 +1,4 @@
 // Problem: 1251C - Minimize The Integer
-// Submission ID: 356086701
-// Link: https://codeforces.com/contest/1251/submission/356086701
+// Submission: https://codeforces.com/contest/1251/submission/356086701
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1251C.cpp into the solutions/ folder and push to add your code here.

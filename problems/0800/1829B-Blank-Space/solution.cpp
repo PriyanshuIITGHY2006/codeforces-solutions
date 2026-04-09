@@ -1,5 +1,4 @@
 // Problem: 1829B - Blank Space
-// Submission ID: 343762342
-// Link: https://codeforces.com/contest/1829/submission/343762342
+// Submission: https://codeforces.com/contest/1829/submission/343762342
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1829B.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 1513C - Add One
-// Submission ID: 352758025
-// Link: https://codeforces.com/contest/1513/submission/352758025
+// Submission: https://codeforces.com/contest/1513/submission/352758025
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1513C.cpp into the solutions/ folder and push to add your code here.

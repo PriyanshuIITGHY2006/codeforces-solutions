@@ -1,5 +1,4 @@
 // Problem: 327C - Magic Five
-// Submission ID: 367274564
-// Link: https://codeforces.com/contest/327/submission/367274564
+// Submission: https://codeforces.com/contest/327/submission/367274564
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 327C.cpp into the solutions/ folder and push to add your code here.

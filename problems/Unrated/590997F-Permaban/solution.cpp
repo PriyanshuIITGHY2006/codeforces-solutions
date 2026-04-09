@@ -1,5 +1,4 @@
 // Problem: 590997F - Permaban
-// Submission ID: 366912572
-// Link: https://codeforces.com/contest/590997/submission/366912572
+// Submission: https://codeforces.com/contest/590997/submission/366912572
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 590997F.cpp into the solutions/ folder and push to add your code here.

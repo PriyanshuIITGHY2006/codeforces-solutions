@@ -1,5 +1,4 @@
 // Problem: 166E - Tetrahedron
-// Submission ID: 352680572
-// Link: https://codeforces.com/contest/166/submission/352680572
+// Submission: https://codeforces.com/contest/166/submission/352680572
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 166E.cpp into the solutions/ folder and push to add your code here.

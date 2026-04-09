@@ -1,5 +1,4 @@
 // Problem: 680528E - Echoing Remainder
-// Submission ID: 367771286
-// Link: https://codeforces.com/contest/680528/submission/367771286
+// Submission: https://codeforces.com/contest/680528/submission/367771286
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 680528E.cpp into the solutions/ folder and push to add your code here.

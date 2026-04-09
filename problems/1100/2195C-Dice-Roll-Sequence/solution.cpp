@@ -1,5 +1,4 @@
 // Problem: 2195C - Dice Roll Sequence
-// Submission ID: 363267935
-// Link: https://codeforces.com/contest/2195/submission/363267935
+// Submission: https://codeforces.com/contest/2195/submission/363267935
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 2195C.cpp into the solutions/ folder and push to add your code here.

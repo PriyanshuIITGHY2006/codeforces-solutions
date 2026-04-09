@@ -1,5 +1,4 @@
 // Problem: 960B - Minimize the error
-// Submission ID: 354852349
-// Link: https://codeforces.com/contest/960/submission/354852349
+// Submission: https://codeforces.com/contest/960/submission/354852349
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 960B.cpp into the solutions/ folder and push to add your code here.

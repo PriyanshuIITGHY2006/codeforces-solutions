@@ -1,5 +1,4 @@
 // Problem: 1143C - Queen
-// Submission ID: 366425520
-// Link: https://codeforces.com/contest/1143/submission/366425520
+// Submission: https://codeforces.com/contest/1143/submission/366425520
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1143C.cpp into the solutions/ folder and push to add your code here.

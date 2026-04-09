@@ -1,5 +1,4 @@
 // Problem: 1859A - United We Stand
-// Submission ID: 366269811
-// Link: https://codeforces.com/contest/1859/submission/366269811
+// Submission: https://codeforces.com/contest/1859/submission/366269811
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1859A.cpp into the solutions/ folder and push to add your code here.

@@ -1,5 +1,4 @@
 // Problem: 1814A - Coins
-// Submission ID: 343707446
-// Link: https://codeforces.com/contest/1814/submission/343707446
+// Submission: https://codeforces.com/contest/1814/submission/343707446
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1814A.cpp into the solutions/ folder and push to add your code here.

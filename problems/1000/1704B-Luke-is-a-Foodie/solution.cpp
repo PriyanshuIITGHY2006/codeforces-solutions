@@ -1,5 +1,4 @@
 // Problem: 1704B - Luke is a Foodie
-// Submission ID: 345950487
-// Link: https://codeforces.com/contest/1704/submission/345950487
+// Submission: https://codeforces.com/contest/1704/submission/345950487
 //
-// Source code could not be fetched. Visit the link above.
+// Drop 1704B.cpp into the solutions/ folder and push to add your code here.
