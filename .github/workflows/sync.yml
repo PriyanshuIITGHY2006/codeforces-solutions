@@ -23,14 +23,14 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: |
-          pip install requests playwright
-          playwright install chromium --with-deps
+        run: pip install requests curl_cffi
 
       - name: Run fetcher
         env:
           CF_HANDLE: PriyanshuIITGHY2006
           REPO_ROOT: "."
+          CF_API_KEY: ${{ secrets.CF_API_KEY }}
+          CF_API_SECRET: ${{ secrets.CF_API_SECRET }}
         run: python fetch.py
 
       - name: Commit and push
