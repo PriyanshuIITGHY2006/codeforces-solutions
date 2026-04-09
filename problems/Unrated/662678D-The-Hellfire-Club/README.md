@@ -1,0 +1,13 @@
+# 662678D - The Hellfire Club !
+
+**Contest:** [662678](https://codeforces.com/contest/662678)
+
+**Problem:** [D](https://codeforces.com/contest/662678/problem/D)
+
+**Rating:** Unrated
+
+**Tags:** None
+
+**Language:** C++23 (GCC 14-64, msys2)
+
+**Submission:** [Link](https://codeforces.com/contest/662678/submission/357101944)
