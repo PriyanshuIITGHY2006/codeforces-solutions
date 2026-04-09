@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 252
+**Total Problems:** 253
 
-**With Source Code:** 24 / 252
+**With Source Code:** 24 / 253
 
 
 ## Problems
@@ -29,6 +29,7 @@
 | 2211C1 | [Equal Multisets (Easy Version)](problems/Unrated/2211C1-Equal-Multisets-Easy-Version) | ? | `binary search`, `brute force`, `greedy`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2211/problem/C1) |
 | 2211B | [Mickey Mouse Constructive](problems/Unrated/2211B-Mickey-Mouse-Constructive) | ? | `constructive algorithms`, `dp`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/B) |
 | 2211A | [Antimedian Deletion](problems/Unrated/2211A-Antimedian-Deletion) | ? | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/A) |
+| 2217C | [Grid Covering](problems/Unrated/2217C-Grid-Covering) | ? | `chinese remainder theorem`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2217/problem/C) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | - | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | - | [CF](https://codeforces.com/contest/590997/problem/F) |
@@ -270,12 +271,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `math` | 110 |
+| `math` | 111 |
 | `greedy` | 106 |
 | `implementation` | 66 |
 | `constructive algorithms` | 41 |
+| `number theory` | 39 |
 | `sortings` | 39 |
-| `number theory` | 38 |
 | `brute force` | 38 |
 | `dp` | 29 |
 | `binary search` | 22 |
@@ -294,6 +295,7 @@
 | `divide and conquer` | 2 |
 | `schedules` | 2 |
 | `matrices` | 2 |
+| `chinese remainder theorem` | 1 |
 | `ternary search` | 1 |
 | `expression parsing` | 1 |
 | `dsu` | 1 |
@@ -318,4 +320,4 @@
 | 2200 | 1 |
 | 2400 | 1 |
 | 900 | 6 |
-| Unrated | 31 |
+| Unrated | 32 |
