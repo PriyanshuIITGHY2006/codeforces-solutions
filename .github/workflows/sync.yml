@@ -1,6 +1,9 @@
 name: Sync Codeforces Submissions
 
 on:
+  push:
+    paths:
+      - 'solutions/**'
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
@@ -11,7 +14,7 @@ permissions:
 jobs:
   sync:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    timeout-minutes: 10
 
     steps:
       - name: Checkout repository
@@ -23,9 +26,9 @@ jobs:
           python-version: "3.12"
 
       - name: Install dependencies
-        run: pip install requests curl_cffi
+        run: pip install requests
 
-      - name: Run fetcher
+      - name: Run organizer
         env:
           CF_HANDLE: PriyanshuIITGHY2006
           REPO_ROOT: "."
@@ -38,5 +41,5 @@ jobs:
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add -A
-          git diff --staged --quiet || git commit -m "sync: archive new AC submissions [$(date -u +%Y-%m-%d)]"
+          git diff --staged --quiet || git commit -m "sync: update archive [$(date -u +%Y-%m-%d)]"
           git push
