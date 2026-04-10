@@ -6,7 +6,7 @@
 
 **Total Problems:** 254
 
-**With Source Code:** 25 / 254
+**With Source Code:** 26 / 254
 
 
 ## Problems
@@ -29,7 +29,7 @@
 | 2211C1 | [Equal Multisets (Easy Version)](problems/Unrated/2211C1-Equal-Multisets-Easy-Version) | ? | `binary search`, `brute force`, `greedy`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2211/problem/C1) |
 | 2211B | [Mickey Mouse Constructive](problems/Unrated/2211B-Mickey-Mouse-Constructive) | ? | `constructive algorithms`, `dp`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/B) |
 | 2211A | [Antimedian Deletion](problems/Unrated/2211A-Antimedian-Deletion) | ? | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/A) |
-| 2217B | [Flip the Bit (Easy Version)](problems/Unrated/2217B-Flip-the-Bit-Easy-Version) | ? | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2217/problem/B) |
+| 2217B | [Flip the Bit (Easy Version)](problems/Unrated/2217B-Flip-the-Bit-Easy-Version) | ? | `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2217/problem/B) |
 | 2217C | [Grid Covering](problems/Unrated/2217C-Grid-Covering) | ? | `chinese remainder theorem`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2217/problem/C) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | - | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
