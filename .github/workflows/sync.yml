@@ -38,8 +38,8 @@ jobs:
 
       - name: Commit and push
         run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git config user.name "PriyanshuIITGHY2006"
+          git config user.email "priyanshuib01@gmail.com"
           git add -A
           git diff --staged --quiet || git commit -m "sync: update archive [$(date -u +%Y-%m-%d)]"
           git push
