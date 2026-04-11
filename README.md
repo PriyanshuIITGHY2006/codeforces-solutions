@@ -6,7 +6,7 @@
 
 **Total Problems:** 256
 
-**With Source Code:** 27 / 256
+**With Source Code:** 28 / 256
 
 
 ## Problems
@@ -97,7 +97,7 @@
 | 2193B | [Reverse a Permutation](problems/0800/2193B-Reverse-a-Permutation) | 800 | `greedy` | - | [CF](https://codeforces.com/contest/2193/problem/B) |
 | 2195A | [Sieve of Erato67henes](problems/0800/2195A-Sieve-of-Erato67henes) | 800 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2195/problem/A) |
 | 2197A | [Friendly Numbers](problems/0800/2197A-Friendly-Numbers) | 800 | `binary search`, `brute force`, `expression parsing`, `math`, `schedules` | - | [CF](https://codeforces.com/contest/2197/problem/A) |
-| 2202A | [Parkour Design](problems/0800/2202A-Parkour-Design) | 800 | `math` | - | [CF](https://codeforces.com/contest/2202/problem/A) |
+| 2202A | [Parkour Design](problems/0800/2202A-Parkour-Design) | 800 | `math` | Yes | [CF](https://codeforces.com/contest/2202/problem/A) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
