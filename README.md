@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 256
+**Total Problems:** 257
 
-**With Source Code:** 28 / 256
+**With Source Code:** 28 / 257
 
 
 ## Problems
@@ -31,6 +31,7 @@
 | 2211A | [Antimedian Deletion](problems/Unrated/2211A-Antimedian-Deletion) | ? | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/A) |
 | 2217B | [Flip the Bit (Easy Version)](problems/Unrated/2217B-Flip-the-Bit-Easy-Version) | ? | `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2217/problem/B) |
 | 2217C | [Grid Covering](problems/Unrated/2217C-Grid-Covering) | ? | `chinese remainder theorem`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2217/problem/C) |
+| 2218E | [The 67th XOR Problem](problems/Unrated/2218E-The-67th-XOR-Problem) | ? | `binary search`, `bitmasks`, `brute force` | - | [CF](https://codeforces.com/contest/2218/problem/E) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | - | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | - | [CF](https://codeforces.com/contest/590997/problem/F) |
@@ -278,17 +279,17 @@
 | `greedy` | 108 |
 | `implementation` | 68 |
 | `constructive algorithms` | 41 |
-| `brute force` | 39 |
+| `brute force` | 40 |
 | `number theory` | 39 |
 | `sortings` | 39 |
 | `dp` | 29 |
-| `binary search` | 22 |
+| `binary search` | 23 |
 | `two pointers` | 21 |
 | `data structures` | 18 |
 | `strings` | 13 |
 | `combinatorics` | 13 |
+| `bitmasks` | 9 |
 | `games` | 8 |
-| `bitmasks` | 8 |
 | `geometry` | 4 |
 | `dfs and similar` | 4 |
 | `trees` | 4 |
@@ -323,4 +324,4 @@
 | 2200 | 1 |
 | 2400 | 1 |
 | 900 | 6 |
-| Unrated | 33 |
+| Unrated | 34 |
