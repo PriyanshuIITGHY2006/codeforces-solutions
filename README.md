@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 258
+**Total Problems:** 259
 
-**With Source Code:** 30 / 258
+**With Source Code:** 30 / 259
 
 
 ## Problems
@@ -263,6 +263,7 @@
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
+| 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | - | [CF](https://codeforces.com/contest/2132/problem/E) |
 | 2185F | [BattleCows](problems/1700/2185F-BattleCows) | 1700 | `data structures`, `divide and conquer`, `implementation` | - | [CF](https://codeforces.com/contest/2185/problem/F) |
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
@@ -277,16 +278,16 @@
 | Tag | Count |
 |-----|-------|
 | `math` | 113 |
-| `greedy` | 108 |
+| `greedy` | 109 |
 | `implementation` | 69 |
 | `constructive algorithms` | 41 |
+| `sortings` | 40 |
 | `brute force` | 40 |
 | `number theory` | 39 |
-| `sortings` | 39 |
 | `dp` | 30 |
-| `binary search` | 24 |
+| `binary search` | 25 |
 | `two pointers` | 21 |
-| `data structures` | 18 |
+| `data structures` | 19 |
 | `strings` | 13 |
 | `combinatorics` | 13 |
 | `bitmasks` | 9 |
@@ -296,12 +297,12 @@
 | `trees` | 4 |
 | `graphs` | 4 |
 | `shortest paths` | 3 |
+| `ternary search` | 2 |
 | `interactive` | 2 |
 | `divide and conquer` | 2 |
 | `schedules` | 2 |
 | `matrices` | 2 |
 | `chinese remainder theorem` | 1 |
-| `ternary search` | 1 |
 | `expression parsing` | 1 |
 | `dsu` | 1 |
 | `probabilities` | 1 |
@@ -319,7 +320,7 @@
 | 1400 | 23 |
 | 1500 | 22 |
 | 1600 | 16 |
-| 1700 | 8 |
+| 1700 | 9 |
 | 1800 | 2 |
 | 1900 | 2 |
 | 2200 | 1 |
