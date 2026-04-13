@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 260
+**Total Problems:** 261
 
-**With Source Code:** 32 / 260
+**With Source Code:** 32 / 261
 
 
 ## Problems
@@ -249,6 +249,7 @@
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
 | 1633D | [Make Them Equal](problems/1600/1633D-Make-Them-Equal) | 1600 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1633/problem/D) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
+| 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2065/problem/E) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
 | 2157D | [Billion Players Game](problems/1600/2157D-Billion-Players-Game) | 1600 | `binary search`, `greedy`, `math`, `sortings`, `ternary search`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2157/problem/D) |
 | 2167G | [Mukhammadali and the Smooth Array](problems/1600/2167G-Mukhammadali-and-the-Smooth-Array) | 1600 | `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/2167/problem/G) |
@@ -279,9 +280,9 @@
 | Tag | Count |
 |-----|-------|
 | `math` | 113 |
-| `greedy` | 109 |
+| `greedy` | 110 |
 | `implementation` | 69 |
-| `constructive algorithms` | 42 |
+| `constructive algorithms` | 43 |
 | `number theory` | 40 |
 | `sortings` | 40 |
 | `brute force` | 40 |
@@ -289,7 +290,7 @@
 | `binary search` | 25 |
 | `two pointers` | 21 |
 | `data structures` | 19 |
-| `strings` | 13 |
+| `strings` | 14 |
 | `combinatorics` | 13 |
 | `bitmasks` | 9 |
 | `games` | 8 |
@@ -320,7 +321,7 @@
 | 1300 | 15 |
 | 1400 | 23 |
 | 1500 | 22 |
-| 1600 | 16 |
+| 1600 | 17 |
 | 1700 | 10 |
 | 1800 | 2 |
 | 1900 | 2 |
