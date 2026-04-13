@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 259
+**Total Problems:** 260
 
-**With Source Code:** 31 / 259
+**With Source Code:** 31 / 260
 
 
 ## Problems
@@ -263,6 +263,7 @@
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
+| 2123F | [Minimize Fixed Points](problems/1700/2123F-Minimize-Fixed-Points) | 1700 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/2123/problem/F) |
 | 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2132/problem/E) |
 | 2185F | [BattleCows](problems/1700/2185F-BattleCows) | 1700 | `data structures`, `divide and conquer`, `implementation` | - | [CF](https://codeforces.com/contest/2185/problem/F) |
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
@@ -280,10 +281,10 @@
 | `math` | 113 |
 | `greedy` | 109 |
 | `implementation` | 69 |
-| `constructive algorithms` | 41 |
+| `constructive algorithms` | 42 |
+| `number theory` | 40 |
 | `sortings` | 40 |
 | `brute force` | 40 |
-| `number theory` | 39 |
 | `dp` | 30 |
 | `binary search` | 25 |
 | `two pointers` | 21 |
@@ -320,7 +321,7 @@
 | 1400 | 23 |
 | 1500 | 22 |
 | 1600 | 16 |
-| 1700 | 9 |
+| 1700 | 10 |
 | 1800 | 2 |
 | 1900 | 2 |
 | 2200 | 1 |
