@@ -6,7 +6,7 @@
 
 **Total Problems:** 261
 
-**With Source Code:** 32 / 261
+**With Source Code:** 33 / 261
 
 
 ## Problems
@@ -249,7 +249,7 @@
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
 | 1633D | [Make Them Equal](problems/1600/1633D-Make-Them-Equal) | 1600 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1633/problem/D) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
-| 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2065/problem/E) |
+| 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2065/problem/E) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
 | 2157D | [Billion Players Game](problems/1600/2157D-Billion-Players-Game) | 1600 | `binary search`, `greedy`, `math`, `sortings`, `ternary search`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2157/problem/D) |
 | 2167G | [Mukhammadali and the Smooth Array](problems/1600/2167G-Mukhammadali-and-the-Smooth-Array) | 1600 | `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/2167/problem/G) |
