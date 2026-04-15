@@ -6,7 +6,7 @@
 
 **Total Problems:** 262
 
-**With Source Code:** 33 / 262
+**With Source Code:** 34 / 262
 
 
 ## Problems
@@ -231,7 +231,7 @@
 | 1338A | [Powered Addition](problems/1500/1338A-Powered-Addition) | 1500 | `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1338/problem/A) |
 | 1418C | [Mortal Kombat Tower](problems/1500/1418C-Mortal-Kombat-Tower) | 1500 | `dp`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1418/problem/C) |
 | 1486B | [Eastern Exhibition](problems/1500/1486B-Eastern-Exhibition) | 1500 | `binary search`, `geometry`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/1486/problem/B) |
-| 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2050/problem/E) |
+| 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
 | 2140C | [Ultimate Value](problems/1500/2140C-Ultimate-Value) | 1500 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2140/problem/C) |
 | 2155C | [The Ancient Wizards' Capes](problems/1500/2155C-The-Ancient-Wizards-Capes) | 1500 | `brute force`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2155/problem/C) |
