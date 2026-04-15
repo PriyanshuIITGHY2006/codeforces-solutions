@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 262
+**Total Problems:** 263
 
-**With Source Code:** 34 / 262
+**With Source Code:** 34 / 263
 
 
 ## Problems
@@ -202,6 +202,7 @@
 | 1143C | [Queen](problems/1400/1143C-Queen) | 1400 | `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/1143/problem/C) |
 | 1183D | [Candy Box (easy version)](problems/1400/1183D-Candy-Box-easy-version) | 1400 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1183/problem/D) |
 | 1200C | [Round Corridor](problems/1400/1200C-Round-Corridor) | 1400 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1200/problem/C) |
+| 1201C | [Maximum Median](problems/1400/1201C-Maximum-Median) | 1400 | `binary search`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/1201/problem/C) |
 | 1285C | [Fadi and LCM](problems/1400/1285C-Fadi-and-LCM) | 1400 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1285/problem/C) |
 | 1330B | [Dreamoon Likes Permutations](problems/1400/1330B-Dreamoon-Likes-Permutations) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1330/problem/B) |
 | 1350B | [Orac and Models](problems/1400/1350B-Orac-and-Models) | 1400 | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1350/problem/B) |
@@ -280,15 +281,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `math` | 113 |
-| `greedy` | 110 |
+| `math` | 114 |
+| `greedy` | 111 |
 | `implementation` | 70 |
 | `constructive algorithms` | 43 |
+| `sortings` | 41 |
 | `number theory` | 40 |
-| `sortings` | 40 |
 | `brute force` | 40 |
 | `dp` | 31 |
-| `binary search` | 25 |
+| `binary search` | 26 |
 | `two pointers` | 21 |
 | `data structures` | 19 |
 | `strings` | 15 |
@@ -320,7 +321,7 @@
 | 1100 | 16 |
 | 1200 | 33 |
 | 1300 | 19 |
-| 1400 | 24 |
+| 1400 | 25 |
 | 1500 | 24 |
 | 1600 | 19 |
 | 1700 | 10 |
