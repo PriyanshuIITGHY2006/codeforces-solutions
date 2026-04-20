@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 264
+**Total Problems:** 266
 
-**With Source Code:** 35 / 264
+**With Source Code:** 35 / 266
 
 
 ## Problems
@@ -179,6 +179,7 @@
 | 1851D | [Prefix Permutation Sums](problems/1300/1851D-Prefix-Permutation-Sums) | 1300 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1851/problem/D) |
 | 1873F | [Money Trees](problems/1300/1873F-Money-Trees) | 1300 | `binary search`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/1873/problem/F) |
 | 1881D | [Divide and Equalize](problems/1300/1881D-Divide-and-Equalize) | 1300 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1881/problem/D) |
+| 1900C | [Anji's Binary Tree](problems/1300/1900C-Anjis-Binary-Tree) | 1300 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/1900/problem/C) |
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
 | 2145C | [Monocarp's String](problems/1300/2145C-Monocarps-String) | 1300 | `binary search`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2145/problem/C) |
 | 2152B | [Catching the Krug](problems/1300/2152B-Catching-the-Krug) | 1300 | `games` | - | [CF](https://codeforces.com/contest/2152/problem/B) |
@@ -262,6 +263,7 @@
 | 660722E | [Obsessed gardener](problems/1600/660722E-Obsessed-gardener) | 1600 |  | - | [CF](https://codeforces.com/contest/660722/problem/E) |
 | 176B | [Word Cut](problems/1700/176B-Word-Cut) | 1700 | `dp` | - | [CF](https://codeforces.com/contest/176/problem/B) |
 | 327C | [Magic Five](problems/1700/327C-Magic-Five) | 1700 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/327/problem/C) |
+| 474D | [Flowers](problems/1700/474D-Flowers) | 1700 | `dp` | - | [CF](https://codeforces.com/contest/474/problem/D) |
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
@@ -289,7 +291,7 @@
 | `number theory` | 41 |
 | `sortings` | 41 |
 | `brute force` | 40 |
-| `dp` | 32 |
+| `dp` | 34 |
 | `binary search` | 26 |
 | `two pointers` | 21 |
 | `data structures` | 19 |
@@ -297,9 +299,9 @@
 | `combinatorics` | 13 |
 | `bitmasks` | 9 |
 | `games` | 8 |
+| `dfs and similar` | 5 |
+| `trees` | 5 |
 | `geometry` | 4 |
-| `dfs and similar` | 4 |
-| `trees` | 4 |
 | `graphs` | 4 |
 | `shortest paths` | 3 |
 | `ternary search` | 2 |
@@ -321,11 +323,11 @@
 | 1000 | 29 |
 | 1100 | 16 |
 | 1200 | 33 |
-| 1300 | 19 |
+| 1300 | 20 |
 | 1400 | 25 |
 | 1500 | 24 |
 | 1600 | 19 |
-| 1700 | 10 |
+| 1700 | 11 |
 | 1800 | 3 |
 | 1900 | 2 |
 | 2200 | 1 |
