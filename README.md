@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 267
+**Total Problems:** 270
 
-**With Source Code:** 37 / 267
+**With Source Code:** 37 / 270
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | - | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | - | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | - | [CF](https://codeforces.com/contest/590997/problem/F) |
@@ -244,6 +245,8 @@
 | 2185E | [The Robotic Rush](problems/1500/2185E-The-Robotic-Rush) | 1500 | `binary search`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2185/problem/E) |
 | 2200E | [Divisive Battle](problems/1500/2200E-Divisive-Battle) | 1500 | `games`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2200/problem/E) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
+| 763A | [Timofey and a tree](problems/1600/763A-Timofey-and-a-tree) | 1600 | `dfs and similar`, `dp`, `dsu`, `graphs`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/763/problem/A) |
+| 979C | [Kuro and Walking Route](problems/1600/979C-Kuro-and-Walking-Route) | 1600 | `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/979/problem/C) |
 | 1015D | [Walking Between Houses](problems/1600/1015D-Walking-Between-Houses) | 1600 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1015/problem/D) |
 | 1251C | [Minimize The Integer](problems/1600/1251C-Minimize-The-Integer) | 1600 | `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/1251/problem/C) |
 | 1349A | [Orac and LCM](problems/1600/1349A-Orac-and-LCM) | 1600 | `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1349/problem/A) |
@@ -287,24 +290,25 @@
 |-----|-------|
 | `math` | 114 |
 | `greedy` | 112 |
-| `implementation` | 71 |
+| `implementation` | 72 |
 | `constructive algorithms` | 44 |
 | `number theory` | 41 |
 | `sortings` | 41 |
 | `brute force` | 40 |
-| `dp` | 34 |
+| `dp` | 35 |
 | `binary search` | 26 |
 | `two pointers` | 21 |
 | `data structures` | 19 |
 | `strings` | 15 |
 | `combinatorics` | 13 |
 | `bitmasks` | 9 |
+| `trees` | 8 |
 | `games` | 8 |
-| `trees` | 6 |
-| `dfs and similar` | 5 |
+| `dfs and similar` | 7 |
+| `graphs` | 5 |
 | `geometry` | 4 |
-| `graphs` | 4 |
 | `shortest paths` | 3 |
+| `dsu` | 2 |
 | `ternary search` | 2 |
 | `interactive` | 2 |
 | `divide and conquer` | 2 |
@@ -312,7 +316,6 @@
 | `matrices` | 2 |
 | `chinese remainder theorem` | 1 |
 | `expression parsing` | 1 |
-| `dsu` | 1 |
 | `probabilities` | 1 |
 | `hashing` | 1 |
 
@@ -327,11 +330,11 @@
 | 1300 | 20 |
 | 1400 | 26 |
 | 1500 | 24 |
-| 1600 | 19 |
+| 1600 | 21 |
 | 1700 | 11 |
 | 1800 | 3 |
 | 1900 | 2 |
 | 2200 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 15 |
+| Unrated | 16 |
