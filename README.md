@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 266
+**Total Problems:** 267
 
-**With Source Code:** 37 / 266
+**With Source Code:** 37 / 267
 
 
 ## Problems
@@ -200,6 +200,7 @@
 | 436B | [Om Nom and Spiders](problems/1400/436B-Om-Nom-and-Spiders) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/436/problem/B) |
 | 703B | [Mishka and trip](problems/1400/703B-Mishka-and-trip) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/703/problem/B) |
 | 816B | [Karen and Coffee](problems/1400/816B-Karen-and-Coffee) | 1400 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/816/problem/B) |
+| 981C | [Useful Decomposition](problems/1400/981C-Useful-Decomposition) | 1400 | `implementation`, `trees` | - | [CF](https://codeforces.com/contest/981/problem/C) |
 | 1110B | [Tape](problems/1400/1110B-Tape) | 1400 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1110/problem/B) |
 | 1143C | [Queen](problems/1400/1143C-Queen) | 1400 | `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/1143/problem/C) |
 | 1183D | [Candy Box (easy version)](problems/1400/1183D-Candy-Box-easy-version) | 1400 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1183/problem/D) |
@@ -286,7 +287,7 @@
 |-----|-------|
 | `math` | 114 |
 | `greedy` | 112 |
-| `implementation` | 70 |
+| `implementation` | 71 |
 | `constructive algorithms` | 44 |
 | `number theory` | 41 |
 | `sortings` | 41 |
@@ -299,8 +300,8 @@
 | `combinatorics` | 13 |
 | `bitmasks` | 9 |
 | `games` | 8 |
+| `trees` | 6 |
 | `dfs and similar` | 5 |
-| `trees` | 5 |
 | `geometry` | 4 |
 | `graphs` | 4 |
 | `shortest paths` | 3 |
@@ -324,7 +325,7 @@
 | 1100 | 16 |
 | 1200 | 33 |
 | 1300 | 20 |
-| 1400 | 25 |
+| 1400 | 26 |
 | 1500 | 24 |
 | 1600 | 19 |
 | 1700 | 11 |
