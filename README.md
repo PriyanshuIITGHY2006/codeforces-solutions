@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 270
+**Total Problems:** 271
 
-**With Source Code:** 37 / 270
+**With Source Code:** 37 / 271
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2225C | [Red-Black Pairs](problems/Unrated/2225C-Red-Black-Pairs) | ? | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2225/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | - | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | - | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -289,13 +290,13 @@
 | Tag | Count |
 |-----|-------|
 | `math` | 114 |
-| `greedy` | 112 |
+| `greedy` | 113 |
 | `implementation` | 72 |
 | `constructive algorithms` | 44 |
 | `number theory` | 41 |
 | `sortings` | 41 |
 | `brute force` | 40 |
-| `dp` | 35 |
+| `dp` | 36 |
 | `binary search` | 26 |
 | `two pointers` | 21 |
 | `data structures` | 19 |
@@ -337,4 +338,4 @@
 | 2200 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 16 |
+| Unrated | 17 |
