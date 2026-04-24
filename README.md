@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 273
+**Total Problems:** 274
 
-**With Source Code:** 37 / 273
+**With Source Code:** 37 / 274
 
 
 ## Problems
@@ -117,6 +117,7 @@
 | 1876A | [Helmets in Night Light](problems/1000/1876A-Helmets-in-Night-Light) | 1000 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1876/problem/A) |
 | 1913B | [Swap and Delete](problems/1000/1913B-Swap-and-Delete) | 1000 | `strings` | - | [CF](https://codeforces.com/contest/1913/problem/B) |
 | 2037C | [Superultra's Favorite Permutation](problems/1000/2037C-Superultras-Favorite-Permutation) | 1000 | `constructive algorithms`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2037/problem/C) |
+| 2090B | [Pushing Balls](problems/1000/2090B-Pushing-Balls) | 1000 | `brute force`, `dp`, `implementation` | - | [CF](https://codeforces.com/contest/2090/problem/B) |
 | 2092B | [Lady Bug](problems/1000/2092B-Lady-Bug) | 1000 | `brute force`, `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2092/problem/B) |
 | 2093C | [Simple Repetition](problems/1000/2093C-Simple-Repetition) | 1000 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2093/problem/C) |
 | 2145B | [Deck of Cards](problems/1000/2145B-Deck-of-Cards) | 1000 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2145/problem/B) |
@@ -293,12 +294,12 @@
 |-----|-------|
 | `math` | 114 |
 | `greedy` | 113 |
-| `implementation` | 72 |
+| `implementation` | 73 |
 | `constructive algorithms` | 44 |
 | `sortings` | 42 |
+| `brute force` | 41 |
 | `number theory` | 41 |
-| `brute force` | 40 |
-| `dp` | 36 |
+| `dp` | 37 |
 | `binary search` | 26 |
 | `two pointers` | 21 |
 | `data structures` | 19 |
@@ -327,7 +328,7 @@
 | Rating | Count |
 |--------|-------|
 | 0800 | 60 |
-| 1000 | 29 |
+| 1000 | 30 |
 | 1100 | 16 |
 | 1200 | 33 |
 | 1300 | 21 |
