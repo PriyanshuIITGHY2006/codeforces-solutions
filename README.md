@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 272
+**Total Problems:** 273
 
-**With Source Code:** 37 / 272
+**With Source Code:** 37 / 273
 
 
 ## Problems
@@ -18,6 +18,7 @@
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | - | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | - | [CF](https://codeforces.com/contest/590997/problem/F) |
+| 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
 | 660580A | [OR and Recruitment](problems/Unrated/660580A-OR-and-Recruitment) | ? |  | - | [CF](https://codeforces.com/contest/660580/problem/A) |
 | 662678D | [The Hellfire Club !](problems/Unrated/662678D-The-Hellfire-Club) | ? |  | - | [CF](https://codeforces.com/contest/662678/problem/D) |
 | 662678C | [Suzie, Do You Copy?](problems/Unrated/662678C-Suzie-Do-You-Copy) | ? |  | - | [CF](https://codeforces.com/contest/662678/problem/C) |
@@ -339,4 +340,4 @@
 | 2200 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 17 |
+| Unrated | 18 |
