@@ -71,56 +71,60 @@ const ld  PI   = acos((ld)-1);
 #define popcnt(x)  __builtin_popcountll(x)
 #define lsb(x)     ((x) & -(x))
 #define nl cout << "\n"
-#define rv(v)        for (auto& _x : (v)) cin >> _x;
-#define pv(v)        { for (int _i=0;_i<sz(v);_i++) cout<<(v)[_i]<<" \n"[_i+1==sz(v)]; }
-#define pvn(v)       for (auto& _x : (v)) cout << _x << "\n"
-#define pv2(vv)      for (auto& _r:(vv)){ for(int _i=0;_i<sz(_r);_i++) cout<<_r[_i]<<" \n"[_i+1==sz(_r)]; }
-#define rv2(vv,r,c)  { (vv).assign((r),decltype((vv)[0])(c)); for(auto& _r:(vv)) for(auto& _x:_r) cin>>_x; }
-template<typename T> vi  mkv (int n, T v=0)         { return vi(n, v); }
-template<typename T> vector<T> mkvt(int n, T v={})  { return vector<T>(n, v); }
-template<typename T> vector<vector<T>> mkv2(int r, int c, T v={}) { return vector<vector<T>>(r, vector<T>(c, v)); }
-inline vi iota_v(int n, int s=0) { vi a(n); iota(all(a), s); return a; }
-template<typename A,typename B> void rp(pair<A,B>& p)        { cin >> p.first >> p.second; }
-template<typename A,typename B> void pp(const pair<A,B>& p)  { cout << p.first << " " << p.second << "\n"; }
-template<typename T=int> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
-// Read r lines of a string grid
-inline vs rvg(int r){ vs g(r); for(auto& s:g) cin>>s; return g; }
 template<typename... T>
 void r(T&... args) {
     ((cin >> args), ...);
 }
 template<typename T, typename... Args>
-void o(T first, Args... args) {
+void print(T first, Args... args) {
     cout << first;
     ((cout << " " << args), ...); 
     cout << "\n";
 }
+ll binpow(ll a, ll b, ll mod = MOD) {
+    ll res = 1; a %= mod;
+    while (b > 0) {
+        if (b & 1) res = res * a % mod;
+        a = a * a % mod; b >>= 1;
+    }
+    return res;
+}
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
+ vll b(2e5+1), n(2e5+1), sum(2e5+1), sumb(2e5+1), sumn(2e5+1);
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
-    {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
-    }
-    o(answer);
+    int k;
+    cin>>k;
+    cout<<sum[k];
+    cerr<<sumb[k]<<"\n";
+    cerr<<b[k]<<"\n";
+    cerr<<n[k]<<"\n";
+    
+    cerr<<sumn[k]<<"\n";
+    
+    nl;
 }
 
 int main() {
     fastIO();
     int t = 1;
     cin >> t;
+    ll two=2;
+    n[1]=0;
+    b[1]=1;
+    sum[1]=1;
+    sumb[1]=1;
+    sumn[1]=0;
+    for(int i=2; i<=2e5; i++)
+    {
+        b[i]=((two) + n[i-1]%MOD)%MOD;
+        sumb[i] = (sum[i-1] + b[i] )%MOD;
+        sumn[i]=sumb[i-1]%MOD;
+        n[i]=b[i-1];
+        sum[i]= (sumb[i]+sumn[i])%MOD;
+        two = (two * 2) % MOD;
+    }
+
     while (t--) solve();
     return 0;
 }

@@ -98,29 +98,66 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+    int n; r(n);
+    vpii road;
+    vvi m(n+1);
+    vi parenti(n+1,0), roadi(n+1,0);
+    for(int i=0; i<n-1; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        int g, h, condition;
+        r(g, h, condition);
+        m[g].pb(h); m[h].pb(g);
+        if(condition==2)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            road.pb({g,h});
         }
     }
-    o(answer);
+    
+    auto dfs = [&](auto && self, int parent, int child) -> void{
+        parenti[child]=parent;
+        for(auto it: m[child])
+        {
+            if(it!=parent) self(self, child ,it);
+        }
+    };
+    dfs(dfs, -1, 1);
+    for(auto it: road)
+    {
+        if(parenti[it.first]==it.second) roadi[it.first]=1;
+        else roadi[it.second]=1;
+    }
+    // for(auto i: parenti) o(i);
+    vi anvec;
+    vi answer(n+1, 0);
+    auto dfs1 =[&](auto && self, int parent, int child) -> int{
+        bool visited=false;
+        int childsum=0;
+        for(auto it: m[child])
+        {
+            if(it!=parent) {visited=true; childsum+=(self(self, child, it)); }
+            
+        }
+        if(visited==false) {if(roadi[child]==1) {answer[child]=1; anvec.pb(child);}}
+        else
+        {
+            if(childsum==0)
+            {
+                if(roadi[child]==1) {answer[child]=1; anvec.pb(child);}
+            }
+            else answer[child]=childsum;
+        }
+        return answer[child];
+
+    };
+    o(dfs1(dfs1, -1, 1));
+    for(auto it: anvec) cout<<it<<" ";
+
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

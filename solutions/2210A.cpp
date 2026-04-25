@@ -98,23 +98,12 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+    int n; r(n);
+    while(n--)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
+        cout<<n+1<<" ";
     }
-    o(answer);
+    nl;
 }
 
 int main() {

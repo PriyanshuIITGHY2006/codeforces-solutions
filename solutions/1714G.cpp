@@ -98,23 +98,55 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+    int n; r(n);
+    vll a(n+1), b(n+1), prefa(n+1,0), prefb(n+1,0), answer(n+1,0);
+    vvll m(n+1);
+    for(int i=2; i<=n; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
+        int k; r(k, a[i], b[i]);
+        // if(i==1) continue;
+        m[i].pb(k);
+        m[k].pb(i);
     }
-    o(answer);
+    a[1]=0; b[1]=0;
+
+    auto dfs = [&](auto && self, int parent, int child) -> void{
+
+        prefa[child] += (a[child] + prefa[parent]);
+        prefb[child] += (b[child] + prefb[parent]);
+        for(auto it: m[child])
+        {
+            if(it!=parent)
+            {
+                self(self, child, it);
+            }
+        }
+    };
+    dfs(dfs, 0, 1);
+    vector<ll> binable;
+    auto dfs1 = [&](auto && self, int parent, int child) -> void{
+        binable.pb(prefb[child]);
+        int k = upper_bound(all(binable), prefa[child]) - binable.begin() - 1;
+        answer[child]=k;
+        for(auto it: m[child])
+        {
+            if(it!=parent)
+            {
+                self(self, child, it);
+            }
+        }
+        binable.pop_back();
+    };
+    dfs1(dfs1, 0, 1);
+    for(int i=2; i<=n; i++)
+    {
+        cout<<answer[i]<<" ";
+    }
+    // dfs1(dfs1, 0, 1);
+    nl;
+    
+
+
 }
 
 int main() {

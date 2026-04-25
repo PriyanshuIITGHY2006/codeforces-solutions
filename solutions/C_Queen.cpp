@@ -1,5 +1,9 @@
 #include <bits/stdc++.h>
 using namespace std;
+
+// ═══════════════════════════════════════════════════════
+//  DEBUG  (auto-stripped on submission)
+// ═══════════════════════════════════════════════════════
 #ifdef DEBUG
 #define DC  "\033[36m"
 #define DY  "\033[33m"
@@ -18,7 +22,6 @@ using namespace std;
 #define dbg_assert(c) { if (!(c)) { cerr << DR "[ASSERT FAILED] " #c " line " << __LINE__ << DX << "\n"; exit(1); } }
 #define dbg_time()    { static auto _t = chrono::steady_clock::now(); auto _n = chrono::steady_clock::now(); cerr << DR "[TIME] " << chrono::duration_cast<chrono::milliseconds>(_n - _t).count() << "ms" << DX << "\n"; _t = _n; }
 #else
-
 #define dbg(x)
 #define dbg2(x,y)
 #define dbg3(x,y,z)
@@ -30,6 +33,9 @@ using namespace std;
 #define dbg_assert(c)
 #define dbg_time()
 #endif
+// ═══════════════════════════════════════════════════════
+
+// ── TYPES ───────────────────────────────────────────────
 using ll   = long long;
 using ull  = unsigned long long;
 using ld   = long double;
@@ -42,11 +48,15 @@ using vpii = vector<pii>;
 using vpll = vector<pll>;
 using vvi  = vector<vi>;
 using vvll = vector<vll>;
+
+// ── CONSTANTS ───────────────────────────────────────────
 const ll  MOD  = 1e9 + 7;
 const ll  INF  = 1e18;
 const int IINF = 1e9;
 const ld  EPS  = 1e-9;
 const ld  PI   = acos((ld)-1);
+
+// ── MACROS ──────────────────────────────────────────────
 #define fastIO()   ios_base::sync_with_stdio(false); cin.tie(NULL)
 #define all(x)     (x).begin(),(x).end()
 #define rall(x)    (x).rbegin(),(x).rend()
@@ -56,11 +66,13 @@ const ld  PI   = acos((ld)-1);
 #define fi         first
 #define se         second
 #define mp         make_pair
+
 #define FOR(i,a,b) for (int i=(a); i<(b); ++i)
 #define F0R(i,n)   for (int i=0; i<(n); ++i)
 #define ROF(i,a,b) for (int i=(b)-1; i>=(a); --i)
 #define R0F(i,n)   for (int i=(n)-1; i>=0; --i)
 #define each(a,x)  for (auto& a : (x))
+
 #define srt(v)     sort(all(v))
 #define rsrt(v)    sort(rall(v))
 #define uni(v)     srt(v); (v).erase(unique(all(v)),(v).end())
@@ -70,57 +82,55 @@ const ld  PI   = acos((ld)-1);
 #define rev(v)     reverse(all(v))
 #define popcnt(x)  __builtin_popcountll(x)
 #define lsb(x)     ((x) & -(x))
-#define nl cout << "\n"
-#define rv(v)        for (auto& _x : (v)) cin >> _x;
-#define pv(v)        { for (int _i=0;_i<sz(v);_i++) cout<<(v)[_i]<<" \n"[_i+1==sz(v)]; }
-#define pvn(v)       for (auto& _x : (v)) cout << _x << "\n"
-#define pv2(vv)      for (auto& _r:(vv)){ for(int _i=0;_i<sz(_r);_i++) cout<<_r[_i]<<" \n"[_i+1==sz(_r)]; }
-#define rv2(vv,r,c)  { (vv).assign((r),decltype((vv)[0])(c)); for(auto& _r:(vv)) for(auto& _x:_r) cin>>_x; }
-template<typename T> vi  mkv (int n, T v=0)         { return vi(n, v); }
-template<typename T> vector<T> mkvt(int n, T v={})  { return vector<T>(n, v); }
-template<typename T> vector<vector<T>> mkv2(int r, int c, T v={}) { return vector<vector<T>>(r, vector<T>(c, v)); }
-inline vi iota_v(int n, int s=0) { vi a(n); iota(all(a), s); return a; }
-template<typename A,typename B> void rp(pair<A,B>& p)        { cin >> p.first >> p.second; }
-template<typename A,typename B> void pp(const pair<A,B>& p)  { cout << p.first << " " << p.second << "\n"; }
-template<typename T=int> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
-// Read r lines of a string grid
-inline vs rvg(int r){ vs g(r); for(auto& s:g) cin>>s; return g; }
-template<typename... T>
-void r(T&... args) {
-    ((cin >> args), ...);
-}
-template<typename T, typename... Args>
-void o(T first, Args... args) {
-    cout << first;
-    ((cout << " " << args), ...); 
-    cout << "\n";
-}
-#define YES cout<< "YES\n";
-#define NO cout<< "NO\n";
-void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+
+void dfs(map<int, vi> &edges, vi &obedience, int current, int parent, vi &ans)
+{
+    bool answer=false;
+    if(obedience[current]==1) answer=true;
+    for(auto it: edges[current])
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        if(it!=parent)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            dfs(edges, obedience, it, current, ans);
+            if(obedience[it]!=1) answer=false;
         }
     }
-    o(answer);
+    if(answer) ans.pb(current);
+}
+
+// ── SOLVE ───────────────────────────────────────────────
+void solve() {
+    int n;
+    cin>>n;
+    map<int, vi> edges;
+    vi obedience(n);
+    int root;
+    for(int i=0; i<n; i++)
+    {
+        int u, v;
+        cin>>u>>v;
+        if(u!=-1)
+        {
+            u--;
+            edges[i].pb(u);
+            edges[u].pb(i);
+        }
+        else root=i;
+        obedience[i]=v;
+    }
+    dbgv(edges[4]);
+    vi ans;
+    dfs(edges, obedience, root, -1, ans);
+    srt(ans);
+    if(ans.size()>0)
+    for(auto it: ans) cout<<it+1<<" ";
+    else cout<<-1;
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

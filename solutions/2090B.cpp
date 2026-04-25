@@ -98,23 +98,50 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
+    int n,m; r(n,m);
+    vector<string> a(n);
+    vvi b(n, vi(m,0)), c(n, vi(m,0));
     for(int i=0; i<n; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        r(a[i]); 
+    }
+    for(int i=0; i<n; i++)
+    {
+            for(int j=0; j<m; j++)
+            {
+                if(i==0) {if(a[0][j]=='1') b[0][j]=1;}
+                else
+            {if(b[i-1][j]==1 && a[i][j]=='1') b[i][j]=1;
+            else b[i][j]=0;}
+            }
+    }
+    for(int i=0; i<m; i++)
+    {
+        for(int j=0; j<n; j++)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            if(i==0) {if(a[j][0]=='1') c[j][0]=1;}
+            else if(c[j][i-1]==1 && a[j][i]=='1') c[j][i]=1;
+            else c[j][i]=0;
         }
     }
-    o(answer);
+    for(int i=0; i<n; i++)
+    {
+        // dbgv(c[i]);
+    }
+    for(int i=0; i<n; i++)
+    {
+        for(int j=0; j<m; j++)
+        {
+            if(a[i][j]=='1')
+            {
+                dbg(a[i][j]);
+                if(b[i][j]!=1 && c[i][j]!=1) {
+                    NO return;
+                }
+            }
+        }
+    }
+    YES
 }
 
 int main() {

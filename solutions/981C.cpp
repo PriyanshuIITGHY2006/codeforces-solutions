@@ -97,30 +97,68 @@ void o(T first, Args... args) {
 }
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
-void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+int dfs(map<int, vector<int>>&m, int parent, int child)
+{
+    bool visited=false;
+    for(auto it: m[child])
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        if(it!=parent)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            visited=true;
+            return dfs(m, child, it);
         }
     }
-    o(answer);
+    if(!visited) return child;
+}
+void solve() {
+    int n; r(n);
+    map<int, vi> m;
+    for(int i=0; i<n-1; i++)
+    {
+        int a, b; r(a,b);
+        m[a].pb(b);
+        m[b].pb(a);
+    }
+    int tick=0;
+    int node=0;
+    vi leaves;
+    for(auto it : m)
+    {
+        // dbgv(it.second);
+        if(sz(it.second)>2) 
+        {
+            tick ++;
+            node=it.first;
+        }
+        if(sz(it.se)==1) leaves.pb(it.fi);
+    }
+    if(tick >1) 
+    {
+        NO return;
+    }
+    else
+    {
+        if(node==0)
+        {
+            YES
+            o(1);
+            o(leaves[0], leaves[1]);
+            return;
+        }
+        YES
+        o(sz(m[node]));
+        for(auto it : m[node])
+        {
+            o(node, dfs(m, node, it));
+        }
+        return;
+    }
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

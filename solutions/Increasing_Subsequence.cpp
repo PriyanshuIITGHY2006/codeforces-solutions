@@ -82,7 +82,7 @@ template<typename T> vector<vector<T>> mkv2(int r, int c, T v={}) { return vecto
 inline vi iota_v(int n, int s=0) { vi a(n); iota(all(a), s); return a; }
 template<typename A,typename B> void rp(pair<A,B>& p)        { cin >> p.first >> p.second; }
 template<typename A,typename B> void pp(const pair<A,B>& p)  { cout << p.first << " " << p.second << "\n"; }
-template<typename T=int> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
+template<typename T=ll> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
 // Read r lines of a string grid
 inline vs rvg(int r){ vs g(r); for(auto& s:g) cin>>s; return g; }
 template<typename... T>
@@ -98,29 +98,40 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
+    int n; r(n);
+    vll a = rvec(n);
+    vll d(n+1, INF);
+    d[0]=-INF;
+    // for(int i=0; i<n; i++)
+    // {
+    //     if(*prev(upper_bound(all(d), a[i]))!=a[i]) *upper_bound(all(d), a[i])=a[i];
+    // }
+    // int k = (lower_bound(all(d), INF) - d.begin() - 1);
+    // o(k);
+
+    
+    vll prev(n, -1), pos(n+1, -1);
     for(int i=0; i<n; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
+    int id = upper_bound(all(d), a[i]) - d.begin();
+    *upper_bound(all(d), a[i])=a[i];
+    pos[id]=i;
+    prev[i]=pos[id-1];
     }
-    o(answer);
+    int k = (lower_bound(all(d), INF) - d.begin() - 1);
+    vll subseq;
+    for(int i=pos[k]; i!=-1; i=prev[i])
+    {
+    subseq.pb(a[i]);
+    }
+    for(int i=0; i<k; i++) cout<<subseq[i]<<" ";
+    
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

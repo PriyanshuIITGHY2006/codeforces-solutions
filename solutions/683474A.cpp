@@ -95,32 +95,54 @@ void o(T first, Args... args) {
     ((cout << " " << args), ...); 
     cout << "\n";
 }
+const int MAXN = 2e5+5;
+ll fact[MAXN], inv_fact[MAXN];
+ll binpow(ll a, ll b, ll mod = MOD) {
+    ll res = 1; a %= mod;
+    while (b > 0) {
+        if (b & 1) res = res * a % mod;
+        a = a * a % mod; b >>= 1;
+    }
+    return res;
+}
+void precompute_factorials(int n = MAXN - 1) {
+    fact[0] = 1;
+    for (int i = 1; i <= n; i++) fact[i] = fact[i-1] * i % MOD;
+    inv_fact[n] = binpow(fact[n], MOD - 2);
+    for (int i = n-1; i >= 0; i--) inv_fact[i] = inv_fact[i+1] * (i+1) % MOD;
+}
+
+ll C(int n, int r) {
+    if (r < 0 || r > n) return 0;
+    return fact[n] % MOD * inv_fact[r] % MOD * inv_fact[n-r] % MOD;
+}
+
+ll P(int n, int r) {
+    if (r < 0 || r > n) return 0;
+    return fact[n] % MOD * inv_fact[n-r] % MOD;
+}
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
-    {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
+    int n, m;
+    r(n,m);
+    int j, g;
+    r(j,g);
+    
+    ll answer = 0;
+    if (g == 0) {
+        answer = j / 2 + 1;
+    } else {
+        answer = (j + 1) / 2;
     }
-    o(answer);
+    
+    cout << answer << "\n";
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

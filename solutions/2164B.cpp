@@ -95,26 +95,43 @@ void o(T first, Args... args) {
     ((cout << " " << args), ...); 
     cout << "\n";
 }
+vi get_divisors(int n) {
+    vi d;
+    for (int i = 1; (ll)i * i <= n; i++) {
+        if (n % i == 0) {
+            d.push_back(i);
+            if (i != n / i) d.push_back(n / i);
+        }
+    }
+    sort(all(d));
+    return d;
+}
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
+    int n; r(n);
     vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
+    vi b(n);
+    map<int, int> m;
     for(int i=0; i<n; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        b[i] = a[i]-2;
+        m[a[i]]++;
+    }
+    for(int i=0; i<n; i++)
+    {
+        vi divisors = get_divisors(b[i]);
+        for(auto it: divisors)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            if(m[it]>0)
+            {
+                o(a[i], it);
+                return;
+            }
         }
     }
-    o(answer);
+    o(-1);
+    return;
 }
 
 int main() {

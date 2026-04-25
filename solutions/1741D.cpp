@@ -98,23 +98,28 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+int n; r(n);
+vi a = rvec(n);
+int m = log2(n);
+int answer=0;
+for(int i=0; i<m; i++)
+{
+    for(int j=0; j<(1<<(i)); j++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        int lo  = j*(1<<(m-i));
+        int mid = lo + (1<<(m-i-1));
+        int hi  = lo + (1<<(m-i));
+        int check1= (a[lo]-1)/(1<<(m-i-1));
+        for(int k=lo; k<mid; k++)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            if((a[k]-1)/(1<<(m-i-1))==check1) continue;
+            else { o(-1); return; }
         }
+        int check2= (a[mid]-1)/(1<<(m-i-1));
+        if(check2<check1) answer++;
     }
-    o(answer);
+}
+o(answer);
 }
 
 int main() {

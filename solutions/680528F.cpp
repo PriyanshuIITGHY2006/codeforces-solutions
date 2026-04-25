@@ -42,7 +42,7 @@ using vpii = vector<pii>;
 using vpll = vector<pll>;
 using vvi  = vector<vi>;
 using vvll = vector<vll>;
-const ll  MOD  = 1e9 + 7;
+const ll  MOD  = 998244353;
 const ll  INF  = 1e18;
 const int IINF = 1e9;
 const ld  EPS  = 1e-9;
@@ -71,56 +71,80 @@ const ld  PI   = acos((ld)-1);
 #define popcnt(x)  __builtin_popcountll(x)
 #define lsb(x)     ((x) & -(x))
 #define nl cout << "\n"
-#define rv(v)        for (auto& _x : (v)) cin >> _x;
-#define pv(v)        { for (int _i=0;_i<sz(v);_i++) cout<<(v)[_i]<<" \n"[_i+1==sz(v)]; }
-#define pvn(v)       for (auto& _x : (v)) cout << _x << "\n"
-#define pv2(vv)      for (auto& _r:(vv)){ for(int _i=0;_i<sz(_r);_i++) cout<<_r[_i]<<" \n"[_i+1==sz(_r)]; }
-#define rv2(vv,r,c)  { (vv).assign((r),decltype((vv)[0])(c)); for(auto& _r:(vv)) for(auto& _x:_r) cin>>_x; }
-template<typename T> vi  mkv (int n, T v=0)         { return vi(n, v); }
-template<typename T> vector<T> mkvt(int n, T v={})  { return vector<T>(n, v); }
-template<typename T> vector<vector<T>> mkv2(int r, int c, T v={}) { return vector<vector<T>>(r, vector<T>(c, v)); }
-inline vi iota_v(int n, int s=0) { vi a(n); iota(all(a), s); return a; }
-template<typename A,typename B> void rp(pair<A,B>& p)        { cin >> p.first >> p.second; }
-template<typename A,typename B> void pp(const pair<A,B>& p)  { cout << p.first << " " << p.second << "\n"; }
-template<typename T=int> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
-// Read r lines of a string grid
-inline vs rvg(int r){ vs g(r); for(auto& s:g) cin>>s; return g; }
 template<typename... T>
 void r(T&... args) {
     ((cin >> args), ...);
 }
 template<typename T, typename... Args>
-void o(T first, Args... args) {
+void print(T first, Args... args) {
     cout << first;
     ((cout << " " << args), ...); 
     cout << "\n";
 }
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
+ll binpow(ll a, ll b, ll mod = MOD) {
+    ll res = 1; a %= mod;
+    while (b > 0) {
+        if (b & 1) res = res * a % mod;
+        a = a * a % mod; b >>= 1;
+    }
+    return res;
+}
+const int MAXN = 1e6+1;
+ll fact[MAXN], inv_fact[MAXN];
+
+void precompute_factorials(int n = MAXN - 1) {
+    fact[0] = 1;
+    for (int i = 1; i <= n; i++) fact[i] = fact[i-1] * i % MOD;
+    inv_fact[n] = binpow(fact[n], MOD - 2);
+    for (int i = n-1; i >= 0; i--) inv_fact[i] = inv_fact[i+1] * (i+1) % MOD;
+}
+
+ll C(int n, int r) {
+    if (r < 0 || r > n) return 0;
+    return fact[n] % MOD * inv_fact[r] % MOD * inv_fact[n-r] % MOD;
+}
+
+ll P(int n, int r) {
+    if (r < 0 || r > n) return 0;
+    return fact[n] % MOD * inv_fact[n-r] % MOD;
+}
+ll d[MAXN+1];
+
+ll derangement(ll n)
+{
+    for(int i=3; i<=n; i++)
+    {
+        d[i]=(i-1)*(((d[i-1])+d[i-2])%MOD)%MOD;
+    }
+}
+vll dp(MAXN+1);
 void solve() {
     int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
-    {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
-    }
-    o(answer);
+    cin>>n;
+    cout<<dp[n];
+    nl;
+
 }
 
 int main() {
     fastIO();
     int t = 1;
     cin >> t;
+    d[1]=0;
+    d[2]=1;
+    for(int i=3; i<=MAXN-1; i++)
+    {
+        d[i]=(i-1)*(((d[i-1])+d[i-2])%MOD)%MOD;
+    }
+    dp[2]=0;
+    for(int i=3; i<MAXN+1; i++)
+    {
+        dp[i]= (i * ((dp[i-1] + d[i-1]%MOD*(i-1))%MOD))%MOD;
+    }
+    
+    // dbgv(d);
     while (t--) solve();
     return 0;
 }

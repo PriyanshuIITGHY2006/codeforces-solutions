@@ -71,20 +71,6 @@ const ld  PI   = acos((ld)-1);
 #define popcnt(x)  __builtin_popcountll(x)
 #define lsb(x)     ((x) & -(x))
 #define nl cout << "\n"
-#define rv(v)        for (auto& _x : (v)) cin >> _x;
-#define pv(v)        { for (int _i=0;_i<sz(v);_i++) cout<<(v)[_i]<<" \n"[_i+1==sz(v)]; }
-#define pvn(v)       for (auto& _x : (v)) cout << _x << "\n"
-#define pv2(vv)      for (auto& _r:(vv)){ for(int _i=0;_i<sz(_r);_i++) cout<<_r[_i]<<" \n"[_i+1==sz(_r)]; }
-#define rv2(vv,r,c)  { (vv).assign((r),decltype((vv)[0])(c)); for(auto& _r:(vv)) for(auto& _x:_r) cin>>_x; }
-template<typename T> vi  mkv (int n, T v=0)         { return vi(n, v); }
-template<typename T> vector<T> mkvt(int n, T v={})  { return vector<T>(n, v); }
-template<typename T> vector<vector<T>> mkv2(int r, int c, T v={}) { return vector<vector<T>>(r, vector<T>(c, v)); }
-inline vi iota_v(int n, int s=0) { vi a(n); iota(all(a), s); return a; }
-template<typename A,typename B> void rp(pair<A,B>& p)        { cin >> p.first >> p.second; }
-template<typename A,typename B> void pp(const pair<A,B>& p)  { cout << p.first << " " << p.second << "\n"; }
-template<typename T=int> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
-// Read r lines of a string grid
-inline vs rvg(int r){ vs g(r); for(auto& s:g) cin>>s; return g; }
 template<typename... T>
 void r(T&... args) {
     ((cin >> args), ...);
@@ -97,30 +83,62 @@ void o(T first, Args... args) {
 }
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
-void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
-    {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+const int MAXN = 600;
+vector<bool> is_prime(MAXN, true);
+vector<int> primes;
+
+void sieve(int n = MAXN - 1) {
+    is_prime[0] = is_prime[1] = false;
+    for (int p = 2; p <= n; p++) {
+        if (is_prime[p]) {
+            primes.push_back(p);
+            for (ll i = (ll)p*p; i <= n; i += p)
+                is_prime[i] = false;
         }
     }
-    o(answer);
+}
+ll compute_dp( ll a, ll b, vvll &dp)
+{
+    if(dp[a][b]!=-1) ;
+    else if (dp[b][a]!=-1) 
+    {
+        dp[a][b]= dp[b][a];
+    }
+    else
+    {
+        dp[a][b]=INF;
+        for(int i=1; i<b; i++)
+        {
+            dp[a][b] = min(dp[a][b], 1 + compute_dp(a, i, dp) + compute_dp(a, b-i, dp));
+        }
+        for(int i=1; i<a; i++)
+        {
+            dp[a][b] = min(dp[a][b], 1 + compute_dp(b, i, dp) + compute_dp(b, a-i, dp));
+        }
+    }
+    return dp[a][b];
+}
+void solve() {
+    int a, b;
+    r(a,b);
+    ll t = max(a,b);
+    vvll dp(t+1, vll (t+1, -1));
+    dp[1][1]=0;
+    for(int i=1; i<=t; i++)
+    {
+        dp[i][i]=0;
+    }
+    o(compute_dp(a, b, dp));
+    dbg(compute_dp(1, 1, dp));
+    dbg(compute_dp(2, 1, dp));
+    dbg(compute_dp(3, 1, dp));
+    
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

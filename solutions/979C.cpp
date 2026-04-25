@@ -98,29 +98,53 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+    int n, x,y; r(n,x,y);
+    vvi m(n+1);
+    for(int i=0; i<n-1; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
+        int a,b; r(a,b);
+        m[a].pb(b);
+        m[b].pb(a);
     }
+    auto dfs = [&](int i, int j) -> int{
+        vi subtree(n+1,1);
+
+        auto go = [&](auto && self, int parent, int child)->pair<int, bool>{
+            if(child!=j)
+            {
+            bool visited=false;
+            for(auto it: m[child])
+            {
+                if(it==parent) continue;
+                visited=true;
+                pair<int, bool> result = self(self, child, it);
+                if(result.se)
+                subtree[child]+=result.fi;
+                else return {0, false};
+            }
+            if(!visited) return {1, true};
+            return {subtree[child], true};
+        }
+        else return {0, false};
+        };
+        int answer=0;
+        for(auto it : m[i])
+        {
+            pair<int, bool> result = go(go, i, it);
+            if(result.se) subtree[i] +=result.fi;
+        }
+        return subtree[i];
+    };
+    int k= dfs(x,y);
+    int l= dfs(y,x);
+    ll answer = (ll)n*(ll)(n-1) - ((ll) k * (ll) l);
     o(answer);
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

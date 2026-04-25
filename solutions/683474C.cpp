@@ -98,29 +98,50 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+    int m, n;
+    r(n, m);
+    vpii a;
+    for(int i=0; i<m; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+        int j,k;
+        r(j,k);
+        a.pb(mp(j,k));
+    }
+    srt(a);
+    int m1 = n+1, p = -1;
+    for(auto it : a) {
+        if(it.se == 1) {
+            if(m1==n+1) {
+                m1 = it.fi;
+                // p = m1%2;
+            }
+            else if(it.fi%2!=p) {
+                cout<<0<<"\n";
+                return;
+            }
         }
     }
-    o(answer);
+    int l= 0, r= m1-1;
+    int required;
+    if (p==1) required=0;
+    else required=1;
+    for(auto it : a) {
+        if(it.se==0 && ((it.fi%2)!=required)) {
+        l=max(l, it.fi);
+        }
+    }
+    if(l%2!= required) l++;
+    if(l>r) {cout << 0;}
+    else {cout << ((r-l)/2) + 1;
+    nl;
+}
+
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

@@ -71,20 +71,6 @@ const ld  PI   = acos((ld)-1);
 #define popcnt(x)  __builtin_popcountll(x)
 #define lsb(x)     ((x) & -(x))
 #define nl cout << "\n"
-#define rv(v)        for (auto& _x : (v)) cin >> _x;
-#define pv(v)        { for (int _i=0;_i<sz(v);_i++) cout<<(v)[_i]<<" \n"[_i+1==sz(v)]; }
-#define pvn(v)       for (auto& _x : (v)) cout << _x << "\n"
-#define pv2(vv)      for (auto& _r:(vv)){ for(int _i=0;_i<sz(_r);_i++) cout<<_r[_i]<<" \n"[_i+1==sz(_r)]; }
-#define rv2(vv,r,c)  { (vv).assign((r),decltype((vv)[0])(c)); for(auto& _r:(vv)) for(auto& _x:_r) cin>>_x; }
-template<typename T> vi  mkv (int n, T v=0)         { return vi(n, v); }
-template<typename T> vector<T> mkvt(int n, T v={})  { return vector<T>(n, v); }
-template<typename T> vector<vector<T>> mkv2(int r, int c, T v={}) { return vector<vector<T>>(r, vector<T>(c, v)); }
-inline vi iota_v(int n, int s=0) { vi a(n); iota(all(a), s); return a; }
-template<typename A,typename B> void rp(pair<A,B>& p)        { cin >> p.first >> p.second; }
-template<typename A,typename B> void pp(const pair<A,B>& p)  { cout << p.first << " " << p.second << "\n"; }
-template<typename T=int> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
-// Read r lines of a string grid
-inline vs rvg(int r){ vs g(r); for(auto& s:g) cin>>s; return g; }
 template<typename... T>
 void r(T&... args) {
     ((cin >> args), ...);
@@ -100,27 +86,21 @@ void o(T first, Args... args) {
 void solve() {
     int n;
     r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
+    vll a(n);
+    for(int i=0; i<n; i++) r(a[i]);
+    ll gcd_of_array = 0;
+    for (ll x : a) gcd_of_array = __gcd(gcd_of_array, x);
+    map <ll, int> m;
     for(int i=0; i<n; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
+        if (a[i]!=gcd_of_array) m[a[i]]++;
     }
-    o(answer);
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

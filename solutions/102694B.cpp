@@ -97,30 +97,134 @@ void o(T first, Args... args) {
 }
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
-void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
-    {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+int dfs(int u, int parent, int &diameter, vvi &adj, int &lca) {
+    int max1 = 0, max2 = 0;  // top two values of (1 + h(child))
+    for (int v : adj[u]) {
+        if (v == parent) continue;
+        int contrib = 1 + dfs(v, u, diameter, adj, lca);
+        if (contrib > max1) {
+            max2 = max1;
+            max1 = contrib;
+        } else if (contrib > max2) {
+            max2 = contrib;
         }
     }
-    o(answer);
+    if(max1+max2>diameter) lca=u;
+    diameter = max(diameter, max1 + max2);  
+    return max1;  
+}
+void dfs1(int u, int parent, set<int> &diameter, vvi &adj, vi &length)
+{
+    int visited=false;
+    for(auto it: adj[u])
+    {
+        if(it!=parent)
+        {
+            visited=true;
+            // if(parent!=-1)
+            length[it]=length[u]+1;
+            // else length[it]=1;
+            dfs1(it, u, diameter, adj, length);
+        }
+    }
+    if(!visited) diameter.insert(u);
+}
+void solve() {
+int n; r(n);
+vvi m(n+1);
+for(int i=0; i<n-1; i++)
+{
+    int a, b; r(a,b);
+    m[a].pb(b); m[b].pb(a);
+}
+int diameter=0; int lca=0;
+dfs(1, m[1][0], diameter, m, lca);
+vi length(n+1, 0);
+set<int> leaves;
+dfs1(lca, -1, leaves, m, length);
+int maxl=mx(length);
+int second_max=-1;
+bool maxi=true;
+for(int i=1; i<n+1; i++)
+{
+    if(length[i]==maxl)
+    {
+        if(maxi) maxi=false;
+        else
+        {
+            second_max=maxl;
+            break;
+        }
+    }
+    else
+    {
+        second_max=max(second_max, length[i]);
+    }
+}
+vi answer(n+1, diameter);
+for(auto it: leaves)
+{
+    if(length[it]==maxl || length[it]==second_max) answer[it]++;
+}
+for(int i=1; i<n+1; i++) o(answer[i]);
+nl;
+
+
 }
 
+
 int main() {
-    fastIO();
-    int t = 1;
-    cin >> t;
-    while (t--) solve();
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+
+    int n;
+    cin >> n;
+
+    vector<vector<int>> adj(n + 1);
+    for (int i = 0; i < n - 1; i++) {
+        int a, b;
+        cin >> a >> b;
+        adj[a].push_back(b);
+        adj[b].push_back(a);
+    }
+
+    if (n == 1) {
+        cout << 1 << "\n";
+        return 0;
+    }
+    auto dfs = [&](int src) {
+        vector<int> dist(n + 1, -1);
+        dist[src] = 0;
+        auto go = [&](auto&& self, int parent, int child) -> void{
+            for(auto it: adj[child])
+            {
+                if(it==parent) continue;
+                else
+                {
+                    dist[it] = dist[child]+1;
+                    self(self, child, it);
+                }
+            }
+        };
+        go(go, 0, src);
+        return dist;
+    };
+
+    vector<int> d0 = dfs(1);
+    int u = 1;
+    for (int i = 1; i <= n; i++)
+        if (d0[i] > d0[u]) u = i;
+
+    vector<int> distU = dfs(u);
+    int w = u;
+    for (int i = 1; i <= n; i++)
+        if (distU[i] > distU[w]) w = i;
+    int D = distU[w];
+    vector<int> distW = dfs(w);
+    for (int i = 1; i <= n; i++) {
+        int ecc = max(distU[i], distW[i]);
+        cout << max(D, 1 + ecc) << "\n";
+    }
+
     return 0;
 }

@@ -98,29 +98,83 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+int n; r(n);
+vi a;
+map<int, vi> m;
+for(int i=0; i<n-1; i++)
+{
+    int a, b; r(a,b);
+    m[a].pb(b);
+    m[b].pb(a);
+}
+a = rvec(n);
+vi musthead;
+vi diffst;
+int diff1=0;
+for(auto it: m)
+{
+    int diff=0;
+    for(auto it1: it.se)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        if(a[it1-1]!=a[it.fi-1]) diff++;
+    }
+    if(diff>=2) musthead.pb(it.fi);
+    if(diff==1) diffst.pb(it.fi);
+}
+if(sz(musthead)>1) NO
+else
+{
+    if(sz(musthead)==1)
+    {
+        
+        for(auto it: diffst)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            bool possible=false;
+            for(auto it1 : m[it])
+            {
+                if(it1==musthead[0]) possible=true;
+            }
+            if(!possible)
+            {
+                NO return;
+            }
+        }
+        YES;
+        o(musthead[0]);
+        return;
+    }
+    else
+    {
+        if(sz(diffst)==2)
+        {
+            if(count(all(m[diffst[0]]), diffst[1])>0) {
+                YES
+                o(diffst[0]);
+                return;
+            }
+            else
+            {
+                NO return;
+            }
+        }
+        else
+        {
+            if(sz(diffst)>2)
+            {NO return;}
+            else 
+            {
+                YES o(1);
+                return;
+            }
         }
     }
-    o(answer);
+}
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

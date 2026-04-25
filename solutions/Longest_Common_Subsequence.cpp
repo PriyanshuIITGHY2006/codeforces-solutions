@@ -18,7 +18,6 @@ using namespace std;
 #define dbg_assert(c) { if (!(c)) { cerr << DR "[ASSERT FAILED] " #c " line " << __LINE__ << DX << "\n"; exit(1); } }
 #define dbg_time()    { static auto _t = chrono::steady_clock::now(); auto _n = chrono::steady_clock::now(); cerr << DR "[TIME] " << chrono::duration_cast<chrono::milliseconds>(_n - _t).count() << "ms" << DX << "\n"; _t = _n; }
 #else
-
 #define dbg(x)
 #define dbg2(x,y)
 #define dbg3(x,y,z)
@@ -70,57 +69,53 @@ const ld  PI   = acos((ld)-1);
 #define rev(v)     reverse(all(v))
 #define popcnt(x)  __builtin_popcountll(x)
 #define lsb(x)     ((x) & -(x))
-#define nl cout << "\n"
-#define rv(v)        for (auto& _x : (v)) cin >> _x;
-#define pv(v)        { for (int _i=0;_i<sz(v);_i++) cout<<(v)[_i]<<" \n"[_i+1==sz(v)]; }
-#define pvn(v)       for (auto& _x : (v)) cout << _x << "\n"
-#define pv2(vv)      for (auto& _r:(vv)){ for(int _i=0;_i<sz(_r);_i++) cout<<_r[_i]<<" \n"[_i+1==sz(_r)]; }
-#define rv2(vv,r,c)  { (vv).assign((r),decltype((vv)[0])(c)); for(auto& _r:(vv)) for(auto& _x:_r) cin>>_x; }
-template<typename T> vi  mkv (int n, T v=0)         { return vi(n, v); }
-template<typename T> vector<T> mkvt(int n, T v={})  { return vector<T>(n, v); }
-template<typename T> vector<vector<T>> mkv2(int r, int c, T v={}) { return vector<vector<T>>(r, vector<T>(c, v)); }
-inline vi iota_v(int n, int s=0) { vi a(n); iota(all(a), s); return a; }
-template<typename A,typename B> void rp(pair<A,B>& p)        { cin >> p.first >> p.second; }
-template<typename A,typename B> void pp(const pair<A,B>& p)  { cout << p.first << " " << p.second << "\n"; }
-template<typename T=int> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
-// Read r lines of a string grid
-inline vs rvg(int r){ vs g(r); for(auto& s:g) cin>>s; return g; }
-template<typename... T>
-void r(T&... args) {
-    ((cin >> args), ...);
-}
-template<typename T, typename... Args>
-void o(T first, Args... args) {
-    cout << first;
-    ((cout << " " << args), ...); 
-    cout << "\n";
-}
-#define YES cout<< "YES\n";
-#define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+    int m, n;
+    cin>>m>>n;
+    vi s(m), t(n);
+    // cin>>m>>n;
+    for(int i=0; i<m; i++) cin>>s[i];
+    for(int i=0; i<n; i++) cin>>t[i];
+    // vi answer;
+
+    vector<vector<ll>> dp(m+1, vector<ll> (n+1,0));
+    for(int i=1; i<m+1; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        for(int j=1; j<n+1; j++)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            if(s[i-1]==t[j-1]) {dp[i][j]=dp[i-1][j-1]+1;}
+            else dp[i][j]= max(dp[i][j-1], dp[i-1][j]);
         }
     }
-    o(answer);
+    cout<<dp[m][n];
+    vi answer;
+    int i = m, j = n;
+    
+    while (i > 0 && j > 0) {
+        if (s[i-1] == t[j-1]) {
+            answer.push_back(s[i-1]);
+            i--;
+            j--;
+        } 
+        else if (dp[i-1][j] > dp[i][j-1]) {
+            i--; 
+        } 
+        else {
+            j--; 
+        }
+    }
+    reverse(answer.begin(), answer.end());
+    cout << "\n";
+    for(auto it: answer) {
+        cout << it << " ";
+    }
+    
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }

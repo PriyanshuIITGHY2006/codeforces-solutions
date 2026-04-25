@@ -98,23 +98,39 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+    int n; r(n);
+    vector<vector<char>> grid(2,vector<char>(n));
+    for(int i=0; i<2; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        for(int j=0; j<n; j++)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            r(grid[i][j]);
+            // o(grid[i][j]);
         }
     }
-    o(answer);
+    vi dp(n,0);
+    if(grid[0][0]!=grid[1][0]) dp[0]+=1;
+    if(n>1)
+    {char cur_u = grid[0][1], cur_d = grid[1][1], prev_u = grid[0][0], prev_d = grid[1][0];
+    int first = ((cur_u == 'R') ? 1 : 0) + ((cur_d == 'R') ? 1 : 0);
+    int second = ((cur_u == 'B') ? 1 : 0) + ((cur_d == 'B') ? 1 : 0);
+    int third = ((cur_u == 'B') ? 1 : 0) + ((cur_d == 'B') ? 1 : 0) + ((prev_u == 'B') ? 1 : 0) + ((prev_d == 'B') ? 1 : 0);
+    int fourth = ((cur_u == 'R') ? 1 : 0) + ((cur_d == 'R') ? 1 : 0) + ((prev_u == 'R') ? 1 : 0) + ((prev_d == 'R') ? 1 : 0);
+    int fifth = ((cur_u == 'R') ? 1 : 0) + ((cur_d == 'B') ? 1 : 0) + ((prev_u == 'R') ? 1 : 0) + ((prev_d == 'B') ? 1 : 0);
+    int sixth = ((cur_u == 'B') ? 1 : 0) + ((cur_d == 'R') ? 1 : 0) + ((prev_u == 'B') ? 1 : 0) + ((prev_d == 'R') ? 1 : 0);
+    dp[1] = min((dp[0]+min(first, second)), min(third, min(fourth, min( fifth, sixth))));}
+    for(int i=2; i<n; i++)
+    {
+        char cur_u = grid[0][i], cur_d = grid[1][i], prev_u = grid[0][i-1], prev_d = grid[1][i-1];
+        int first = ((cur_u == 'R') ? 1 : 0) + ((cur_d == 'R') ? 1 : 0);
+        int second = ((cur_u == 'B') ? 1 : 0) + ((cur_d == 'B') ? 1 : 0);
+        int third = ((cur_u == 'B') ? 1 : 0) + ((cur_d == 'B') ? 1 : 0) + ((prev_u == 'B') ? 1 : 0) + ((prev_d == 'B') ? 1 : 0);
+        int fourth = ((cur_u == 'R') ? 1 : 0) + ((cur_d == 'R') ? 1 : 0) + ((prev_u == 'R') ? 1 : 0) + ((prev_d == 'R') ? 1 : 0);
+        int fifth = ((cur_u == 'R') ? 1 : 0) + ((cur_d == 'B') ? 1 : 0) + ((prev_u == 'R') ? 1 : 0) + ((prev_d == 'B') ? 1 : 0) ;
+        int sixth = ((cur_u == 'B') ? 1 : 0) + ((cur_d == 'R') ? 1 : 0) + ((prev_u == 'B') ? 1 : 0) + ((prev_d == 'R') ? 1 : 0) ;
+        dp[i] = min(dp[i-1]+min(first, second), dp[i-2]+min(third, min(fourth, min( fifth, sixth))));
+    }
+    o(dp[n-1]);
 }
 
 int main() {

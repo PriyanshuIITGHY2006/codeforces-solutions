@@ -98,20 +98,20 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
+ int n;
     r(n);
     vi a = rvec(n);
     vi b = rvec(n);
     int answer=0;
     for(int i=0; i<n; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
+        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1 && __gcd(a[i], a[i+1])<=b[i]) answer++;
+        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1 && __gcd(a[i], a[i-1])<=b[i]) answer++;
         else if(i!=0 && i!=n-1)
         {
             int k = a[i]/__gcd(a[i], a[i+1]);
             int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            if(__gcd(k,l)>1 && a[i]/__gcd(k,l)<=b[i]) answer++;
         }
     }
     o(answer);

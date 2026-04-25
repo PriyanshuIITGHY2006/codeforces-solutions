@@ -82,7 +82,7 @@ template<typename T> vector<vector<T>> mkv2(int r, int c, T v={}) { return vecto
 inline vi iota_v(int n, int s=0) { vi a(n); iota(all(a), s); return a; }
 template<typename A,typename B> void rp(pair<A,B>& p)        { cin >> p.first >> p.second; }
 template<typename A,typename B> void pp(const pair<A,B>& p)  { cout << p.first << " " << p.second << "\n"; }
-template<typename T=int> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
+template<typename T=char> vector<T> rvec(int n){ vector<T> v(n); for(auto& x:v) cin>>x; return v; }
 // Read r lines of a string grid
 inline vs rvg(int r){ vs g(r); for(auto& s:g) cin>>s; return g; }
 template<typename... T>
@@ -98,23 +98,18 @@ void o(T first, Args... args) {
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
 void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+    int n, x;
+    r(n,x);
+    vector<char> v = rvec(n);
+    int L=0, R=0;
+    for(int i=0; i<x; i++)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
-        {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
-        }
+        if(v[i]=='#') L++;
     }
-    o(answer);
+    R = count(all(v), '#') - L;
+    int ans = L+R;
+    if(L==R) ans++;
+    o(ans);
 }
 
 int main() {

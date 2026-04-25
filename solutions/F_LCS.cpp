@@ -97,30 +97,73 @@ void o(T first, Args... args) {
 }
 #define YES cout<< "YES\n";
 #define NO cout<< "NO\n";
-void solve() {
-    int n;
-    r(n);
-    vi a = rvec(n);
-    vi b = rvec(n);
-    int answer=0;
-    for(int i=0; i<n; i++)
+int dpc(int &n, int &m, int i, int j, string &s1, string &s2, vector<vector<pair<int, char>>> &dp)
+{
+    if(dp[i][j].first==-1)
     {
-        if(i==0 && a[i]/__gcd(a[i], a[i+1])>1) answer++;
-        else if(i==n-1 && a[i]/__gcd(a[i], a[i-1])>1) answer++;
-        else if(i!=0 && i!=n-1)
+        if(i!=m && j!=n)
         {
-            int k = a[i]/__gcd(a[i], a[i+1]);
-            int l = a[i]/__gcd(a[i], a[i-1]);
-            if(__gcd(k,l)>1) answer++;
+            if(s1[i]==s2[j]) 
+            {
+                dp[i][j].first=1+ dpc(n, m, i+1, j+1, s1, s2, dp);
+                dp[i][j].second=s1[i];
+            }
+            else
+            {
+                int first = dpc(n, m, i+1, j, s1, s2, dp);
+                int second = dpc(n, m, i, j+1, s1, s2, dp);
+                if(first>second) 
+                {
+                    dp[i][j].first = first;
+                    dp[i][j].second='1';
+                }
+                else
+                {
+                    dp[i][j].first = second;
+                    dp[i][j].second='2';
+                }
+            }
+        }
+    }
+    return dp[i][j].first;
+}
+void solve() {
+    string s1, s2; r(s1, s2);
+    int m=s1.length();
+    int n= s2.length();
+    vector<vector<pair<int, char>>> dp(m+1, vector<pair<int, char>> (n+1,{-1,0}));
+    for(int i=0; i<m+1; i++)
+    {
+        dp[i][n].first = 0; 
+    }
+    for(int j=0; j<n+1; j++)
+    {
+        dp[m][j].first = 0; 
+    }
+    dpc(n, m, 0, 0, s1, s2, dp);
+    int i=0; int j=0;
+    string answer;
+    while(i<m && j<n)
+    {
+        if(dp[i][j].second=='1') i++;
+        else if (dp[i][j].second=='2') j++;
+        else
+        {
+            answer.pb(s1[i]);
+            i++;
+            j++;
         }
     }
     o(answer);
+
+
+
 }
 
 int main() {
     fastIO();
     int t = 1;
-    cin >> t;
+    // cin >> t;
     while (t--) solve();
     return 0;
 }
