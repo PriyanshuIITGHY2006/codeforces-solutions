@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 274
+**Total Problems:** 275
 
-**With Source Code:** 37 / 274
+**With Source Code:** 37 / 275
 
 
 ## Problems
@@ -274,6 +274,7 @@
 | 474D | [Flowers](problems/1700/474D-Flowers) | 1700 | `dp` | Yes | [CF](https://codeforces.com/contest/474/problem/D) |
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
+| 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/1714/problem/G) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
 | 2123F | [Minimize Fixed Points](problems/1700/2123F-Minimize-Fixed-Points) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2123/problem/F) |
@@ -300,14 +301,14 @@
 | `brute force` | 41 |
 | `number theory` | 41 |
 | `dp` | 37 |
-| `binary search` | 26 |
+| `binary search` | 27 |
 | `two pointers` | 21 |
-| `data structures` | 19 |
+| `data structures` | 20 |
 | `strings` | 15 |
 | `combinatorics` | 13 |
-| `trees` | 9 |
+| `trees` | 10 |
+| `dfs and similar` | 9 |
 | `bitmasks` | 9 |
-| `dfs and similar` | 8 |
 | `games` | 8 |
 | `graphs` | 6 |
 | `geometry` | 4 |
@@ -335,7 +336,7 @@
 | 1400 | 26 |
 | 1500 | 24 |
 | 1600 | 21 |
-| 1700 | 11 |
+| 1700 | 12 |
 | 1800 | 3 |
 | 1900 | 2 |
 | 2200 | 1 |
