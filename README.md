@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 275
+**Total Problems:** 276
 
-**With Source Code:** 37 / 275
+**With Source Code:** 37 / 276
 
 
 ## Problems
@@ -248,6 +248,7 @@
 | 2183C | [War Strategy](problems/1500/2183C-War-Strategy) | 1500 | `binary search`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2183/problem/C) |
 | 2185E | [The Robotic Rush](problems/1500/2185E-The-Robotic-Rush) | 1500 | `binary search`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2185/problem/E) |
 | 2200E | [Divisive Battle](problems/1500/2200E-Divisive-Battle) | 1500 | `games`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2200/problem/E) |
+| 369C | [Valera and Elections](problems/1600/369C-Valera-and-Elections) | 1600 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/369/problem/C) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
 | 763A | [Timofey and a tree](problems/1600/763A-Timofey-and-a-tree) | 1600 | `dfs and similar`, `dp`, `dsu`, `graphs`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/763/problem/A) |
 | 979C | [Kuro and Walking Route](problems/1600/979C-Kuro-and-Walking-Route) | 1600 | `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/979/problem/C) |
@@ -306,11 +307,11 @@
 | `data structures` | 20 |
 | `strings` | 15 |
 | `combinatorics` | 13 |
-| `trees` | 10 |
-| `dfs and similar` | 9 |
+| `trees` | 11 |
+| `dfs and similar` | 10 |
 | `bitmasks` | 9 |
 | `games` | 8 |
-| `graphs` | 6 |
+| `graphs` | 7 |
 | `geometry` | 4 |
 | `divide and conquer` | 3 |
 | `shortest paths` | 3 |
@@ -335,7 +336,7 @@
 | 1300 | 21 |
 | 1400 | 26 |
 | 1500 | 24 |
-| 1600 | 21 |
+| 1600 | 22 |
 | 1700 | 12 |
 | 1800 | 3 |
 | 1900 | 2 |
