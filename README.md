@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 276
+**Total Problems:** 277
 
-**With Source Code:** 56 / 276
+**With Source Code:** 56 / 277
 
 
 ## Problems
@@ -282,6 +282,7 @@
 | 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2132/problem/E) |
 | 2185F | [BattleCows](problems/1700/2185F-BattleCows) | 1700 | `data structures`, `divide and conquer`, `implementation` | - | [CF](https://codeforces.com/contest/2185/problem/F) |
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
+| 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/2216/problem/C) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
@@ -294,8 +295,8 @@
 
 | Tag | Count |
 |-----|-------|
+| `greedy` | 114 |
 | `math` | 114 |
-| `greedy` | 113 |
 | `implementation` | 73 |
 | `constructive algorithms` | 44 |
 | `sortings` | 42 |
@@ -337,7 +338,7 @@
 | 1400 | 26 |
 | 1500 | 24 |
 | 1600 | 22 |
-| 1700 | 12 |
+| 1700 | 13 |
 | 1800 | 3 |
 | 1900 | 2 |
 | 2200 | 1 |
