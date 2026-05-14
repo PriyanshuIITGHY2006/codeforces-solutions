@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 277
+**Total Problems:** 278
 
-**With Source Code:** 57 / 277
+**With Source Code:** 57 / 278
 
 
 ## Problems
@@ -273,6 +273,7 @@
 | 176B | [Word Cut](problems/1700/176B-Word-Cut) | 1700 | `dp` | - | [CF](https://codeforces.com/contest/176/problem/B) |
 | 327C | [Magic Five](problems/1700/327C-Magic-Five) | 1700 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/327/problem/C) |
 | 474D | [Flowers](problems/1700/474D-Flowers) | 1700 | `dp` | Yes | [CF](https://codeforces.com/contest/474/problem/D) |
+| 1093D | [Beautiful Graph](problems/1700/1093D-Beautiful-Graph) | 1700 | `dfs and similar`, `graphs` | - | [CF](https://codeforces.com/contest/1093/problem/D) |
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
@@ -308,11 +309,11 @@
 | `data structures` | 20 |
 | `strings` | 15 |
 | `combinatorics` | 13 |
+| `dfs and similar` | 11 |
 | `trees` | 11 |
-| `dfs and similar` | 10 |
 | `bitmasks` | 9 |
+| `graphs` | 8 |
 | `games` | 8 |
-| `graphs` | 7 |
 | `geometry` | 4 |
 | `divide and conquer` | 3 |
 | `shortest paths` | 3 |
@@ -338,7 +339,7 @@
 | 1400 | 26 |
 | 1500 | 24 |
 | 1600 | 22 |
-| 1700 | 13 |
+| 1700 | 14 |
 | 1800 | 3 |
 | 1900 | 2 |
 | 2200 | 1 |
