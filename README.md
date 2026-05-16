@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 278
+**Total Problems:** 279
 
-**With Source Code:** 57 / 278
+**With Source Code:** 57 / 279
 
 
 ## Problems
@@ -247,6 +247,7 @@
 | 2163C | [Monopati](problems/1500/2163C-Monopati) | 1500 | `brute force`, `combinatorics`, `dp`, `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2163/problem/C) |
 | 2183C | [War Strategy](problems/1500/2183C-War-Strategy) | 1500 | `binary search`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2183/problem/C) |
 | 2185E | [The Robotic Rush](problems/1500/2185E-The-Robotic-Rush) | 1500 | `binary search`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2185/problem/E) |
+| 2195E | [Idiot First Search](problems/1500/2195E-Idiot-First-Search) | 1500 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/2195/problem/E) |
 | 2200E | [Divisive Battle](problems/1500/2200E-Divisive-Battle) | 1500 | `games`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2200/problem/E) |
 | 369C | [Valera and Elections](problems/1600/369C-Valera-and-Elections) | 1600 | `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/369/problem/C) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
@@ -303,14 +304,14 @@
 | `sortings` | 42 |
 | `brute force` | 41 |
 | `number theory` | 41 |
-| `dp` | 37 |
+| `dp` | 38 |
 | `binary search` | 27 |
 | `two pointers` | 21 |
 | `data structures` | 20 |
 | `strings` | 15 |
 | `combinatorics` | 13 |
-| `dfs and similar` | 11 |
-| `trees` | 11 |
+| `dfs and similar` | 12 |
+| `trees` | 12 |
 | `bitmasks` | 9 |
 | `graphs` | 8 |
 | `games` | 8 |
@@ -337,7 +338,7 @@
 | 1200 | 33 |
 | 1300 | 21 |
 | 1400 | 26 |
-| 1500 | 24 |
+| 1500 | 25 |
 | 1600 | 22 |
 | 1700 | 14 |
 | 1800 | 3 |
