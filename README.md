@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 279
+**Total Problems:** 281
 
-**With Source Code:** 57 / 279
+**With Source Code:** 57 / 281
 
 
 ## Problems
@@ -220,6 +220,7 @@
 | 2151C | [Incremental Stay](problems/1400/2151C-Incremental-Stay) | 1400 | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2151/problem/C) |
 | 2158C | [Annoying Game](problems/1400/2158C-Annoying-Game) | 1400 | `dp`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/2158/problem/C) |
 | 2173C | [Kanade's Perfect Multiples](problems/1400/2173C-Kanades-Perfect-Multiples) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2173/problem/C) |
+| 2181B | [Battle of Arrays](problems/1400/2181B-Battle-of-Arrays) | 1400 | `data structures`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/2181/problem/B) |
 | 2209C | [Find the Zero](problems/1400/2209C-Find-the-Zero) | 1400 | `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2209/problem/C) |
 | 660580E | [Bitwise and Recruitment](problems/1400/660580E-Bitwise-and-Recruitment) | 1400 |  | - | [CF](https://codeforces.com/contest/660580/problem/E) |
 | 660580D | [LCM and Recruitment](problems/1400/660580D-LCM-and-Recruitment) | 1400 |  | - | [CF](https://codeforces.com/contest/660580/problem/D) |
@@ -240,6 +241,7 @@
 | 1338A | [Powered Addition](problems/1500/1338A-Powered-Addition) | 1500 | `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1338/problem/A) |
 | 1418C | [Mortal Kombat Tower](problems/1500/1418C-Mortal-Kombat-Tower) | 1500 | `dp`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1418/problem/C) |
 | 1486B | [Eastern Exhibition](problems/1500/1486B-Eastern-Exhibition) | 1500 | `binary search`, `geometry`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/1486/problem/B) |
+| 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
 | 2140C | [Ultimate Value](problems/1500/2140C-Ultimate-Value) | 1500 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2140/problem/C) |
@@ -297,8 +299,8 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 114 |
-| `math` | 114 |
+| `math` | 115 |
+| `greedy` | 115 |
 | `implementation` | 73 |
 | `constructive algorithms` | 44 |
 | `sortings` | 42 |
@@ -306,15 +308,15 @@
 | `number theory` | 41 |
 | `dp` | 38 |
 | `binary search` | 27 |
+| `data structures` | 21 |
 | `two pointers` | 21 |
-| `data structures` | 20 |
 | `strings` | 15 |
-| `combinatorics` | 13 |
+| `combinatorics` | 14 |
 | `dfs and similar` | 12 |
 | `trees` | 12 |
+| `games` | 9 |
 | `bitmasks` | 9 |
 | `graphs` | 8 |
-| `games` | 8 |
 | `geometry` | 4 |
 | `divide and conquer` | 3 |
 | `shortest paths` | 3 |
@@ -337,8 +339,8 @@
 | 1100 | 16 |
 | 1200 | 33 |
 | 1300 | 21 |
-| 1400 | 26 |
-| 1500 | 25 |
+| 1400 | 27 |
+| 1500 | 26 |
 | 1600 | 22 |
 | 1700 | 14 |
 | 1800 | 3 |
