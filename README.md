@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 282
+**Total Problems:** 283
 
-**With Source Code:** 57 / 282
+**With Source Code:** 57 / 283
 
 
 ## Problems
@@ -288,6 +288,7 @@
 | 2185F | [BattleCows](problems/1700/2185F-BattleCows) | 1700 | `data structures`, `divide and conquer`, `implementation` | - | [CF](https://codeforces.com/contest/2185/problem/F) |
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
+| 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
@@ -300,8 +301,8 @@
 
 | Tag | Count |
 |-----|-------|
+| `math` | 117 |
 | `greedy` | 116 |
-| `math` | 116 |
 | `implementation` | 73 |
 | `constructive algorithms` | 45 |
 | `brute force` | 42 |
@@ -311,8 +312,8 @@
 | `binary search` | 27 |
 | `two pointers` | 22 |
 | `data structures` | 21 |
+| `combinatorics` | 15 |
 | `strings` | 15 |
-| `combinatorics` | 14 |
 | `dfs and similar` | 12 |
 | `trees` | 12 |
 | `games` | 9 |
@@ -344,7 +345,7 @@
 | 1500 | 26 |
 | 1600 | 22 |
 | 1700 | 14 |
-| 1800 | 3 |
+| 1800 | 4 |
 | 1900 | 2 |
 | 2200 | 1 |
 | 2400 | 1 |
