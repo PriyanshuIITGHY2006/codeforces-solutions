@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 281
+**Total Problems:** 282
 
-**With Source Code:** 57 / 281
+**With Source Code:** 57 / 282
 
 
 ## Problems
@@ -217,6 +217,7 @@
 | 1837D | [Bracket Coloring](problems/1400/1837D-Bracket-Coloring) | 1400 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1837/problem/D) |
 | 1993C | [Light Switches](problems/1400/1993C-Light-Switches) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1993/problem/C) |
 | 2014D | [Robert Hood and Mrs Hood](problems/1400/2014D-Robert-Hood-and-Mrs-Hood) | 1400 | `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2014/problem/D) |
+| 2055C | [The Trail](problems/1400/2055C-The-Trail) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2055/problem/C) |
 | 2151C | [Incremental Stay](problems/1400/2151C-Incremental-Stay) | 1400 | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2151/problem/C) |
 | 2158C | [Annoying Game](problems/1400/2158C-Annoying-Game) | 1400 | `dp`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/2158/problem/C) |
 | 2173C | [Kanade's Perfect Multiples](problems/1400/2173C-Kanades-Perfect-Multiples) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2173/problem/C) |
@@ -299,17 +300,17 @@
 
 | Tag | Count |
 |-----|-------|
-| `math` | 115 |
-| `greedy` | 115 |
+| `greedy` | 116 |
+| `math` | 116 |
 | `implementation` | 73 |
-| `constructive algorithms` | 44 |
+| `constructive algorithms` | 45 |
+| `brute force` | 42 |
 | `sortings` | 42 |
-| `brute force` | 41 |
 | `number theory` | 41 |
 | `dp` | 38 |
 | `binary search` | 27 |
+| `two pointers` | 22 |
 | `data structures` | 21 |
-| `two pointers` | 21 |
 | `strings` | 15 |
 | `combinatorics` | 14 |
 | `dfs and similar` | 12 |
@@ -339,7 +340,7 @@
 | 1100 | 16 |
 | 1200 | 33 |
 | 1300 | 21 |
-| 1400 | 27 |
+| 1400 | 28 |
 | 1500 | 26 |
 | 1600 | 22 |
 | 1700 | 14 |
