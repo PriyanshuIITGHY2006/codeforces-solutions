@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 283
+**Total Problems:** 284
 
-**With Source Code:** 57 / 283
+**With Source Code:** 57 / 284
 
 
 ## Problems
@@ -179,6 +179,7 @@
 | 660722D | [Multiplication and Recruitment](problems/1200/660722D-Multiplication-and-Recruitment) | 1200 |  | - | [CF](https://codeforces.com/contest/660722/problem/D) |
 | 230B | [T-primes](problems/1300/230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/230/problem/B) |
 | 271B | [Prime Matrix](problems/1300/271B-Prime-Matrix) | 1300 | `binary search`, `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/271/problem/B) |
+| 1152B | [Neko Performs Cat Furrier Transform](problems/1300/1152B-Neko-Performs-Cat-Furrier-Transform) | 1300 | `bitmasks`, `constructive algorithms`, `dfs and similar`, `math` | - | [CF](https://codeforces.com/contest/1152/problem/B) |
 | 1225B2 | [TV Subscriptions (Hard Version)](problems/1300/1225B2-TV-Subscriptions-Hard-Version) | 1300 | `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/1225/problem/B2) |
 | 1741D | [Masha and a Beautiful Tree](problems/1300/1741D-Masha-and-a-Beautiful-Tree) | 1300 | `dfs and similar`, `divide and conquer`, `graphs`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/1741/problem/D) |
 | 1851D | [Prefix Permutation Sums](problems/1300/1851D-Prefix-Permutation-Sums) | 1300 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1851/problem/D) |
@@ -301,10 +302,10 @@
 
 | Tag | Count |
 |-----|-------|
-| `math` | 117 |
+| `math` | 118 |
 | `greedy` | 116 |
 | `implementation` | 73 |
-| `constructive algorithms` | 45 |
+| `constructive algorithms` | 46 |
 | `brute force` | 42 |
 | `sortings` | 42 |
 | `number theory` | 41 |
@@ -314,10 +315,10 @@
 | `data structures` | 21 |
 | `combinatorics` | 15 |
 | `strings` | 15 |
-| `dfs and similar` | 12 |
+| `dfs and similar` | 13 |
 | `trees` | 12 |
+| `bitmasks` | 10 |
 | `games` | 9 |
-| `bitmasks` | 9 |
 | `graphs` | 8 |
 | `geometry` | 4 |
 | `divide and conquer` | 3 |
@@ -340,7 +341,7 @@
 | 1000 | 30 |
 | 1100 | 16 |
 | 1200 | 33 |
-| 1300 | 21 |
+| 1300 | 22 |
 | 1400 | 28 |
 | 1500 | 26 |
 | 1600 | 22 |
