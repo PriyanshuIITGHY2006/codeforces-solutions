@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 294
+**Total Problems:** 295
 
-**With Source Code:** 67 / 294
+**With Source Code:** 67 / 295
 
 
 ## Problems
@@ -255,6 +255,7 @@
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
 | 2140C | [Ultimate Value](problems/1500/2140C-Ultimate-Value) | 1500 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2140/problem/C) |
+| 2147C | [Rabbits](problems/1500/2147C-Rabbits) | 1500 | `constructive algorithms`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2147/problem/C) |
 | 2155C | [The Ancient Wizards' Capes](problems/1500/2155C-The-Ancient-Wizards-Capes) | 1500 | `brute force`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2155/problem/C) |
 | 2163C | [Monopati](problems/1500/2163C-Monopati) | 1500 | `brute force`, `combinatorics`, `dp`, `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2163/problem/C) |
 | 2183C | [War Strategy](problems/1500/2183C-War-Strategy) | 1500 | `binary search`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2183/problem/C) |
@@ -312,14 +313,14 @@
 
 | Tag | Count |
 |-----|-------|
+| `greedy` | 119 |
 | `math` | 119 |
-| `greedy` | 118 |
-| `implementation` | 76 |
-| `constructive algorithms` | 46 |
+| `implementation` | 77 |
+| `constructive algorithms` | 47 |
 | `sortings` | 43 |
 | `brute force` | 42 |
 | `number theory` | 41 |
-| `dp` | 39 |
+| `dp` | 40 |
 | `binary search` | 29 |
 | `two pointers` | 23 |
 | `data structures` | 23 |
@@ -353,7 +354,7 @@
 | 1200 | 34 |
 | 1300 | 22 |
 | 1400 | 29 |
-| 1500 | 31 |
+| 1500 | 32 |
 | 1600 | 22 |
 | 1700 | 14 |
 | 1800 | 4 |
