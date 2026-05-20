@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 289
+**Total Problems:** 290
 
-**With Source Code:** 67 / 289
+**With Source Code:** 67 / 290
 
 
 ## Problems
@@ -298,6 +298,7 @@
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
+| 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
@@ -323,11 +324,11 @@
 | `dfs and similar` | 13 |
 | `trees` | 12 |
 | `bitmasks` | 10 |
+| `graphs` | 9 |
 | `games` | 9 |
-| `graphs` | 8 |
+| `shortest paths` | 4 |
 | `divide and conquer` | 4 |
 | `geometry` | 4 |
-| `shortest paths` | 3 |
 | `hashing` | 2 |
 | `dsu` | 2 |
 | `ternary search` | 2 |
@@ -352,7 +353,7 @@
 | 1600 | 22 |
 | 1700 | 14 |
 | 1800 | 4 |
-| 1900 | 2 |
+| 1900 | 3 |
 | 2200 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
