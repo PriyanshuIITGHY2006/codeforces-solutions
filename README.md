@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 288
+**Total Problems:** 289
 
-**With Source Code:** 67 / 288
+**With Source Code:** 67 / 289
 
 
 ## Problems
@@ -235,6 +235,7 @@
 | 576A | [Vasya and Petya's Game](problems/1500/576A-Vasya-and-Petyas-Game) | 1500 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/576/problem/A) |
 | 580C | [Kefa and Park](problems/1500/580C-Kefa-and-Park) | 1500 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/580/problem/C) |
 | 701C | [They Are Everywhere](problems/1500/701C-They-Are-Everywhere) | 1500 | `binary search`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/701/problem/C) |
+| 702C | [Cellular Network](problems/1500/702C-Cellular-Network) | 1500 | `binary search`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/702/problem/C) |
 | 845C | [Two TVs](problems/1500/845C-Two-TVs) | 1500 | `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/845/problem/C) |
 | 891A | [Pride](problems/1500/891A-Pride) | 1500 | `brute force`, `dp`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/891/problem/A) |
 | 930A | [Peculiar apple-tree](problems/1500/930A-Peculiar-apple-tree) | 1500 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/930/problem/A) |
@@ -308,15 +309,15 @@
 |-----|-------|
 | `math` | 119 |
 | `greedy` | 117 |
-| `implementation` | 75 |
+| `implementation` | 76 |
 | `constructive algorithms` | 46 |
 | `sortings` | 43 |
 | `brute force` | 42 |
 | `number theory` | 41 |
 | `dp` | 38 |
-| `binary search` | 28 |
+| `binary search` | 29 |
+| `two pointers` | 23 |
 | `data structures` | 23 |
-| `two pointers` | 22 |
 | `strings` | 16 |
 | `combinatorics` | 15 |
 | `dfs and similar` | 13 |
@@ -347,7 +348,7 @@
 | 1200 | 34 |
 | 1300 | 22 |
 | 1400 | 28 |
-| 1500 | 28 |
+| 1500 | 29 |
 | 1600 | 22 |
 | 1700 | 14 |
 | 1800 | 4 |
