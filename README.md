@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 295
+**Total Problems:** 296
 
-**With Source Code:** 67 / 295
+**With Source Code:** 67 / 296
 
 
 ## Problems
@@ -162,6 +162,7 @@
 | 1832C | [Contrast Value](problems/1200/1832C-Contrast-Value) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1832/problem/C) |
 | 1848B | [Vika and the Bridge](problems/1200/1848B-Vika-and-the-Bridge) | 1200 | `binary search`, `data structures`, `greedy`, `implementation`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/1848/problem/B) |
 | 1857C | [Assembly via Minimums](problems/1200/1857C-Assembly-via-Minimums) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1857/problem/C) |
+| 1860B | [Fancy Coins](problems/1200/1860B-Fancy-Coins) | 1200 | `binary search`, `brute force`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1860/problem/B) |
 | 1872D | [Plus Minus Permutation](problems/1200/1872D-Plus-Minus-Permutation) | 1200 | `math` | - | [CF](https://codeforces.com/contest/1872/problem/D) |
 | 1909B | [Make Almost Equal With Mod](problems/1200/1909B-Make-Almost-Equal-With-Mod) | 1200 | `bitmasks`, `constructive algorithms`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1909/problem/B) |
 | 1914D | [Three Activities](problems/1200/1914D-Three-Activities) | 1200 | `brute force`, `dp`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/1914/problem/D) |
@@ -313,15 +314,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 119 |
-| `math` | 119 |
+| `greedy` | 120 |
+| `math` | 120 |
 | `implementation` | 77 |
 | `constructive algorithms` | 47 |
+| `brute force` | 43 |
 | `sortings` | 43 |
-| `brute force` | 42 |
 | `number theory` | 41 |
 | `dp` | 40 |
-| `binary search` | 29 |
+| `binary search` | 30 |
 | `two pointers` | 23 |
 | `data structures` | 23 |
 | `dfs and similar` | 16 |
@@ -351,7 +352,7 @@
 | 0800 | 60 |
 | 1000 | 30 |
 | 1100 | 16 |
-| 1200 | 34 |
+| 1200 | 35 |
 | 1300 | 22 |
 | 1400 | 29 |
 | 1500 | 32 |
