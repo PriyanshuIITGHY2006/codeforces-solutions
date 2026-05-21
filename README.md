@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 299
+**Total Problems:** 304
 
-**With Source Code:** 67 / 299
+**With Source Code:** 67 / 304
 
 
 ## Problems
@@ -14,7 +14,10 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2225C | [Red-Black Pairs](problems/Unrated/2225C-Red-Black-Pairs) | ? | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2225/problem/C) |
+| 2230B | [Digit String](problems/Unrated/2230B-Digit-String) | ? | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/B) |
 | 2230C | [Arrange the Numbers in a Circle](problems/Unrated/2230C-Arrange-the-Numbers-in-a-Circle) | ? | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/C) |
+| 2231B | [Another Sorting Problem](problems/Unrated/2231B-Another-Sorting-Problem) | ? |  | - | [CF](https://codeforces.com/contest/2231/problem/B) |
+| 2231A | [Construct an Array](problems/Unrated/2231A-Construct-an-Array) | ? |  | - | [CF](https://codeforces.com/contest/2231/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -301,12 +304,14 @@
 | 2185F | [BattleCows](problems/1700/2185F-BattleCows) | 1700 | `data structures`, `divide and conquer`, `implementation` | - | [CF](https://codeforces.com/contest/2185/problem/F) |
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
+| 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
 | 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
+| 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
@@ -317,19 +322,19 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 123 |
-| `math` | 121 |
-| `implementation` | 77 |
+| `greedy` | 124 |
+| `math` | 122 |
+| `implementation` | 78 |
 | `constructive algorithms` | 48 |
-| `brute force` | 43 |
+| `brute force` | 44 |
+| `dp` | 43 |
 | `sortings` | 43 |
-| `dp` | 42 |
 | `number theory` | 42 |
 | `binary search` | 30 |
 | `data structures` | 24 |
 | `two pointers` | 23 |
+| `combinatorics` | 17 |
 | `dfs and similar` | 17 |
-| `combinatorics` | 16 |
 | `strings` | 16 |
 | `trees` | 14 |
 | `graphs` | 12 |
@@ -361,11 +366,11 @@
 | 1500 | 32 |
 | 1600 | 23 |
 | 1700 | 14 |
-| 1800 | 4 |
-| 1900 | 3 |
+| 1800 | 5 |
+| 1900 | 4 |
 | 2000 | 1 |
 | 2200 | 1 |
 | 2300 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 19 |
+| Unrated | 22 |
