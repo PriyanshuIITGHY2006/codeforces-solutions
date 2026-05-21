@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 296
+**Total Problems:** 299
 
-**With Source Code:** 67 / 296
+**With Source Code:** 67 / 299
 
 
 ## Problems
@@ -14,7 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2225C | [Red-Black Pairs](problems/Unrated/2225C-Red-Black-Pairs) | ? | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2225/problem/C) |
-| 2230C | [Arrange the Numbers in a Circle](problems/Unrated/2230C-Arrange-the-Numbers-in-a-Circle) | ? | `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/C) |
+| 2230C | [Arrange the Numbers in a Circle](problems/Unrated/2230C-Arrange-the-Numbers-in-a-Circle) | ? | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -219,6 +219,7 @@
 | 1330B | [Dreamoon Likes Permutations](problems/1400/1330B-Dreamoon-Likes-Permutations) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1330/problem/B) |
 | 1350B | [Orac and Models](problems/1400/1350B-Orac-and-Models) | 1400 | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1350/problem/B) |
 | 1837D | [Bracket Coloring](problems/1400/1837D-Bracket-Coloring) | 1400 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1837/problem/D) |
+| 1860C | [Game on Permutation](problems/1400/1860C-Game-on-Permutation) | 1400 | `data structures`, `dp`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/1860/problem/C) |
 | 1993C | [Light Switches](problems/1400/1993C-Light-Switches) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1993/problem/C) |
 | 2014D | [Robert Hood and Mrs Hood](problems/1400/2014D-Robert-Hood-and-Mrs-Hood) | 1400 | `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2014/problem/D) |
 | 2055C | [The Trail](problems/1400/2055C-The-Trail) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2055/problem/C) |
@@ -267,6 +268,7 @@
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
 | 763A | [Timofey and a tree](problems/1600/763A-Timofey-and-a-tree) | 1600 | `dfs and similar`, `dp`, `dsu`, `graphs`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/763/problem/A) |
 | 979C | [Kuro and Walking Route](problems/1600/979C-Kuro-and-Walking-Route) | 1600 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/979/problem/C) |
+| 986A | [Fair](problems/1600/986A-Fair) | 1600 | `graphs`, `greedy`, `number theory`, `shortest paths` | - | [CF](https://codeforces.com/contest/986/problem/A) |
 | 1015D | [Walking Between Houses](problems/1600/1015D-Walking-Between-Houses) | 1600 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1015/problem/D) |
 | 1251C | [Minimize The Integer](problems/1600/1251C-Minimize-The-Integer) | 1600 | `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/1251/problem/C) |
 | 1349A | [Orac and LCM](problems/1600/1349A-Orac-and-LCM) | 1600 | `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1349/problem/A) |
@@ -308,42 +310,43 @@
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
+| 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/2028/problem/E) |
 | 2176F | [Omega Numbers](problems/2400/2176F-Omega-Numbers) | 2400 | `bitmasks`, `combinatorics`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2176/problem/F) |
 
 ## Tag Distribution
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 120 |
-| `math` | 120 |
+| `greedy` | 123 |
+| `math` | 121 |
 | `implementation` | 77 |
-| `constructive algorithms` | 47 |
+| `constructive algorithms` | 48 |
 | `brute force` | 43 |
 | `sortings` | 43 |
-| `number theory` | 41 |
-| `dp` | 40 |
+| `dp` | 42 |
+| `number theory` | 42 |
 | `binary search` | 30 |
+| `data structures` | 24 |
 | `two pointers` | 23 |
-| `data structures` | 23 |
-| `dfs and similar` | 16 |
+| `dfs and similar` | 17 |
+| `combinatorics` | 16 |
 | `strings` | 16 |
-| `combinatorics` | 15 |
-| `trees` | 13 |
-| `graphs` | 11 |
+| `trees` | 14 |
+| `graphs` | 12 |
+| `games` | 11 |
 | `bitmasks` | 10 |
-| `games` | 9 |
-| `shortest paths` | 4 |
+| `shortest paths` | 5 |
 | `divide and conquer` | 4 |
 | `geometry` | 4 |
 | `interactive` | 3 |
 | `dsu` | 3 |
+| `probabilities` | 2 |
 | `hashing` | 2 |
 | `ternary search` | 2 |
 | `schedules` | 2 |
 | `matrices` | 2 |
 | `chinese remainder theorem` | 1 |
 | `expression parsing` | 1 |
-| `probabilities` | 1 |
 
 ## Rating Distribution
 
@@ -354,14 +357,15 @@
 | 1100 | 16 |
 | 1200 | 35 |
 | 1300 | 22 |
-| 1400 | 29 |
+| 1400 | 30 |
 | 1500 | 32 |
-| 1600 | 22 |
+| 1600 | 23 |
 | 1700 | 14 |
 | 1800 | 4 |
 | 1900 | 3 |
 | 2000 | 1 |
 | 2200 | 1 |
+| 2300 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
 | Unrated | 19 |

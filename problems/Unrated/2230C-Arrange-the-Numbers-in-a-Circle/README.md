@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `implementation`, `math`
+**Tags:** `constructive algorithms`, `implementation`, `math`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
