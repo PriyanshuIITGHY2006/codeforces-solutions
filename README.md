@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 304
+**Total Problems:** 306
 
-**With Source Code:** 67 / 304
+**With Source Code:** 67 / 306
 
 
 ## Problems
@@ -16,8 +16,9 @@
 | 2225C | [Red-Black Pairs](problems/Unrated/2225C-Red-Black-Pairs) | ? | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2225/problem/C) |
 | 2230B | [Digit String](problems/Unrated/2230B-Digit-String) | ? | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/B) |
 | 2230C | [Arrange the Numbers in a Circle](problems/Unrated/2230C-Arrange-the-Numbers-in-a-Circle) | ? | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/C) |
-| 2231B | [Another Sorting Problem](problems/Unrated/2231B-Another-Sorting-Problem) | ? |  | - | [CF](https://codeforces.com/contest/2231/problem/B) |
-| 2231A | [Construct an Array](problems/Unrated/2231A-Construct-an-Array) | ? |  | - | [CF](https://codeforces.com/contest/2231/problem/A) |
+| 2231C | [Chipmunk Theo and Equality](problems/Unrated/2231C-Chipmunk-Theo-and-Equality) | ? | `implementation` | - | [CF](https://codeforces.com/contest/2231/problem/C) |
+| 2231B | [Another Sorting Problem](problems/Unrated/2231B-Another-Sorting-Problem) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/B) |
+| 2231A | [Construct an Array](problems/Unrated/2231A-Construct-an-Array) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -279,6 +280,7 @@
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
 | 1633D | [Make Them Equal](problems/1600/1633D-Make-Them-Equal) | 1600 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1633/problem/D) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
+| 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
 | 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2065/problem/E) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
 | 2157D | [Billion Players Game](problems/1600/2157D-Billion-Players-Game) | 1600 | `binary search`, `greedy`, `math`, `sortings`, `ternary search`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2157/problem/D) |
@@ -322,16 +324,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 124 |
+| `greedy` | 125 |
 | `math` | 122 |
-| `implementation` | 78 |
-| `constructive algorithms` | 48 |
-| `brute force` | 44 |
+| `implementation` | 79 |
+| `constructive algorithms` | 50 |
+| `brute force` | 45 |
+| `sortings` | 44 |
 | `dp` | 43 |
-| `sortings` | 43 |
 | `number theory` | 42 |
-| `binary search` | 30 |
-| `data structures` | 24 |
+| `binary search` | 31 |
+| `data structures` | 25 |
 | `two pointers` | 23 |
 | `combinatorics` | 17 |
 | `dfs and similar` | 17 |
@@ -364,7 +366,7 @@
 | 1300 | 22 |
 | 1400 | 30 |
 | 1500 | 32 |
-| 1600 | 23 |
+| 1600 | 24 |
 | 1700 | 14 |
 | 1800 | 5 |
 | 1900 | 4 |
@@ -373,4 +375,4 @@
 | 2300 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 22 |
+| Unrated | 23 |
