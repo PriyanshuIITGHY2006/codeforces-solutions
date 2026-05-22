@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 307
+**Total Problems:** 308
 
-**With Source Code:** 67 / 307
+**With Source Code:** 67 / 308
 
 
 ## Problems
@@ -316,6 +316,7 @@
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
+| 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/2028/problem/E) |
@@ -325,17 +326,17 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 125 |
-| `math` | 122 |
+| `greedy` | 126 |
+| `math` | 123 |
 | `implementation` | 80 |
 | `constructive algorithms` | 50 |
-| `brute force` | 46 |
-| `sortings` | 44 |
-| `dp` | 43 |
+| `brute force` | 47 |
+| `sortings` | 45 |
+| `dp` | 44 |
 | `number theory` | 42 |
 | `binary search` | 31 |
-| `data structures` | 25 |
-| `two pointers` | 23 |
+| `data structures` | 26 |
+| `two pointers` | 24 |
 | `combinatorics` | 17 |
 | `dfs and similar` | 17 |
 | `strings` | 16 |
@@ -370,7 +371,7 @@
 | 1600 | 24 |
 | 1700 | 14 |
 | 1800 | 5 |
-| 1900 | 4 |
+| 1900 | 5 |
 | 2000 | 1 |
 | 2200 | 1 |
 | 2300 | 1 |
