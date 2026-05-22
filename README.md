@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 308
+**Total Problems:** 310
 
-**With Source Code:** 67 / 308
+**With Source Code:** 67 / 310
 
 
 ## Problems
@@ -186,6 +186,7 @@
 | 660722D | [Multiplication and Recruitment](problems/1200/660722D-Multiplication-and-Recruitment) | 1200 |  | - | [CF](https://codeforces.com/contest/660722/problem/D) |
 | 230B | [T-primes](problems/1300/230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/230/problem/B) |
 | 271B | [Prime Matrix](problems/1300/271B-Prime-Matrix) | 1300 | `binary search`, `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/271/problem/B) |
+| 862B | [Mahmoud and Ehab and the bipartiteness](problems/1300/862B-Mahmoud-and-Ehab-and-the-bipartiteness) | 1300 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/862/problem/B) |
 | 1152B | [Neko Performs Cat Furrier Transform](problems/1300/1152B-Neko-Performs-Cat-Furrier-Transform) | 1300 | `bitmasks`, `constructive algorithms`, `dfs and similar`, `math` | Yes | [CF](https://codeforces.com/contest/1152/problem/B) |
 | 1225B2 | [TV Subscriptions (Hard Version)](problems/1300/1225B2-TV-Subscriptions-Hard-Version) | 1300 | `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/1225/problem/B2) |
 | 1741D | [Masha and a Beautiful Tree](problems/1300/1741D-Masha-and-a-Beautiful-Tree) | 1300 | `dfs and similar`, `divide and conquer`, `graphs`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/1741/problem/D) |
@@ -217,6 +218,7 @@
 | 981C | [Useful Decomposition](problems/1400/981C-Useful-Decomposition) | 1400 | `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/981/problem/C) |
 | 1110B | [Tape](problems/1400/1110B-Tape) | 1400 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1110/problem/B) |
 | 1143C | [Queen](problems/1400/1143C-Queen) | 1400 | `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/1143/problem/C) |
+| 1167C | [News Distribution](problems/1400/1167C-News-Distribution) | 1400 | `dfs and similar`, `dsu`, `graphs` | - | [CF](https://codeforces.com/contest/1167/problem/C) |
 | 1183D | [Candy Box (easy version)](problems/1400/1183D-Candy-Box-easy-version) | 1400 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1183/problem/D) |
 | 1200C | [Round Corridor](problems/1400/1200C-Round-Corridor) | 1400 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1200/problem/C) |
 | 1201C | [Maximum Median](problems/1400/1201C-Maximum-Median) | 1400 | `binary search`, `greedy`, `math`, `sortings` | Yes | [CF](https://codeforces.com/contest/1201/problem/C) |
@@ -337,19 +339,19 @@
 | `binary search` | 31 |
 | `data structures` | 26 |
 | `two pointers` | 24 |
+| `dfs and similar` | 19 |
 | `combinatorics` | 17 |
-| `dfs and similar` | 17 |
 | `strings` | 16 |
-| `trees` | 14 |
-| `graphs` | 12 |
+| `trees` | 15 |
+| `graphs` | 14 |
 | `games` | 11 |
 | `bitmasks` | 10 |
 | `shortest paths` | 5 |
+| `dsu` | 4 |
 | `divide and conquer` | 4 |
 | `geometry` | 4 |
 | `matrices` | 3 |
 | `interactive` | 3 |
-| `dsu` | 3 |
 | `probabilities` | 2 |
 | `hashing` | 2 |
 | `ternary search` | 2 |
@@ -365,8 +367,8 @@
 | 1000 | 30 |
 | 1100 | 16 |
 | 1200 | 35 |
-| 1300 | 23 |
-| 1400 | 30 |
+| 1300 | 24 |
+| 1400 | 31 |
 | 1500 | 32 |
 | 1600 | 24 |
 | 1700 | 14 |
