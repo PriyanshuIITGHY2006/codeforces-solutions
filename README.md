@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 310
+**Total Problems:** 313
 
-**With Source Code:** 67 / 310
+**With Source Code:** 67 / 313
 
 
 ## Problems
@@ -196,6 +196,7 @@
 | 1900C | [Anji's Binary Tree](problems/1300/1900C-Anjis-Binary-Tree) | 1300 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1900/problem/C) |
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
 | 2036D | [I Love 1543](problems/1300/2036D-I-Love-1543) | 1300 | `brute force`, `implementation`, `matrices` | - | [CF](https://codeforces.com/contest/2036/problem/D) |
+| 2050D | [Digital string maximization](problems/1300/2050D-Digital-string-maximization) | 1300 | `brute force`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2050/problem/D) |
 | 2145C | [Monocarp's String](problems/1300/2145C-Monocarps-String) | 1300 | `binary search`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2145/problem/C) |
 | 2152B | [Catching the Krug](problems/1300/2152B-Catching-the-Krug) | 1300 | `games` | - | [CF](https://codeforces.com/contest/2152/problem/B) |
 | 2169C | [Range Operation](problems/1300/2169C-Range-Operation) | 1300 | `dp`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2169/problem/C) |
@@ -247,6 +248,7 @@
 | 580C | [Kefa and Park](problems/1500/580C-Kefa-and-Park) | 1500 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/580/problem/C) |
 | 701C | [They Are Everywhere](problems/1500/701C-They-Are-Everywhere) | 1500 | `binary search`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/701/problem/C) |
 | 702C | [Cellular Network](problems/1500/702C-Cellular-Network) | 1500 | `binary search`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/702/problem/C) |
+| 744A | [Hongcow Builds A Nation](problems/1500/744A-Hongcow-Builds-A-Nation) | 1500 | `dfs and similar`, `graphs` | - | [CF](https://codeforces.com/contest/744/problem/A) |
 | 845C | [Two TVs](problems/1500/845C-Two-TVs) | 1500 | `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/845/problem/C) |
 | 891A | [Pride](problems/1500/891A-Pride) | 1500 | `brute force`, `dp`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/891/problem/A) |
 | 930A | [Peculiar apple-tree](problems/1500/930A-Peculiar-apple-tree) | 1500 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/930/problem/A) |
@@ -301,6 +303,7 @@
 | 1093D | [Beautiful Graph](problems/1700/1093D-Beautiful-Graph) | 1700 | `dfs and similar`, `graphs` | Yes | [CF](https://codeforces.com/contest/1093/problem/D) |
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
+| 1365D | [Solve The Maze](problems/1700/1365D-Solve-The-Maze) | 1700 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `greedy`, `implementation`, `shortest paths` | - | [CF](https://codeforces.com/contest/1365/problem/D) |
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
@@ -328,26 +331,26 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 126 |
-| `math` | 123 |
-| `implementation` | 80 |
-| `constructive algorithms` | 50 |
-| `brute force` | 47 |
+| `greedy` | 128 |
+| `math` | 124 |
+| `implementation` | 81 |
+| `constructive algorithms` | 51 |
+| `brute force` | 48 |
 | `sortings` | 45 |
 | `dp` | 44 |
 | `number theory` | 42 |
 | `binary search` | 31 |
 | `data structures` | 26 |
 | `two pointers` | 24 |
-| `dfs and similar` | 19 |
+| `dfs and similar` | 21 |
+| `strings` | 17 |
 | `combinatorics` | 17 |
-| `strings` | 16 |
+| `graphs` | 16 |
 | `trees` | 15 |
-| `graphs` | 14 |
 | `games` | 11 |
 | `bitmasks` | 10 |
-| `shortest paths` | 5 |
-| `dsu` | 4 |
+| `shortest paths` | 6 |
+| `dsu` | 5 |
 | `divide and conquer` | 4 |
 | `geometry` | 4 |
 | `matrices` | 3 |
@@ -367,11 +370,11 @@
 | 1000 | 30 |
 | 1100 | 16 |
 | 1200 | 35 |
-| 1300 | 24 |
+| 1300 | 25 |
 | 1400 | 31 |
-| 1500 | 32 |
+| 1500 | 33 |
 | 1600 | 24 |
-| 1700 | 14 |
+| 1700 | 15 |
 | 1800 | 5 |
 | 1900 | 5 |
 | 2000 | 1 |
