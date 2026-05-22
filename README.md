@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 306
+**Total Problems:** 307
 
-**With Source Code:** 67 / 306
+**With Source Code:** 67 / 307
 
 
 ## Problems
@@ -194,6 +194,7 @@
 | 1881D | [Divide and Equalize](problems/1300/1881D-Divide-and-Equalize) | 1300 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1881/problem/D) |
 | 1900C | [Anji's Binary Tree](problems/1300/1900C-Anjis-Binary-Tree) | 1300 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1900/problem/C) |
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
+| 2036D | [I Love 1543](problems/1300/2036D-I-Love-1543) | 1300 | `brute force`, `implementation`, `matrices` | - | [CF](https://codeforces.com/contest/2036/problem/D) |
 | 2145C | [Monocarp's String](problems/1300/2145C-Monocarps-String) | 1300 | `binary search`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2145/problem/C) |
 | 2152B | [Catching the Krug](problems/1300/2152B-Catching-the-Krug) | 1300 | `games` | - | [CF](https://codeforces.com/contest/2152/problem/B) |
 | 2169C | [Range Operation](problems/1300/2169C-Range-Operation) | 1300 | `dp`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2169/problem/C) |
@@ -326,9 +327,9 @@
 |-----|-------|
 | `greedy` | 125 |
 | `math` | 122 |
-| `implementation` | 79 |
+| `implementation` | 80 |
 | `constructive algorithms` | 50 |
-| `brute force` | 45 |
+| `brute force` | 46 |
 | `sortings` | 44 |
 | `dp` | 43 |
 | `number theory` | 42 |
@@ -345,13 +346,13 @@
 | `shortest paths` | 5 |
 | `divide and conquer` | 4 |
 | `geometry` | 4 |
+| `matrices` | 3 |
 | `interactive` | 3 |
 | `dsu` | 3 |
 | `probabilities` | 2 |
 | `hashing` | 2 |
 | `ternary search` | 2 |
 | `schedules` | 2 |
-| `matrices` | 2 |
 | `chinese remainder theorem` | 1 |
 | `expression parsing` | 1 |
 
@@ -363,7 +364,7 @@
 | 1000 | 30 |
 | 1100 | 16 |
 | 1200 | 35 |
-| 1300 | 22 |
+| 1300 | 23 |
 | 1400 | 30 |
 | 1500 | 32 |
 | 1600 | 24 |
