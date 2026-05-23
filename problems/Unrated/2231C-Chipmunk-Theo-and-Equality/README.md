@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `implementation`
+**Tags:** `implementation`, `sortings`
 
 **Language:** C++23 (GCC 14-64, msys2)
 

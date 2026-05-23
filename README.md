@@ -16,7 +16,7 @@
 | 2225C | [Red-Black Pairs](problems/Unrated/2225C-Red-Black-Pairs) | ? | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2225/problem/C) |
 | 2230B | [Digit String](problems/Unrated/2230B-Digit-String) | ? | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/B) |
 | 2230C | [Arrange the Numbers in a Circle](problems/Unrated/2230C-Arrange-the-Numbers-in-a-Circle) | ? | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/C) |
-| 2231C | [Chipmunk Theo and Equality](problems/Unrated/2231C-Chipmunk-Theo-and-Equality) | ? | `implementation` | - | [CF](https://codeforces.com/contest/2231/problem/C) |
+| 2231C | [Chipmunk Theo and Equality](problems/Unrated/2231C-Chipmunk-Theo-and-Equality) | ? | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2231/problem/C) |
 | 2231B | [Another Sorting Problem](problems/Unrated/2231B-Another-Sorting-Problem) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/B) |
 | 2231A | [Construct an Array](problems/Unrated/2231A-Construct-an-Array) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
@@ -338,8 +338,8 @@
 | `implementation` | 82 |
 | `constructive algorithms` | 51 |
 | `brute force` | 49 |
+| `sortings` | 46 |
 | `dp` | 45 |
-| `sortings` | 45 |
 | `number theory` | 42 |
 | `binary search` | 31 |
 | `data structures` | 26 |
