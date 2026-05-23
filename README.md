@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 313
+**Total Problems:** 315
 
-**With Source Code:** 67 / 313
+**With Source Code:** 67 / 315
 
 
 ## Problems
@@ -154,6 +154,7 @@
 | 776B | [Sherlock and his girlfriend](problems/1200/776B-Sherlock-and-his-girlfriend) | 1200 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/776/problem/B) |
 | 913B | [Christmas Spruce](problems/1200/913B-Christmas-Spruce) | 1200 | `implementation`, `trees` | - | [CF](https://codeforces.com/contest/913/problem/B) |
 | 1334A | [Level Statistics](problems/1200/1334A-Level-Statistics) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1334/problem/A) |
+| 1355A | [Sequence with Digits](problems/1200/1355A-Sequence-with-Digits) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1355/problem/A) |
 | 1363A | [Odd Selection](problems/1200/1363A-Odd-Selection) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1363/problem/A) |
 | 1512D | [Corrupted Array](problems/1200/1512D-Corrupted-Array) | 1200 | `constructive algorithms`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/1512/problem/D) |
 | 1704C | [Virus](problems/1200/1704C-Virus) | 1200 | `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/1704/problem/C) |
@@ -264,6 +265,7 @@
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
+| 2053C | [Bewitching Stargazer](problems/1500/2053C-Bewitching-Stargazer) | 1500 | `bitmasks`, `divide and conquer`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2053/problem/C) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
 | 2140C | [Ultimate Value](problems/1500/2140C-Ultimate-Value) | 1500 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2140/problem/C) |
 | 2147C | [Rabbits](problems/1500/2147C-Rabbits) | 1500 | `constructive algorithms`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2147/problem/C) |
@@ -332,12 +334,12 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 128 |
-| `math` | 124 |
-| `implementation` | 81 |
+| `math` | 126 |
+| `implementation` | 82 |
 | `constructive algorithms` | 51 |
-| `brute force` | 48 |
+| `brute force` | 49 |
+| `dp` | 45 |
 | `sortings` | 45 |
-| `dp` | 44 |
 | `number theory` | 42 |
 | `binary search` | 31 |
 | `data structures` | 26 |
@@ -347,11 +349,11 @@
 | `combinatorics` | 17 |
 | `graphs` | 16 |
 | `trees` | 15 |
+| `bitmasks` | 11 |
 | `games` | 11 |
-| `bitmasks` | 10 |
 | `shortest paths` | 6 |
+| `divide and conquer` | 5 |
 | `dsu` | 5 |
-| `divide and conquer` | 4 |
 | `geometry` | 4 |
 | `matrices` | 3 |
 | `interactive` | 3 |
@@ -369,10 +371,10 @@
 | 0800 | 60 |
 | 1000 | 30 |
 | 1100 | 16 |
-| 1200 | 35 |
+| 1200 | 36 |
 | 1300 | 25 |
 | 1400 | 31 |
-| 1500 | 33 |
+| 1500 | 34 |
 | 1600 | 24 |
 | 1700 | 15 |
 | 1800 | 5 |
