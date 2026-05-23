@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 315
+**Total Problems:** 319
 
-**With Source Code:** 67 / 315
+**With Source Code:** 67 / 319
 
 
 ## Problems
@@ -36,6 +36,10 @@
 | 683474C | [Zeroes and Ones (Hard Version)](problems/Unrated/683474C-Zeroes-and-Ones-Hard-Version) | ? |  | Yes | [CF](https://codeforces.com/contest/683474/problem/C) |
 | 683474B | [tell min](problems/Unrated/683474B-tell-min) | ? |  | Yes | [CF](https://codeforces.com/contest/683474/problem/B) |
 | 683474A | [Zeroes and Ones (Easy Version)](problems/Unrated/683474A-Zeroes-and-Ones-Easy-Version) | ? |  | Yes | [CF](https://codeforces.com/contest/683474/problem/A) |
+| 684247B | [Flush Hour](problems/Unrated/684247B-Flush-Hour) | ? |  | - | [CF](https://codeforces.com/contest/684247/problem/B) |
+| 684247D2 | [Alice's Coins (Hard Version)](problems/Unrated/684247D2-Alices-Coins-Hard-Version) | ? |  | - | [CF](https://codeforces.com/contest/684247/problem/D2) |
+| 684247D1 | [Alice's Coins](problems/Unrated/684247D1-Alices-Coins) | ? |  | - | [CF](https://codeforces.com/contest/684247/problem/D1) |
+| 684247A | [Last Fill](problems/Unrated/684247A-Last-Fill) | ? |  | - | [CF](https://codeforces.com/contest/684247/problem/A) |
 | 4A | [Watermelon](problems/0800/4A-Watermelon) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/4/problem/A) |
 | 386A | [Second-Price Auction](problems/0800/386A-Second-Price-Auction) | 800 | `implementation` | - | [CF](https://codeforces.com/contest/386/problem/A) |
 | 1194A | [Remove a Progression](problems/0800/1194A-Remove-a-Progression) | 800 | `math` | - | [CF](https://codeforces.com/contest/1194/problem/A) |
@@ -384,4 +388,4 @@
 | 2300 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 23 |
+| Unrated | 27 |
