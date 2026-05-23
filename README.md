@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 319
+**Total Problems:** 320
 
-**With Source Code:** 67 / 319
+**With Source Code:** 67 / 320
 
 
 ## Problems
@@ -157,6 +157,7 @@
 | 725B | [Food on the Plane](problems/1200/725B-Food-on-the-Plane) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/725/problem/B) |
 | 776B | [Sherlock and his girlfriend](problems/1200/776B-Sherlock-and-his-girlfriend) | 1200 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/776/problem/B) |
 | 913B | [Christmas Spruce](problems/1200/913B-Christmas-Spruce) | 1200 | `implementation`, `trees` | - | [CF](https://codeforces.com/contest/913/problem/B) |
+| 1140D | [Minimum Triangulation](problems/1200/1140D-Minimum-Triangulation) | 1200 | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1140/problem/D) |
 | 1334A | [Level Statistics](problems/1200/1334A-Level-Statistics) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1334/problem/A) |
 | 1355A | [Sequence with Digits](problems/1200/1355A-Sequence-with-Digits) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1355/problem/A) |
 | 1363A | [Odd Selection](problems/1200/1363A-Odd-Selection) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1363/problem/A) |
@@ -337,13 +338,13 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 128 |
-| `math` | 126 |
+| `greedy` | 129 |
+| `math` | 127 |
 | `implementation` | 82 |
 | `constructive algorithms` | 51 |
 | `brute force` | 49 |
+| `dp` | 46 |
 | `sortings` | 46 |
-| `dp` | 45 |
 | `number theory` | 42 |
 | `binary search` | 31 |
 | `data structures` | 26 |
@@ -375,7 +376,7 @@
 | 0800 | 60 |
 | 1000 | 30 |
 | 1100 | 16 |
-| 1200 | 36 |
+| 1200 | 37 |
 | 1300 | 25 |
 | 1400 | 31 |
 | 1500 | 34 |
