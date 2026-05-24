@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 320
+**Total Problems:** 322
 
-**With Source Code:** 67 / 320
+**With Source Code:** 67 / 322
 
 
 ## Problems
@@ -313,6 +313,7 @@
 | 1365D | [Solve The Maze](problems/1700/1365D-Solve-The-Maze) | 1700 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `greedy`, `implementation`, `shortest paths` | - | [CF](https://codeforces.com/contest/1365/problem/D) |
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
+| 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/1950/problem/F) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
 | 2123F | [Minimize Fixed Points](problems/1700/2123F-Minimize-Fixed-Points) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2123/problem/F) |
 | 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2132/problem/E) |
@@ -320,6 +321,7 @@
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
+| 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
@@ -338,13 +340,13 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 129 |
+| `greedy` | 130 |
 | `math` | 127 |
-| `implementation` | 82 |
+| `implementation` | 83 |
 | `constructive algorithms` | 51 |
-| `brute force` | 49 |
+| `brute force` | 50 |
+| `sortings` | 47 |
 | `dp` | 46 |
-| `sortings` | 46 |
 | `number theory` | 42 |
 | `binary search` | 31 |
 | `data structures` | 26 |
@@ -352,9 +354,9 @@
 | `dfs and similar` | 21 |
 | `strings` | 17 |
 | `combinatorics` | 17 |
+| `trees` | 16 |
 | `graphs` | 16 |
-| `trees` | 15 |
-| `bitmasks` | 11 |
+| `bitmasks` | 12 |
 | `games` | 11 |
 | `shortest paths` | 6 |
 | `divide and conquer` | 5 |
@@ -381,8 +383,8 @@
 | 1400 | 31 |
 | 1500 | 34 |
 | 1600 | 24 |
-| 1700 | 15 |
-| 1800 | 5 |
+| 1700 | 16 |
+| 1800 | 6 |
 | 1900 | 5 |
 | 2000 | 1 |
 | 2200 | 1 |
