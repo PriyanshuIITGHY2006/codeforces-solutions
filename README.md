@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 325
+**Total Problems:** 328
 
-**With Source Code:** 67 / 325
+**With Source Code:** 67 / 328
 
 
 ## Problems
@@ -158,6 +158,7 @@
 | 776B | [Sherlock and his girlfriend](problems/1200/776B-Sherlock-and-his-girlfriend) | 1200 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/776/problem/B) |
 | 913B | [Christmas Spruce](problems/1200/913B-Christmas-Spruce) | 1200 | `implementation`, `trees` | - | [CF](https://codeforces.com/contest/913/problem/B) |
 | 1140D | [Minimum Triangulation](problems/1200/1140D-Minimum-Triangulation) | 1200 | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1140/problem/D) |
+| 1328C | [Ternary XOR](problems/1200/1328C-Ternary-XOR) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1328/problem/C) |
 | 1334A | [Level Statistics](problems/1200/1334A-Level-Statistics) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1334/problem/A) |
 | 1355A | [Sequence with Digits](problems/1200/1355A-Sequence-with-Digits) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1355/problem/A) |
 | 1363A | [Odd Selection](problems/1200/1363A-Odd-Selection) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1363/problem/A) |
@@ -268,6 +269,7 @@
 | 1418C | [Mortal Kombat Tower](problems/1500/1418C-Mortal-Kombat-Tower) | 1500 | `dp`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1418/problem/C) |
 | 1419D2 | [Sage's Birthday (hard version)](problems/1500/1419D2-Sages-Birthday-hard-version) | 1500 | `binary search`, `brute force`, `constructive algorithms`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1419/problem/D2) |
 | 1486B | [Eastern Exhibition](problems/1500/1486B-Eastern-Exhibition) | 1500 | `binary search`, `geometry`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/1486/problem/B) |
+| 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
@@ -313,6 +315,7 @@
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1365D | [Solve The Maze](problems/1700/1365D-Solve-The-Maze) | 1700 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `greedy`, `implementation`, `shortest paths` | - | [CF](https://codeforces.com/contest/1365/problem/D) |
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
+| 1731D | [Valiant's New Map](problems/1700/1731D-Valiants-New-Map) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | - | [CF](https://codeforces.com/contest/1731/problem/D) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/1950/problem/F) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
@@ -343,17 +346,17 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 132 |
-| `math` | 127 |
-| `implementation` | 84 |
+| `greedy` | 133 |
+| `math` | 128 |
+| `implementation` | 85 |
+| `brute force` | 52 |
 | `constructive algorithms` | 52 |
-| `brute force` | 51 |
+| `dp` | 49 |
 | `sortings` | 48 |
-| `dp` | 47 |
-| `number theory` | 42 |
-| `binary search` | 33 |
-| `data structures` | 28 |
-| `two pointers` | 25 |
+| `number theory` | 43 |
+| `binary search` | 35 |
+| `data structures` | 29 |
+| `two pointers` | 26 |
 | `dfs and similar` | 21 |
 | `strings` | 17 |
 | `combinatorics` | 17 |
@@ -381,12 +384,12 @@
 | 0800 | 60 |
 | 1000 | 30 |
 | 1100 | 16 |
-| 1200 | 37 |
+| 1200 | 38 |
 | 1300 | 25 |
 | 1400 | 31 |
-| 1500 | 35 |
+| 1500 | 36 |
 | 1600 | 24 |
-| 1700 | 16 |
+| 1700 | 17 |
 | 1800 | 6 |
 | 1900 | 5 |
 | 2000 | 2 |
