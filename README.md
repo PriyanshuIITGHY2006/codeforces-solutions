@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 330
+**Total Problems:** 331
 
-**With Source Code:** 67 / 330
+**With Source Code:** 67 / 331
 
 
 ## Problems
@@ -269,6 +269,7 @@
 | 1418C | [Mortal Kombat Tower](problems/1500/1418C-Mortal-Kombat-Tower) | 1500 | `dp`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1418/problem/C) |
 | 1419D2 | [Sage's Birthday (hard version)](problems/1500/1419D2-Sages-Birthday-hard-version) | 1500 | `binary search`, `brute force`, `constructive algorithms`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1419/problem/D2) |
 | 1486B | [Eastern Exhibition](problems/1500/1486B-Eastern-Exhibition) | 1500 | `binary search`, `geometry`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/1486/problem/B) |
+| 1516B | [AGAGA XOOORRR](problems/1500/1516B-AGAGA-XOOORRR) | 1500 | `bitmasks`, `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1516/problem/B) |
 | 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
@@ -348,13 +349,13 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 135 |
+| `greedy` | 136 |
 | `math` | 128 |
 | `implementation` | 86 |
-| `brute force` | 53 |
+| `brute force` | 54 |
 | `constructive algorithms` | 53 |
+| `dp` | 50 |
 | `sortings` | 49 |
-| `dp` | 49 |
 | `number theory` | 43 |
 | `binary search` | 35 |
 | `data structures` | 30 |
@@ -364,7 +365,7 @@
 | `combinatorics` | 17 |
 | `trees` | 16 |
 | `graphs` | 16 |
-| `bitmasks` | 12 |
+| `bitmasks` | 13 |
 | `games` | 11 |
 | `shortest paths` | 6 |
 | `divide and conquer` | 5 |
@@ -389,7 +390,7 @@
 | 1200 | 38 |
 | 1300 | 25 |
 | 1400 | 31 |
-| 1500 | 36 |
+| 1500 | 37 |
 | 1600 | 24 |
 | 1700 | 18 |
 | 1800 | 7 |
