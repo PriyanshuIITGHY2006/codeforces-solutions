@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 329
+**Total Problems:** 330
 
-**With Source Code:** 67 / 329
+**With Source Code:** 67 / 330
 
 
 ## Problems
@@ -314,6 +314,7 @@
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1365D | [Solve The Maze](problems/1700/1365D-Solve-The-Maze) | 1700 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `greedy`, `implementation`, `shortest paths` | - | [CF](https://codeforces.com/contest/1365/problem/D) |
+| 1474C | [Array Destruction](problems/1700/1474C-Array-Destruction) | 1700 | `brute force`, `constructive algorithms`, `data structures`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/1474/problem/C) |
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
 | 1731D | [Valiant's New Map](problems/1700/1731D-Valiants-New-Map) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | - | [CF](https://codeforces.com/contest/1731/problem/D) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
@@ -347,16 +348,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 134 |
+| `greedy` | 135 |
 | `math` | 128 |
-| `implementation` | 85 |
-| `brute force` | 52 |
-| `constructive algorithms` | 52 |
+| `implementation` | 86 |
+| `brute force` | 53 |
+| `constructive algorithms` | 53 |
+| `sortings` | 49 |
 | `dp` | 49 |
-| `sortings` | 48 |
 | `number theory` | 43 |
 | `binary search` | 35 |
-| `data structures` | 29 |
+| `data structures` | 30 |
 | `two pointers` | 26 |
 | `dfs and similar` | 21 |
 | `strings` | 17 |
@@ -390,7 +391,7 @@
 | 1400 | 31 |
 | 1500 | 36 |
 | 1600 | 24 |
-| 1700 | 17 |
+| 1700 | 18 |
 | 1800 | 7 |
 | 1900 | 5 |
 | 2000 | 2 |
