@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 328
+**Total Problems:** 329
 
-**With Source Code:** 67 / 328
+**With Source Code:** 67 / 329
 
 
 ## Problems
@@ -326,6 +326,7 @@
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
+| 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
@@ -346,7 +347,7 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 133 |
+| `greedy` | 134 |
 | `math` | 128 |
 | `implementation` | 85 |
 | `brute force` | 52 |
@@ -390,7 +391,7 @@
 | 1500 | 36 |
 | 1600 | 24 |
 | 1700 | 17 |
-| 1800 | 6 |
+| 1800 | 7 |
 | 1900 | 5 |
 | 2000 | 2 |
 | 2100 | 1 |
