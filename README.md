@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 334
+**Total Problems:** 335
 
-**With Source Code:** 67 / 334
+**With Source Code:** 67 / 335
 
 
 ## Problems
@@ -341,6 +341,7 @@
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
+| 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1486/problem/D) |
@@ -355,12 +356,12 @@
 | `greedy` | 138 |
 | `math` | 128 |
 | `implementation` | 87 |
+| `constructive algorithms` | 54 |
 | `brute force` | 54 |
-| `constructive algorithms` | 53 |
 | `dp` | 52 |
 | `sortings` | 50 |
 | `number theory` | 43 |
-| `binary search` | 36 |
+| `binary search` | 37 |
 | `data structures` | 30 |
 | `two pointers` | 26 |
 | `dfs and similar` | 22 |
@@ -368,14 +369,14 @@
 | `combinatorics` | 17 |
 | `trees` | 16 |
 | `graphs` | 16 |
-| `bitmasks` | 13 |
+| `bitmasks` | 14 |
 | `games` | 11 |
 | `shortest paths` | 6 |
 | `divide and conquer` | 5 |
 | `dsu` | 5 |
+| `interactive` | 4 |
 | `geometry` | 4 |
 | `matrices` | 3 |
-| `interactive` | 3 |
 | `probabilities` | 2 |
 | `hashing` | 2 |
 | `ternary search` | 2 |
@@ -397,7 +398,7 @@
 | 1600 | 24 |
 | 1700 | 18 |
 | 1800 | 8 |
-| 1900 | 5 |
+| 1900 | 6 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
