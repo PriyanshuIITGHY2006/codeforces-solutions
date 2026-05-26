@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 331
+**Total Problems:** 334
 
-**With Source Code:** 67 / 331
+**With Source Code:** 67 / 334
 
 
 ## Problems
@@ -14,6 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2225C | [Red-Black Pairs](problems/Unrated/2225C-Red-Black-Pairs) | ? | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2225/problem/C) |
+| 2228C2 | [Cirno and Number (Hard Version)](problems/Unrated/2228C2-Cirno-and-Number-Hard-Version) | ? | `binary search`, `dfs and similar`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2228/problem/C2) |
 | 2230B | [Digit String](problems/Unrated/2230B-Digit-String) | ? | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/B) |
 | 2230C | [Arrange the Numbers in a Circle](problems/Unrated/2230C-Arrange-the-Numbers-in-a-Circle) | ? | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/C) |
 | 2231C | [Chipmunk Theo and Equality](problems/Unrated/2231C-Chipmunk-Theo-and-Equality) | ? | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2231/problem/C) |
@@ -180,6 +181,7 @@
 | 1975C | [Chamo and Mocha's Array](problems/1200/1975C-Chamo-and-Mochas-Array) | 1200 | `binary search`, `brute force`, `greedy` | - | [CF](https://codeforces.com/contest/1975/problem/C) |
 | 1979C | [Earning on Bets](problems/1200/1979C-Earning-on-Bets) | 1200 | `binary search`, `combinatorics`, `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/1979/problem/C) |
 | 1982B | [Collatz Conjecture](problems/1200/1982B-Collatz-Conjecture) | 1200 | `brute force`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1982/problem/B) |
+| 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
 | 2134C | [Even Larger](problems/1200/2134C-Even-Larger) | 1200 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2134/problem/C) |
 | 2158B | [Split](problems/1200/2158B-Split) | 1200 | `constructive algorithms`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2158/problem/B) |
@@ -328,6 +330,7 @@
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
+| 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | - | [CF](https://codeforces.com/contest/1974/problem/E) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
@@ -349,18 +352,18 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 136 |
+| `greedy` | 138 |
 | `math` | 128 |
-| `implementation` | 86 |
+| `implementation` | 87 |
 | `brute force` | 54 |
 | `constructive algorithms` | 53 |
-| `dp` | 50 |
-| `sortings` | 49 |
+| `dp` | 52 |
+| `sortings` | 50 |
 | `number theory` | 43 |
-| `binary search` | 35 |
+| `binary search` | 36 |
 | `data structures` | 30 |
 | `two pointers` | 26 |
-| `dfs and similar` | 21 |
+| `dfs and similar` | 22 |
 | `strings` | 17 |
 | `combinatorics` | 17 |
 | `trees` | 16 |
@@ -387,13 +390,13 @@
 | 0800 | 60 |
 | 1000 | 30 |
 | 1100 | 16 |
-| 1200 | 38 |
+| 1200 | 39 |
 | 1300 | 25 |
 | 1400 | 31 |
 | 1500 | 37 |
 | 1600 | 24 |
 | 1700 | 18 |
-| 1800 | 7 |
+| 1800 | 8 |
 | 1900 | 5 |
 | 2000 | 2 |
 | 2100 | 1 |
@@ -401,4 +404,4 @@
 | 2300 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 27 |
+| Unrated | 28 |
