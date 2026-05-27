@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 335
+**Total Problems:** 337
 
-**With Source Code:** 67 / 335
+**With Source Code:** 67 / 337
 
 
 ## Problems
@@ -206,6 +206,7 @@
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
 | 2036D | [I Love 1543](problems/1300/2036D-I-Love-1543) | 1300 | `brute force`, `implementation`, `matrices` | - | [CF](https://codeforces.com/contest/2036/problem/D) |
 | 2050D | [Digital string maximization](problems/1300/2050D-Digital-string-maximization) | 1300 | `brute force`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2050/problem/D) |
+| 2091E | [Interesting Ratio](problems/1300/2091E-Interesting-Ratio) | 1300 | `brute force`, `math`, `number theory`, `two pointers` | - | [CF](https://codeforces.com/contest/2091/problem/E) |
 | 2145C | [Monocarp's String](problems/1300/2145C-Monocarps-String) | 1300 | `binary search`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2145/problem/C) |
 | 2152B | [Catching the Krug](problems/1300/2152B-Catching-the-Krug) | 1300 | `games` | - | [CF](https://codeforces.com/contest/2152/problem/B) |
 | 2169C | [Range Operation](problems/1300/2169C-Range-Operation) | 1300 | `dp`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2169/problem/C) |
@@ -273,6 +274,7 @@
 | 1486B | [Eastern Exhibition](problems/1500/1486B-Eastern-Exhibition) | 1500 | `binary search`, `geometry`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/1486/problem/B) |
 | 1516B | [AGAGA XOOORRR](problems/1500/1516B-AGAGA-XOOORRR) | 1500 | `bitmasks`, `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1516/problem/B) |
 | 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
+| 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
@@ -354,16 +356,16 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 138 |
-| `math` | 128 |
-| `implementation` | 87 |
+| `math` | 129 |
+| `implementation` | 88 |
+| `brute force` | 55 |
 | `constructive algorithms` | 54 |
-| `brute force` | 54 |
 | `dp` | 52 |
 | `sortings` | 50 |
-| `number theory` | 43 |
-| `binary search` | 37 |
-| `data structures` | 30 |
-| `two pointers` | 26 |
+| `number theory` | 44 |
+| `binary search` | 38 |
+| `data structures` | 31 |
+| `two pointers` | 27 |
 | `dfs and similar` | 22 |
 | `strings` | 17 |
 | `combinatorics` | 17 |
@@ -392,9 +394,9 @@
 | 1000 | 30 |
 | 1100 | 16 |
 | 1200 | 39 |
-| 1300 | 25 |
+| 1300 | 26 |
 | 1400 | 31 |
-| 1500 | 37 |
+| 1500 | 38 |
 | 1600 | 24 |
 | 1700 | 18 |
 | 1800 | 8 |
