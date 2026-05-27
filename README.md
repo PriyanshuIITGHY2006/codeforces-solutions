@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 337
+**Total Problems:** 338
 
-**With Source Code:** 67 / 337
+**With Source Code:** 67 / 338
 
 
 ## Problems
@@ -227,6 +227,7 @@
 | 703B | [Mishka and trip](problems/1400/703B-Mishka-and-trip) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/703/problem/B) |
 | 816B | [Karen and Coffee](problems/1400/816B-Karen-and-Coffee) | 1400 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/816/problem/B) |
 | 981C | [Useful Decomposition](problems/1400/981C-Useful-Decomposition) | 1400 | `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/981/problem/C) |
+| 1097C | [Yuhao and a Parenthesis](problems/1400/1097C-Yuhao-and-a-Parenthesis) | 1400 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1097/problem/C) |
 | 1110B | [Tape](problems/1400/1110B-Tape) | 1400 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1110/problem/B) |
 | 1143C | [Queen](problems/1400/1143C-Queen) | 1400 | `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/1143/problem/C) |
 | 1167C | [News Distribution](problems/1400/1167C-News-Distribution) | 1400 | `dfs and similar`, `dsu`, `graphs` | - | [CF](https://codeforces.com/contest/1167/problem/C) |
@@ -355,9 +356,9 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 138 |
+| `greedy` | 139 |
 | `math` | 129 |
-| `implementation` | 88 |
+| `implementation` | 89 |
 | `brute force` | 55 |
 | `constructive algorithms` | 54 |
 | `dp` | 52 |
@@ -395,7 +396,7 @@
 | 1100 | 16 |
 | 1200 | 39 |
 | 1300 | 26 |
-| 1400 | 31 |
+| 1400 | 32 |
 | 1500 | 38 |
 | 1600 | 24 |
 | 1700 | 18 |
