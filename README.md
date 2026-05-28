@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 338
+**Total Problems:** 340
 
-**With Source Code:** 67 / 338
+**With Source Code:** 67 / 340
 
 
 ## Problems
@@ -289,6 +289,7 @@
 | 2185E | [The Robotic Rush](problems/1500/2185E-The-Robotic-Rush) | 1500 | `binary search`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2185/problem/E) |
 | 2195E | [Idiot First Search](problems/1500/2195E-Idiot-First-Search) | 1500 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/2195/problem/E) |
 | 2200E | [Divisive Battle](problems/1500/2200E-Divisive-Battle) | 1500 | `games`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2200/problem/E) |
+| 165C | [Another Problem on Strings](problems/1600/165C-Another-Problem-on-Strings) | 1600 | `binary search`, `brute force`, `dp`, `math`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/165/problem/C) |
 | 369C | [Valera and Elections](problems/1600/369C-Valera-and-Elections) | 1600 | `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/369/problem/C) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
 | 763A | [Timofey and a tree](problems/1600/763A-Timofey-and-a-tree) | 1600 | `dfs and similar`, `dp`, `dsu`, `graphs`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/763/problem/A) |
@@ -344,6 +345,7 @@
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
+| 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
@@ -356,19 +358,19 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 139 |
-| `math` | 129 |
-| `implementation` | 89 |
-| `brute force` | 55 |
-| `constructive algorithms` | 54 |
-| `dp` | 52 |
+| `greedy` | 140 |
+| `math` | 130 |
+| `implementation` | 90 |
+| `brute force` | 56 |
+| `constructive algorithms` | 55 |
+| `dp` | 54 |
 | `sortings` | 50 |
 | `number theory` | 44 |
-| `binary search` | 38 |
-| `data structures` | 31 |
-| `two pointers` | 27 |
+| `binary search` | 39 |
+| `data structures` | 32 |
+| `two pointers` | 28 |
 | `dfs and similar` | 22 |
-| `strings` | 17 |
+| `strings` | 18 |
 | `combinatorics` | 17 |
 | `trees` | 16 |
 | `graphs` | 16 |
@@ -398,10 +400,10 @@
 | 1300 | 26 |
 | 1400 | 32 |
 | 1500 | 38 |
-| 1600 | 24 |
+| 1600 | 25 |
 | 1700 | 18 |
 | 1800 | 8 |
-| 1900 | 6 |
+| 1900 | 7 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
