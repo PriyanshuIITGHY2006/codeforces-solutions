@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 340
+**Total Problems:** 341
 
-**With Source Code:** 67 / 340
+**With Source Code:** 67 / 341
 
 
 ## Problems
@@ -182,6 +182,7 @@
 | 1979C | [Earning on Bets](problems/1200/1979C-Earning-on-Bets) | 1200 | `binary search`, `combinatorics`, `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/1979/problem/C) |
 | 1982B | [Collatz Conjecture](problems/1200/1982B-Collatz-Conjecture) | 1200 | `brute force`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1982/problem/B) |
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
+| 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
 | 2134C | [Even Larger](problems/1200/2134C-Even-Larger) | 1200 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2134/problem/C) |
 | 2158B | [Split](problems/1200/2158B-Split) | 1200 | `constructive algorithms`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2158/problem/B) |
@@ -359,10 +360,10 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 140 |
-| `math` | 130 |
+| `math` | 131 |
 | `implementation` | 90 |
-| `brute force` | 56 |
-| `constructive algorithms` | 55 |
+| `brute force` | 57 |
+| `constructive algorithms` | 56 |
 | `dp` | 54 |
 | `sortings` | 50 |
 | `number theory` | 44 |
@@ -396,7 +397,7 @@
 | 0800 | 60 |
 | 1000 | 30 |
 | 1100 | 16 |
-| 1200 | 39 |
+| 1200 | 40 |
 | 1300 | 26 |
 | 1400 | 32 |
 | 1500 | 38 |
