@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 345
+**Total Problems:** 346
 
-**With Source Code:** 67 / 345
+**With Source Code:** 67 / 346
 
 
 ## Problems
@@ -208,6 +208,7 @@
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
 | 2036D | [I Love 1543](problems/1300/2036D-I-Love-1543) | 1300 | `brute force`, `implementation`, `matrices` | - | [CF](https://codeforces.com/contest/2036/problem/D) |
 | 2050D | [Digital string maximization](problems/1300/2050D-Digital-string-maximization) | 1300 | `brute force`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2050/problem/D) |
+| 2072D | [For Wizards, the Exam Is Easy, but I Couldn't Handle It](problems/1300/2072D-For-Wizards-the-Exam-Is-Easy-but-I-Couldnt-Handle-It) | 1300 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2072/problem/D) |
 | 2091E | [Interesting Ratio](problems/1300/2091E-Interesting-Ratio) | 1300 | `brute force`, `math`, `number theory`, `two pointers` | - | [CF](https://codeforces.com/contest/2091/problem/E) |
 | 2145C | [Monocarp's String](problems/1300/2145C-Monocarps-String) | 1300 | `binary search`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2145/problem/C) |
 | 2152B | [Catching the Krug](problems/1300/2152B-Catching-the-Krug) | 1300 | `games` | - | [CF](https://codeforces.com/contest/2152/problem/B) |
@@ -363,10 +364,10 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 142 |
+| `greedy` | 143 |
 | `math` | 131 |
-| `implementation` | 91 |
-| `brute force` | 58 |
+| `implementation` | 92 |
+| `brute force` | 59 |
 | `dp` | 56 |
 | `constructive algorithms` | 56 |
 | `sortings` | 51 |
@@ -402,7 +403,7 @@
 | 1000 | 30 |
 | 1100 | 16 |
 | 1200 | 41 |
-| 1300 | 26 |
+| 1300 | 27 |
 | 1400 | 32 |
 | 1500 | 38 |
 | 1600 | 26 |
