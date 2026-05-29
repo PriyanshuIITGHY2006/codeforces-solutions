@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 343
+**Total Problems:** 344
 
-**With Source Code:** 67 / 343
+**With Source Code:** 67 / 344
 
 
 ## Problems
@@ -348,6 +348,7 @@
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
+| 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
@@ -364,9 +365,9 @@
 | `greedy` | 142 |
 | `math` | 131 |
 | `implementation` | 91 |
-| `brute force` | 57 |
+| `brute force` | 58 |
 | `constructive algorithms` | 56 |
-| `dp` | 54 |
+| `dp` | 55 |
 | `sortings` | 51 |
 | `number theory` | 44 |
 | `binary search` | 40 |
@@ -406,7 +407,7 @@
 | 1600 | 26 |
 | 1700 | 18 |
 | 1800 | 8 |
-| 1900 | 7 |
+| 1900 | 8 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
