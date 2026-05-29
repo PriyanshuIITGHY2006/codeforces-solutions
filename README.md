@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 341
+**Total Problems:** 343
 
-**With Source Code:** 67 / 341
+**With Source Code:** 67 / 343
 
 
 ## Problems
@@ -184,6 +184,7 @@
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
+| 2121C | [Those Who Are With Us](problems/1200/2121C-Those-Who-Are-With-Us) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2121/problem/C) |
 | 2134C | [Even Larger](problems/1200/2134C-Even-Larger) | 1200 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2134/problem/C) |
 | 2158B | [Split](problems/1200/2158B-Split) | 1200 | `constructive algorithms`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2158/problem/B) |
 | 2161C | [Loyalty](problems/1200/2161C-Loyalty) | 1200 | `constructive algorithms`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2161/problem/C) |
@@ -303,6 +304,7 @@
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
 | 1633D | [Make Them Equal](problems/1600/1633D-Make-Them-Equal) | 1600 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1633/problem/D) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
+| 2046B | [Move Back at a Cost](problems/1600/2046B-Move-Back-at-a-Cost) | 1600 | `binary search`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/B) |
 | 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
 | 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2065/problem/E) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
@@ -359,16 +361,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 140 |
+| `greedy` | 142 |
 | `math` | 131 |
-| `implementation` | 90 |
+| `implementation` | 91 |
 | `brute force` | 57 |
 | `constructive algorithms` | 56 |
 | `dp` | 54 |
-| `sortings` | 50 |
+| `sortings` | 51 |
 | `number theory` | 44 |
-| `binary search` | 39 |
-| `data structures` | 32 |
+| `binary search` | 40 |
+| `data structures` | 33 |
 | `two pointers` | 28 |
 | `dfs and similar` | 22 |
 | `strings` | 18 |
@@ -397,11 +399,11 @@
 | 0800 | 60 |
 | 1000 | 30 |
 | 1100 | 16 |
-| 1200 | 40 |
+| 1200 | 41 |
 | 1300 | 26 |
 | 1400 | 32 |
 | 1500 | 38 |
-| 1600 | 25 |
+| 1600 | 26 |
 | 1700 | 18 |
 | 1800 | 8 |
 | 1900 | 7 |
