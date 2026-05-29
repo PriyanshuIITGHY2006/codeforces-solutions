@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 344
+**Total Problems:** 345
 
-**With Source Code:** 67 / 344
+**With Source Code:** 67 / 345
 
 
 ## Problems
@@ -346,6 +346,7 @@
 | 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
+| 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
@@ -366,17 +367,17 @@
 | `math` | 131 |
 | `implementation` | 91 |
 | `brute force` | 58 |
+| `dp` | 56 |
 | `constructive algorithms` | 56 |
-| `dp` | 55 |
 | `sortings` | 51 |
 | `number theory` | 44 |
 | `binary search` | 40 |
 | `data structures` | 33 |
 | `two pointers` | 28 |
-| `dfs and similar` | 22 |
+| `dfs and similar` | 23 |
 | `strings` | 18 |
+| `trees` | 17 |
 | `combinatorics` | 17 |
-| `trees` | 16 |
 | `graphs` | 16 |
 | `bitmasks` | 14 |
 | `games` | 11 |
@@ -407,7 +408,7 @@
 | 1600 | 26 |
 | 1700 | 18 |
 | 1800 | 8 |
-| 1900 | 8 |
+| 1900 | 9 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
