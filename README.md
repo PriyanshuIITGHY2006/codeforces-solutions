@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 349
+**Total Problems:** 350
 
-**With Source Code:** 67 / 349
+**With Source Code:** 67 / 350
 
 
 ## Problems
@@ -338,6 +338,7 @@
 | 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2132/problem/E) |
 | 2185F | [BattleCows](problems/1700/2185F-BattleCows) | 1700 | `data structures`, `divide and conquer`, `implementation` | - | [CF](https://codeforces.com/contest/2185/problem/F) |
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
+| 2215A | [Interval Mod](problems/1700/2215A-Interval-Mod) | 1700 | `constructive algorithms`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2215/problem/A) |
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
@@ -367,12 +368,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 145 |
-| `math` | 132 |
+| `greedy` | 146 |
+| `math` | 133 |
 | `implementation` | 93 |
+| `constructive algorithms` | 59 |
 | `brute force` | 59 |
-| `constructive algorithms` | 58 |
-| `dp` | 56 |
+| `dp` | 57 |
 | `sortings` | 52 |
 | `number theory` | 45 |
 | `binary search` | 40 |
@@ -410,7 +411,7 @@
 | 1400 | 33 |
 | 1500 | 38 |
 | 1600 | 27 |
-| 1700 | 19 |
+| 1700 | 20 |
 | 1800 | 8 |
 | 1900 | 9 |
 | 2000 | 2 |
