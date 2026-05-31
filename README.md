@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 347
+**Total Problems:** 348
 
-**With Source Code:** 67 / 347
+**With Source Code:** 67 / 348
 
 
 ## Problems
@@ -91,6 +91,7 @@
 | 2209A | [Flip Flops](problems/0800/2209A-Flip-Flops) | 800 | `greedy` | Yes | [CF](https://codeforces.com/contest/2209/problem/A) |
 | 2210A | [A Simple Sequence](problems/0800/2210A-A-Simple-Sequence) | 800 | `constructive algorithms`, `dp`, `greedy`, `number theory` | Yes | [CF](https://codeforces.com/contest/2210/problem/A) |
 | 2211A | [Antimedian Deletion](problems/0800/2211A-Antimedian-Deletion) | 800 | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/A) |
+| 2224A | [Zhily and Array Operating](problems/0800/2224A-Zhily-and-Array-Operating) | 800 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2224/problem/A) |
 | 2231A | [Construct an Array](problems/0800/2231A-Construct-an-Array) | 800 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/A) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
@@ -365,12 +366,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 143 |
+| `greedy` | 144 |
 | `math` | 131 |
 | `implementation` | 93 |
 | `brute force` | 59 |
+| `constructive algorithms` | 57 |
 | `dp` | 56 |
-| `constructive algorithms` | 56 |
 | `sortings` | 52 |
 | `number theory` | 44 |
 | `binary search` | 40 |
@@ -400,7 +401,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 61 |
+| 0800 | 62 |
 | 1000 | 31 |
 | 1100 | 18 |
 | 1200 | 41 |
