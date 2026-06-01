@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 352
+**Total Problems:** 354
 
-**With Source Code:** 67 / 352
+**With Source Code:** 67 / 354
 
 
 ## Problems
@@ -294,6 +294,7 @@
 | 2185E | [The Robotic Rush](problems/1500/2185E-The-Robotic-Rush) | 1500 | `binary search`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2185/problem/E) |
 | 2195E | [Idiot First Search](problems/1500/2195E-Idiot-First-Search) | 1500 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/2195/problem/E) |
 | 2200E | [Divisive Battle](problems/1500/2200E-Divisive-Battle) | 1500 | `games`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2200/problem/E) |
+| 2226C | [Mental Monumental (Easy Version)](problems/1500/2226C-Mental-Monumental-Easy-Version) | 1500 | `binary search`, `data structures`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2226/problem/C) |
 | 165C | [Another Problem on Strings](problems/1600/165C-Another-Problem-on-Strings) | 1600 | `binary search`, `brute force`, `dp`, `math`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/165/problem/C) |
 | 369C | [Valera and Elections](problems/1600/369C-Valera-and-Elections) | 1600 | `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/369/problem/C) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
@@ -342,6 +343,7 @@
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
 | 2215A | [Interval Mod](problems/1700/2215A-Interval-Mod) | 1700 | `constructive algorithms`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2215/problem/A) |
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
+| 2227F | [It Just Keeps Going Sideways](problems/1700/2227F-It-Just-Keeps-Going-Sideways) | 1700 | `binary search`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2227/problem/F) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | - | [CF](https://codeforces.com/contest/1974/problem/E) |
@@ -370,17 +372,17 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 148 |
-| `math` | 133 |
+| `greedy` | 150 |
+| `math` | 135 |
 | `implementation` | 95 |
+| `dp` | 60 |
 | `constructive algorithms` | 60 |
-| `dp` | 59 |
 | `brute force` | 59 |
 | `sortings` | 52 |
 | `number theory` | 45 |
-| `binary search` | 42 |
-| `data structures` | 36 |
-| `two pointers` | 28 |
+| `binary search` | 44 |
+| `data structures` | 38 |
+| `two pointers` | 29 |
 | `dfs and similar` | 23 |
 | `trees` | 19 |
 | `strings` | 18 |
@@ -411,9 +413,9 @@
 | 1200 | 41 |
 | 1300 | 29 |
 | 1400 | 34 |
-| 1500 | 38 |
+| 1500 | 39 |
 | 1600 | 28 |
-| 1700 | 20 |
+| 1700 | 21 |
 | 1800 | 8 |
 | 1900 | 9 |
 | 2000 | 2 |
