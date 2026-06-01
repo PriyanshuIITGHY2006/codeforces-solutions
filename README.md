@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 354
+**Total Problems:** 356
 
-**With Source Code:** 67 / 354
+**With Source Code:** 67 / 356
 
 
 ## Problems
@@ -142,6 +142,7 @@
 | 1917B | [Erase First or Second Letter](problems/1100/1917B-Erase-First-or-Second-Letter) | 1100 | `brute force`, `combinatorics`, `data structures`, `dp`, `strings` | - | [CF](https://codeforces.com/contest/1917/problem/B) |
 | 2043B | [Digits](problems/1100/2043B-Digits) | 1100 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2043/problem/B) |
 | 2070B | [Robot Program](problems/1100/2070B-Robot-Program) | 1100 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2070/problem/B) |
+| 2104C | [Card Game](problems/1100/2104C-Card-Game) | 1100 | `brute force`, `constructive algorithms`, `games`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2104/problem/C) |
 | 2125C | [Count Good Numbers](problems/1100/2125C-Count-Good-Numbers) | 1100 | `bitmasks`, `combinatorics`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2125/problem/C) |
 | 2131C | [Make it Equal](problems/1100/2131C-Make-it-Equal) | 1100 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2131/problem/C) |
 | 2155B | [Abraham's Great Escape](problems/1100/2155B-Abrahams-Great-Escape) | 1100 | `constructive algorithms`, `graphs` | - | [CF](https://codeforces.com/contest/2155/problem/B) |
@@ -285,6 +286,7 @@
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2053C | [Bewitching Stargazer](problems/1500/2053C-Bewitching-Stargazer) | 1500 | `bitmasks`, `divide and conquer`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2053/problem/C) |
+| 2070C | [Limited Repainting](problems/1500/2070C-Limited-Repainting) | 1500 | `binary search`, `greedy` | - | [CF](https://codeforces.com/contest/2070/problem/C) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
 | 2140C | [Ultimate Value](problems/1500/2140C-Ultimate-Value) | 1500 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2140/problem/C) |
 | 2147C | [Rabbits](problems/1500/2147C-Rabbits) | 1500 | `constructive algorithms`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2147/problem/C) |
@@ -372,15 +374,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 150 |
-| `math` | 135 |
+| `greedy` | 152 |
+| `math` | 136 |
 | `implementation` | 95 |
+| `constructive algorithms` | 61 |
+| `brute force` | 60 |
 | `dp` | 60 |
-| `constructive algorithms` | 60 |
-| `brute force` | 59 |
 | `sortings` | 52 |
+| `binary search` | 45 |
 | `number theory` | 45 |
-| `binary search` | 44 |
 | `data structures` | 38 |
 | `two pointers` | 29 |
 | `dfs and similar` | 23 |
@@ -389,7 +391,7 @@
 | `combinatorics` | 17 |
 | `graphs` | 16 |
 | `bitmasks` | 14 |
-| `games` | 11 |
+| `games` | 12 |
 | `dsu` | 7 |
 | `shortest paths` | 6 |
 | `divide and conquer` | 5 |
@@ -409,11 +411,11 @@
 |--------|-------|
 | 0800 | 62 |
 | 1000 | 31 |
-| 1100 | 18 |
+| 1100 | 19 |
 | 1200 | 41 |
 | 1300 | 29 |
 | 1400 | 34 |
-| 1500 | 39 |
+| 1500 | 40 |
 | 1600 | 28 |
 | 1700 | 21 |
 | 1800 | 8 |
