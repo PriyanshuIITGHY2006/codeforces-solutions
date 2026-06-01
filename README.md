@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 356
+**Total Problems:** 357
 
-**With Source Code:** 67 / 356
+**With Source Code:** 67 / 357
 
 
 ## Problems
@@ -309,6 +309,7 @@
 | 1513C | [Add One](problems/1600/1513C-Add-One) | 1600 | `dp`, `matrices` | - | [CF](https://codeforces.com/contest/1513/problem/C) |
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
 | 1633D | [Make Them Equal](problems/1600/1633D-Make-Them-Equal) | 1600 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1633/problem/D) |
+| 1775C | [Interesting Sequence](problems/1600/1775C-Interesting-Sequence) | 1600 | `bitmasks`, `math` | - | [CF](https://codeforces.com/contest/1775/problem/C) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
 | 2046B | [Move Back at a Cost](problems/1600/2046B-Move-Back-at-a-Cost) | 1600 | `binary search`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/B) |
 | 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
@@ -375,7 +376,7 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 152 |
-| `math` | 136 |
+| `math` | 137 |
 | `implementation` | 95 |
 | `constructive algorithms` | 61 |
 | `brute force` | 60 |
@@ -390,7 +391,7 @@
 | `strings` | 18 |
 | `combinatorics` | 17 |
 | `graphs` | 16 |
-| `bitmasks` | 14 |
+| `bitmasks` | 15 |
 | `games` | 12 |
 | `dsu` | 7 |
 | `shortest paths` | 6 |
@@ -416,7 +417,7 @@
 | 1300 | 29 |
 | 1400 | 34 |
 | 1500 | 40 |
-| 1600 | 28 |
+| 1600 | 29 |
 | 1700 | 21 |
 | 1800 | 8 |
 | 1900 | 9 |
