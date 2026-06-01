@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 350
+**Total Problems:** 352
 
-**With Source Code:** 67 / 350
+**With Source Code:** 67 / 352
 
 
 ## Problems
@@ -248,6 +248,7 @@
 | 2133C | [The Nether](problems/1400/2133C-The-Nether) | 1400 | `graphs`, `interactive` | - | [CF](https://codeforces.com/contest/2133/problem/C) |
 | 2151C | [Incremental Stay](problems/1400/2151C-Incremental-Stay) | 1400 | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2151/problem/C) |
 | 2158C | [Annoying Game](problems/1400/2158C-Annoying-Game) | 1400 | `dp`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/2158/problem/C) |
+| 2171D | [Rae Taylor and Trees (easy version)](problems/1400/2171D-Rae-Taylor-and-Trees-easy-version) | 1400 | `binary search`, `data structures`, `dp`, `dsu`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/2171/problem/D) |
 | 2173C | [Kanade's Perfect Multiples](problems/1400/2173C-Kanades-Perfect-Multiples) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2173/problem/C) |
 | 2181B | [Battle of Arrays](problems/1400/2181B-Battle-of-Arrays) | 1400 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2181/problem/B) |
 | 2209C | [Find the Zero](problems/1400/2209C-Find-the-Zero) | 1400 | `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2209/problem/C) |
@@ -312,6 +313,7 @@
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
 | 2157D | [Billion Players Game](problems/1600/2157D-Billion-Players-Game) | 1600 | `binary search`, `greedy`, `math`, `sortings`, `ternary search`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2157/problem/D) |
 | 2167G | [Mukhammadali and the Smooth Array](problems/1600/2167G-Mukhammadali-and-the-Smooth-Array) | 1600 | `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/2167/problem/G) |
+| 2171F | [Rae Taylor and Trees (hard version)](problems/1600/2171F-Rae-Taylor-and-Trees-hard-version) | 1600 | `binary search`, `constructive algorithms`, `data structures`, `dp`, `dsu`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/2171/problem/F) |
 | 2182D | [Christmas Tree Decoration](problems/1600/2182D-Christmas-Tree-Decoration) | 1600 | `combinatorics`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2182/problem/D) |
 | 2184D | [Unfair Game](problems/1600/2184D-Unfair-Game) | 1600 | `combinatorics`, `dp`, `math` | Yes | [CF](https://codeforces.com/contest/2184/problem/D) |
 | 2193F | [Pizza Delivery](problems/1600/2193F-Pizza-Delivery) | 1600 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2193/problem/F) |
@@ -368,27 +370,27 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 146 |
+| `greedy` | 148 |
 | `math` | 133 |
-| `implementation` | 93 |
-| `constructive algorithms` | 59 |
+| `implementation` | 95 |
+| `constructive algorithms` | 60 |
+| `dp` | 59 |
 | `brute force` | 59 |
-| `dp` | 57 |
 | `sortings` | 52 |
 | `number theory` | 45 |
-| `binary search` | 40 |
-| `data structures` | 34 |
+| `binary search` | 42 |
+| `data structures` | 36 |
 | `two pointers` | 28 |
 | `dfs and similar` | 23 |
+| `trees` | 19 |
 | `strings` | 18 |
-| `trees` | 17 |
 | `combinatorics` | 17 |
 | `graphs` | 16 |
 | `bitmasks` | 14 |
 | `games` | 11 |
+| `dsu` | 7 |
 | `shortest paths` | 6 |
 | `divide and conquer` | 5 |
-| `dsu` | 5 |
 | `interactive` | 4 |
 | `geometry` | 4 |
 | `matrices` | 3 |
@@ -408,9 +410,9 @@
 | 1100 | 18 |
 | 1200 | 41 |
 | 1300 | 29 |
-| 1400 | 33 |
+| 1400 | 34 |
 | 1500 | 38 |
-| 1600 | 27 |
+| 1600 | 28 |
 | 1700 | 20 |
 | 1800 | 8 |
 | 1900 | 9 |
