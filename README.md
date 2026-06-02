@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 357
+**Total Problems:** 358
 
-**With Source Code:** 67 / 357
+**With Source Code:** 67 / 358
 
 
 ## Problems
@@ -307,6 +307,7 @@
 | 1251C | [Minimize The Integer](problems/1600/1251C-Minimize-The-Integer) | 1600 | `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/1251/problem/C) |
 | 1349A | [Orac and LCM](problems/1600/1349A-Orac-and-LCM) | 1600 | `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1349/problem/A) |
 | 1513C | [Add One](problems/1600/1513C-Add-One) | 1600 | `dp`, `matrices` | - | [CF](https://codeforces.com/contest/1513/problem/C) |
+| 1537E1 | [Erase and Extend (Easy Version)](problems/1600/1537E1-Erase-and-Extend-Easy-Version) | 1600 | `binary search`, `brute force`, `dp`, `greedy`, `hashing`, `implementation`, `string suffix structures`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/1537/problem/E1) |
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
 | 1633D | [Make Them Equal](problems/1600/1633D-Make-Them-Equal) | 1600 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1633/problem/D) |
 | 1775C | [Interesting Sequence](problems/1600/1775C-Interesting-Sequence) | 1600 | `bitmasks`, `math` | - | [CF](https://codeforces.com/contest/1775/problem/C) |
@@ -375,20 +376,20 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 152 |
+| `greedy` | 153 |
 | `math` | 137 |
-| `implementation` | 95 |
+| `implementation` | 96 |
+| `brute force` | 61 |
+| `dp` | 61 |
 | `constructive algorithms` | 61 |
-| `brute force` | 60 |
-| `dp` | 60 |
 | `sortings` | 52 |
-| `binary search` | 45 |
+| `binary search` | 46 |
 | `number theory` | 45 |
 | `data structures` | 38 |
-| `two pointers` | 29 |
+| `two pointers` | 30 |
 | `dfs and similar` | 23 |
+| `strings` | 19 |
 | `trees` | 19 |
-| `strings` | 18 |
 | `combinatorics` | 17 |
 | `graphs` | 16 |
 | `bitmasks` | 15 |
@@ -398,11 +399,12 @@
 | `divide and conquer` | 5 |
 | `interactive` | 4 |
 | `geometry` | 4 |
+| `hashing` | 3 |
 | `matrices` | 3 |
 | `probabilities` | 2 |
-| `hashing` | 2 |
 | `ternary search` | 2 |
 | `schedules` | 2 |
+| `string suffix structures` | 1 |
 | `chinese remainder theorem` | 1 |
 | `expression parsing` | 1 |
 
@@ -417,7 +419,7 @@
 | 1300 | 29 |
 | 1400 | 34 |
 | 1500 | 40 |
-| 1600 | 29 |
+| 1600 | 30 |
 | 1700 | 21 |
 | 1800 | 8 |
 | 1900 | 9 |
