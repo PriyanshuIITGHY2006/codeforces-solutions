@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 358
+**Total Problems:** 360
 
-**With Source Code:** 67 / 358
+**With Source Code:** 67 / 360
 
 
 ## Problems
@@ -180,6 +180,7 @@
 | 1975C | [Chamo and Mocha's Array](problems/1200/1975C-Chamo-and-Mochas-Array) | 1200 | `binary search`, `brute force`, `greedy` | - | [CF](https://codeforces.com/contest/1975/problem/C) |
 | 1979C | [Earning on Bets](problems/1200/1979C-Earning-on-Bets) | 1200 | `binary search`, `combinatorics`, `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/1979/problem/C) |
 | 1982B | [Collatz Conjecture](problems/1200/1982B-Collatz-Conjecture) | 1200 | `brute force`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1982/problem/B) |
+| 2021B | [Maximize Mex](problems/1200/2021B-Maximize-Mex) | 1200 | `brute force`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2021/problem/B) |
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
@@ -358,6 +359,7 @@
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
 | 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
+| 366C | [Dima and Salad](problems/1900/366C-Dima-and-Salad) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/366/problem/C) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
@@ -376,15 +378,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 153 |
-| `math` | 137 |
+| `greedy` | 154 |
+| `math` | 138 |
 | `implementation` | 96 |
-| `brute force` | 61 |
-| `dp` | 61 |
+| `dp` | 62 |
+| `brute force` | 62 |
 | `constructive algorithms` | 61 |
 | `sortings` | 52 |
+| `number theory` | 46 |
 | `binary search` | 46 |
-| `number theory` | 45 |
 | `data structures` | 38 |
 | `two pointers` | 30 |
 | `dfs and similar` | 23 |
@@ -415,14 +417,14 @@
 | 0800 | 62 |
 | 1000 | 31 |
 | 1100 | 19 |
-| 1200 | 41 |
+| 1200 | 42 |
 | 1300 | 29 |
 | 1400 | 34 |
 | 1500 | 40 |
 | 1600 | 30 |
 | 1700 | 21 |
 | 1800 | 8 |
-| 1900 | 9 |
+| 1900 | 10 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
