@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 362
+**Total Problems:** 363
 
-**With Source Code:** 67 / 362
+**With Source Code:** 67 / 363
 
 
 ## Problems
@@ -153,6 +153,7 @@
 | 2211B | [Mickey Mouse Constructive](problems/1100/2211B-Mickey-Mouse-Constructive) | 1100 | `constructive algorithms`, `dp`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/B) |
 | 2225C | [Red-Black Pairs](problems/1100/2225C-Red-Black-Pairs) | 1100 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2225/problem/C) |
 | 2231B | [Another Sorting Problem](problems/1100/2231B-Another-Sorting-Problem) | 1100 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/B) |
+| 285B | [Find Marble](problems/1200/285B-Find-Marble) | 1200 | `implementation` | - | [CF](https://codeforces.com/contest/285/problem/B) |
 | 433B | [Kuriyama Mirai's Stones](problems/1200/433B-Kuriyama-Mirais-Stones) | 1200 | `dp`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/433/problem/B) |
 | 725B | [Food on the Plane](problems/1200/725B-Food-on-the-Plane) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/725/problem/B) |
 | 776B | [Sherlock and his girlfriend](problems/1200/776B-Sherlock-and-his-girlfriend) | 1200 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/776/problem/B) |
@@ -382,7 +383,7 @@
 |-----|-------|
 | `greedy` | 155 |
 | `math` | 139 |
-| `implementation` | 96 |
+| `implementation` | 97 |
 | `dp` | 62 |
 | `brute force` | 62 |
 | `constructive algorithms` | 61 |
@@ -419,7 +420,7 @@
 | 0800 | 62 |
 | 1000 | 31 |
 | 1100 | 19 |
-| 1200 | 42 |
+| 1200 | 43 |
 | 1300 | 29 |
 | 1400 | 34 |
 | 1500 | 41 |
