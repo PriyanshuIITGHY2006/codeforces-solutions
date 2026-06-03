@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 360
+**Total Problems:** 362
 
-**With Source Code:** 67 / 360
+**With Source Code:** 67 / 362
 
 
 ## Problems
@@ -261,6 +261,7 @@
 | 166E | [Tetrahedron](problems/1500/166E-Tetrahedron) | 1500 | `dp`, `math`, `matrices` | - | [CF](https://codeforces.com/contest/166/problem/E) |
 | 264B | [Good Sequences](problems/1500/264B-Good-Sequences) | 1500 | `dp`, `number theory` | - | [CF](https://codeforces.com/contest/264/problem/B) |
 | 276C | [Little Girl and Maximum Sum](problems/1500/276C-Little-Girl-and-Maximum-Sum) | 1500 | `data structures`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/276/problem/C) |
+| 282B | [Painting Eggs](problems/1500/282B-Painting-Eggs) | 1500 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/282/problem/B) |
 | 510B | [Fox And Two Dots](problems/1500/510B-Fox-And-Two-Dots) | 1500 | `dfs and similar` | - | [CF](https://codeforces.com/contest/510/problem/B) |
 | 576A | [Vasya and Petya's Game](problems/1500/576A-Vasya-and-Petyas-Game) | 1500 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/576/problem/A) |
 | 580C | [Kefa and Park](problems/1500/580C-Kefa-and-Park) | 1500 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/580/problem/C) |
@@ -360,6 +361,7 @@
 | 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
 | 366C | [Dima and Salad](problems/1900/366C-Dima-and-Salad) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/366/problem/C) |
+| 739B | [Alyona and a tree](problems/1900/739B-Alyona-and-a-tree) | 1900 | `binary search`, `data structures`, `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/739/problem/B) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
@@ -378,22 +380,22 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 154 |
-| `math` | 138 |
+| `greedy` | 155 |
+| `math` | 139 |
 | `implementation` | 96 |
 | `dp` | 62 |
 | `brute force` | 62 |
 | `constructive algorithms` | 61 |
 | `sortings` | 52 |
+| `binary search` | 47 |
 | `number theory` | 46 |
-| `binary search` | 46 |
-| `data structures` | 38 |
+| `data structures` | 39 |
 | `two pointers` | 30 |
-| `dfs and similar` | 23 |
+| `dfs and similar` | 24 |
+| `trees` | 20 |
 | `strings` | 19 |
-| `trees` | 19 |
+| `graphs` | 17 |
 | `combinatorics` | 17 |
-| `graphs` | 16 |
 | `bitmasks` | 15 |
 | `games` | 12 |
 | `dsu` | 7 |
@@ -420,11 +422,11 @@
 | 1200 | 42 |
 | 1300 | 29 |
 | 1400 | 34 |
-| 1500 | 40 |
+| 1500 | 41 |
 | 1600 | 30 |
 | 1700 | 21 |
 | 1800 | 8 |
-| 1900 | 10 |
+| 1900 | 11 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
