@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 363
+**Total Problems:** 364
 
-**With Source Code:** 67 / 363
+**With Source Code:** 67 / 364
 
 
 ## Problems
@@ -185,6 +185,7 @@
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
+| 2119B | [Line Segments](problems/1200/2119B-Line-Segments) | 1200 | `geometry`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2119/problem/B) |
 | 2121C | [Those Who Are With Us](problems/1200/2121C-Those-Who-Are-With-Us) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2121/problem/C) |
 | 2134C | [Even Larger](problems/1200/2134C-Even-Larger) | 1200 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2134/problem/C) |
 | 2158B | [Split](problems/1200/2158B-Split) | 1200 | `constructive algorithms`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2158/problem/B) |
@@ -381,8 +382,8 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 155 |
-| `math` | 139 |
+| `greedy` | 156 |
+| `math` | 140 |
 | `implementation` | 97 |
 | `dp` | 62 |
 | `brute force` | 62 |
@@ -401,9 +402,9 @@
 | `games` | 12 |
 | `dsu` | 7 |
 | `shortest paths` | 6 |
+| `geometry` | 5 |
 | `divide and conquer` | 5 |
 | `interactive` | 4 |
-| `geometry` | 4 |
 | `hashing` | 3 |
 | `matrices` | 3 |
 | `probabilities` | 2 |
@@ -420,7 +421,7 @@
 | 0800 | 62 |
 | 1000 | 31 |
 | 1100 | 19 |
-| 1200 | 43 |
+| 1200 | 44 |
 | 1300 | 29 |
 | 1400 | 34 |
 | 1500 | 41 |
