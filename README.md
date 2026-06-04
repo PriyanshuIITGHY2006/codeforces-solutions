@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 364
+**Total Problems:** 365
 
-**With Source Code:** 67 / 364
+**With Source Code:** 67 / 365
 
 
 ## Problems
@@ -264,6 +264,7 @@
 | 264B | [Good Sequences](problems/1500/264B-Good-Sequences) | 1500 | `dp`, `number theory` | - | [CF](https://codeforces.com/contest/264/problem/B) |
 | 276C | [Little Girl and Maximum Sum](problems/1500/276C-Little-Girl-and-Maximum-Sum) | 1500 | `data structures`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/276/problem/C) |
 | 282B | [Painting Eggs](problems/1500/282B-Painting-Eggs) | 1500 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/282/problem/B) |
+| 455A | [Boredom](problems/1500/455A-Boredom) | 1500 | `dp` | - | [CF](https://codeforces.com/contest/455/problem/A) |
 | 510B | [Fox And Two Dots](problems/1500/510B-Fox-And-Two-Dots) | 1500 | `dfs and similar` | - | [CF](https://codeforces.com/contest/510/problem/B) |
 | 576A | [Vasya and Petya's Game](problems/1500/576A-Vasya-and-Petyas-Game) | 1500 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/576/problem/A) |
 | 580C | [Kefa and Park](problems/1500/580C-Kefa-and-Park) | 1500 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/580/problem/C) |
@@ -385,7 +386,7 @@
 | `greedy` | 156 |
 | `math` | 140 |
 | `implementation` | 97 |
-| `dp` | 62 |
+| `dp` | 63 |
 | `brute force` | 62 |
 | `constructive algorithms` | 61 |
 | `sortings` | 52 |
@@ -424,7 +425,7 @@
 | 1200 | 44 |
 | 1300 | 29 |
 | 1400 | 34 |
-| 1500 | 41 |
+| 1500 | 42 |
 | 1600 | 30 |
 | 1700 | 21 |
 | 1800 | 8 |
