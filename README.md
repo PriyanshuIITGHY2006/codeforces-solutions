@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 366
+**Total Problems:** 367
 
-**With Source Code:** 67 / 366
+**With Source Code:** 67 / 367
 
 
 ## Problems
@@ -213,6 +213,7 @@
 | 2072D | [For Wizards, the Exam Is Easy, but I Couldn't Handle It](problems/1300/2072D-For-Wizards-the-Exam-Is-Easy-but-I-Couldnt-Handle-It) | 1300 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2072/problem/D) |
 | 2091E | [Interesting Ratio](problems/1300/2091E-Interesting-Ratio) | 1300 | `brute force`, `math`, `number theory`, `two pointers` | - | [CF](https://codeforces.com/contest/2091/problem/E) |
 | 2124C | [Subset Multiplication](problems/1300/2124C-Subset-Multiplication) | 1300 | `constructive algorithms`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2124/problem/C) |
+| 2143C | [Max Tree](problems/1300/2143C-Max-Tree) | 1300 | `constructive algorithms`, `dfs and similar`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/2143/problem/C) |
 | 2145C | [Monocarp's String](problems/1300/2145C-Monocarps-String) | 1300 | `binary search`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2145/problem/C) |
 | 2152B | [Catching the Krug](problems/1300/2152B-Catching-the-Krug) | 1300 | `games` | - | [CF](https://codeforces.com/contest/2152/problem/B) |
 | 2169C | [Range Operation](problems/1300/2169C-Range-Operation) | 1300 | `dp`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2169/problem/C) |
@@ -384,21 +385,21 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 156 |
+| `greedy` | 157 |
 | `math` | 141 |
 | `implementation` | 97 |
 | `brute force` | 63 |
 | `dp` | 63 |
-| `constructive algorithms` | 61 |
+| `constructive algorithms` | 62 |
 | `sortings` | 52 |
 | `number theory` | 47 |
 | `binary search` | 47 |
 | `data structures` | 39 |
 | `two pointers` | 30 |
-| `dfs and similar` | 24 |
+| `dfs and similar` | 25 |
 | `trees` | 20 |
 | `strings` | 19 |
-| `graphs` | 17 |
+| `graphs` | 18 |
 | `combinatorics` | 17 |
 | `bitmasks` | 15 |
 | `games` | 12 |
@@ -424,7 +425,7 @@
 | 1000 | 31 |
 | 1100 | 19 |
 | 1200 | 44 |
-| 1300 | 29 |
+| 1300 | 30 |
 | 1400 | 34 |
 | 1500 | 42 |
 | 1600 | 30 |
