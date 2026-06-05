@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 365
+**Total Problems:** 366
 
-**With Source Code:** 67 / 365
+**With Source Code:** 67 / 366
 
 
 ## Problems
@@ -356,6 +356,7 @@
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | - | [CF](https://codeforces.com/contest/1974/problem/E) |
+| 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
@@ -384,14 +385,14 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 156 |
-| `math` | 140 |
+| `math` | 141 |
 | `implementation` | 97 |
+| `brute force` | 63 |
 | `dp` | 63 |
-| `brute force` | 62 |
 | `constructive algorithms` | 61 |
 | `sortings` | 52 |
+| `number theory` | 47 |
 | `binary search` | 47 |
-| `number theory` | 46 |
 | `data structures` | 39 |
 | `two pointers` | 30 |
 | `dfs and similar` | 24 |
@@ -428,7 +429,7 @@
 | 1500 | 42 |
 | 1600 | 30 |
 | 1700 | 21 |
-| 1800 | 8 |
+| 1800 | 9 |
 | 1900 | 11 |
 | 2000 | 2 |
 | 2100 | 1 |
