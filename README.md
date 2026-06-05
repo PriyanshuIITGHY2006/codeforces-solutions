@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 367
+**Total Problems:** 368
 
-**With Source Code:** 67 / 367
+**With Source Code:** 67 / 368
 
 
 ## Problems
@@ -277,6 +277,7 @@
 | 930A | [Peculiar apple-tree](problems/1500/930A-Peculiar-apple-tree) | 1500 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/930/problem/A) |
 | 960B | [Minimize the error](problems/1500/960B-Minimize-the-error) | 1500 | `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/960/problem/B) |
 | 991C | [Candies](problems/1500/991C-Candies) | 1500 | `binary search`, `implementation` | Yes | [CF](https://codeforces.com/contest/991/problem/C) |
+| 1106D | [Lunar New Year and a Wander](problems/1500/1106D-Lunar-New-Year-and-a-Wander) | 1500 | `data structures`, `dfs and similar`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1106/problem/D) |
 | 1201B | [Zero Array](problems/1500/1201B-Zero-Array) | 1500 | `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1201/problem/B) |
 | 1263D | [Secret Passwords](problems/1500/1263D-Secret-Passwords) | 1500 | `dfs and similar`, `dsu`, `graphs` | - | [CF](https://codeforces.com/contest/1263/problem/D) |
 | 1323B | [Count Subrectangles](problems/1500/1323B-Count-Subrectangles) | 1500 | `binary search`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/1323/problem/B) |
@@ -385,7 +386,7 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 157 |
+| `greedy` | 158 |
 | `math` | 141 |
 | `implementation` | 97 |
 | `brute force` | 63 |
@@ -394,17 +395,17 @@
 | `sortings` | 52 |
 | `number theory` | 47 |
 | `binary search` | 47 |
-| `data structures` | 39 |
+| `data structures` | 40 |
 | `two pointers` | 30 |
-| `dfs and similar` | 25 |
+| `dfs and similar` | 26 |
 | `trees` | 20 |
+| `graphs` | 19 |
 | `strings` | 19 |
-| `graphs` | 18 |
 | `combinatorics` | 17 |
 | `bitmasks` | 15 |
 | `games` | 12 |
+| `shortest paths` | 7 |
 | `dsu` | 7 |
-| `shortest paths` | 6 |
 | `geometry` | 5 |
 | `divide and conquer` | 5 |
 | `interactive` | 4 |
@@ -427,7 +428,7 @@
 | 1200 | 44 |
 | 1300 | 30 |
 | 1400 | 34 |
-| 1500 | 42 |
+| 1500 | 43 |
 | 1600 | 30 |
 | 1700 | 21 |
 | 1800 | 9 |
