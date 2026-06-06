@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 368
+**Total Problems:** 369
 
-**With Source Code:** 67 / 368
+**With Source Code:** 67 / 369
 
 
 ## Problems
@@ -322,6 +322,7 @@
 | 2046B | [Move Back at a Cost](problems/1600/2046B-Move-Back-at-a-Cost) | 1600 | `binary search`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/B) |
 | 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
 | 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2065/problem/E) |
+| 2128D | [Sum of LDS](problems/1600/2128D-Sum-of-LDS) | 1600 | `brute force`, `combinatorics`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2128/problem/D) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
 | 2157D | [Billion Players Game](problems/1600/2157D-Billion-Players-Game) | 1600 | `binary search`, `greedy`, `math`, `sortings`, `ternary search`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2157/problem/D) |
 | 2167G | [Mukhammadali and the Smooth Array](problems/1600/2167G-Mukhammadali-and-the-Smooth-Array) | 1600 | `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/2167/problem/G) |
@@ -386,11 +387,11 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 158 |
-| `math` | 141 |
+| `greedy` | 159 |
+| `math` | 142 |
 | `implementation` | 97 |
-| `brute force` | 63 |
-| `dp` | 63 |
+| `brute force` | 64 |
+| `dp` | 64 |
 | `constructive algorithms` | 62 |
 | `sortings` | 52 |
 | `number theory` | 47 |
@@ -401,7 +402,7 @@
 | `trees` | 20 |
 | `graphs` | 19 |
 | `strings` | 19 |
-| `combinatorics` | 17 |
+| `combinatorics` | 18 |
 | `bitmasks` | 15 |
 | `games` | 12 |
 | `shortest paths` | 7 |
@@ -429,7 +430,7 @@
 | 1300 | 30 |
 | 1400 | 34 |
 | 1500 | 43 |
-| 1600 | 30 |
+| 1600 | 31 |
 | 1700 | 21 |
 | 1800 | 9 |
 | 1900 | 11 |
