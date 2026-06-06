@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 369
+**Total Problems:** 370
 
-**With Source Code:** 67 / 369
+**With Source Code:** 67 / 370
 
 
 ## Problems
@@ -375,6 +375,7 @@
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
+| 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
@@ -387,17 +388,17 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 159 |
+| `greedy` | 160 |
 | `math` | 142 |
 | `implementation` | 97 |
 | `brute force` | 64 |
 | `dp` | 64 |
 | `constructive algorithms` | 62 |
 | `sortings` | 52 |
+| `binary search` | 48 |
 | `number theory` | 47 |
-| `binary search` | 47 |
-| `data structures` | 40 |
-| `two pointers` | 30 |
+| `data structures` | 41 |
+| `two pointers` | 31 |
 | `dfs and similar` | 26 |
 | `trees` | 20 |
 | `graphs` | 19 |
@@ -415,6 +416,7 @@
 | `probabilities` | 2 |
 | `ternary search` | 2 |
 | `schedules` | 2 |
+| `flows` | 1 |
 | `string suffix structures` | 1 |
 | `chinese remainder theorem` | 1 |
 | `expression parsing` | 1 |
@@ -433,7 +435,7 @@
 | 1600 | 31 |
 | 1700 | 21 |
 | 1800 | 9 |
-| 1900 | 11 |
+| 1900 | 12 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
