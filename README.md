@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 370
+**Total Problems:** 371
 
-**With Source Code:** 67 / 370
+**With Source Code:** 67 / 371
 
 
 ## Problems
@@ -321,6 +321,7 @@
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
 | 2046B | [Move Back at a Cost](problems/1600/2046B-Move-Back-at-a-Cost) | 1600 | `binary search`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/B) |
 | 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
+| 2061D | [Kevin and Numbers](problems/1600/2061D-Kevin-and-Numbers) | 1600 | `bitmasks`, `data structures` | - | [CF](https://codeforces.com/contest/2061/problem/D) |
 | 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2065/problem/E) |
 | 2128D | [Sum of LDS](problems/1600/2128D-Sum-of-LDS) | 1600 | `brute force`, `combinatorics`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2128/problem/D) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
@@ -397,14 +398,14 @@
 | `sortings` | 52 |
 | `binary search` | 48 |
 | `number theory` | 47 |
-| `data structures` | 41 |
+| `data structures` | 42 |
 | `two pointers` | 31 |
 | `dfs and similar` | 26 |
 | `trees` | 20 |
 | `graphs` | 19 |
 | `strings` | 19 |
 | `combinatorics` | 18 |
-| `bitmasks` | 15 |
+| `bitmasks` | 16 |
 | `games` | 12 |
 | `shortest paths` | 7 |
 | `dsu` | 7 |
@@ -432,7 +433,7 @@
 | 1300 | 30 |
 | 1400 | 34 |
 | 1500 | 43 |
-| 1600 | 31 |
+| 1600 | 32 |
 | 1700 | 21 |
 | 1800 | 9 |
 | 1900 | 12 |

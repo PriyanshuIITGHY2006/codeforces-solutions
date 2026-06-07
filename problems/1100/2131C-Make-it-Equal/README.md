@@ -8,6 +8,6 @@
 
 **Tags:** `math`, `number theory`
 
-**Language:** C++20 (GCC 13-64)
+**Language:** C++23 (GCC 14-64, msys2)
 
-**Submission:** [Link](https://codeforces.com/contest/2131/submission/339840386)
+**Submission:** [Link](https://codeforces.com/contest/2131/submission/377673067)
