@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 371
+**Total Problems:** 372
 
-**With Source Code:** 67 / 371
+**With Source Code:** 67 / 372
 
 
 ## Problems
@@ -288,6 +288,7 @@
 | 1486B | [Eastern Exhibition](problems/1500/1486B-Eastern-Exhibition) | 1500 | `binary search`, `geometry`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/1486/problem/B) |
 | 1516B | [AGAGA XOOORRR](problems/1500/1516B-AGAGA-XOOORRR) | 1500 | `bitmasks`, `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1516/problem/B) |
 | 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
+| 1776L | [Controllers](problems/1500/1776L-Controllers) | 1500 | `binary search`, `math` | - | [CF](https://codeforces.com/contest/1776/problem/L) |
 | 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
@@ -390,13 +391,13 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 160 |
-| `math` | 142 |
+| `math` | 143 |
 | `implementation` | 97 |
 | `brute force` | 64 |
 | `dp` | 64 |
 | `constructive algorithms` | 62 |
 | `sortings` | 52 |
-| `binary search` | 48 |
+| `binary search` | 49 |
 | `number theory` | 47 |
 | `data structures` | 42 |
 | `two pointers` | 31 |
@@ -432,7 +433,7 @@
 | 1200 | 44 |
 | 1300 | 30 |
 | 1400 | 34 |
-| 1500 | 43 |
+| 1500 | 44 |
 | 1600 | 32 |
 | 1700 | 21 |
 | 1800 | 9 |
