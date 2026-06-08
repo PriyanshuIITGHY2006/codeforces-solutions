@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 374
+**Total Problems:** 375
 
-**With Source Code:** 67 / 374
+**With Source Code:** 67 / 375
 
 
 ## Problems
@@ -159,6 +159,7 @@
 | 725B | [Food on the Plane](problems/1200/725B-Food-on-the-Plane) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/725/problem/B) |
 | 776B | [Sherlock and his girlfriend](problems/1200/776B-Sherlock-and-his-girlfriend) | 1200 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/776/problem/B) |
 | 913B | [Christmas Spruce](problems/1200/913B-Christmas-Spruce) | 1200 | `implementation`, `trees` | - | [CF](https://codeforces.com/contest/913/problem/B) |
+| 961B | [Lecture Sleep](problems/1200/961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/961/problem/B) |
 | 1140D | [Minimum Triangulation](problems/1200/1140D-Minimum-Triangulation) | 1200 | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1140/problem/D) |
 | 1328C | [Ternary XOR](problems/1200/1328C-Ternary-XOR) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1328/problem/C) |
 | 1334A | [Level Statistics](problems/1200/1334A-Level-Statistics) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1334/problem/A) |
@@ -394,15 +395,15 @@
 |-----|-------|
 | `greedy` | 161 |
 | `math` | 144 |
-| `implementation` | 98 |
-| `dp` | 65 |
+| `implementation` | 99 |
+| `dp` | 66 |
 | `constructive algorithms` | 64 |
 | `brute force` | 64 |
 | `sortings` | 52 |
 | `binary search` | 49 |
 | `number theory` | 48 |
-| `data structures` | 42 |
-| `two pointers` | 31 |
+| `data structures` | 43 |
+| `two pointers` | 32 |
 | `dfs and similar` | 26 |
 | `strings` | 20 |
 | `trees` | 20 |
@@ -432,7 +433,7 @@
 | 0800 | 62 |
 | 1000 | 31 |
 | 1100 | 19 |
-| 1200 | 44 |
+| 1200 | 45 |
 | 1300 | 30 |
 | 1400 | 34 |
 | 1500 | 44 |
