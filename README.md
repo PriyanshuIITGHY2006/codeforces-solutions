@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 373
+**Total Problems:** 374
 
-**With Source Code:** 67 / 373
+**With Source Code:** 67 / 374
 
 
 ## Problems
@@ -361,6 +361,7 @@
 | 2227F | [It Just Keeps Going Sideways](problems/1700/2227F-It-Just-Keeps-Going-Sideways) | 1700 | `binary search`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2227/problem/F) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
+| 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1709/problem/C) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | - | [CF](https://codeforces.com/contest/1974/problem/E) |
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
@@ -391,21 +392,21 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 160 |
+| `greedy` | 161 |
 | `math` | 144 |
-| `implementation` | 97 |
+| `implementation` | 98 |
 | `dp` | 65 |
+| `constructive algorithms` | 64 |
 | `brute force` | 64 |
-| `constructive algorithms` | 63 |
 | `sortings` | 52 |
 | `binary search` | 49 |
 | `number theory` | 48 |
 | `data structures` | 42 |
 | `two pointers` | 31 |
 | `dfs and similar` | 26 |
+| `strings` | 20 |
 | `trees` | 20 |
 | `graphs` | 19 |
-| `strings` | 19 |
 | `combinatorics` | 18 |
 | `bitmasks` | 17 |
 | `games` | 12 |
@@ -437,7 +438,7 @@
 | 1500 | 44 |
 | 1600 | 32 |
 | 1700 | 21 |
-| 1800 | 9 |
+| 1800 | 10 |
 | 1900 | 12 |
 | 2000 | 2 |
 | 2100 | 1 |
