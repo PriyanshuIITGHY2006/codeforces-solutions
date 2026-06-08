@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 372
+**Total Problems:** 373
 
-**With Source Code:** 67 / 372
+**With Source Code:** 67 / 373
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2234D | [XOR, Expression and Two Binary Numbers](problems/Unrated/2234D-XOR-Expression-and-Two-Binary-Numbers) | ? | `bitmasks`, `constructive algorithms`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2234/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -391,14 +392,14 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 160 |
-| `math` | 143 |
+| `math` | 144 |
 | `implementation` | 97 |
+| `dp` | 65 |
 | `brute force` | 64 |
-| `dp` | 64 |
-| `constructive algorithms` | 62 |
+| `constructive algorithms` | 63 |
 | `sortings` | 52 |
 | `binary search` | 49 |
-| `number theory` | 47 |
+| `number theory` | 48 |
 | `data structures` | 42 |
 | `two pointers` | 31 |
 | `dfs and similar` | 26 |
@@ -406,7 +407,7 @@
 | `graphs` | 19 |
 | `strings` | 19 |
 | `combinatorics` | 18 |
-| `bitmasks` | 16 |
+| `bitmasks` | 17 |
 | `games` | 12 |
 | `shortest paths` | 7 |
 | `dsu` | 7 |
@@ -444,4 +445,4 @@
 | 2300 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 21 |
+| Unrated | 22 |
