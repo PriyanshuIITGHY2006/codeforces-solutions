@@ -4,16 +4,17 @@
 
 **Language:** C++
 
-**Total Problems:** 375
+**Total Problems:** 376
 
-**With Source Code:** 67 / 375
+**With Source Code:** 67 / 376
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2234D | [XOR, Expression and Two Binary Numbers](problems/Unrated/2234D-XOR-Expression-and-Two-Binary-Numbers) | ? | `bitmasks`, `constructive algorithms`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2234/problem/D) |
+| 2233A | [AI Project Development](problems/Unrated/2233A-AI-Project-Development) | ? |  | - | [CF](https://codeforces.com/contest/2233/problem/A) |
+| 2234D | [XOR, Expression and Two Binary Numbers](problems/Unrated/2234D-XOR-Expression-and-Two-Binary-Numbers) | ? | `bitmasks`, `constructive algorithms`, `divide and conquer`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2234/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -413,8 +414,8 @@
 | `games` | 12 |
 | `shortest paths` | 7 |
 | `dsu` | 7 |
+| `divide and conquer` | 6 |
 | `geometry` | 5 |
-| `divide and conquer` | 5 |
 | `interactive` | 4 |
 | `hashing` | 3 |
 | `matrices` | 3 |
@@ -447,4 +448,4 @@
 | 2300 | 1 |
 | 2400 | 1 |
 | 900 | 7 |
-| Unrated | 22 |
+| Unrated | 23 |
