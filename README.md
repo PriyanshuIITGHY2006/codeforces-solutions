@@ -4,20 +4,20 @@
 
 **Language:** C++
 
-**Total Problems:** 382
+**Total Problems:** 383
 
-**With Source Code:** 67 / 382
+**With Source Code:** 67 / 383
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2233D | [Goods on the Shelf](problems/Unrated/2233D-Goods-on-the-Shelf) | ? | `brute force`, `data structures`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
+| 2233D | [Goods on the Shelf](problems/Unrated/2233D-Goods-on-the-Shelf) | ? | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 2233C | [Cost of a Bracket Sequence](problems/Unrated/2233C-Cost-of-a-Bracket-Sequence) | ? | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/C) |
 | 2233B | [Different Distances](problems/Unrated/2233B-Different-Distances) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2233/problem/B) |
 | 2233A | [AI Project Development](problems/Unrated/2233A-AI-Project-Development) | ? | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
-| 2234D | [XOR, Expression and Two Binary Numbers](problems/Unrated/2234D-XOR-Expression-and-Two-Binary-Numbers) | ? | `bitmasks`, `constructive algorithms`, `divide and conquer`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2234/problem/D) |
+| 2234D | [XOR, Expression and Two Binary Numbers](problems/Unrated/2234D-XOR-Expression-and-Two-Binary-Numbers) | ? | `bitmasks`, `dfs and similar`, `divide and conquer`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2234/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -376,6 +376,7 @@
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
+| 2192D | [Cost of Tree](problems/1800/2192D-Cost-of-Tree) | 1800 | `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2192/problem/D) |
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
 | 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
@@ -400,21 +401,21 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 165 |
+| `greedy` | 166 |
 | `math` | 147 |
-| `implementation` | 99 |
+| `implementation` | 100 |
+| `dp` | 69 |
 | `brute force` | 69 |
-| `dp` | 68 |
-| `constructive algorithms` | 65 |
+| `constructive algorithms` | 64 |
 | `sortings` | 52 |
 | `number theory` | 49 |
 | `binary search` | 49 |
 | `data structures` | 45 |
 | `two pointers` | 33 |
-| `dfs and similar` | 27 |
+| `dfs and similar` | 28 |
+| `trees` | 21 |
 | `graphs` | 21 |
 | `strings` | 20 |
-| `trees` | 20 |
 | `combinatorics` | 18 |
 | `bitmasks` | 17 |
 | `games` | 12 |
@@ -446,7 +447,7 @@
 | 1500 | 45 |
 | 1600 | 33 |
 | 1700 | 21 |
-| 1800 | 10 |
+| 1800 | 11 |
 | 1900 | 12 |
 | 2000 | 2 |
 | 2100 | 1 |

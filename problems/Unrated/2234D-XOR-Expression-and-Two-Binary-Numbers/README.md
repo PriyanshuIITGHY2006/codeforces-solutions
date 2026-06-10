@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `bitmasks`, `constructive algorithms`, `divide and conquer`, `dp`, `math`, `number theory`
+**Tags:** `bitmasks`, `dfs and similar`, `divide and conquer`, `dp`, `math`, `number theory`
 
 **Language:** C++23 (GCC 14-64, msys2)
 

@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `brute force`, `data structures`, `two pointers`
+**Tags:** `brute force`, `data structures`, `implementation`, `two pointers`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
