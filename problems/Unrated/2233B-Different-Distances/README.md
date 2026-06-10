@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `constructive algorithms`
+**Tags:** `constructive algorithms`, `greedy`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
