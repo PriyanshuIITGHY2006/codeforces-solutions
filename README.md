@@ -404,8 +404,8 @@
 | `greedy` | 167 |
 | `math` | 147 |
 | `implementation` | 100 |
-| `dp` | 69 |
 | `brute force` | 69 |
+| `dp` | 69 |
 | `constructive algorithms` | 64 |
 | `sortings` | 52 |
 | `number theory` | 49 |
