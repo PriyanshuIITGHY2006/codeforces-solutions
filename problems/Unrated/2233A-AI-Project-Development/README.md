@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `brute force`, `math`
+**Tags:** `binary search`, `brute force`, `math`
 
 **Language:** C++23 (GCC 14-64, msys2)
 

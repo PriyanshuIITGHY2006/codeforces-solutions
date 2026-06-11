@@ -16,7 +16,7 @@
 | 2233D | [Goods on the Shelf](problems/Unrated/2233D-Goods-on-the-Shelf) | ? | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 2233C | [Cost of a Bracket Sequence](problems/Unrated/2233C-Cost-of-a-Bracket-Sequence) | ? | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/C) |
 | 2233B | [Different Distances](problems/Unrated/2233B-Different-Distances) | ? | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/B) |
-| 2233A | [AI Project Development](problems/Unrated/2233A-AI-Project-Development) | ? | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
+| 2233A | [AI Project Development](problems/Unrated/2233A-AI-Project-Development) | ? | `binary search`, `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -408,8 +408,8 @@
 | `dp` | 69 |
 | `constructive algorithms` | 64 |
 | `sortings` | 52 |
+| `binary search` | 50 |
 | `number theory` | 49 |
-| `binary search` | 49 |
 | `data structures` | 45 |
 | `two pointers` | 33 |
 | `dfs and similar` | 27 |
