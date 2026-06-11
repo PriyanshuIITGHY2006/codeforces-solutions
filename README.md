@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 383
+**Total Problems:** 386
 
-**With Source Code:** 67 / 383
+**With Source Code:** 67 / 386
 
 
 ## Problems
@@ -149,6 +149,7 @@
 | 2104C | [Card Game](problems/1100/2104C-Card-Game) | 1100 | `brute force`, `constructive algorithms`, `games`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2104/problem/C) |
 | 2125C | [Count Good Numbers](problems/1100/2125C-Count-Good-Numbers) | 1100 | `bitmasks`, `combinatorics`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2125/problem/C) |
 | 2131C | [Make it Equal](problems/1100/2131C-Make-it-Equal) | 1100 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2131/problem/C) |
+| 2138A | [Cake Assignment](problems/1100/2138A-Cake-Assignment) | 1100 | `bitmasks`, `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2138/problem/A) |
 | 2155B | [Abraham's Great Escape](problems/1100/2155B-Abrahams-Great-Escape) | 1100 | `constructive algorithms`, `graphs` | - | [CF](https://codeforces.com/contest/2155/problem/B) |
 | 2160B | [Distinct Elements](problems/1100/2160B-Distinct-Elements) | 1100 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2160/problem/B) |
 | 2185D | [OutOfMemoryError](problems/1100/2185D-OutOfMemoryError) | 1100 | `data structures`, `implementation`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2185/problem/D) |
@@ -284,6 +285,7 @@
 | 960B | [Minimize the error](problems/1500/960B-Minimize-the-error) | 1500 | `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/960/problem/B) |
 | 991C | [Candies](problems/1500/991C-Candies) | 1500 | `binary search`, `implementation` | Yes | [CF](https://codeforces.com/contest/991/problem/C) |
 | 1106D | [Lunar New Year and a Wander](problems/1500/1106D-Lunar-New-Year-and-a-Wander) | 1500 | `data structures`, `dfs and similar`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1106/problem/D) |
+| 1139C | [Edgy Trees](problems/1500/1139C-Edgy-Trees) | 1500 | `dfs and similar`, `dsu`, `graphs`, `math`, `trees` | - | [CF](https://codeforces.com/contest/1139/problem/C) |
 | 1201B | [Zero Array](problems/1500/1201B-Zero-Array) | 1500 | `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1201/problem/B) |
 | 1263D | [Secret Passwords](problems/1500/1263D-Secret-Passwords) | 1500 | `dfs and similar`, `dsu`, `graphs` | - | [CF](https://codeforces.com/contest/1263/problem/D) |
 | 1323B | [Count Subrectangles](problems/1500/1323B-Count-Subrectangles) | 1500 | `binary search`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/1323/problem/B) |
@@ -385,6 +387,7 @@
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
+| 1800F | [Dasha and Nightmares](problems/1900/1800F-Dasha-and-Nightmares) | 1900 | `bitmasks`, `hashing`, `meet-in-the-middle`, `strings` | - | [CF](https://codeforces.com/contest/1800/problem/F) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
@@ -401,34 +404,35 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 167 |
-| `math` | 147 |
+| `greedy` | 168 |
+| `math` | 148 |
 | `implementation` | 100 |
 | `brute force` | 69 |
 | `dp` | 69 |
-| `constructive algorithms` | 64 |
+| `constructive algorithms` | 65 |
 | `sortings` | 52 |
 | `binary search` | 50 |
 | `number theory` | 49 |
 | `data structures` | 45 |
 | `two pointers` | 33 |
-| `dfs and similar` | 27 |
-| `trees` | 21 |
-| `graphs` | 21 |
-| `strings` | 20 |
+| `dfs and similar` | 28 |
+| `graphs` | 22 |
+| `trees` | 22 |
+| `strings` | 21 |
+| `bitmasks` | 19 |
 | `combinatorics` | 18 |
-| `bitmasks` | 17 |
 | `games` | 12 |
+| `dsu` | 8 |
 | `shortest paths` | 7 |
-| `dsu` | 7 |
 | `divide and conquer` | 6 |
 | `geometry` | 5 |
+| `hashing` | 4 |
 | `interactive` | 4 |
-| `hashing` | 3 |
 | `matrices` | 3 |
 | `probabilities` | 2 |
 | `ternary search` | 2 |
 | `schedules` | 2 |
+| `meet-in-the-middle` | 1 |
 | `flows` | 1 |
 | `string suffix structures` | 1 |
 | `chinese remainder theorem` | 1 |
@@ -440,15 +444,15 @@
 |--------|-------|
 | 0800 | 62 |
 | 1000 | 31 |
-| 1100 | 19 |
+| 1100 | 20 |
 | 1200 | 46 |
 | 1300 | 30 |
 | 1400 | 34 |
-| 1500 | 46 |
+| 1500 | 47 |
 | 1600 | 33 |
 | 1700 | 21 |
 | 1800 | 11 |
-| 1900 | 12 |
+| 1900 | 13 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
