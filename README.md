@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 387
+**Total Problems:** 389
 
-**With Source Code:** 67 / 387
+**With Source Code:** 67 / 389
 
 
 ## Problems
@@ -194,6 +194,7 @@
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
 | 2119B | [Line Segments](problems/1200/2119B-Line-Segments) | 1200 | `geometry`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2119/problem/B) |
 | 2121C | [Those Who Are With Us](problems/1200/2121C-Those-Who-Are-With-Us) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2121/problem/C) |
+| 2123D | [Binary String Battle](problems/1200/2123D-Binary-String-Battle) | 1200 | `constructive algorithms`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/2123/problem/D) |
 | 2134C | [Even Larger](problems/1200/2134C-Even-Larger) | 1200 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2134/problem/C) |
 | 2158B | [Split](problems/1200/2158B-Split) | 1200 | `constructive algorithms`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2158/problem/B) |
 | 2161C | [Loyalty](problems/1200/2161C-Loyalty) | 1200 | `constructive algorithms`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2161/problem/C) |
@@ -336,6 +337,7 @@
 | 2061D | [Kevin and Numbers](problems/1600/2061D-Kevin-and-Numbers) | 1600 | `bitmasks`, `data structures` | - | [CF](https://codeforces.com/contest/2061/problem/D) |
 | 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2065/problem/E) |
 | 2128D | [Sum of LDS](problems/1600/2128D-Sum-of-LDS) | 1600 | `brute force`, `combinatorics`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2128/problem/D) |
+| 2130D | [Stay or Mirror](problems/1600/2130D-Stay-or-Mirror) | 1600 | `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2130/problem/D) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
 | 2157D | [Billion Players Game](problems/1600/2157D-Billion-Players-Game) | 1600 | `binary search`, `greedy`, `math`, `sortings`, `ternary search`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2157/problem/D) |
 | 2167G | [Mukhammadali and the Smooth Array](problems/1600/2167G-Mukhammadali-and-the-Smooth-Array) | 1600 | `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/2167/problem/G) |
@@ -405,16 +407,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 169 |
+| `greedy` | 171 |
 | `math` | 149 |
 | `implementation` | 101 |
 | `brute force` | 70 |
 | `dp` | 69 |
-| `constructive algorithms` | 66 |
+| `constructive algorithms` | 67 |
 | `sortings` | 52 |
 | `binary search` | 50 |
 | `number theory` | 49 |
-| `data structures` | 45 |
+| `data structures` | 46 |
 | `two pointers` | 33 |
 | `dfs and similar` | 29 |
 | `graphs` | 23 |
@@ -422,7 +424,7 @@
 | `strings` | 21 |
 | `bitmasks` | 19 |
 | `combinatorics` | 18 |
-| `games` | 12 |
+| `games` | 13 |
 | `dsu` | 8 |
 | `shortest paths` | 7 |
 | `divide and conquer` | 6 |
@@ -446,11 +448,11 @@
 | 0800 | 62 |
 | 1000 | 31 |
 | 1100 | 20 |
-| 1200 | 46 |
+| 1200 | 47 |
 | 1300 | 30 |
 | 1400 | 34 |
 | 1500 | 48 |
-| 1600 | 33 |
+| 1600 | 34 |
 | 1700 | 21 |
 | 1800 | 11 |
 | 1900 | 13 |
