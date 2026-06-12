@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 386
+**Total Problems:** 387
 
-**With Source Code:** 67 / 386
+**With Source Code:** 67 / 387
 
 
 ## Problems
@@ -294,6 +294,7 @@
 | 1418C | [Mortal Kombat Tower](problems/1500/1418C-Mortal-Kombat-Tower) | 1500 | `dp`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1418/problem/C) |
 | 1419D2 | [Sage's Birthday (hard version)](problems/1500/1419D2-Sages-Birthday-hard-version) | 1500 | `binary search`, `brute force`, `constructive algorithms`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1419/problem/D2) |
 | 1486B | [Eastern Exhibition](problems/1500/1486B-Eastern-Exhibition) | 1500 | `binary search`, `geometry`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/1486/problem/B) |
+| 1487C | [Minimum Ties](problems/1500/1487C-Minimum-Ties) | 1500 | `brute force`, `constructive algorithms`, `dfs and similar`, `graphs`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1487/problem/C) |
 | 1516B | [AGAGA XOOORRR](problems/1500/1516B-AGAGA-XOOORRR) | 1500 | `bitmasks`, `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1516/problem/B) |
 | 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
 | 1776L | [Controllers](problems/1500/1776L-Controllers) | 1500 | `binary search`, `math` | - | [CF](https://codeforces.com/contest/1776/problem/L) |
@@ -404,19 +405,19 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 168 |
-| `math` | 148 |
-| `implementation` | 100 |
-| `brute force` | 69 |
+| `greedy` | 169 |
+| `math` | 149 |
+| `implementation` | 101 |
+| `brute force` | 70 |
 | `dp` | 69 |
-| `constructive algorithms` | 65 |
+| `constructive algorithms` | 66 |
 | `sortings` | 52 |
 | `binary search` | 50 |
 | `number theory` | 49 |
 | `data structures` | 45 |
 | `two pointers` | 33 |
-| `dfs and similar` | 28 |
-| `graphs` | 22 |
+| `dfs and similar` | 29 |
+| `graphs` | 23 |
 | `trees` | 22 |
 | `strings` | 21 |
 | `bitmasks` | 19 |
@@ -448,7 +449,7 @@
 | 1200 | 46 |
 | 1300 | 30 |
 | 1400 | 34 |
-| 1500 | 47 |
+| 1500 | 48 |
 | 1600 | 33 |
 | 1700 | 21 |
 | 1800 | 11 |
