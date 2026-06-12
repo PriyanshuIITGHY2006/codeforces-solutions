@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 389
+**Total Problems:** 391
 
-**With Source Code:** 67 / 389
+**With Source Code:** 67 / 391
 
 
 ## Problems
@@ -15,8 +15,8 @@
 |---|---------|--------|------|------|------|
 | 2233D | [Goods on the Shelf](problems/Unrated/2233D-Goods-on-the-Shelf) | ? | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 2233C | [Cost of a Bracket Sequence](problems/Unrated/2233C-Cost-of-a-Bracket-Sequence) | ? | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/C) |
-| 2233B | [Different Distances](problems/Unrated/2233B-Different-Distances) | ? | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/B) |
-| 2233A | [AI Project Development](problems/Unrated/2233A-AI-Project-Development) | ? | `binary search`, `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
+| 2233B | [Different Distances](problems/Unrated/2233B-Different-Distances) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2233/problem/B) |
+| 2233A | [AI Project Development](problems/Unrated/2233A-AI-Project-Development) | ? | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -369,12 +369,14 @@
 | 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2132/problem/E) |
 | 2185F | [BattleCows](problems/1700/2185F-BattleCows) | 1700 | `data structures`, `divide and conquer`, `implementation` | - | [CF](https://codeforces.com/contest/2185/problem/F) |
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
+| 2203D | [Divisibility Game](problems/1700/2203D-Divisibility-Game) | 1700 | `brute force`, `games`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2203/problem/D) |
 | 2215A | [Interval Mod](problems/1700/2215A-Interval-Mod) | 1700 | `constructive algorithms`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2215/problem/A) |
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
 | 2227F | [It Just Keeps Going Sideways](problems/1700/2227F-It-Just-Keeps-Going-Sideways) | 1700 | `binary search`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2227/problem/F) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1709/problem/C) |
+| 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | - | [CF](https://codeforces.com/contest/1729/problem/E) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | - | [CF](https://codeforces.com/contest/1974/problem/E) |
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
@@ -410,12 +412,12 @@
 | `greedy` | 171 |
 | `math` | 149 |
 | `implementation` | 101 |
-| `brute force` | 70 |
+| `brute force` | 71 |
 | `dp` | 69 |
 | `constructive algorithms` | 67 |
 | `sortings` | 52 |
-| `binary search` | 50 |
-| `number theory` | 49 |
+| `number theory` | 50 |
+| `binary search` | 49 |
 | `data structures` | 46 |
 | `two pointers` | 33 |
 | `dfs and similar` | 29 |
@@ -424,15 +426,15 @@
 | `strings` | 21 |
 | `bitmasks` | 19 |
 | `combinatorics` | 18 |
-| `games` | 13 |
+| `games` | 14 |
 | `dsu` | 8 |
 | `shortest paths` | 7 |
 | `divide and conquer` | 6 |
+| `interactive` | 5 |
 | `geometry` | 5 |
 | `hashing` | 4 |
-| `interactive` | 4 |
+| `probabilities` | 3 |
 | `matrices` | 3 |
-| `probabilities` | 2 |
 | `ternary search` | 2 |
 | `schedules` | 2 |
 | `meet-in-the-middle` | 1 |
@@ -453,8 +455,8 @@
 | 1400 | 34 |
 | 1500 | 48 |
 | 1600 | 34 |
-| 1700 | 21 |
-| 1800 | 11 |
+| 1700 | 22 |
+| 1800 | 12 |
 | 1900 | 13 |
 | 2000 | 2 |
 | 2100 | 1 |
