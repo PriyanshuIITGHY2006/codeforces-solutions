@@ -4,19 +4,21 @@
 
 **Language:** C++
 
-**Total Problems:** 391
+**Total Problems:** 399
 
-**With Source Code:** 67 / 391
+**With Source Code:** 67 / 399
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2233D | [Goods on the Shelf](problems/Unrated/2233D-Goods-on-the-Shelf) | ? | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
-| 2233C | [Cost of a Bracket Sequence](problems/Unrated/2233C-Cost-of-a-Bracket-Sequence) | ? | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/C) |
-| 2233B | [Different Distances](problems/Unrated/2233B-Different-Distances) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2233/problem/B) |
-| 2233A | [AI Project Development](problems/Unrated/2233A-AI-Project-Development) | ? | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
+| 2236C | [Omsk Programmers](problems/Unrated/2236C-Omsk-Programmers) | ? | `brute force`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/C) |
+| 2236E | [Friendly Gifts](problems/Unrated/2236E-Friendly-Gifts) | ? | `dp` | - | [CF](https://codeforces.com/contest/2236/problem/E) |
+| 2236D | [Brand New Tatar TV Show](problems/Unrated/2236D-Brand-New-Tatar-TV-Show) | ? | `binary search`, `constructive algorithms`, `dp`, `games`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/D) |
+| 2236A | [Games on the Train](problems/Unrated/2236A-Games-on-the-Train) | ? | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/A) |
+| 2236B | [Tatar TV Show](problems/Unrated/2236B-Tatar-TV-Show) | ? | `math`, `strings` | - | [CF](https://codeforces.com/contest/2236/problem/B) |
+| 2236F1 | [Elections in Saransk (easy version)](problems/Unrated/2236F1-Elections-in-Saransk-easy-version) | ? | `number theory` | - | [CF](https://codeforces.com/contest/2236/problem/F1) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -97,6 +99,7 @@
 | 2211A | [Antimedian Deletion](problems/0800/2211A-Antimedian-Deletion) | 800 | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2211/problem/A) |
 | 2224A | [Zhily and Array Operating](problems/0800/2224A-Zhily-and-Array-Operating) | 800 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2224/problem/A) |
 | 2231A | [Construct an Array](problems/0800/2231A-Construct-an-Array) | 800 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/A) |
+| 2233A | [AI Project Development](problems/0800/2233A-AI-Project-Development) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
@@ -107,6 +110,7 @@
 | 2166B | [Tab Closing](problems/900/2166B-Tab-Closing) | 900 | `math` | - | [CF](https://codeforces.com/contest/2166/problem/B) |
 | 2195B | [Heapify 1](problems/900/2195B-Heapify-1) | 900 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2195/problem/B) |
 | 2209B | [Array](problems/900/2209B-Array) | 900 | `greedy` | Yes | [CF](https://codeforces.com/contest/2209/problem/B) |
+| 2233B | [Different Distances](problems/900/2233B-Different-Distances) | 900 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2233/problem/B) |
 | 58A | [Chat room](problems/1000/58A-Chat-room) | 1000 | `greedy`, `strings` | - | [CF](https://codeforces.com/contest/58/problem/A) |
 | 491A | [Up the hill](problems/1000/491A-Up-the-hill) | 1000 | `constructive algorithms`, `implementation` | - | [CF](https://codeforces.com/contest/491/problem/A) |
 | 579A | [Raising Bacteria](problems/1000/579A-Raising-Bacteria) | 1000 | `bitmasks` | - | [CF](https://codeforces.com/contest/579/problem/A) |
@@ -203,6 +207,7 @@
 | 2197C | [Game with a Fraction](problems/1200/2197C-Game-with-a-Fraction) | 1200 | `games`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2197/problem/C) |
 | 2210C1 | [A Simple GCD Problem (Easy Version)](problems/1200/2210C1-A-Simple-GCD-Problem-Easy-Version) | 1200 | `greedy`, `number theory` | Yes | [CF](https://codeforces.com/contest/2210/problem/C1) |
 | 2218E | [The 67th XOR Problem](problems/1200/2218E-The-67th-XOR-Problem) | 1200 | `binary search`, `bitmasks`, `brute force` | Yes | [CF](https://codeforces.com/contest/2218/problem/E) |
+| 2227D | [Palindromex](problems/1200/2227D-Palindromex) | 1200 | `binary search`, `brute force`, `constructive algorithms`, `data structures`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2227/problem/D) |
 | 660580C | [Range and Recruitment](problems/1200/660580C-Range-and-Recruitment) | 1200 |  | - | [CF](https://codeforces.com/contest/660580/problem/C) |
 | 660722D | [Multiplication and Recruitment](problems/1200/660722D-Multiplication-and-Recruitment) | 1200 |  | - | [CF](https://codeforces.com/contest/660722/problem/D) |
 | 230B | [T-primes](problems/1300/230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/230/problem/B) |
@@ -266,6 +271,7 @@
 | 2181B | [Battle of Arrays](problems/1400/2181B-Battle-of-Arrays) | 1400 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2181/problem/B) |
 | 2209C | [Find the Zero](problems/1400/2209C-Find-the-Zero) | 1400 | `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2209/problem/C) |
 | 2231C | [Chipmunk Theo and Equality](problems/1400/2231C-Chipmunk-Theo-and-Equality) | 1400 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2231/problem/C) |
+| 2233C | [Cost of a Bracket Sequence](problems/1400/2233C-Cost-of-a-Bracket-Sequence) | 1400 | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/C) |
 | 660580E | [Bitwise and Recruitment](problems/1400/660580E-Bitwise-and-Recruitment) | 1400 |  | - | [CF](https://codeforces.com/contest/660580/problem/E) |
 | 660580D | [LCM and Recruitment](problems/1400/660580D-LCM-and-Recruitment) | 1400 |  | - | [CF](https://codeforces.com/contest/660580/problem/D) |
 | 660722F | [PRIDE !](problems/1400/660722F-PRIDE) | 1400 |  | - | [CF](https://codeforces.com/contest/660722/problem/F) |
@@ -315,6 +321,7 @@
 | 2185E | [The Robotic Rush](problems/1500/2185E-The-Robotic-Rush) | 1500 | `binary search`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2185/problem/E) |
 | 2195E | [Idiot First Search](problems/1500/2195E-Idiot-First-Search) | 1500 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/2195/problem/E) |
 | 2200E | [Divisive Battle](problems/1500/2200E-Divisive-Battle) | 1500 | `games`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2200/problem/E) |
+| 2205C | [Simons and Posting Blogs](problems/1500/2205C-Simons-and-Posting-Blogs) | 1500 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2205/problem/C) |
 | 2226C | [Mental Monumental (Easy Version)](problems/1500/2226C-Mental-Monumental-Easy-Version) | 1500 | `binary search`, `data structures`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2226/problem/C) |
 | 2234D | [XOR, Expression and Two Binary Numbers](problems/1500/2234D-XOR-Expression-and-Two-Binary-Numbers) | 1500 | `bitmasks`, `divide and conquer`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2234/problem/D) |
 | 165C | [Another Problem on Strings](problems/1600/165C-Another-Problem-on-Strings) | 1600 | `binary search`, `brute force`, `dp`, `math`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/165/problem/C) |
@@ -398,6 +405,7 @@
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
+| 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1486/problem/D) |
@@ -409,24 +417,24 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 171 |
-| `math` | 149 |
-| `implementation` | 101 |
-| `brute force` | 71 |
-| `dp` | 69 |
-| `constructive algorithms` | 67 |
-| `sortings` | 52 |
-| `number theory` | 50 |
-| `binary search` | 49 |
-| `data structures` | 46 |
-| `two pointers` | 33 |
+| `greedy` | 175 |
+| `math` | 153 |
+| `implementation` | 102 |
+| `brute force` | 73 |
+| `dp` | 71 |
+| `constructive algorithms` | 69 |
+| `sortings` | 53 |
+| `binary search` | 51 |
+| `number theory` | 51 |
+| `data structures` | 47 |
+| `two pointers` | 34 |
 | `dfs and similar` | 29 |
 | `graphs` | 23 |
+| `strings` | 22 |
 | `trees` | 22 |
-| `strings` | 21 |
 | `bitmasks` | 19 |
 | `combinatorics` | 18 |
-| `games` | 14 |
+| `games` | 15 |
 | `dsu` | 8 |
 | `shortest paths` | 7 |
 | `divide and conquer` | 6 |
@@ -447,21 +455,21 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 62 |
+| 0800 | 63 |
 | 1000 | 31 |
 | 1100 | 20 |
-| 1200 | 47 |
+| 1200 | 48 |
 | 1300 | 30 |
-| 1400 | 34 |
-| 1500 | 48 |
+| 1400 | 35 |
+| 1500 | 49 |
 | 1600 | 34 |
 | 1700 | 22 |
 | 1800 | 12 |
-| 1900 | 13 |
+| 1900 | 14 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
 | 2300 | 1 |
 | 2400 | 1 |
-| 900 | 7 |
-| Unrated | 25 |
+| 900 | 8 |
+| Unrated | 27 |
