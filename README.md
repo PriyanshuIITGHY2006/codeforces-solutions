@@ -14,10 +14,10 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2236C | [Omsk Programmers](problems/Unrated/2236C-Omsk-Programmers) | ? | `brute force`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/C) |
-| 2236E | [Friendly Gifts](problems/Unrated/2236E-Friendly-Gifts) | ? | `dp` | - | [CF](https://codeforces.com/contest/2236/problem/E) |
+| 2236E | [Friendly Gifts](problems/Unrated/2236E-Friendly-Gifts) | ? | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2236/problem/E) |
 | 2236D | [Brand New Tatar TV Show](problems/Unrated/2236D-Brand-New-Tatar-TV-Show) | ? | `binary search`, `constructive algorithms`, `dp`, `games`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/D) |
 | 2236A | [Games on the Train](problems/Unrated/2236A-Games-on-the-Train) | ? | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/A) |
-| 2236B | [Tatar TV Show](problems/Unrated/2236B-Tatar-TV-Show) | ? | `math`, `strings` | - | [CF](https://codeforces.com/contest/2236/problem/B) |
+| 2236B | [Tatar TV Show](problems/Unrated/2236B-Tatar-TV-Show) | ? | `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2236/problem/B) |
 | 2236F1 | [Elections in Saransk (easy version)](problems/Unrated/2236F1-Elections-in-Saransk-easy-version) | ? | `number theory` | - | [CF](https://codeforces.com/contest/2236/problem/F1) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -417,10 +417,10 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 175 |
+| `greedy` | 176 |
 | `math` | 153 |
 | `implementation` | 102 |
-| `brute force` | 73 |
+| `brute force` | 74 |
 | `dp` | 71 |
 | `constructive algorithms` | 69 |
 | `sortings` | 53 |

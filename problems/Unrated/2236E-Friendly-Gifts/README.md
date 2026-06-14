@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `dp`
+**Tags:** `brute force`, `dp`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
