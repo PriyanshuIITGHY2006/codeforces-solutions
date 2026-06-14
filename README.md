@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 399
+**Total Problems:** 401
 
-**With Source Code:** 67 / 399
+**With Source Code:** 67 / 401
 
 
 ## Problems
@@ -44,6 +44,7 @@
 | 386A | [Second-Price Auction](problems/0800/386A-Second-Price-Auction) | 800 | `implementation` | - | [CF](https://codeforces.com/contest/386/problem/A) |
 | 1194A | [Remove a Progression](problems/0800/1194A-Remove-a-Progression) | 800 | `math` | - | [CF](https://codeforces.com/contest/1194/problem/A) |
 | 1421A | [XORwice](problems/0800/1421A-XORwice) | 800 | `bitmasks`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1421/problem/A) |
+| 1493A | [Anti-knapsack](problems/0800/1493A-Anti-knapsack) | 800 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1493/problem/A) |
 | 1766A | [Extremely Round](problems/0800/1766A-Extremely-Round) | 800 | `brute force`, `implementation` | - | [CF](https://codeforces.com/contest/1766/problem/A) |
 | 1777A | [Everybody Likes Good Arrays!](problems/0800/1777A-Everybody-Likes-Good-Arrays) | 800 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/1777/problem/A) |
 | 1783A | [Make it Beautiful](problems/0800/1783A-Make-it-Beautiful) | 800 | `constructive algorithms`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/1783/problem/A) |
@@ -312,6 +313,7 @@
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2053C | [Bewitching Stargazer](problems/1500/2053C-Bewitching-Stargazer) | 1500 | `bitmasks`, `divide and conquer`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2053/problem/C) |
 | 2070C | [Limited Repainting](problems/1500/2070C-Limited-Repainting) | 1500 | `binary search`, `greedy` | - | [CF](https://codeforces.com/contest/2070/problem/C) |
+| 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](problems/1500/2072E-Do-You-Love-Your-Hero-and-His-Two-Hit-Multi-Target-Attacks) | 1500 | `binary search`, `brute force`, `constructive algorithms`, `dp`, `geometry`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2072/problem/E) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
 | 2140C | [Ultimate Value](problems/1500/2140C-Ultimate-Value) | 1500 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2140/problem/C) |
 | 2147C | [Rabbits](problems/1500/2147C-Rabbits) | 1500 | `constructive algorithms`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2147/problem/C) |
@@ -417,14 +419,14 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 176 |
-| `math` | 153 |
+| `greedy` | 178 |
+| `math` | 154 |
 | `implementation` | 102 |
-| `brute force` | 74 |
-| `dp` | 71 |
-| `constructive algorithms` | 69 |
+| `brute force` | 75 |
+| `dp` | 72 |
+| `constructive algorithms` | 71 |
 | `sortings` | 53 |
-| `binary search` | 51 |
+| `binary search` | 52 |
 | `number theory` | 51 |
 | `data structures` | 47 |
 | `two pointers` | 34 |
@@ -437,9 +439,9 @@
 | `games` | 15 |
 | `dsu` | 8 |
 | `shortest paths` | 7 |
+| `geometry` | 6 |
 | `divide and conquer` | 6 |
 | `interactive` | 5 |
-| `geometry` | 5 |
 | `hashing` | 4 |
 | `probabilities` | 3 |
 | `matrices` | 3 |
@@ -455,13 +457,13 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 63 |
+| 0800 | 64 |
 | 1000 | 31 |
 | 1100 | 20 |
 | 1200 | 48 |
 | 1300 | 30 |
 | 1400 | 35 |
-| 1500 | 49 |
+| 1500 | 50 |
 | 1600 | 34 |
 | 1700 | 22 |
 | 1800 | 12 |
