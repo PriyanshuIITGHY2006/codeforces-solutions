@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 401
+**Total Problems:** 404
 
-**With Source Code:** 67 / 401
+**With Source Code:** 67 / 404
 
 
 ## Problems
@@ -175,6 +175,7 @@
 | 1355A | [Sequence with Digits](problems/1200/1355A-Sequence-with-Digits) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1355/problem/A) |
 | 1363A | [Odd Selection](problems/1200/1363A-Odd-Selection) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1363/problem/A) |
 | 1512D | [Corrupted Array](problems/1200/1512D-Corrupted-Array) | 1200 | `constructive algorithms`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/1512/problem/D) |
+| 1546B | [AquaMoon and Stolen String](problems/1200/1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | - | [CF](https://codeforces.com/contest/1546/problem/B) |
 | 1704C | [Virus](problems/1200/1704C-Virus) | 1200 | `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/1704/problem/C) |
 | 1734C | [Removing Smallest Multiples](problems/1200/1734C-Removing-Smallest-Multiples) | 1200 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/1734/problem/C) |
 | 1742E | [Scuza](problems/1200/1742E-Scuza) | 1200 | `binary search`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1742/problem/E) |
@@ -312,6 +313,7 @@
 | 2027C | [Add Zeros](problems/1500/2027C-Add-Zeros) | 1500 | `brute force`, `data structures`, `dfs and similar`, `dp`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/2027/problem/C) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2053C | [Bewitching Stargazer](problems/1500/2053C-Bewitching-Stargazer) | 1500 | `bitmasks`, `divide and conquer`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2053/problem/C) |
+| 2060E | [Graph Composition](problems/1500/2060E-Graph-Composition) | 1500 | `dfs and similar`, `dsu`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/2060/problem/E) |
 | 2070C | [Limited Repainting](problems/1500/2070C-Limited-Repainting) | 1500 | `binary search`, `greedy` | - | [CF](https://codeforces.com/contest/2070/problem/C) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](problems/1500/2072E-Do-You-Love-Your-Hero-and-His-Two-Hit-Multi-Target-Attacks) | 1500 | `binary search`, `brute force`, `constructive algorithms`, `dp`, `geometry`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2072/problem/E) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
@@ -370,6 +372,7 @@
 | 1474C | [Array Destruction](problems/1700/1474C-Array-Destruction) | 1700 | `brute force`, `constructive algorithms`, `data structures`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/1474/problem/C) |
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
 | 1731D | [Valiant's New Map](problems/1700/1731D-Valiants-New-Map) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | - | [CF](https://codeforces.com/contest/1731/problem/D) |
+| 1826D | [Running Miles](problems/1700/1826D-Running-Miles) | 1700 | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1826/problem/D) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/1950/problem/F) |
 | 2030D | [QED's Favorite Permutation](problems/1700/2030D-QEDs-Favorite-Permutation) | 1700 | `data structures`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2030/problem/D) |
@@ -419,29 +422,29 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 178 |
-| `math` | 154 |
+| `greedy` | 180 |
+| `math` | 155 |
 | `implementation` | 102 |
-| `brute force` | 75 |
-| `dp` | 72 |
+| `brute force` | 76 |
+| `dp` | 73 |
 | `constructive algorithms` | 71 |
 | `sortings` | 53 |
 | `binary search` | 52 |
 | `number theory` | 51 |
 | `data structures` | 47 |
 | `two pointers` | 34 |
-| `dfs and similar` | 29 |
-| `graphs` | 23 |
+| `dfs and similar` | 30 |
+| `graphs` | 24 |
 | `strings` | 22 |
 | `trees` | 22 |
 | `bitmasks` | 19 |
 | `combinatorics` | 18 |
 | `games` | 15 |
-| `dsu` | 8 |
+| `dsu` | 9 |
 | `shortest paths` | 7 |
+| `interactive` | 6 |
 | `geometry` | 6 |
 | `divide and conquer` | 6 |
-| `interactive` | 5 |
 | `hashing` | 4 |
 | `probabilities` | 3 |
 | `matrices` | 3 |
@@ -460,12 +463,12 @@
 | 0800 | 64 |
 | 1000 | 31 |
 | 1100 | 20 |
-| 1200 | 48 |
+| 1200 | 49 |
 | 1300 | 30 |
 | 1400 | 35 |
-| 1500 | 50 |
+| 1500 | 51 |
 | 1600 | 34 |
-| 1700 | 22 |
+| 1700 | 23 |
 | 1800 | 12 |
 | 1900 | 14 |
 | 2000 | 2 |
