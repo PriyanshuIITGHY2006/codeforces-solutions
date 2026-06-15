@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 404
+**Total Problems:** 407
 
-**With Source Code:** 67 / 404
+**With Source Code:** 67 / 407
 
 
 ## Problems
@@ -194,6 +194,7 @@
 | 1975C | [Chamo and Mocha's Array](problems/1200/1975C-Chamo-and-Mochas-Array) | 1200 | `binary search`, `brute force`, `greedy` | - | [CF](https://codeforces.com/contest/1975/problem/C) |
 | 1979C | [Earning on Bets](problems/1200/1979C-Earning-on-Bets) | 1200 | `binary search`, `combinatorics`, `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/1979/problem/C) |
 | 1982B | [Collatz Conjecture](problems/1200/1982B-Collatz-Conjecture) | 1200 | `brute force`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1982/problem/B) |
+| 2000D | [Right Left Wrong](problems/1200/2000D-Right-Left-Wrong) | 1200 | `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2000/problem/D) |
 | 2021B | [Maximize Mex](problems/1200/2021B-Maximize-Mex) | 1200 | `brute force`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2021/problem/B) |
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
@@ -263,6 +264,7 @@
 | 1837D | [Bracket Coloring](problems/1400/1837D-Bracket-Coloring) | 1400 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1837/problem/D) |
 | 1860C | [Game on Permutation](problems/1400/1860C-Game-on-Permutation) | 1400 | `data structures`, `dp`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/1860/problem/C) |
 | 1993C | [Light Switches](problems/1400/1993C-Light-Switches) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1993/problem/C) |
+| 2000E | [Photoshoot for Gorillas](problems/1400/2000E-Photoshoot-for-Gorillas) | 1400 | `combinatorics`, `data structures`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2000/problem/E) |
 | 2014D | [Robert Hood and Mrs Hood](problems/1400/2014D-Robert-Hood-and-Mrs-Hood) | 1400 | `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2014/problem/D) |
 | 2055C | [The Trail](problems/1400/2055C-The-Trail) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2055/problem/C) |
 | 2133C | [The Nether](problems/1400/2133C-The-Nether) | 1400 | `graphs`, `interactive` | - | [CF](https://codeforces.com/contest/2133/problem/C) |
@@ -379,6 +381,7 @@
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
 | 2123F | [Minimize Fixed Points](problems/1700/2123F-Minimize-Fixed-Points) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2123/problem/F) |
 | 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2132/problem/E) |
+| 2147D | [Game on Array](problems/1700/2147D-Game-on-Array) | 1700 | `games`, `greedy` | - | [CF](https://codeforces.com/contest/2147/problem/D) |
 | 2185F | [BattleCows](problems/1700/2185F-BattleCows) | 1700 | `data structures`, `divide and conquer`, `implementation` | - | [CF](https://codeforces.com/contest/2185/problem/F) |
 | 2202D | [Recollect Numbers](problems/1700/2202D-Recollect-Numbers) | 1700 | `constructive algorithms`, `implementation` | Yes | [CF](https://codeforces.com/contest/2202/problem/D) |
 | 2203D | [Divisibility Game](problems/1700/2203D-Divisibility-Game) | 1700 | `brute force`, `games`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2203/problem/D) |
@@ -422,24 +425,24 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 180 |
-| `math` | 155 |
-| `implementation` | 102 |
+| `greedy` | 183 |
+| `math` | 156 |
+| `implementation` | 103 |
 | `brute force` | 76 |
 | `dp` | 73 |
 | `constructive algorithms` | 71 |
 | `sortings` | 53 |
 | `binary search` | 52 |
 | `number theory` | 51 |
-| `data structures` | 47 |
-| `two pointers` | 34 |
+| `data structures` | 48 |
+| `two pointers` | 35 |
 | `dfs and similar` | 30 |
 | `graphs` | 24 |
 | `strings` | 22 |
 | `trees` | 22 |
+| `combinatorics` | 19 |
 | `bitmasks` | 19 |
-| `combinatorics` | 18 |
-| `games` | 15 |
+| `games` | 16 |
 | `dsu` | 9 |
 | `shortest paths` | 7 |
 | `interactive` | 6 |
@@ -463,12 +466,12 @@
 | 0800 | 64 |
 | 1000 | 31 |
 | 1100 | 20 |
-| 1200 | 49 |
+| 1200 | 50 |
 | 1300 | 30 |
-| 1400 | 35 |
+| 1400 | 36 |
 | 1500 | 51 |
 | 1600 | 34 |
-| 1700 | 23 |
+| 1700 | 24 |
 | 1800 | 12 |
 | 1900 | 14 |
 | 2000 | 2 |
