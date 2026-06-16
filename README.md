@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 407
+**Total Problems:** 408
 
-**With Source Code:** 67 / 407
+**With Source Code:** 67 / 408
 
 
 ## Problems
@@ -409,6 +409,7 @@
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1800F | [Dasha and Nightmares](problems/1900/1800F-Dasha-and-Nightmares) | 1900 | `bitmasks`, `hashing`, `meet-in-the-middle`, `strings` | - | [CF](https://codeforces.com/contest/1800/problem/F) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
+| 2000F | [Color Rows and Columns](problems/1900/2000F-Color-Rows-and-Columns) | 1900 | `dp`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2000/problem/F) |
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
@@ -425,11 +426,11 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 183 |
-| `math` | 156 |
-| `implementation` | 103 |
+| `greedy` | 184 |
+| `math` | 157 |
+| `implementation` | 104 |
 | `brute force` | 76 |
-| `dp` | 73 |
+| `dp` | 74 |
 | `constructive algorithms` | 71 |
 | `sortings` | 53 |
 | `binary search` | 52 |
@@ -473,7 +474,7 @@
 | 1600 | 34 |
 | 1700 | 24 |
 | 1800 | 12 |
-| 1900 | 14 |
+| 1900 | 15 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
