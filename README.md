@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 408
+**Total Problems:** 409
 
-**With Source Code:** 67 / 408
+**With Source Code:** 67 / 409
 
 
 ## Problems
@@ -176,6 +176,7 @@
 | 1363A | [Odd Selection](problems/1200/1363A-Odd-Selection) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1363/problem/A) |
 | 1512D | [Corrupted Array](problems/1200/1512D-Corrupted-Array) | 1200 | `constructive algorithms`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/1512/problem/D) |
 | 1546B | [AquaMoon and Stolen String](problems/1200/1546B-AquaMoon-and-Stolen-String) | 1200 | `interactive`, `math` | - | [CF](https://codeforces.com/contest/1546/problem/B) |
+| 1613C | [Poisoned Dagger](problems/1200/1613C-Poisoned-Dagger) | 1200 | `binary search` | - | [CF](https://codeforces.com/contest/1613/problem/C) |
 | 1704C | [Virus](problems/1200/1704C-Virus) | 1200 | `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/1704/problem/C) |
 | 1734C | [Removing Smallest Multiples](problems/1200/1734C-Removing-Smallest-Multiples) | 1200 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/1734/problem/C) |
 | 1742E | [Scuza](problems/1200/1742E-Scuza) | 1200 | `binary search`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1742/problem/E) |
@@ -432,8 +433,8 @@
 | `brute force` | 76 |
 | `dp` | 74 |
 | `constructive algorithms` | 71 |
+| `binary search` | 53 |
 | `sortings` | 53 |
-| `binary search` | 52 |
 | `number theory` | 51 |
 | `data structures` | 48 |
 | `two pointers` | 35 |
@@ -467,7 +468,7 @@
 | 0800 | 64 |
 | 1000 | 31 |
 | 1100 | 20 |
-| 1200 | 50 |
+| 1200 | 51 |
 | 1300 | 30 |
 | 1400 | 36 |
 | 1500 | 51 |
