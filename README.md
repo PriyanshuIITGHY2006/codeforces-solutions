@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 410
+**Total Problems:** 411
 
-**With Source Code:** 67 / 410
+**With Source Code:** 67 / 411
 
 
 ## Problems
@@ -274,6 +274,7 @@
 | 2171D | [Rae Taylor and Trees (easy version)](problems/1400/2171D-Rae-Taylor-and-Trees-easy-version) | 1400 | `binary search`, `data structures`, `dp`, `dsu`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/2171/problem/D) |
 | 2173C | [Kanade's Perfect Multiples](problems/1400/2173C-Kanades-Perfect-Multiples) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2173/problem/C) |
 | 2181B | [Battle of Arrays](problems/1400/2181B-Battle-of-Arrays) | 1400 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2181/problem/B) |
+| 2190B1 | [Sub-RBS (Easy Version)](problems/1400/2190B1-Sub-RBS-Easy-Version) | 1400 | `combinatorics`, `constructive algorithms`, `dp`, `greedy`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/2190/problem/B1) |
 | 2209C | [Find the Zero](problems/1400/2209C-Find-the-Zero) | 1400 | `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2209/problem/C) |
 | 2231C | [Chipmunk Theo and Equality](problems/1400/2231C-Chipmunk-Theo-and-Equality) | 1400 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2231/problem/C) |
 | 2233C | [Cost of a Bracket Sequence](problems/1400/2233C-Cost-of-a-Bracket-Sequence) | 1400 | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/C) |
@@ -428,22 +429,22 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 184 |
+| `greedy` | 185 |
 | `math` | 158 |
 | `implementation` | 105 |
 | `brute force` | 76 |
-| `dp` | 74 |
-| `constructive algorithms` | 71 |
+| `dp` | 75 |
+| `constructive algorithms` | 72 |
 | `binary search` | 54 |
 | `sortings` | 53 |
 | `number theory` | 51 |
 | `data structures` | 48 |
-| `two pointers` | 35 |
+| `two pointers` | 36 |
 | `dfs and similar` | 30 |
 | `graphs` | 24 |
-| `strings` | 22 |
+| `strings` | 23 |
 | `trees` | 22 |
-| `combinatorics` | 19 |
+| `combinatorics` | 20 |
 | `bitmasks` | 19 |
 | `games` | 16 |
 | `dsu` | 9 |
@@ -471,7 +472,7 @@
 | 1100 | 20 |
 | 1200 | 51 |
 | 1300 | 30 |
-| 1400 | 36 |
+| 1400 | 37 |
 | 1500 | 52 |
 | 1600 | 34 |
 | 1700 | 24 |
