@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 409
+**Total Problems:** 410
 
-**With Source Code:** 67 / 409
+**With Source Code:** 67 / 410
 
 
 ## Problems
@@ -312,6 +312,7 @@
 | 1776L | [Controllers](problems/1500/1776L-Controllers) | 1500 | `binary search`, `math` | - | [CF](https://codeforces.com/contest/1776/problem/L) |
 | 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
+| 1933E | [Turtle vs. Rabbit Race: Optimal Trainings](problems/1500/1933E-Turtle-vs.-Rabbit-Race-Optimal-Trainings) | 1500 | `binary search`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1933/problem/E) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2027C | [Add Zeros](problems/1500/2027C-Add-Zeros) | 1500 | `brute force`, `data structures`, `dfs and similar`, `dp`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/2027/problem/C) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
@@ -428,12 +429,12 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 184 |
-| `math` | 157 |
-| `implementation` | 104 |
+| `math` | 158 |
+| `implementation` | 105 |
 | `brute force` | 76 |
 | `dp` | 74 |
 | `constructive algorithms` | 71 |
-| `binary search` | 53 |
+| `binary search` | 54 |
 | `sortings` | 53 |
 | `number theory` | 51 |
 | `data structures` | 48 |
@@ -451,9 +452,9 @@
 | `geometry` | 6 |
 | `divide and conquer` | 6 |
 | `hashing` | 4 |
+| `ternary search` | 3 |
 | `probabilities` | 3 |
 | `matrices` | 3 |
-| `ternary search` | 2 |
 | `schedules` | 2 |
 | `meet-in-the-middle` | 1 |
 | `flows` | 1 |
@@ -471,7 +472,7 @@
 | 1200 | 51 |
 | 1300 | 30 |
 | 1400 | 36 |
-| 1500 | 51 |
+| 1500 | 52 |
 | 1600 | 34 |
 | 1700 | 24 |
 | 1800 | 12 |
