@@ -13,12 +13,6 @@
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2236C | [Omsk Programmers](problems/Unrated/2236C-Omsk-Programmers) | ? | `brute force`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/C) |
-| 2236E | [Friendly Gifts](problems/Unrated/2236E-Friendly-Gifts) | ? | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2236/problem/E) |
-| 2236D | [Brand New Tatar TV Show](problems/Unrated/2236D-Brand-New-Tatar-TV-Show) | ? | `binary search`, `constructive algorithms`, `dp`, `games`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/D) |
-| 2236A | [Games on the Train](problems/Unrated/2236A-Games-on-the-Train) | ? | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/A) |
-| 2236B | [Tatar TV Show](problems/Unrated/2236B-Tatar-TV-Show) | ? | `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2236/problem/B) |
-| 2236F1 | [Elections in Saransk (easy version)](problems/Unrated/2236F1-Elections-in-Saransk-easy-version) | ? | `number theory` | - | [CF](https://codeforces.com/contest/2236/problem/F1) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -101,6 +95,8 @@
 | 2224A | [Zhily and Array Operating](problems/0800/2224A-Zhily-and-Array-Operating) | 800 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2224/problem/A) |
 | 2231A | [Construct an Array](problems/0800/2231A-Construct-an-Array) | 800 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/A) |
 | 2233A | [AI Project Development](problems/0800/2233A-AI-Project-Development) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
+| 2236A | [Games on the Train](problems/0800/2236A-Games-on-the-Train) | 800 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/A) |
+| 2236B | [Tatar TV Show](problems/0800/2236B-Tatar-TV-Show) | 800 | `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2236/problem/B) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
@@ -142,6 +138,7 @@
 | 2204C | [Spring](problems/1000/2204C-Spring) | 1000 | `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2204/problem/C) |
 | 2217B | [Flip the Bit (Easy Version)](problems/1000/2217B-Flip-the-Bit-Easy-Version) | 1000 | `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2217/problem/B) |
 | 2230B | [Digit String](problems/1000/2230B-Digit-String) | 1000 | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/B) |
+| 2236C | [Omsk Programmers](problems/1000/2236C-Omsk-Programmers) | 1000 | `brute force`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/C) |
 | 660722C | [Project and Recruitment](problems/1000/660722C-Project-and-Recruitment) | 1000 |  | - | [CF](https://codeforces.com/contest/660722/problem/C) |
 | 797A | [k-Factorization](problems/1100/797A-k-Factorization) | 1100 | `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/797/problem/A) |
 | 1202A | [You Are Given Two Binary Strings...](problems/1100/1202A-You-Are-Given-Two-Binary-Strings...) | 1100 | `bitmasks`, `greedy` | - | [CF](https://codeforces.com/contest/1202/problem/A) |
@@ -244,6 +241,7 @@
 | 2211C1 | [Equal Multisets (Easy Version)](problems/1300/2211C1-Equal-Multisets-Easy-Version) | 1300 | `binary search`, `brute force`, `greedy`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2211/problem/C1) |
 | 2217C | [Grid Covering](problems/1300/2217C-Grid-Covering) | 1300 | `chinese remainder theorem`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2217/problem/C) |
 | 2230C | [Arrange the Numbers in a Circle](problems/1300/2230C-Arrange-the-Numbers-in-a-Circle) | 1300 | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/C) |
+| 2236D | [Brand New Tatar TV Show](problems/1300/2236D-Brand-New-Tatar-TV-Show) | 1300 | `binary search`, `constructive algorithms`, `dp`, `games`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/D) |
 | 279B | [Books](problems/1400/279B-Books) | 1400 | `binary search`, `brute force`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/279/problem/B) |
 | 295A | [Greg and Array](problems/1400/295A-Greg-and-Array) | 1400 | `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/295/problem/A) |
 | 369B | [Valera and Contest](problems/1400/369B-Valera-and-Contest) | 1400 | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/369/problem/B) |
@@ -392,6 +390,8 @@
 | 2215A | [Interval Mod](problems/1700/2215A-Interval-Mod) | 1700 | `constructive algorithms`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2215/problem/A) |
 | 2216C | [Interval Mod](problems/1700/2216C-Interval-Mod) | 1700 | `greedy` | Yes | [CF](https://codeforces.com/contest/2216/problem/C) |
 | 2227F | [It Just Keeps Going Sideways](problems/1700/2227F-It-Just-Keeps-Going-Sideways) | 1700 | `binary search`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2227/problem/F) |
+| 2236E | [Friendly Gifts](problems/1700/2236E-Friendly-Gifts) | 1700 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2236/problem/E) |
+| 2236F1 | [Elections in Saransk (easy version)](problems/1700/2236F1-Elections-in-Saransk-easy-version) | 1700 | `number theory` | - | [CF](https://codeforces.com/contest/2236/problem/F1) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1709/problem/C) |
@@ -470,15 +470,15 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 64 |
-| 1000 | 31 |
+| 0800 | 66 |
+| 1000 | 32 |
 | 1100 | 20 |
 | 1200 | 51 |
-| 1300 | 30 |
+| 1300 | 31 |
 | 1400 | 37 |
 | 1500 | 53 |
 | 1600 | 34 |
-| 1700 | 24 |
+| 1700 | 26 |
 | 1800 | 12 |
 | 1900 | 17 |
 | 2000 | 2 |
@@ -487,4 +487,4 @@
 | 2300 | 1 |
 | 2400 | 1 |
 | 900 | 8 |
-| Unrated | 27 |
+| Unrated | 21 |
