@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 411
+**Total Problems:** 412
 
-**With Source Code:** 67 / 411
+**With Source Code:** 67 / 412
 
 
 ## Problems
@@ -417,6 +417,7 @@
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
+| 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
@@ -431,9 +432,9 @@
 |-----|-------|
 | `greedy` | 185 |
 | `math` | 158 |
-| `implementation` | 105 |
+| `implementation` | 106 |
+| `dp` | 76 |
 | `brute force` | 76 |
-| `dp` | 75 |
 | `constructive algorithms` | 72 |
 | `binary search` | 54 |
 | `sortings` | 53 |
@@ -441,12 +442,12 @@
 | `data structures` | 48 |
 | `two pointers` | 36 |
 | `dfs and similar` | 30 |
+| `strings` | 24 |
 | `graphs` | 24 |
-| `strings` | 23 |
 | `trees` | 22 |
 | `combinatorics` | 20 |
 | `bitmasks` | 19 |
-| `games` | 16 |
+| `games` | 17 |
 | `dsu` | 9 |
 | `shortest paths` | 7 |
 | `interactive` | 6 |
@@ -477,7 +478,7 @@
 | 1600 | 34 |
 | 1700 | 24 |
 | 1800 | 12 |
-| 1900 | 15 |
+| 1900 | 16 |
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
