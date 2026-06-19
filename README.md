@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 414
+**Total Problems:** 415
 
-**With Source Code:** 67 / 414
+**With Source Code:** 67 / 415
 
 
 ## Problems
@@ -311,6 +311,7 @@
 | 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
 | 1776L | [Controllers](problems/1500/1776L-Controllers) | 1500 | `binary search`, `math` | - | [CF](https://codeforces.com/contest/1776/problem/L) |
 | 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
+| 1876B | [Effects of Anti Pimples](problems/1500/1876B-Effects-of-Anti-Pimples) | 1500 | `combinatorics`, `number theory`, `sortings` | - | [CF](https://codeforces.com/contest/1876/problem/B) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1933E | [Turtle vs. Rabbit Race: Optimal Trainings](problems/1500/1933E-Turtle-vs.-Rabbit-Race-Optimal-Trainings) | 1500 | `binary search`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1933/problem/E) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
@@ -438,16 +439,16 @@
 | `dp` | 76 |
 | `brute force` | 76 |
 | `constructive algorithms` | 73 |
+| `sortings` | 54 |
 | `binary search` | 54 |
-| `sortings` | 53 |
-| `number theory` | 51 |
+| `number theory` | 52 |
 | `data structures` | 48 |
 | `two pointers` | 36 |
 | `dfs and similar` | 30 |
 | `graphs` | 25 |
 | `strings` | 24 |
 | `trees` | 23 |
-| `combinatorics` | 20 |
+| `combinatorics` | 21 |
 | `bitmasks` | 19 |
 | `games` | 17 |
 | `dsu` | 10 |
@@ -476,7 +477,7 @@
 | 1200 | 51 |
 | 1300 | 31 |
 | 1400 | 37 |
-| 1500 | 53 |
+| 1500 | 54 |
 | 1600 | 34 |
 | 1700 | 26 |
 | 1800 | 12 |
