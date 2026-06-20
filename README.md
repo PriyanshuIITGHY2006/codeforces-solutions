@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 415
+**Total Problems:** 416
 
-**With Source Code:** 67 / 415
+**With Source Code:** 67 / 416
 
 
 ## Problems
@@ -427,6 +427,7 @@
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1486/problem/D) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/2028/problem/E) |
+| 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | - | [CF](https://codeforces.com/contest/2134/problem/E) |
 | 2176F | [Omega Numbers](problems/2400/2176F-Omega-Numbers) | 2400 | `bitmasks`, `combinatorics`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2176/problem/F) |
 
 ## Tag Distribution
@@ -435,12 +436,12 @@
 |-----|-------|
 | `greedy` | 186 |
 | `math` | 158 |
-| `implementation` | 107 |
-| `dp` | 76 |
+| `implementation` | 108 |
+| `dp` | 77 |
 | `brute force` | 76 |
-| `constructive algorithms` | 73 |
-| `sortings` | 54 |
+| `constructive algorithms` | 74 |
 | `binary search` | 54 |
+| `sortings` | 54 |
 | `number theory` | 52 |
 | `data structures` | 48 |
 | `two pointers` | 36 |
@@ -453,7 +454,7 @@
 | `games` | 17 |
 | `dsu` | 10 |
 | `shortest paths` | 8 |
-| `interactive` | 6 |
+| `interactive` | 7 |
 | `geometry` | 6 |
 | `divide and conquer` | 6 |
 | `hashing` | 4 |
@@ -485,7 +486,7 @@
 | 2000 | 2 |
 | 2100 | 1 |
 | 2200 | 1 |
-| 2300 | 1 |
+| 2300 | 2 |
 | 2400 | 1 |
 | 900 | 8 |
 | Unrated | 21 |
