@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 416
+**Total Problems:** 417
 
-**With Source Code:** 67 / 416
+**With Source Code:** 67 / 417
 
 
 ## Problems
@@ -424,6 +424,7 @@
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
+| 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | - | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1486/problem/D) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/2028/problem/E) |
@@ -435,9 +436,9 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 186 |
-| `math` | 158 |
+| `math` | 159 |
 | `implementation` | 108 |
-| `dp` | 77 |
+| `dp` | 78 |
 | `brute force` | 76 |
 | `constructive algorithms` | 74 |
 | `binary search` | 54 |
@@ -484,7 +485,7 @@
 | 1800 | 12 |
 | 1900 | 17 |
 | 2000 | 2 |
-| 2100 | 1 |
+| 2100 | 2 |
 | 2200 | 1 |
 | 2300 | 2 |
 | 2400 | 1 |
