@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 417
+**Total Problems:** 418
 
-**With Source Code:** 67 / 417
+**With Source Code:** 67 / 418
 
 
 ## Problems
@@ -397,6 +397,7 @@
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1709/problem/C) |
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | - | [CF](https://codeforces.com/contest/1729/problem/E) |
+| 1824B1 | [LuoTianyi and the Floating Islands (Easy Version)](problems/1800/1824B1-LuoTianyi-and-the-Floating-Islands-Easy-Version) | 1800 | `combinatorics`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/1824/problem/B1) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | - | [CF](https://codeforces.com/contest/1974/problem/E) |
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
@@ -436,7 +437,7 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 186 |
-| `math` | 159 |
+| `math` | 160 |
 | `implementation` | 108 |
 | `dp` | 78 |
 | `brute force` | 76 |
@@ -448,9 +449,9 @@
 | `two pointers` | 36 |
 | `dfs and similar` | 30 |
 | `graphs` | 25 |
+| `trees` | 24 |
 | `strings` | 24 |
-| `trees` | 23 |
-| `combinatorics` | 21 |
+| `combinatorics` | 22 |
 | `bitmasks` | 19 |
 | `games` | 17 |
 | `dsu` | 10 |
@@ -458,9 +459,9 @@
 | `interactive` | 7 |
 | `geometry` | 6 |
 | `divide and conquer` | 6 |
+| `probabilities` | 4 |
 | `hashing` | 4 |
 | `ternary search` | 3 |
-| `probabilities` | 3 |
 | `matrices` | 3 |
 | `schedules` | 2 |
 | `meet-in-the-middle` | 1 |
@@ -482,7 +483,7 @@
 | 1500 | 54 |
 | 1600 | 34 |
 | 1700 | 26 |
-| 1800 | 12 |
+| 1800 | 13 |
 | 1900 | 17 |
 | 2000 | 2 |
 | 2100 | 2 |
