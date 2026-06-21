@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 418
+**Total Problems:** 419
 
-**With Source Code:** 67 / 418
+**With Source Code:** 67 / 419
 
 
 ## Problems
@@ -309,6 +309,7 @@
 | 1506E | [Restoring the Permutation](problems/1500/1506E-Restoring-the-Permutation) | 1500 | `constructive algorithms`, `implementation` | - | [CF](https://codeforces.com/contest/1506/problem/E) |
 | 1516B | [AGAGA XOOORRR](problems/1500/1516B-AGAGA-XOOORRR) | 1500 | `bitmasks`, `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1516/problem/B) |
 | 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
+| 1575J | [Jeopardy of Dropped Balls](problems/1500/1575J-Jeopardy-of-Dropped-Balls) | 1500 | `binary search`, `brute force`, `dsu`, `implementation` | - | [CF](https://codeforces.com/contest/1575/problem/J) |
 | 1776L | [Controllers](problems/1500/1776L-Controllers) | 1500 | `binary search`, `math` | - | [CF](https://codeforces.com/contest/1776/problem/L) |
 | 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
 | 1876B | [Effects of Anti Pimples](problems/1500/1876B-Effects-of-Anti-Pimples) | 1500 | `combinatorics`, `number theory`, `sortings` | - | [CF](https://codeforces.com/contest/1876/problem/B) |
@@ -438,11 +439,11 @@
 |-----|-------|
 | `greedy` | 186 |
 | `math` | 160 |
-| `implementation` | 108 |
+| `implementation` | 109 |
 | `dp` | 78 |
-| `brute force` | 76 |
+| `brute force` | 77 |
 | `constructive algorithms` | 74 |
-| `binary search` | 54 |
+| `binary search` | 55 |
 | `sortings` | 54 |
 | `number theory` | 52 |
 | `data structures` | 48 |
@@ -454,7 +455,7 @@
 | `combinatorics` | 22 |
 | `bitmasks` | 19 |
 | `games` | 17 |
-| `dsu` | 10 |
+| `dsu` | 11 |
 | `shortest paths` | 8 |
 | `interactive` | 7 |
 | `geometry` | 6 |
@@ -480,7 +481,7 @@
 | 1200 | 51 |
 | 1300 | 31 |
 | 1400 | 37 |
-| 1500 | 54 |
+| 1500 | 55 |
 | 1600 | 34 |
 | 1700 | 26 |
 | 1800 | 13 |
