@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 420
+**Total Problems:** 422
 
-**With Source Code:** 67 / 420
+**With Source Code:** 67 / 422
 
 
 ## Problems
@@ -216,6 +216,7 @@
 | 862B | [Mahmoud and Ehab and the bipartiteness](problems/1300/862B-Mahmoud-and-Ehab-and-the-bipartiteness) | 1300 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/862/problem/B) |
 | 1152B | [Neko Performs Cat Furrier Transform](problems/1300/1152B-Neko-Performs-Cat-Furrier-Transform) | 1300 | `bitmasks`, `constructive algorithms`, `dfs and similar`, `math` | Yes | [CF](https://codeforces.com/contest/1152/problem/B) |
 | 1225B2 | [TV Subscriptions (Hard Version)](problems/1300/1225B2-TV-Subscriptions-Hard-Version) | 1300 | `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/1225/problem/B2) |
+| 1661B | [Getting Zero](problems/1300/1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1661/problem/B) |
 | 1741D | [Masha and a Beautiful Tree](problems/1300/1741D-Masha-and-a-Beautiful-Tree) | 1300 | `dfs and similar`, `divide and conquer`, `graphs`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/1741/problem/D) |
 | 1851D | [Prefix Permutation Sums](problems/1300/1851D-Prefix-Permutation-Sums) | 1300 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1851/problem/D) |
 | 1873F | [Money Trees](problems/1300/1873F-Money-Trees) | 1300 | `binary search`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/1873/problem/F) |
@@ -419,6 +420,7 @@
 | 1800F | [Dasha and Nightmares](problems/1900/1800F-Dasha-and-Nightmares) | 1900 | `bitmasks`, `hashing`, `meet-in-the-middle`, `strings` | - | [CF](https://codeforces.com/contest/1800/problem/F) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
 | 2000F | [Color Rows and Columns](problems/1900/2000F-Color-Rows-and-Columns) | 1900 | `dp`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2000/problem/F) |
+| 2022D1 | [Asesino (Easy Version)](problems/1900/2022D1-Asesino-Easy-Version) | 1900 | `binary search`, `brute force`, `constructive algorithms`, `implementation`, `interactive` | - | [CF](https://codeforces.com/contest/2022/problem/D1) |
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
@@ -438,27 +440,27 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 187 |
+| `greedy` | 188 |
 | `math` | 160 |
-| `implementation` | 109 |
-| `dp` | 79 |
-| `brute force` | 77 |
-| `constructive algorithms` | 74 |
-| `binary search` | 55 |
+| `implementation` | 110 |
+| `dp` | 80 |
+| `brute force` | 79 |
+| `constructive algorithms` | 75 |
+| `binary search` | 56 |
 | `sortings` | 54 |
 | `number theory` | 52 |
 | `data structures` | 48 |
 | `two pointers` | 36 |
-| `dfs and similar` | 30 |
-| `graphs` | 26 |
+| `dfs and similar` | 31 |
+| `graphs` | 27 |
 | `trees` | 24 |
 | `strings` | 24 |
 | `combinatorics` | 22 |
-| `bitmasks` | 19 |
+| `bitmasks` | 20 |
 | `games` | 17 |
 | `dsu` | 11 |
-| `shortest paths` | 8 |
-| `interactive` | 7 |
+| `shortest paths` | 9 |
+| `interactive` | 8 |
 | `geometry` | 6 |
 | `divide and conquer` | 6 |
 | `probabilities` | 4 |
@@ -480,13 +482,13 @@
 | 1000 | 32 |
 | 1100 | 20 |
 | 1200 | 51 |
-| 1300 | 31 |
+| 1300 | 32 |
 | 1400 | 37 |
 | 1500 | 55 |
 | 1600 | 35 |
 | 1700 | 26 |
 | 1800 | 13 |
-| 1900 | 17 |
+| 1900 | 18 |
 | 2000 | 2 |
 | 2100 | 2 |
 | 2200 | 1 |
