@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 419
+**Total Problems:** 420
 
-**With Source Code:** 67 / 419
+**With Source Code:** 67 / 420
 
 
 ## Problems
@@ -343,6 +343,7 @@
 | 1015D | [Walking Between Houses](problems/1600/1015D-Walking-Between-Houses) | 1600 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1015/problem/D) |
 | 1251C | [Minimize The Integer](problems/1600/1251C-Minimize-The-Integer) | 1600 | `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/1251/problem/C) |
 | 1349A | [Orac and LCM](problems/1600/1349A-Orac-and-LCM) | 1600 | `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1349/problem/A) |
+| 1476C | [Longest Simple Cycle](problems/1600/1476C-Longest-Simple-Cycle) | 1600 | `dp`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/1476/problem/C) |
 | 1513C | [Add One](problems/1600/1513C-Add-One) | 1600 | `dp`, `matrices` | - | [CF](https://codeforces.com/contest/1513/problem/C) |
 | 1537E1 | [Erase and Extend (Easy Version)](problems/1600/1537E1-Erase-and-Extend-Easy-Version) | 1600 | `binary search`, `brute force`, `dp`, `greedy`, `hashing`, `implementation`, `string suffix structures`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/1537/problem/E1) |
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
@@ -437,10 +438,10 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 186 |
+| `greedy` | 187 |
 | `math` | 160 |
 | `implementation` | 109 |
-| `dp` | 78 |
+| `dp` | 79 |
 | `brute force` | 77 |
 | `constructive algorithms` | 74 |
 | `binary search` | 55 |
@@ -449,7 +450,7 @@
 | `data structures` | 48 |
 | `two pointers` | 36 |
 | `dfs and similar` | 30 |
-| `graphs` | 25 |
+| `graphs` | 26 |
 | `trees` | 24 |
 | `strings` | 24 |
 | `combinatorics` | 22 |
@@ -482,7 +483,7 @@
 | 1300 | 31 |
 | 1400 | 37 |
 | 1500 | 55 |
-| 1600 | 34 |
+| 1600 | 35 |
 | 1700 | 26 |
 | 1800 | 13 |
 | 1900 | 17 |
