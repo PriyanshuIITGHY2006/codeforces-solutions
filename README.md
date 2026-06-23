@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 422
+**Total Problems:** 423
 
-**With Source Code:** 67 / 422
+**With Source Code:** 67 / 423
 
 
 ## Problems
@@ -416,6 +416,7 @@
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | - | [CF](https://codeforces.com/contest/1245/problem/D) |
+| 1777D | [Score of a Tree](problems/1900/1777D-Score-of-a-Tree) | 1900 | `bitmasks`, `combinatorics`, `dfs and similar`, `dp`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/1777/problem/D) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1800F | [Dasha and Nightmares](problems/1900/1800F-Dasha-and-Nightmares) | 1900 | `bitmasks`, `hashing`, `meet-in-the-middle`, `strings` | - | [CF](https://codeforces.com/contest/1800/problem/F) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
@@ -441,9 +442,9 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 188 |
-| `math` | 160 |
+| `math` | 161 |
 | `implementation` | 110 |
-| `dp` | 80 |
+| `dp` | 81 |
 | `brute force` | 79 |
 | `constructive algorithms` | 75 |
 | `binary search` | 56 |
@@ -451,19 +452,19 @@
 | `number theory` | 52 |
 | `data structures` | 48 |
 | `two pointers` | 36 |
-| `dfs and similar` | 31 |
+| `dfs and similar` | 32 |
 | `graphs` | 27 |
-| `trees` | 24 |
+| `trees` | 25 |
 | `strings` | 24 |
-| `combinatorics` | 22 |
-| `bitmasks` | 20 |
+| `combinatorics` | 23 |
+| `bitmasks` | 21 |
 | `games` | 17 |
 | `dsu` | 11 |
 | `shortest paths` | 9 |
 | `interactive` | 8 |
 | `geometry` | 6 |
 | `divide and conquer` | 6 |
-| `probabilities` | 4 |
+| `probabilities` | 5 |
 | `hashing` | 4 |
 | `ternary search` | 3 |
 | `matrices` | 3 |
@@ -488,7 +489,7 @@
 | 1600 | 35 |
 | 1700 | 26 |
 | 1800 | 13 |
-| 1900 | 18 |
+| 1900 | 19 |
 | 2000 | 2 |
 | 2100 | 2 |
 | 2200 | 1 |
