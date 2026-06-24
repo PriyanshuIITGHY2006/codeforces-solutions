@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 426
+**Total Problems:** 428
 
-**With Source Code:** 67 / 426
+**With Source Code:** 67 / 428
 
 
 ## Problems
@@ -315,6 +315,7 @@
 | 1575J | [Jeopardy of Dropped Balls](problems/1500/1575J-Jeopardy-of-Dropped-Balls) | 1500 | `binary search`, `brute force`, `dsu`, `implementation` | - | [CF](https://codeforces.com/contest/1575/problem/J) |
 | 1776L | [Controllers](problems/1500/1776L-Controllers) | 1500 | `binary search`, `math` | - | [CF](https://codeforces.com/contest/1776/problem/L) |
 | 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
+| 1872E | [Data Structures Fan](problems/1500/1872E-Data-Structures-Fan) | 1500 | `binary search`, `bitmasks`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1872/problem/E) |
 | 1876B | [Effects of Anti Pimples](problems/1500/1876B-Effects-of-Anti-Pimples) | 1500 | `combinatorics`, `number theory`, `sortings` | - | [CF](https://codeforces.com/contest/1876/problem/B) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1933E | [Turtle vs. Rabbit Race: Optimal Trainings](problems/1500/1933E-Turtle-vs.-Rabbit-Race-Optimal-Trainings) | 1500 | `binary search`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1933/problem/E) |
@@ -419,6 +420,7 @@
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | - | [CF](https://codeforces.com/contest/1245/problem/D) |
+| 1702G1 | [Passable Paths (easy version)](problems/1900/1702G1-Passable-Paths-easy-version) | 1900 | `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/1702/problem/G1) |
 | 1777D | [Score of a Tree](problems/1900/1777D-Score-of-a-Tree) | 1900 | `bitmasks`, `combinatorics`, `dfs and similar`, `dp`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/1777/problem/D) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1800F | [Dasha and Nightmares](problems/1900/1800F-Dasha-and-Nightmares) | 1900 | `bitmasks`, `hashing`, `meet-in-the-middle`, `strings` | - | [CF](https://codeforces.com/contest/1800/problem/F) |
@@ -447,20 +449,20 @@
 | `greedy` | 191 |
 | `math` | 162 |
 | `implementation` | 111 |
-| `dp` | 81 |
+| `dp` | 82 |
 | `brute force` | 79 |
 | `constructive algorithms` | 75 |
-| `binary search` | 57 |
+| `binary search` | 58 |
 | `sortings` | 55 |
 | `number theory` | 52 |
-| `data structures` | 48 |
+| `data structures` | 49 |
 | `two pointers` | 36 |
-| `dfs and similar` | 32 |
+| `dfs and similar` | 33 |
 | `graphs` | 27 |
-| `trees` | 25 |
+| `trees` | 26 |
 | `strings` | 24 |
 | `combinatorics` | 23 |
-| `bitmasks` | 21 |
+| `bitmasks` | 22 |
 | `games` | 17 |
 | `dsu` | 11 |
 | `shortest paths` | 9 |
@@ -488,11 +490,11 @@
 | 1200 | 51 |
 | 1300 | 33 |
 | 1400 | 37 |
-| 1500 | 55 |
+| 1500 | 56 |
 | 1600 | 36 |
 | 1700 | 26 |
 | 1800 | 13 |
-| 1900 | 19 |
+| 1900 | 20 |
 | 2000 | 2 |
 | 2100 | 2 |
 | 2200 | 1 |
