@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 425
+**Total Problems:** 426
 
-**With Source Code:** 67 / 425
+**With Source Code:** 67 / 426
 
 
 ## Problems
@@ -154,6 +154,7 @@
 | 2138A | [Cake Assignment](problems/1100/2138A-Cake-Assignment) | 1100 | `bitmasks`, `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2138/problem/A) |
 | 2155B | [Abraham's Great Escape](problems/1100/2155B-Abrahams-Great-Escape) | 1100 | `constructive algorithms`, `graphs` | - | [CF](https://codeforces.com/contest/2155/problem/B) |
 | 2160B | [Distinct Elements](problems/1100/2160B-Distinct-Elements) | 1100 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2160/problem/B) |
+| 2169B | [Drifting Away](problems/1100/2169B-Drifting-Away) | 1100 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2169/problem/B) |
 | 2185D | [OutOfMemoryError](problems/1100/2185D-OutOfMemoryError) | 1100 | `data structures`, `implementation`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2185/problem/D) |
 | 2195C | [Dice Roll Sequence](problems/1100/2195C-Dice-Roll-Sequence) | 1100 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2195/problem/C) |
 | 2197B | [Array and Permutation](problems/1100/2197B-Array-and-Permutation) | 1100 | `implementation`, `schedules`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2197/problem/B) |
@@ -443,9 +444,9 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 190 |
+| `greedy` | 191 |
 | `math` | 162 |
-| `implementation` | 110 |
+| `implementation` | 111 |
 | `dp` | 81 |
 | `brute force` | 79 |
 | `constructive algorithms` | 75 |
@@ -483,7 +484,7 @@
 |--------|-------|
 | 0800 | 66 |
 | 1000 | 32 |
-| 1100 | 20 |
+| 1100 | 21 |
 | 1200 | 51 |
 | 1300 | 33 |
 | 1400 | 37 |
