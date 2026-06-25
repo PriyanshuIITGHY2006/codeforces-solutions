@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 430
+**Total Problems:** 432
 
-**With Source Code:** 67 / 430
+**With Source Code:** 67 / 432
 
 
 ## Problems
@@ -146,6 +146,7 @@
 | 1791G1 | [Teleporters (Easy Version)](problems/1100/1791G1-Teleporters-Easy-Version) | 1100 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G1) |
 | 1914C | [Quests](problems/1100/1914C-Quests) | 1100 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/1914/problem/C) |
 | 1917B | [Erase First or Second Letter](problems/1100/1917B-Erase-First-or-Second-Letter) | 1100 | `brute force`, `combinatorics`, `data structures`, `dp`, `strings` | - | [CF](https://codeforces.com/contest/1917/problem/B) |
+| 1942B | [Bessie and MEX](problems/1100/1942B-Bessie-and-MEX) | 1100 | `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/1942/problem/B) |
 | 2043B | [Digits](problems/1100/2043B-Digits) | 1100 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2043/problem/B) |
 | 2070B | [Robot Program](problems/1100/2070B-Robot-Program) | 1100 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2070/problem/B) |
 | 2104C | [Card Game](problems/1100/2104C-Card-Game) | 1100 | `brute force`, `constructive algorithms`, `games`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2104/problem/C) |
@@ -269,6 +270,7 @@
 | 2000E | [Photoshoot for Gorillas](problems/1400/2000E-Photoshoot-for-Gorillas) | 1400 | `combinatorics`, `data structures`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2000/problem/E) |
 | 2014D | [Robert Hood and Mrs Hood](problems/1400/2014D-Robert-Hood-and-Mrs-Hood) | 1400 | `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2014/problem/D) |
 | 2055C | [The Trail](problems/1400/2055C-The-Trail) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2055/problem/C) |
+| 2098B | [Sasha and the Apartment Purchase](problems/1400/2098B-Sasha-and-the-Apartment-Purchase) | 1400 | `math`, `sortings` | - | [CF](https://codeforces.com/contest/2098/problem/B) |
 | 2133C | [The Nether](problems/1400/2133C-The-Nether) | 1400 | `graphs`, `interactive` | - | [CF](https://codeforces.com/contest/2133/problem/C) |
 | 2151C | [Incremental Stay](problems/1400/2151C-Incremental-Stay) | 1400 | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2151/problem/C) |
 | 2158C | [Annoying Game](problems/1400/2158C-Annoying-Game) | 1400 | `dp`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/2158/problem/C) |
@@ -449,13 +451,13 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 191 |
-| `math` | 163 |
+| `math` | 165 |
 | `implementation` | 111 |
 | `dp` | 82 |
 | `brute force` | 79 |
-| `constructive algorithms` | 75 |
+| `constructive algorithms` | 76 |
 | `binary search` | 58 |
-| `sortings` | 55 |
+| `sortings` | 56 |
 | `number theory` | 52 |
 | `data structures` | 49 |
 | `two pointers` | 36 |
@@ -488,10 +490,10 @@
 |--------|-------|
 | 0800 | 66 |
 | 1000 | 32 |
-| 1100 | 21 |
+| 1100 | 22 |
 | 1200 | 51 |
 | 1300 | 33 |
-| 1400 | 37 |
+| 1400 | 38 |
 | 1500 | 56 |
 | 1600 | 37 |
 | 1700 | 26 |
