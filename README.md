@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 428
+**Total Problems:** 430
 
-**With Source Code:** 67 / 428
+**With Source Code:** 67 / 430
 
 
 ## Problems
@@ -338,6 +338,7 @@
 | 2205C | [Simons and Posting Blogs](problems/1500/2205C-Simons-and-Posting-Blogs) | 1500 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2205/problem/C) |
 | 2226C | [Mental Monumental (Easy Version)](problems/1500/2226C-Mental-Monumental-Easy-Version) | 1500 | `binary search`, `data structures`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2226/problem/C) |
 | 2234D | [XOR, Expression and Two Binary Numbers](problems/1500/2234D-XOR-Expression-and-Two-Binary-Numbers) | 1500 | `bitmasks`, `divide and conquer`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2234/problem/D) |
+| 150B | [Quantity of Strings](problems/1600/150B-Quantity-of-Strings) | 1600 | `combinatorics`, `dfs and similar`, `graphs`, `math` | - | [CF](https://codeforces.com/contest/150/problem/B) |
 | 165C | [Another Problem on Strings](problems/1600/165C-Another-Problem-on-Strings) | 1600 | `binary search`, `brute force`, `dp`, `math`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/165/problem/C) |
 | 369C | [Valera and Elections](problems/1600/369C-Valera-and-Elections) | 1600 | `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/369/problem/C) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
@@ -406,6 +407,7 @@
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | - | [CF](https://codeforces.com/contest/1729/problem/E) |
 | 1824B1 | [LuoTianyi and the Floating Islands (Easy Version)](problems/1800/1824B1-LuoTianyi-and-the-Floating-Islands-Easy-Version) | 1800 | `combinatorics`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/1824/problem/B1) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | - | [CF](https://codeforces.com/contest/1974/problem/E) |
+| 2014E | [Rendez-vous de Marian et Robin](problems/1800/2014E-Rendez-vous-de-Marian-et-Robin) | 1800 | `dfs and similar`, `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/2014/problem/E) |
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
@@ -447,7 +449,7 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 191 |
-| `math` | 162 |
+| `math` | 163 |
 | `implementation` | 111 |
 | `dp` | 82 |
 | `brute force` | 79 |
@@ -457,15 +459,15 @@
 | `number theory` | 52 |
 | `data structures` | 49 |
 | `two pointers` | 36 |
-| `dfs and similar` | 33 |
-| `graphs` | 27 |
+| `dfs and similar` | 35 |
+| `graphs` | 29 |
 | `trees` | 26 |
+| `combinatorics` | 24 |
 | `strings` | 24 |
-| `combinatorics` | 23 |
 | `bitmasks` | 22 |
 | `games` | 17 |
 | `dsu` | 11 |
-| `shortest paths` | 9 |
+| `shortest paths` | 10 |
 | `interactive` | 8 |
 | `geometry` | 6 |
 | `divide and conquer` | 6 |
@@ -491,9 +493,9 @@
 | 1300 | 33 |
 | 1400 | 37 |
 | 1500 | 56 |
-| 1600 | 36 |
+| 1600 | 37 |
 | 1700 | 26 |
-| 1800 | 13 |
+| 1800 | 14 |
 | 1900 | 20 |
 | 2000 | 2 |
 | 2100 | 2 |
