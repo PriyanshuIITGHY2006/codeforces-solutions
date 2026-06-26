@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 433
+**Total Problems:** 434
 
-**With Source Code:** 67 / 433
+**With Source Code:** 67 / 434
 
 
 ## Problems
@@ -101,6 +101,7 @@
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
 | 26A | [Almost Prime](problems/900/26A-Almost-Prime) | 900 | `number theory` | - | [CF](https://codeforces.com/contest/26/problem/A) |
+| 337A | [Puzzles](problems/900/337A-Puzzles) | 900 | `greedy` | - | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1855B | [Longest Divisors Interval](problems/900/1855B-Longest-Divisors-Interval) | 900 | `brute force`, `combinatorics`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1855/problem/B) |
 | 1900B | [Laura and Operations](problems/900/1900B-Laura-and-Operations) | 900 | `dp`, `math` | - | [CF](https://codeforces.com/contest/1900/problem/B) |
 | 2125B | [Left and Down](problems/900/2125B-Left-and-Down) | 900 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2125/problem/B) |
@@ -451,7 +452,7 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 191 |
+| `greedy` | 192 |
 | `math` | 165 |
 | `implementation` | 111 |
 | `dp` | 82 |
@@ -505,5 +506,5 @@
 | 2200 | 1 |
 | 2300 | 2 |
 | 2400 | 1 |
-| 900 | 8 |
+| 900 | 9 |
 | Unrated | 21 |
