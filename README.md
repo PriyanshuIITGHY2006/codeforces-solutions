@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 432
+**Total Problems:** 433
 
-**With Source Code:** 67 / 432
+**With Source Code:** 67 / 433
 
 
 ## Problems
@@ -344,6 +344,7 @@
 | 165C | [Another Problem on Strings](problems/1600/165C-Another-Problem-on-Strings) | 1600 | `binary search`, `brute force`, `dp`, `math`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/165/problem/C) |
 | 369C | [Valera and Elections](problems/1600/369C-Valera-and-Elections) | 1600 | `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/369/problem/C) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
+| 510C | [Fox And Names](problems/1600/510C-Fox-And-Names) | 1600 | `dfs and similar`, `graphs`, `sortings` | - | [CF](https://codeforces.com/contest/510/problem/C) |
 | 763A | [Timofey and a tree](problems/1600/763A-Timofey-and-a-tree) | 1600 | `dfs and similar`, `dp`, `dsu`, `graphs`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/763/problem/A) |
 | 979C | [Kuro and Walking Route](problems/1600/979C-Kuro-and-Walking-Route) | 1600 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/979/problem/C) |
 | 986A | [Fair](problems/1600/986A-Fair) | 1600 | `graphs`, `greedy`, `number theory`, `shortest paths` | - | [CF](https://codeforces.com/contest/986/problem/A) |
@@ -457,12 +458,12 @@
 | `brute force` | 79 |
 | `constructive algorithms` | 76 |
 | `binary search` | 58 |
-| `sortings` | 56 |
+| `sortings` | 57 |
 | `number theory` | 52 |
 | `data structures` | 49 |
+| `dfs and similar` | 36 |
 | `two pointers` | 36 |
-| `dfs and similar` | 35 |
-| `graphs` | 29 |
+| `graphs` | 30 |
 | `trees` | 26 |
 | `combinatorics` | 24 |
 | `strings` | 24 |
@@ -495,7 +496,7 @@
 | 1300 | 33 |
 | 1400 | 38 |
 | 1500 | 56 |
-| 1600 | 37 |
+| 1600 | 38 |
 | 1700 | 26 |
 | 1800 | 14 |
 | 1900 | 20 |
