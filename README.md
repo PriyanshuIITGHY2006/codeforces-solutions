@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 437
+**Total Problems:** 440
 
-**With Source Code:** 67 / 437
+**With Source Code:** 67 / 440
 
 
 ## Problems
@@ -60,6 +60,7 @@
 | 1873C | [Target Practice](problems/0800/1873C-Target-Practice) | 800 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1873/problem/C) |
 | 1900A | [Cover in Water](problems/0800/1900A-Cover-in-Water) | 800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1900/problem/A) |
 | 1974A | [Phone Desktop](problems/0800/1974A-Phone-Desktop) | 800 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/1974/problem/A) |
+| 2103A | [Common Multiple](problems/0800/2103A-Common-Multiple) | 800 | `brute force`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2103/problem/A) |
 | 2108A | [Permutation Warm-Up](problems/0800/2108A-Permutation-Warm-Up) | 800 | `combinatorics`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2108/problem/A) |
 | 2117B | [Shrink](problems/0800/2117B-Shrink) | 800 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2117/problem/B) |
 | 2121A | [Letter Home](problems/0800/2121A-Letter-Home) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2121/problem/A) |
@@ -151,6 +152,7 @@
 | 1942B | [Bessie and MEX](problems/1100/1942B-Bessie-and-MEX) | 1100 | `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/1942/problem/B) |
 | 2043B | [Digits](problems/1100/2043B-Digits) | 1100 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2043/problem/B) |
 | 2070B | [Robot Program](problems/1100/2070B-Robot-Program) | 1100 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2070/problem/B) |
+| 2103B | [Binary Typewriter](problems/1100/2103B-Binary-Typewriter) | 1100 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2103/problem/B) |
 | 2104C | [Card Game](problems/1100/2104C-Card-Game) | 1100 | `brute force`, `constructive algorithms`, `games`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2104/problem/C) |
 | 2125C | [Count Good Numbers](problems/1100/2125C-Count-Good-Numbers) | 1100 | `bitmasks`, `combinatorics`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2125/problem/C) |
 | 2131C | [Make it Equal](problems/1100/2131C-Make-it-Equal) | 1100 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2131/problem/C) |
@@ -384,6 +386,7 @@
 | 660722E | [Obsessed gardener](problems/1600/660722E-Obsessed-gardener) | 1600 |  | - | [CF](https://codeforces.com/contest/660722/problem/E) |
 | 176B | [Word Cut](problems/1700/176B-Word-Cut) | 1700 | `dp` | - | [CF](https://codeforces.com/contest/176/problem/B) |
 | 327C | [Magic Five](problems/1700/327C-Magic-Five) | 1700 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/327/problem/C) |
+| 427C | [Checkposts](problems/1700/427C-Checkposts) | 1700 | `dfs and similar`, `graphs`, `two pointers` | - | [CF](https://codeforces.com/contest/427/problem/C) |
 | 474D | [Flowers](problems/1700/474D-Flowers) | 1700 | `dp` | Yes | [CF](https://codeforces.com/contest/474/problem/D) |
 | 1093D | [Beautiful Graph](problems/1700/1093D-Beautiful-Graph) | 1700 | `dfs and similar`, `graphs` | Yes | [CF](https://codeforces.com/contest/1093/problem/D) |
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
@@ -455,19 +458,19 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 195 |
-| `math` | 167 |
-| `implementation` | 113 |
+| `greedy` | 197 |
+| `math` | 169 |
+| `implementation` | 114 |
 | `dp` | 83 |
-| `brute force` | 80 |
+| `brute force` | 81 |
 | `constructive algorithms` | 77 |
 | `binary search` | 59 |
 | `sortings` | 57 |
 | `number theory` | 52 |
 | `data structures` | 50 |
-| `dfs and similar` | 36 |
-| `two pointers` | 36 |
-| `graphs` | 31 |
+| `dfs and similar` | 37 |
+| `two pointers` | 37 |
+| `graphs` | 32 |
 | `trees` | 26 |
 | `combinatorics` | 25 |
 | `strings` | 24 |
@@ -493,15 +496,15 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 67 |
+| 0800 | 68 |
 | 1000 | 32 |
-| 1100 | 22 |
+| 1100 | 23 |
 | 1200 | 51 |
 | 1300 | 34 |
 | 1400 | 38 |
 | 1500 | 57 |
 | 1600 | 38 |
-| 1700 | 26 |
+| 1700 | 27 |
 | 1800 | 14 |
 | 1900 | 20 |
 | 2000 | 2 |
