@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 440
+**Total Problems:** 441
 
-**With Source Code:** 67 / 440
+**With Source Code:** 67 / 441
 
 
 ## Problems
@@ -369,6 +369,7 @@
 | 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
 | 2061D | [Kevin and Numbers](problems/1600/2061D-Kevin-and-Numbers) | 1600 | `bitmasks`, `data structures` | - | [CF](https://codeforces.com/contest/2061/problem/D) |
 | 2065E | [Skibidus and Rizz](problems/1600/2065E-Skibidus-and-Rizz) | 1600 | `constructive algorithms`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2065/problem/E) |
+| 2103C | [Median Splits](problems/1600/2103C-Median-Splits) | 1600 | `binary search`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2103/problem/C) |
 | 2128D | [Sum of LDS](problems/1600/2128D-Sum-of-LDS) | 1600 | `brute force`, `combinatorics`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2128/problem/D) |
 | 2130D | [Stay or Mirror](problems/1600/2130D-Stay-or-Mirror) | 1600 | `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2130/problem/D) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
@@ -458,14 +459,14 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 197 |
+| `greedy` | 198 |
 | `math` | 169 |
-| `implementation` | 114 |
+| `implementation` | 115 |
 | `dp` | 83 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
-| `binary search` | 59 |
-| `sortings` | 57 |
+| `binary search` | 60 |
+| `sortings` | 58 |
 | `number theory` | 52 |
 | `data structures` | 50 |
 | `dfs and similar` | 37 |
@@ -503,7 +504,7 @@
 | 1300 | 34 |
 | 1400 | 38 |
 | 1500 | 57 |
-| 1600 | 38 |
+| 1600 | 39 |
 | 1700 | 27 |
 | 1800 | 14 |
 | 1900 | 20 |
