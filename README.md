@@ -4,15 +4,17 @@
 
 **Language:** C++
 
-**Total Problems:** 443
+**Total Problems:** 445
 
-**With Source Code:** 67 / 443
+**With Source Code:** 67 / 445
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2238B | [Crimson Triples](problems/Unrated/2238B-Crimson-Triples) | ? | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2238/problem/B) |
+| 2238A | [Another Puzzle from Papyrus](problems/Unrated/2238A-Another-Puzzle-from-Papyrus) | ? | `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2238/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -461,15 +463,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 200 |
-| `math` | 170 |
+| `greedy` | 201 |
+| `math` | 172 |
 | `implementation` | 115 |
 | `dp` | 84 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
 | `binary search` | 61 |
-| `sortings` | 58 |
-| `number theory` | 52 |
+| `sortings` | 59 |
+| `number theory` | 53 |
 | `data structures` | 51 |
 | `dfs and similar` | 37 |
 | `two pointers` | 37 |
@@ -516,4 +518,4 @@
 | 2300 | 2 |
 | 2400 | 1 |
 | 900 | 9 |
-| Unrated | 21 |
+| Unrated | 23 |
