@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 441
+**Total Problems:** 443
 
-**With Source Code:** 67 / 441
+**With Source Code:** 67 / 443
 
 
 ## Problems
@@ -151,6 +151,7 @@
 | 1917B | [Erase First or Second Letter](problems/1100/1917B-Erase-First-or-Second-Letter) | 1100 | `brute force`, `combinatorics`, `data structures`, `dp`, `strings` | - | [CF](https://codeforces.com/contest/1917/problem/B) |
 | 1942B | [Bessie and MEX](problems/1100/1942B-Bessie-and-MEX) | 1100 | `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/1942/problem/B) |
 | 2043B | [Digits](problems/1100/2043B-Digits) | 1100 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2043/problem/B) |
+| 2065C1 | [Skibidus and Fanum Tax (easy version)](problems/1100/2065C1-Skibidus-and-Fanum-Tax-easy-version) | 1100 | `binary search`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2065/problem/C1) |
 | 2070B | [Robot Program](problems/1100/2070B-Robot-Program) | 1100 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2070/problem/B) |
 | 2103B | [Binary Typewriter](problems/1100/2103B-Binary-Typewriter) | 1100 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2103/problem/B) |
 | 2104C | [Card Game](problems/1100/2104C-Card-Game) | 1100 | `brute force`, `constructive algorithms`, `games`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2104/problem/C) |
@@ -278,6 +279,7 @@
 | 2098B | [Sasha and the Apartment Purchase](problems/1400/2098B-Sasha-and-the-Apartment-Purchase) | 1400 | `math`, `sortings` | - | [CF](https://codeforces.com/contest/2098/problem/B) |
 | 2133C | [The Nether](problems/1400/2133C-The-Nether) | 1400 | `graphs`, `interactive` | - | [CF](https://codeforces.com/contest/2133/problem/C) |
 | 2151C | [Incremental Stay](problems/1400/2151C-Incremental-Stay) | 1400 | `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2151/problem/C) |
+| 2152C | [Triple Removal](problems/1400/2152C-Triple-Removal) | 1400 | `data structures`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2152/problem/C) |
 | 2158C | [Annoying Game](problems/1400/2158C-Annoying-Game) | 1400 | `dp`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/2158/problem/C) |
 | 2171D | [Rae Taylor and Trees (easy version)](problems/1400/2171D-Rae-Taylor-and-Trees-easy-version) | 1400 | `binary search`, `data structures`, `dp`, `dsu`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/2171/problem/D) |
 | 2173C | [Kanade's Perfect Multiples](problems/1400/2173C-Kanades-Perfect-Multiples) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2173/problem/C) |
@@ -459,16 +461,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 198 |
-| `math` | 169 |
+| `greedy` | 200 |
+| `math` | 170 |
 | `implementation` | 115 |
-| `dp` | 83 |
+| `dp` | 84 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
-| `binary search` | 60 |
+| `binary search` | 61 |
 | `sortings` | 58 |
 | `number theory` | 52 |
-| `data structures` | 50 |
+| `data structures` | 51 |
 | `dfs and similar` | 37 |
 | `two pointers` | 37 |
 | `graphs` | 32 |
@@ -499,10 +501,10 @@
 |--------|-------|
 | 0800 | 68 |
 | 1000 | 32 |
-| 1100 | 23 |
+| 1100 | 24 |
 | 1200 | 51 |
 | 1300 | 34 |
-| 1400 | 38 |
+| 1400 | 39 |
 | 1500 | 57 |
 | 1600 | 39 |
 | 1700 | 27 |
