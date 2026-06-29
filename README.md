@@ -4,17 +4,18 @@
 
 **Language:** C++
 
-**Total Problems:** 446
+**Total Problems:** 448
 
-**With Source Code:** 67 / 446
+**With Source Code:** 67 / 448
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2238D | [Storming Arasaka](problems/Unrated/2238D-Storming-Arasaka) | ? | `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2238/problem/D) |
 | 2238C | [Village Guilds](problems/Unrated/2238C-Village-Guilds) | ? | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/2238/problem/C) |
-| 2238B | [Crimson Triples](problems/Unrated/2238B-Crimson-Triples) | ? | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2238/problem/B) |
+| 2238B | [Crimson Triples](problems/Unrated/2238B-Crimson-Triples) | ? | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2238/problem/B) |
 | 2238A | [Another Puzzle from Papyrus](problems/Unrated/2238A-Another-Puzzle-from-Papyrus) | ? | `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2238/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -114,6 +115,7 @@
 | 2195B | [Heapify 1](problems/900/2195B-Heapify-1) | 900 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2195/problem/B) |
 | 2209B | [Array](problems/900/2209B-Array) | 900 | `greedy` | Yes | [CF](https://codeforces.com/contest/2209/problem/B) |
 | 2233B | [Different Distances](problems/900/2233B-Different-Distances) | 900 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2233/problem/B) |
+| 43A | [Football](problems/1000/43A-Football) | 1000 | `strings` | - | [CF](https://codeforces.com/contest/43/problem/A) |
 | 58A | [Chat room](problems/1000/58A-Chat-room) | 1000 | `greedy`, `strings` | - | [CF](https://codeforces.com/contest/58/problem/A) |
 | 491A | [Up the hill](problems/1000/491A-Up-the-hill) | 1000 | `constructive algorithms`, `implementation` | - | [CF](https://codeforces.com/contest/491/problem/A) |
 | 579A | [Raising Bacteria](problems/1000/579A-Raising-Bacteria) | 1000 | `bitmasks` | - | [CF](https://codeforces.com/contest/579/problem/A) |
@@ -464,22 +466,22 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 201 |
-| `math` | 172 |
+| `greedy` | 202 |
+| `math` | 173 |
 | `implementation` | 115 |
-| `dp` | 85 |
+| `dp` | 86 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
 | `binary search` | 61 |
 | `sortings` | 59 |
-| `number theory` | 53 |
+| `number theory` | 54 |
 | `data structures` | 51 |
 | `dfs and similar` | 38 |
 | `two pointers` | 37 |
 | `graphs` | 32 |
 | `trees` | 27 |
+| `strings` | 25 |
 | `combinatorics` | 25 |
-| `strings` | 24 |
 | `bitmasks` | 23 |
 | `games` | 17 |
 | `dsu` | 12 |
@@ -503,7 +505,7 @@
 | Rating | Count |
 |--------|-------|
 | 0800 | 68 |
-| 1000 | 32 |
+| 1000 | 33 |
 | 1100 | 24 |
 | 1200 | 51 |
 | 1300 | 34 |
@@ -519,4 +521,4 @@
 | 2300 | 2 |
 | 2400 | 1 |
 | 900 | 9 |
-| Unrated | 24 |
+| Unrated | 25 |

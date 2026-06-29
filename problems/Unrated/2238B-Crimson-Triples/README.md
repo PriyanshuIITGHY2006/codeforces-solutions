@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `math`, `number theory`
+**Tags:** `dp`, `math`, `number theory`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
