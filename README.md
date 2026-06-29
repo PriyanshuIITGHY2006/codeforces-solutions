@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 445
+**Total Problems:** 446
 
-**With Source Code:** 67 / 445
+**With Source Code:** 67 / 446
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2238C | [Village Guilds](problems/Unrated/2238C-Village-Guilds) | ? | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/2238/problem/C) |
 | 2238B | [Crimson Triples](problems/Unrated/2238B-Crimson-Triples) | ? | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2238/problem/B) |
 | 2238A | [Another Puzzle from Papyrus](problems/Unrated/2238A-Another-Puzzle-from-Papyrus) | ? | `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2238/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
@@ -466,17 +467,17 @@
 | `greedy` | 201 |
 | `math` | 172 |
 | `implementation` | 115 |
-| `dp` | 84 |
+| `dp` | 85 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
 | `binary search` | 61 |
 | `sortings` | 59 |
 | `number theory` | 53 |
 | `data structures` | 51 |
-| `dfs and similar` | 37 |
+| `dfs and similar` | 38 |
 | `two pointers` | 37 |
 | `graphs` | 32 |
-| `trees` | 26 |
+| `trees` | 27 |
 | `combinatorics` | 25 |
 | `strings` | 24 |
 | `bitmasks` | 23 |
@@ -518,4 +519,4 @@
 | 2300 | 2 |
 | 2400 | 1 |
 | 900 | 9 |
-| Unrated | 23 |
+| Unrated | 24 |
