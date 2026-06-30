@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 449
+**Total Problems:** 451
 
-**With Source Code:** 67 / 449
+**With Source Code:** 67 / 451
 
 
 ## Problems
@@ -176,6 +176,7 @@
 | 776B | [Sherlock and his girlfriend](problems/1200/776B-Sherlock-and-his-girlfriend) | 1200 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/776/problem/B) |
 | 913B | [Christmas Spruce](problems/1200/913B-Christmas-Spruce) | 1200 | `implementation`, `trees` | - | [CF](https://codeforces.com/contest/913/problem/B) |
 | 961B | [Lecture Sleep](problems/1200/961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/961/problem/B) |
+| 1076B | [Divisor Subtraction](problems/1200/1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1076/problem/B) |
 | 1140D | [Minimum Triangulation](problems/1200/1140D-Minimum-Triangulation) | 1200 | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1140/problem/D) |
 | 1328C | [Ternary XOR](problems/1200/1328C-Ternary-XOR) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1328/problem/C) |
 | 1334A | [Level Statistics](problems/1200/1334A-Level-Statistics) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1334/problem/A) |
@@ -306,6 +307,7 @@
 | 701C | [They Are Everywhere](problems/1500/701C-They-Are-Everywhere) | 1500 | `binary search`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/701/problem/C) |
 | 702C | [Cellular Network](problems/1500/702C-Cellular-Network) | 1500 | `binary search`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/702/problem/C) |
 | 744A | [Hongcow Builds A Nation](problems/1500/744A-Hongcow-Builds-A-Nation) | 1500 | `dfs and similar`, `graphs` | - | [CF](https://codeforces.com/contest/744/problem/A) |
+| 812C | [Sagheer and Nubian Market](problems/1500/812C-Sagheer-and-Nubian-Market) | 1500 | `binary search`, `sortings` | - | [CF](https://codeforces.com/contest/812/problem/C) |
 | 845C | [Two TVs](problems/1500/845C-Two-TVs) | 1500 | `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/845/problem/C) |
 | 891A | [Pride](problems/1500/891A-Pride) | 1500 | `brute force`, `dp`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/891/problem/A) |
 | 930A | [Peculiar apple-tree](problems/1500/930A-Peculiar-apple-tree) | 1500 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/930/problem/A) |
@@ -468,14 +470,14 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 202 |
-| `math` | 173 |
-| `implementation` | 115 |
+| `math` | 174 |
+| `implementation` | 116 |
 | `dp` | 86 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
-| `binary search` | 61 |
-| `sortings` | 59 |
-| `number theory` | 54 |
+| `binary search` | 62 |
+| `sortings` | 60 |
+| `number theory` | 55 |
 | `data structures` | 51 |
 | `dfs and similar` | 39 |
 | `two pointers` | 37 |
@@ -508,10 +510,10 @@
 | 0800 | 69 |
 | 1000 | 33 |
 | 1100 | 24 |
-| 1200 | 51 |
+| 1200 | 52 |
 | 1300 | 34 |
 | 1400 | 40 |
-| 1500 | 58 |
+| 1500 | 59 |
 | 1600 | 40 |
 | 1700 | 27 |
 | 1800 | 14 |
