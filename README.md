@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 454
+**Total Problems:** 456
 
-**With Source Code:** 67 / 454
+**With Source Code:** 67 / 456
 
 
 ## Problems
@@ -63,6 +63,7 @@
 | 1873C | [Target Practice](problems/0800/1873C-Target-Practice) | 800 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1873/problem/C) |
 | 1900A | [Cover in Water](problems/0800/1900A-Cover-in-Water) | 800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1900/problem/A) |
 | 1974A | [Phone Desktop](problems/0800/1974A-Phone-Desktop) | 800 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/1974/problem/A) |
+| 2007A | [Dora's Set](problems/0800/2007A-Doras-Set) | 800 | `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2007/problem/A) |
 | 2103A | [Common Multiple](problems/0800/2103A-Common-Multiple) | 800 | `brute force`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2103/problem/A) |
 | 2108A | [Permutation Warm-Up](problems/0800/2108A-Permutation-Warm-Up) | 800 | `combinatorics`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2108/problem/A) |
 | 2117B | [Shrink](problems/0800/2117B-Shrink) | 800 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2117/problem/B) |
@@ -110,6 +111,7 @@
 | 337A | [Puzzles](problems/900/337A-Puzzles) | 900 | `greedy` | - | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1855B | [Longest Divisors Interval](problems/900/1855B-Longest-Divisors-Interval) | 900 | `brute force`, `combinatorics`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1855/problem/B) |
 | 1900B | [Laura and Operations](problems/900/1900B-Laura-and-Operations) | 900 | `dp`, `math` | - | [CF](https://codeforces.com/contest/1900/problem/B) |
+| 2007B | [Index and Maximum Value](problems/900/2007B-Index-and-Maximum-Value) | 900 | `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2007/problem/B) |
 | 2125B | [Left and Down](problems/900/2125B-Left-and-Down) | 900 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2125/problem/B) |
 | 2166B | [Tab Closing](problems/900/2166B-Tab-Closing) | 900 | `math` | - | [CF](https://codeforces.com/contest/2166/problem/B) |
 | 2195B | [Heapify 1](problems/900/2195B-Heapify-1) | 900 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2195/problem/B) |
@@ -472,16 +474,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 204 |
-| `math` | 176 |
+| `greedy` | 206 |
+| `math` | 177 |
 | `implementation` | 116 |
 | `dp` | 88 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
 | `binary search` | 62 |
 | `sortings` | 60 |
-| `number theory` | 56 |
-| `data structures` | 51 |
+| `number theory` | 57 |
+| `data structures` | 52 |
 | `dfs and similar` | 39 |
 | `two pointers` | 37 |
 | `graphs` | 33 |
@@ -510,7 +512,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 69 |
+| 0800 | 70 |
 | 1000 | 33 |
 | 1100 | 24 |
 | 1200 | 52 |
@@ -526,5 +528,5 @@
 | 2200 | 1 |
 | 2300 | 2 |
 | 2400 | 1 |
-| 900 | 10 |
+| 900 | 11 |
 | Unrated | 24 |
