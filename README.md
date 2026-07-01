@@ -4,15 +4,17 @@
 
 **Language:** C++
 
-**Total Problems:** 451
+**Total Problems:** 453
 
-**With Source Code:** 67 / 451
+**With Source Code:** 67 / 453
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2241D | [An Alternative Way](problems/Unrated/2241D-An-Alternative-Way) | ? | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2241/problem/D) |
+| 2241E | [Fair and Square](problems/Unrated/2241E-Fair-and-Square) | ? | `combinatorics`, `dp`, `graphs`, `math`, `number theory`, `trees` | - | [CF](https://codeforces.com/contest/2241/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -469,22 +471,22 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 202 |
-| `math` | 174 |
+| `greedy` | 203 |
+| `math` | 176 |
 | `implementation` | 116 |
-| `dp` | 86 |
+| `dp` | 88 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
 | `binary search` | 62 |
 | `sortings` | 60 |
-| `number theory` | 55 |
+| `number theory` | 56 |
 | `data structures` | 51 |
 | `dfs and similar` | 39 |
 | `two pointers` | 37 |
-| `graphs` | 32 |
-| `trees` | 27 |
+| `graphs` | 33 |
+| `trees` | 28 |
+| `combinatorics` | 26 |
 | `strings` | 25 |
-| `combinatorics` | 25 |
 | `bitmasks` | 23 |
 | `games` | 17 |
 | `dsu` | 12 |
@@ -524,4 +526,4 @@
 | 2300 | 2 |
 | 2400 | 1 |
 | 900 | 10 |
-| Unrated | 21 |
+| Unrated | 23 |
