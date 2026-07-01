@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 453
+**Total Problems:** 454
 
-**With Source Code:** 67 / 453
+**With Source Code:** 67 / 454
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2241C | [RemovevomeR](problems/Unrated/2241C-RemovevomeR) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2241/problem/C) |
 | 2241D | [An Alternative Way](problems/Unrated/2241D-An-Alternative-Way) | ? | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2241/problem/D) |
 | 2241E | [Fair and Square](problems/Unrated/2241E-Fair-and-Square) | ? | `combinatorics`, `dp`, `graphs`, `math`, `number theory`, `trees` | - | [CF](https://codeforces.com/contest/2241/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
@@ -471,7 +472,7 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 203 |
+| `greedy` | 204 |
 | `math` | 176 |
 | `implementation` | 116 |
 | `dp` | 88 |
@@ -526,4 +527,4 @@
 | 2300 | 2 |
 | 2400 | 1 |
 | 900 | 10 |
-| Unrated | 23 |
+| Unrated | 24 |
