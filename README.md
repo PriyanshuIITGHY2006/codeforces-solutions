@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 457
+**Total Problems:** 460
 
-**With Source Code:** 67 / 457
+**With Source Code:** 67 / 460
 
 
 ## Problems
@@ -213,6 +213,7 @@
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
+| 2109B | [Slice to Survive](problems/1200/2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2109/problem/B) |
 | 2119B | [Line Segments](problems/1200/2119B-Line-Segments) | 1200 | `geometry`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2119/problem/B) |
 | 2121C | [Those Who Are With Us](problems/1200/2121C-Those-Who-Are-With-Us) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2121/problem/C) |
 | 2123D | [Binary String Battle](problems/1200/2123D-Binary-String-Battle) | 1200 | `constructive algorithms`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/2123/problem/D) |
@@ -350,6 +351,7 @@
 | 2108C | [Neo's Escape](problems/1500/2108C-Neos-Escape) | 1500 | `binary search`, `brute force`, `data structures`, `dp`, `dsu`, `graphs`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2108/problem/C) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
 | 2140C | [Ultimate Value](problems/1500/2140C-Ultimate-Value) | 1500 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2140/problem/C) |
+| 2146D1 | [Max Sum OR (Easy Version)](problems/1500/2146D1-Max-Sum-OR-Easy-Version) | 1500 | `bitmasks`, `constructive algorithms`, `divide and conquer`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2146/problem/D1) |
 | 2147C | [Rabbits](problems/1500/2147C-Rabbits) | 1500 | `constructive algorithms`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2147/problem/C) |
 | 2155C | [The Ancient Wizards' Capes](problems/1500/2155C-The-Ancient-Wizards-Capes) | 1500 | `brute force`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2155/problem/C) |
 | 2163C | [Monopati](problems/1500/2163C-Monopati) | 1500 | `brute force`, `combinatorics`, `dp`, `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2163/problem/C) |
@@ -398,6 +400,7 @@
 | 2193F | [Pizza Delivery](problems/1600/2193F-Pizza-Delivery) | 1600 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2193/problem/F) |
 | 2207B | [One Night At Freddy's](problems/1600/2207B-One-Night-At-Freddys) | 1600 | `games`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2207/problem/B) |
 | 2207C | [Where's My Water?](problems/1600/2207C-Wheres-My-Water) | 1600 | `data structures`, `divide and conquer`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2207/problem/C) |
+| 2223B | [Zhily and Barknights](problems/1600/2223B-Zhily-and-Barknights) | 1600 | `binary search`, `data structures`, `dp`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2223/problem/B) |
 | 2228C2 | [Cirno and Number (Hard Version)](problems/1600/2228C2-Cirno-and-Number-Hard-Version) | 1600 | `binary search`, `dfs and similar`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2228/problem/C2) |
 | 660580G | [Zero and Recruitment](problems/1600/660580G-Zero-and-Recruitment) | 1600 |  | - | [CF](https://codeforces.com/contest/660580/problem/G) |
 | 660722E | [Obsessed gardener](problems/1600/660722E-Obsessed-gardener) | 1600 |  | - | [CF](https://codeforces.com/contest/660722/problem/E) |
@@ -475,29 +478,29 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 206 |
-| `math` | 178 |
+| `greedy` | 208 |
+| `math` | 180 |
 | `implementation` | 116 |
-| `dp` | 88 |
+| `dp` | 89 |
 | `brute force` | 81 |
-| `constructive algorithms` | 77 |
-| `binary search` | 62 |
-| `sortings` | 60 |
+| `constructive algorithms` | 78 |
+| `binary search` | 63 |
+| `sortings` | 61 |
 | `number theory` | 58 |
-| `data structures` | 52 |
+| `data structures` | 53 |
 | `dfs and similar` | 39 |
-| `two pointers` | 37 |
+| `two pointers` | 38 |
 | `graphs` | 33 |
-| `trees` | 28 |
+| `trees` | 29 |
 | `combinatorics` | 26 |
+| `bitmasks` | 25 |
 | `strings` | 25 |
-| `bitmasks` | 23 |
 | `games` | 17 |
 | `dsu` | 12 |
 | `shortest paths` | 10 |
 | `interactive` | 8 |
+| `divide and conquer` | 7 |
 | `geometry` | 6 |
-| `divide and conquer` | 6 |
 | `probabilities` | 5 |
 | `hashing` | 4 |
 | `ternary search` | 3 |
@@ -516,11 +519,11 @@
 | 0800 | 70 |
 | 1000 | 33 |
 | 1100 | 24 |
-| 1200 | 52 |
+| 1200 | 53 |
 | 1300 | 34 |
 | 1400 | 40 |
-| 1500 | 60 |
-| 1600 | 40 |
+| 1500 | 61 |
+| 1600 | 41 |
 | 1700 | 27 |
 | 1800 | 14 |
 | 1900 | 20 |
