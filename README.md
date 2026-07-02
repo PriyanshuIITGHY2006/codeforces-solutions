@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 456
+**Total Problems:** 457
 
-**With Source Code:** 67 / 456
+**With Source Code:** 67 / 457
 
 
 ## Problems
@@ -340,6 +340,7 @@
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1933E | [Turtle vs. Rabbit Race: Optimal Trainings](problems/1500/1933E-Turtle-vs.-Rabbit-Race-Optimal-Trainings) | 1500 | `binary search`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1933/problem/E) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
+| 2007C | [Dora and C++](problems/1500/2007C-Dora-and-C) | 1500 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2007/problem/C) |
 | 2027C | [Add Zeros](problems/1500/2027C-Add-Zeros) | 1500 | `brute force`, `data structures`, `dfs and similar`, `dp`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/2027/problem/C) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2053C | [Bewitching Stargazer](problems/1500/2053C-Bewitching-Stargazer) | 1500 | `bitmasks`, `divide and conquer`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2053/problem/C) |
@@ -475,14 +476,14 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 206 |
-| `math` | 177 |
+| `math` | 178 |
 | `implementation` | 116 |
 | `dp` | 88 |
 | `brute force` | 81 |
 | `constructive algorithms` | 77 |
 | `binary search` | 62 |
 | `sortings` | 60 |
-| `number theory` | 57 |
+| `number theory` | 58 |
 | `data structures` | 52 |
 | `dfs and similar` | 39 |
 | `two pointers` | 37 |
@@ -518,7 +519,7 @@
 | 1200 | 52 |
 | 1300 | 34 |
 | 1400 | 40 |
-| 1500 | 59 |
+| 1500 | 60 |
 | 1600 | 40 |
 | 1700 | 27 |
 | 1800 | 14 |
