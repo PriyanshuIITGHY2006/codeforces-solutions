@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 461
+**Total Problems:** 462
 
-**With Source Code:** 67 / 461
+**With Source Code:** 67 / 462
 
 
 ## Problems
@@ -466,6 +466,7 @@
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
+| 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | - | [CF](https://codeforces.com/contest/1142/problem/B) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | - | [CF](https://codeforces.com/contest/837/problem/D) |
@@ -480,19 +481,19 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 208 |
-| `math` | 180 |
+| `math` | 181 |
 | `implementation` | 117 |
-| `dp` | 90 |
+| `dp` | 91 |
 | `brute force` | 81 |
 | `constructive algorithms` | 78 |
 | `binary search` | 63 |
 | `sortings` | 61 |
 | `number theory` | 58 |
-| `data structures` | 53 |
-| `dfs and similar` | 39 |
+| `data structures` | 54 |
+| `dfs and similar` | 40 |
 | `two pointers` | 38 |
 | `graphs` | 33 |
-| `trees` | 29 |
+| `trees` | 30 |
 | `combinatorics` | 27 |
 | `bitmasks` | 25 |
 | `strings` | 25 |
@@ -528,7 +529,7 @@
 | 1700 | 27 |
 | 1800 | 14 |
 | 1900 | 20 |
-| 2000 | 2 |
+| 2000 | 3 |
 | 2100 | 2 |
 | 2200 | 1 |
 | 2300 | 2 |
