@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 462
+**Total Problems:** 463
 
-**With Source Code:** 67 / 462
+**With Source Code:** 67 / 463
 
 
 ## Problems
@@ -339,6 +339,7 @@
 | 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
 | 1872E | [Data Structures Fan](problems/1500/1872E-Data-Structures-Fan) | 1500 | `binary search`, `bitmasks`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1872/problem/E) |
 | 1876B | [Effects of Anti Pimples](problems/1500/1876B-Effects-of-Anti-Pimples) | 1500 | `combinatorics`, `number theory`, `sortings` | - | [CF](https://codeforces.com/contest/1876/problem/B) |
+| 1881E | [Block Sequence](problems/1500/1881E-Block-Sequence) | 1500 | `dp` | - | [CF](https://codeforces.com/contest/1881/problem/E) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1933E | [Turtle vs. Rabbit Race: Optimal Trainings](problems/1500/1933E-Turtle-vs.-Rabbit-Race-Optimal-Trainings) | 1500 | `binary search`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1933/problem/E) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
@@ -483,7 +484,7 @@
 | `greedy` | 208 |
 | `math` | 181 |
 | `implementation` | 117 |
-| `dp` | 91 |
+| `dp` | 92 |
 | `brute force` | 81 |
 | `constructive algorithms` | 78 |
 | `binary search` | 63 |
@@ -524,7 +525,7 @@
 | 1200 | 54 |
 | 1300 | 34 |
 | 1400 | 40 |
-| 1500 | 61 |
+| 1500 | 62 |
 | 1600 | 41 |
 | 1700 | 27 |
 | 1800 | 14 |
