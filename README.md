@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 460
+**Total Problems:** 461
 
-**With Source Code:** 67 / 460
+**With Source Code:** 67 / 461
 
 
 ## Problems
@@ -183,6 +183,7 @@
 | 961B | [Lecture Sleep](problems/1200/961B-Lecture-Sleep) | 1200 | `data structures`, `dp`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/961/problem/B) |
 | 1076B | [Divisor Subtraction](problems/1200/1076B-Divisor-Subtraction) | 1200 | `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1076/problem/B) |
 | 1140D | [Minimum Triangulation](problems/1200/1140D-Minimum-Triangulation) | 1200 | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1140/problem/D) |
+| 1272C | [Yet Another Broken Keyboard](problems/1200/1272C-Yet-Another-Broken-Keyboard) | 1200 | `combinatorics`, `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1272/problem/C) |
 | 1328C | [Ternary XOR](problems/1200/1328C-Ternary-XOR) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1328/problem/C) |
 | 1334A | [Level Statistics](problems/1200/1334A-Level-Statistics) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1334/problem/A) |
 | 1355A | [Sequence with Digits](problems/1200/1355A-Sequence-with-Digits) | 1200 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1355/problem/A) |
@@ -480,8 +481,8 @@
 |-----|-------|
 | `greedy` | 208 |
 | `math` | 180 |
-| `implementation` | 116 |
-| `dp` | 89 |
+| `implementation` | 117 |
+| `dp` | 90 |
 | `brute force` | 81 |
 | `constructive algorithms` | 78 |
 | `binary search` | 63 |
@@ -492,7 +493,7 @@
 | `two pointers` | 38 |
 | `graphs` | 33 |
 | `trees` | 29 |
-| `combinatorics` | 26 |
+| `combinatorics` | 27 |
 | `bitmasks` | 25 |
 | `strings` | 25 |
 | `games` | 17 |
@@ -519,7 +520,7 @@
 | 0800 | 70 |
 | 1000 | 33 |
 | 1100 | 24 |
-| 1200 | 53 |
+| 1200 | 54 |
 | 1300 | 34 |
 | 1400 | 40 |
 | 1500 | 61 |
