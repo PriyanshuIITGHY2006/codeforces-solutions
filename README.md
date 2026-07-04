@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 463
+**Total Problems:** 464
 
-**With Source Code:** 67 / 463
+**With Source Code:** 67 / 464
 
 
 ## Problems
@@ -375,6 +375,7 @@
 | 979C | [Kuro and Walking Route](problems/1600/979C-Kuro-and-Walking-Route) | 1600 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/979/problem/C) |
 | 986A | [Fair](problems/1600/986A-Fair) | 1600 | `graphs`, `greedy`, `number theory`, `shortest paths` | - | [CF](https://codeforces.com/contest/986/problem/A) |
 | 1015D | [Walking Between Houses](problems/1600/1015D-Walking-Between-Houses) | 1600 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1015/problem/D) |
+| 1234D | [Distinct Characters Queries](problems/1600/1234D-Distinct-Characters-Queries) | 1600 | `data structures` | - | [CF](https://codeforces.com/contest/1234/problem/D) |
 | 1251C | [Minimize The Integer](problems/1600/1251C-Minimize-The-Integer) | 1600 | `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/1251/problem/C) |
 | 1349A | [Orac and LCM](problems/1600/1349A-Orac-and-LCM) | 1600 | `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1349/problem/A) |
 | 1476C | [Longest Simple Cycle](problems/1600/1476C-Longest-Simple-Cycle) | 1600 | `dp`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/1476/problem/C) |
@@ -490,7 +491,7 @@
 | `binary search` | 63 |
 | `sortings` | 61 |
 | `number theory` | 58 |
-| `data structures` | 54 |
+| `data structures` | 55 |
 | `dfs and similar` | 40 |
 | `two pointers` | 38 |
 | `graphs` | 33 |
@@ -526,7 +527,7 @@
 | 1300 | 34 |
 | 1400 | 40 |
 | 1500 | 62 |
-| 1600 | 41 |
+| 1600 | 42 |
 | 1700 | 27 |
 | 1800 | 14 |
 | 1900 | 20 |
