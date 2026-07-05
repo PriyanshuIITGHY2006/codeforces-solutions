@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 467
+**Total Problems:** 469
 
-**With Source Code:** 68 / 467
+**With Source Code:** 68 / 469
 
 
 ## Problems
@@ -178,6 +178,7 @@
 | 2231B | [Another Sorting Problem](problems/1100/2231B-Another-Sorting-Problem) | 1100 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/B) |
 | 285B | [Find Marble](problems/1200/285B-Find-Marble) | 1200 | `implementation` | - | [CF](https://codeforces.com/contest/285/problem/B) |
 | 433B | [Kuriyama Mirai's Stones](problems/1200/433B-Kuriyama-Mirais-Stones) | 1200 | `dp`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/433/problem/B) |
+| 514A | [Chewbaсca and Number](problems/1200/514A-Chewbaсca-and-Number) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/514/problem/A) |
 | 725B | [Food on the Plane](problems/1200/725B-Food-on-the-Plane) | 1200 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/725/problem/B) |
 | 776B | [Sherlock and his girlfriend](problems/1200/776B-Sherlock-and-his-girlfriend) | 1200 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/776/problem/B) |
 | 913B | [Christmas Spruce](problems/1200/913B-Christmas-Spruce) | 1200 | `implementation`, `trees` | - | [CF](https://codeforces.com/contest/913/problem/B) |
@@ -386,6 +387,7 @@
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
 | 1610C | [Keshi Is Throwing a Party](problems/1600/1610C-Keshi-Is-Throwing-a-Party) | 1600 | `binary search`, `greedy` | - | [CF](https://codeforces.com/contest/1610/problem/C) |
 | 1633D | [Make Them Equal](problems/1600/1633D-Make-Them-Equal) | 1600 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1633/problem/D) |
+| 1730B | [Meeting on the Line](problems/1600/1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 1775C | [Interesting Sequence](problems/1600/1775C-Interesting-Sequence) | 1600 | `bitmasks`, `math` | - | [CF](https://codeforces.com/contest/1775/problem/C) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
 | 2046B | [Move Back at a Cost](problems/1600/2046B-Move-Back-at-a-Cost) | 1600 | `binary search`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/B) |
@@ -485,14 +487,14 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 210 |
-| `math` | 182 |
-| `implementation` | 119 |
+| `greedy` | 212 |
+| `math` | 183 |
+| `implementation` | 121 |
 | `dp` | 92 |
 | `brute force` | 81 |
 | `constructive algorithms` | 80 |
+| `binary search` | 64 |
 | `sortings` | 63 |
-| `binary search` | 63 |
 | `number theory` | 58 |
 | `data structures` | 56 |
 | `dfs and similar` | 40 |
@@ -505,12 +507,12 @@
 | `games` | 17 |
 | `dsu` | 12 |
 | `shortest paths` | 10 |
+| `geometry` | 8 |
 | `interactive` | 8 |
-| `geometry` | 7 |
 | `divide and conquer` | 7 |
 | `probabilities` | 5 |
+| `ternary search` | 4 |
 | `hashing` | 4 |
-| `ternary search` | 3 |
 | `matrices` | 3 |
 | `schedules` | 2 |
 | `meet-in-the-middle` | 1 |
@@ -526,11 +528,11 @@
 | 0800 | 70 |
 | 1000 | 33 |
 | 1100 | 25 |
-| 1200 | 54 |
+| 1200 | 55 |
 | 1300 | 34 |
 | 1400 | 40 |
 | 1500 | 63 |
-| 1600 | 42 |
+| 1600 | 43 |
 | 1700 | 27 |
 | 1800 | 15 |
 | 1900 | 20 |
