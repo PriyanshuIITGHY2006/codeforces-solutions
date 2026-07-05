@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 469
+**Total Problems:** 470
 
-**With Source Code:** 68 / 469
+**With Source Code:** 68 / 470
 
 
 ## Problems
@@ -412,6 +412,7 @@
 | 660580G | [Zero and Recruitment](problems/1600/660580G-Zero-and-Recruitment) | 1600 |  | - | [CF](https://codeforces.com/contest/660580/problem/G) |
 | 660722E | [Obsessed gardener](problems/1600/660722E-Obsessed-gardener) | 1600 |  | - | [CF](https://codeforces.com/contest/660722/problem/E) |
 | 176B | [Word Cut](problems/1700/176B-Word-Cut) | 1700 | `dp` | - | [CF](https://codeforces.com/contest/176/problem/B) |
+| 219D | [Choosing Capital for Treeland](problems/1700/219D-Choosing-Capital-for-Treeland) | 1700 | `dfs and similar`, `dp`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/219/problem/D) |
 | 327C | [Magic Five](problems/1700/327C-Magic-Five) | 1700 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/327/problem/C) |
 | 427C | [Checkposts](problems/1700/427C-Checkposts) | 1700 | `dfs and similar`, `graphs`, `two pointers` | - | [CF](https://codeforces.com/contest/427/problem/C) |
 | 474D | [Flowers](problems/1700/474D-Flowers) | 1700 | `dp` | Yes | [CF](https://codeforces.com/contest/474/problem/D) |
@@ -490,17 +491,17 @@
 | `greedy` | 212 |
 | `math` | 183 |
 | `implementation` | 121 |
-| `dp` | 92 |
+| `dp` | 93 |
 | `brute force` | 81 |
 | `constructive algorithms` | 80 |
 | `binary search` | 64 |
 | `sortings` | 63 |
 | `number theory` | 58 |
 | `data structures` | 56 |
-| `dfs and similar` | 40 |
+| `dfs and similar` | 41 |
 | `two pointers` | 38 |
-| `graphs` | 33 |
-| `trees` | 30 |
+| `graphs` | 34 |
+| `trees` | 31 |
 | `combinatorics` | 27 |
 | `bitmasks` | 25 |
 | `strings` | 25 |
@@ -533,7 +534,7 @@
 | 1400 | 40 |
 | 1500 | 63 |
 | 1600 | 43 |
-| 1700 | 27 |
+| 1700 | 28 |
 | 1800 | 15 |
 | 1900 | 20 |
 | 2000 | 3 |
