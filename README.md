@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 472
+**Total Problems:** 475
 
-**With Source Code:** 68 / 472
+**With Source Code:** 68 / 475
 
 
 ## Problems
@@ -309,6 +309,7 @@
 | 264B | [Good Sequences](problems/1500/264B-Good-Sequences) | 1500 | `dp`, `number theory` | - | [CF](https://codeforces.com/contest/264/problem/B) |
 | 276C | [Little Girl and Maximum Sum](problems/1500/276C-Little-Girl-and-Maximum-Sum) | 1500 | `data structures`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/276/problem/C) |
 | 282B | [Painting Eggs](problems/1500/282B-Painting-Eggs) | 1500 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/282/problem/B) |
+| 441C | [Valera and Tubes ](problems/1500/441C-Valera-and-Tubes) | 1500 | `constructive algorithms`, `dfs and similar`, `implementation` | - | [CF](https://codeforces.com/contest/441/problem/C) |
 | 455A | [Boredom](problems/1500/455A-Boredom) | 1500 | `dp` | - | [CF](https://codeforces.com/contest/455/problem/A) |
 | 510B | [Fox And Two Dots](problems/1500/510B-Fox-And-Two-Dots) | 1500 | `dfs and similar` | - | [CF](https://codeforces.com/contest/510/problem/B) |
 | 576A | [Vasya and Petya's Game](problems/1500/576A-Vasya-and-Petyas-Game) | 1500 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/576/problem/A) |
@@ -428,6 +429,7 @@
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/1950/problem/F) |
 | 2030D | [QED's Favorite Permutation](problems/1700/2030D-QEDs-Favorite-Permutation) | 1700 | `data structures`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2030/problem/D) |
+| 2071C | [Trapmigiano Reggiano](problems/1700/2071C-Trapmigiano-Reggiano) | 1700 | `constructive algorithms`, `data structures`, `dfs and similar`, `dp`, `greedy`, `sortings`, `trees` | - | [CF](https://codeforces.com/contest/2071/problem/C) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
 | 2123F | [Minimize Fixed Points](problems/1700/2123F-Minimize-Fixed-Points) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2123/problem/F) |
 | 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2132/problem/E) |
@@ -440,6 +442,7 @@
 | 2227F | [It Just Keeps Going Sideways](problems/1700/2227F-It-Just-Keeps-Going-Sideways) | 1700 | `binary search`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2227/problem/F) |
 | 2236E | [Friendly Gifts](problems/1700/2236E-Friendly-Gifts) | 1700 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2236/problem/E) |
 | 2236F1 | [Elections in Saransk (easy version)](problems/1700/2236F1-Elections-in-Saransk-easy-version) | 1700 | `number theory` | - | [CF](https://codeforces.com/contest/2236/problem/F1) |
+| 161D | [Distance in Tree](problems/1800/161D-Distance-in-Tree) | 1800 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/161/problem/D) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1709/problem/C) |
@@ -490,20 +493,20 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 213 |
+| `greedy` | 214 |
 | `math` | 183 |
-| `implementation` | 122 |
-| `dp` | 95 |
+| `implementation` | 123 |
+| `dp` | 97 |
+| `constructive algorithms` | 82 |
 | `brute force` | 82 |
-| `constructive algorithms` | 80 |
+| `sortings` | 64 |
 | `binary search` | 64 |
-| `sortings` | 63 |
 | `number theory` | 58 |
-| `data structures` | 56 |
-| `dfs and similar` | 41 |
+| `data structures` | 57 |
+| `dfs and similar` | 44 |
 | `two pointers` | 38 |
 | `graphs` | 34 |
-| `trees` | 31 |
+| `trees` | 33 |
 | `combinatorics` | 27 |
 | `strings` | 26 |
 | `bitmasks` | 25 |
@@ -534,10 +537,10 @@
 | 1200 | 55 |
 | 1300 | 34 |
 | 1400 | 40 |
-| 1500 | 63 |
+| 1500 | 64 |
 | 1600 | 44 |
-| 1700 | 28 |
-| 1800 | 16 |
+| 1700 | 29 |
+| 1800 | 17 |
 | 1900 | 20 |
 | 2000 | 3 |
 | 2100 | 2 |
