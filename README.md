@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 470
+**Total Problems:** 472
 
-**With Source Code:** 68 / 470
+**With Source Code:** 68 / 472
 
 
 ## Problems
@@ -381,6 +381,7 @@
 | 1234D | [Distinct Characters Queries](problems/1600/1234D-Distinct-Characters-Queries) | 1600 | `data structures` | - | [CF](https://codeforces.com/contest/1234/problem/D) |
 | 1251C | [Minimize The Integer](problems/1600/1251C-Minimize-The-Integer) | 1600 | `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/1251/problem/C) |
 | 1349A | [Orac and LCM](problems/1600/1349A-Orac-and-LCM) | 1600 | `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1349/problem/A) |
+| 1389B | [Array Walk](problems/1600/1389B-Array-Walk) | 1600 | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1389/problem/B) |
 | 1476C | [Longest Simple Cycle](problems/1600/1476C-Longest-Simple-Cycle) | 1600 | `dp`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/1476/problem/C) |
 | 1513C | [Add One](problems/1600/1513C-Add-One) | 1600 | `dp`, `matrices` | - | [CF](https://codeforces.com/contest/1513/problem/C) |
 | 1537E1 | [Erase and Extend (Easy Version)](problems/1600/1537E1-Erase-and-Extend-Easy-Version) | 1600 | `binary search`, `brute force`, `dp`, `greedy`, `hashing`, `implementation`, `string suffix structures`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/1537/problem/E1) |
@@ -445,6 +446,7 @@
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | - | [CF](https://codeforces.com/contest/1729/problem/E) |
 | 1824B1 | [LuoTianyi and the Floating Islands (Easy Version)](problems/1800/1824B1-LuoTianyi-and-the-Floating-Islands-Easy-Version) | 1800 | `combinatorics`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/1824/problem/B1) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | - | [CF](https://codeforces.com/contest/1974/problem/E) |
+| 2005C | [Lazy Narek](problems/1800/2005C-Lazy-Narek) | 1800 | `dp`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2005/problem/C) |
 | 2014E | [Rendez-vous de Marian et Robin](problems/1800/2014E-Rendez-vous-de-Marian-et-Robin) | 1800 | `dfs and similar`, `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/2014/problem/E) |
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
@@ -488,11 +490,11 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 212 |
+| `greedy` | 213 |
 | `math` | 183 |
-| `implementation` | 121 |
-| `dp` | 93 |
-| `brute force` | 81 |
+| `implementation` | 122 |
+| `dp` | 95 |
+| `brute force` | 82 |
 | `constructive algorithms` | 80 |
 | `binary search` | 64 |
 | `sortings` | 63 |
@@ -503,8 +505,8 @@
 | `graphs` | 34 |
 | `trees` | 31 |
 | `combinatorics` | 27 |
+| `strings` | 26 |
 | `bitmasks` | 25 |
-| `strings` | 25 |
 | `games` | 17 |
 | `dsu` | 12 |
 | `shortest paths` | 10 |
@@ -533,9 +535,9 @@
 | 1300 | 34 |
 | 1400 | 40 |
 | 1500 | 63 |
-| 1600 | 43 |
+| 1600 | 44 |
 | 1700 | 28 |
-| 1800 | 15 |
+| 1800 | 16 |
 | 1900 | 20 |
 | 2000 | 3 |
 | 2100 | 2 |
