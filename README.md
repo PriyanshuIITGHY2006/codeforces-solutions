@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 480
+**Total Problems:** 482
 
-**With Source Code:** 68 / 480
+**With Source Code:** 68 / 482
 
 
 ## Problems
@@ -292,6 +292,7 @@
 | 1993C | [Light Switches](problems/1400/1993C-Light-Switches) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1993/problem/C) |
 | 2000E | [Photoshoot for Gorillas](problems/1400/2000E-Photoshoot-for-Gorillas) | 1400 | `combinatorics`, `data structures`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2000/problem/E) |
 | 2014D | [Robert Hood and Mrs Hood](problems/1400/2014D-Robert-Hood-and-Mrs-Hood) | 1400 | `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2014/problem/D) |
+| 2038L | [Bridge Renovation](problems/1400/2038L-Bridge-Renovation) | 1400 | `brute force`, `dp`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2038/problem/L) |
 | 2055C | [The Trail](problems/1400/2055C-The-Trail) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2055/problem/C) |
 | 2098B | [Sasha and the Apartment Purchase](problems/1400/2098B-Sasha-and-the-Apartment-Purchase) | 1400 | `math`, `sortings` | - | [CF](https://codeforces.com/contest/2098/problem/B) |
 | 2133C | [The Nether](problems/1400/2133C-The-Nether) | 1400 | `graphs`, `interactive` | - | [CF](https://codeforces.com/contest/2133/problem/C) |
@@ -489,6 +490,7 @@
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | - | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1486/problem/D) |
+| 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2029/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/2028/problem/E) |
 | 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | - | [CF](https://codeforces.com/contest/2134/problem/E) |
@@ -498,18 +500,18 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 216 |
-| `math` | 185 |
+| `greedy` | 217 |
+| `math` | 187 |
 | `implementation` | 125 |
-| `dp` | 98 |
-| `constructive algorithms` | 83 |
-| `brute force` | 83 |
+| `dp` | 99 |
+| `brute force` | 85 |
+| `constructive algorithms` | 84 |
 | `sortings` | 66 |
 | `binary search` | 64 |
+| `number theory` | 59 |
 | `data structures` | 59 |
-| `number theory` | 58 |
 | `dfs and similar` | 44 |
-| `two pointers` | 40 |
+| `two pointers` | 41 |
 | `graphs` | 34 |
 | `trees` | 33 |
 | `combinatorics` | 28 |
@@ -541,14 +543,14 @@
 | 1100 | 25 |
 | 1200 | 55 |
 | 1300 | 34 |
-| 1400 | 40 |
+| 1400 | 41 |
 | 1500 | 64 |
 | 1600 | 45 |
 | 1700 | 29 |
 | 1800 | 17 |
 | 1900 | 20 |
 | 2000 | 3 |
-| 2100 | 2 |
+| 2100 | 3 |
 | 2200 | 1 |
 | 2300 | 2 |
 | 2400 | 1 |
