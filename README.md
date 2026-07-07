@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 478
+**Total Problems:** 480
 
-**With Source Code:** 68 / 478
+**With Source Code:** 68 / 480
 
 
 ## Problems
@@ -16,6 +16,7 @@
 | 2241C | [RemovevomeR](problems/Unrated/2241C-RemovevomeR) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2241/problem/C) |
 | 2241D | [An Alternative Way](problems/Unrated/2241D-An-Alternative-Way) | ? | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2241/problem/D) |
 | 2241E | [Fair and Square](problems/Unrated/2241E-Fair-and-Square) | ? | `combinatorics`, `dp`, `graphs`, `math`, `number theory`, `trees` | - | [CF](https://codeforces.com/contest/2241/problem/E) |
+| 2242D | [Two Digit Strings](problems/Unrated/2242D-Two-Digit-Strings) | ? | `dp`, `strings` | - | [CF](https://codeforces.com/contest/2242/problem/D) |
 | 2242A | [Bigrams](problems/Unrated/2242A-Bigrams) | ? | `sortings`, `strings` | - | [CF](https://codeforces.com/contest/2242/problem/A) |
 | 2242B | [Predominant Frequency Division](problems/Unrated/2242B-Predominant-Frequency-Division) | ? | `data structures`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2242/problem/B) |
 | 2242C | [Unstable Elements](problems/Unrated/2242C-Unstable-Elements) | ? | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2242/problem/C) |
@@ -395,6 +396,7 @@
 | 1730B | [Meeting on the Line](problems/1600/1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 1775C | [Interesting Sequence](problems/1600/1775C-Interesting-Sequence) | 1600 | `bitmasks`, `math` | - | [CF](https://codeforces.com/contest/1775/problem/C) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
+| 2040C | [Ordered Permutations](problems/1600/2040C-Ordered-Permutations) | 1600 | `bitmasks`, `combinatorics`, `constructive algorithms`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2040/problem/C) |
 | 2046B | [Move Back at a Cost](problems/1600/2046B-Move-Back-at-a-Cost) | 1600 | `binary search`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/B) |
 | 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
 | 2061D | [Kevin and Numbers](problems/1600/2061D-Kevin-and-Numbers) | 1600 | `bitmasks`, `data structures` | - | [CF](https://codeforces.com/contest/2061/problem/D) |
@@ -496,23 +498,23 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 215 |
-| `math` | 184 |
+| `greedy` | 216 |
+| `math` | 185 |
 | `implementation` | 125 |
-| `dp` | 97 |
+| `dp` | 98 |
+| `constructive algorithms` | 83 |
 | `brute force` | 83 |
-| `constructive algorithms` | 82 |
 | `sortings` | 66 |
 | `binary search` | 64 |
 | `data structures` | 59 |
 | `number theory` | 58 |
 | `dfs and similar` | 44 |
-| `two pointers` | 39 |
+| `two pointers` | 40 |
 | `graphs` | 34 |
 | `trees` | 33 |
-| `strings` | 27 |
-| `combinatorics` | 27 |
-| `bitmasks` | 25 |
+| `combinatorics` | 28 |
+| `strings` | 28 |
+| `bitmasks` | 26 |
 | `games` | 17 |
 | `dsu` | 12 |
 | `shortest paths` | 10 |
@@ -541,7 +543,7 @@
 | 1300 | 34 |
 | 1400 | 40 |
 | 1500 | 64 |
-| 1600 | 44 |
+| 1600 | 45 |
 | 1700 | 29 |
 | 1800 | 17 |
 | 1900 | 20 |
@@ -551,4 +553,4 @@
 | 2300 | 2 |
 | 2400 | 1 |
 | 900 | 11 |
-| Unrated | 27 |
+| Unrated | 28 |
