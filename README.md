@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 475
+**Total Problems:** 478
 
-**With Source Code:** 68 / 475
+**With Source Code:** 68 / 478
 
 
 ## Problems
@@ -16,6 +16,9 @@
 | 2241C | [RemovevomeR](problems/Unrated/2241C-RemovevomeR) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2241/problem/C) |
 | 2241D | [An Alternative Way](problems/Unrated/2241D-An-Alternative-Way) | ? | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2241/problem/D) |
 | 2241E | [Fair and Square](problems/Unrated/2241E-Fair-and-Square) | ? | `combinatorics`, `dp`, `graphs`, `math`, `number theory`, `trees` | - | [CF](https://codeforces.com/contest/2241/problem/E) |
+| 2242A | [Bigrams](problems/Unrated/2242A-Bigrams) | ? | `sortings`, `strings` | - | [CF](https://codeforces.com/contest/2242/problem/A) |
+| 2242B | [Predominant Frequency Division](problems/Unrated/2242B-Predominant-Frequency-Division) | ? | `data structures`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2242/problem/B) |
+| 2242C | [Unstable Elements](problems/Unrated/2242C-Unstable-Elements) | ? | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2242/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -493,22 +496,22 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 214 |
-| `math` | 183 |
-| `implementation` | 123 |
+| `greedy` | 215 |
+| `math` | 184 |
+| `implementation` | 125 |
 | `dp` | 97 |
+| `brute force` | 83 |
 | `constructive algorithms` | 82 |
-| `brute force` | 82 |
-| `sortings` | 64 |
+| `sortings` | 66 |
 | `binary search` | 64 |
+| `data structures` | 59 |
 | `number theory` | 58 |
-| `data structures` | 57 |
 | `dfs and similar` | 44 |
-| `two pointers` | 38 |
+| `two pointers` | 39 |
 | `graphs` | 34 |
 | `trees` | 33 |
+| `strings` | 27 |
 | `combinatorics` | 27 |
-| `strings` | 26 |
 | `bitmasks` | 25 |
 | `games` | 17 |
 | `dsu` | 12 |
@@ -548,4 +551,4 @@
 | 2300 | 2 |
 | 2400 | 1 |
 | 900 | 11 |
-| Unrated | 24 |
+| Unrated | 27 |
