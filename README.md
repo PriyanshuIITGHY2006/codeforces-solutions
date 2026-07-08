@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 483
+**Total Problems:** 484
 
-**With Source Code:** 68 / 483
+**With Source Code:** 68 / 484
 
 
 ## Problems
@@ -436,6 +436,7 @@
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/1950/problem/F) |
 | 2030D | [QED's Favorite Permutation](problems/1700/2030D-QEDs-Favorite-Permutation) | 1700 | `data structures`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2030/problem/D) |
+| 2039D | [Shohag Loves GCD](problems/1700/2039D-Shohag-Loves-GCD) | 1700 | `constructive algorithms`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2039/problem/D) |
 | 2071C | [Trapmigiano Reggiano](problems/1700/2071C-Trapmigiano-Reggiano) | 1700 | `constructive algorithms`, `data structures`, `dfs and similar`, `dp`, `greedy`, `sortings`, `trees` | - | [CF](https://codeforces.com/contest/2071/problem/C) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
 | 2123F | [Minimize Fixed Points](problems/1700/2123F-Minimize-Fixed-Points) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2123/problem/F) |
@@ -501,15 +502,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 217 |
-| `math` | 187 |
+| `greedy` | 218 |
+| `math` | 188 |
 | `implementation` | 126 |
 | `dp` | 99 |
+| `constructive algorithms` | 85 |
 | `brute force` | 85 |
-| `constructive algorithms` | 84 |
 | `sortings` | 67 |
 | `binary search` | 64 |
-| `number theory` | 59 |
+| `number theory` | 60 |
 | `data structures` | 59 |
 | `dfs and similar` | 44 |
 | `two pointers` | 41 |
@@ -547,7 +548,7 @@
 | 1400 | 41 |
 | 1500 | 64 |
 | 1600 | 45 |
-| 1700 | 29 |
+| 1700 | 30 |
 | 1800 | 17 |
 | 1900 | 20 |
 | 2000 | 3 |
