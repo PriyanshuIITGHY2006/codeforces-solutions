@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 482
+**Total Problems:** 483
 
-**With Source Code:** 68 / 482
+**With Source Code:** 68 / 483
 
 
 ## Problems
@@ -248,6 +248,7 @@
 | 1900C | [Anji's Binary Tree](problems/1300/1900C-Anjis-Binary-Tree) | 1300 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1900/problem/C) |
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
 | 2036D | [I Love 1543](problems/1300/2036D-I-Love-1543) | 1300 | `brute force`, `implementation`, `matrices` | - | [CF](https://codeforces.com/contest/2036/problem/D) |
+| 2041A | [The Bento Box Adventure](problems/1300/2041A-The-Bento-Box-Adventure) | 1300 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2041/problem/A) |
 | 2050D | [Digital string maximization](problems/1300/2050D-Digital-string-maximization) | 1300 | `brute force`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2050/problem/D) |
 | 2072D | [For Wizards, the Exam Is Easy, but I Couldn't Handle It](problems/1300/2072D-For-Wizards-the-Exam-Is-Easy-but-I-Couldnt-Handle-It) | 1300 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2072/problem/D) |
 | 2091E | [Interesting Ratio](problems/1300/2091E-Interesting-Ratio) | 1300 | `brute force`, `math`, `number theory`, `two pointers` | - | [CF](https://codeforces.com/contest/2091/problem/E) |
@@ -502,11 +503,11 @@
 |-----|-------|
 | `greedy` | 217 |
 | `math` | 187 |
-| `implementation` | 125 |
+| `implementation` | 126 |
 | `dp` | 99 |
 | `brute force` | 85 |
 | `constructive algorithms` | 84 |
-| `sortings` | 66 |
+| `sortings` | 67 |
 | `binary search` | 64 |
 | `number theory` | 59 |
 | `data structures` | 59 |
@@ -542,7 +543,7 @@
 | 1000 | 33 |
 | 1100 | 25 |
 | 1200 | 55 |
-| 1300 | 34 |
+| 1300 | 35 |
 | 1400 | 41 |
 | 1500 | 64 |
 | 1600 | 45 |
