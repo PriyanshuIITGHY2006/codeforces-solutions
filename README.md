@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 484
+**Total Problems:** 485
 
-**With Source Code:** 68 / 484
+**With Source Code:** 68 / 485
 
 
 ## Problems
@@ -398,6 +398,7 @@
 | 1730B | [Meeting on the Line](problems/1600/1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 1775C | [Interesting Sequence](problems/1600/1775C-Interesting-Sequence) | 1600 | `bitmasks`, `math` | - | [CF](https://codeforces.com/contest/1775/problem/C) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
+| 2036E | [Reverse the Rivers](problems/1600/2036E-Reverse-the-Rivers) | 1600 | `binary search`, `constructive algorithms`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2036/problem/E) |
 | 2040C | [Ordered Permutations](problems/1600/2040C-Ordered-Permutations) | 1600 | `bitmasks`, `combinatorics`, `constructive algorithms`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2040/problem/C) |
 | 2046B | [Move Back at a Cost](problems/1600/2046B-Move-Back-at-a-Cost) | 1600 | `binary search`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/B) |
 | 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
@@ -502,16 +503,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 218 |
+| `greedy` | 219 |
 | `math` | 188 |
 | `implementation` | 126 |
 | `dp` | 99 |
-| `constructive algorithms` | 85 |
+| `constructive algorithms` | 86 |
 | `brute force` | 85 |
 | `sortings` | 67 |
-| `binary search` | 64 |
+| `binary search` | 65 |
+| `data structures` | 60 |
 | `number theory` | 60 |
-| `data structures` | 59 |
 | `dfs and similar` | 44 |
 | `two pointers` | 41 |
 | `graphs` | 34 |
@@ -547,7 +548,7 @@
 | 1300 | 35 |
 | 1400 | 41 |
 | 1500 | 64 |
-| 1600 | 45 |
+| 1600 | 46 |
 | 1700 | 30 |
 | 1800 | 17 |
 | 1900 | 20 |
