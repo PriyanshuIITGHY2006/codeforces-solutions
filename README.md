@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 485
+**Total Problems:** 488
 
-**With Source Code:** 68 / 485
+**With Source Code:** 68 / 488
 
 
 ## Problems
@@ -217,6 +217,7 @@
 | 1982B | [Collatz Conjecture](problems/1200/1982B-Collatz-Conjecture) | 1200 | `brute force`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1982/problem/B) |
 | 2000D | [Right Left Wrong](problems/1200/2000D-Right-Left-Wrong) | 1200 | `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2000/problem/D) |
 | 2021B | [Maximize Mex](problems/1200/2021B-Maximize-Mex) | 1200 | `brute force`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2021/problem/B) |
+| 2041E | [Beautiful Array](problems/1200/2041E-Beautiful-Array) | 1200 | `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2041/problem/E) |
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
@@ -354,6 +355,7 @@
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2007C | [Dora and C++](problems/1500/2007C-Dora-and-C) | 1500 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2007/problem/C) |
 | 2027C | [Add Zeros](problems/1500/2027C-Add-Zeros) | 1500 | `brute force`, `data structures`, `dfs and similar`, `dp`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/2027/problem/C) |
+| 2049C | [MEX Cycle](problems/1500/2049C-MEX-Cycle) | 1500 | `brute force`, `constructive algorithms`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2049/problem/C) |
 | 2050E | [Three Strings](problems/1500/2050E-Three-Strings) | 1500 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2050/problem/E) |
 | 2053C | [Bewitching Stargazer](problems/1500/2053C-Bewitching-Stargazer) | 1500 | `bitmasks`, `divide and conquer`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2053/problem/C) |
 | 2060E | [Graph Composition](problems/1500/2060E-Graph-Composition) | 1500 | `dfs and similar`, `dsu`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/2060/problem/E) |
@@ -485,6 +487,7 @@
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
+| 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/2109/problem/D) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
@@ -503,26 +506,26 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 219 |
-| `math` | 188 |
-| `implementation` | 126 |
+| `greedy` | 221 |
+| `math` | 189 |
+| `implementation` | 127 |
 | `dp` | 99 |
-| `constructive algorithms` | 86 |
-| `brute force` | 85 |
+| `constructive algorithms` | 88 |
+| `brute force` | 86 |
 | `sortings` | 67 |
 | `binary search` | 65 |
 | `data structures` | 60 |
 | `number theory` | 60 |
-| `dfs and similar` | 44 |
+| `dfs and similar` | 45 |
 | `two pointers` | 41 |
-| `graphs` | 34 |
+| `graphs` | 35 |
 | `trees` | 33 |
 | `combinatorics` | 28 |
 | `strings` | 28 |
 | `bitmasks` | 26 |
 | `games` | 17 |
 | `dsu` | 12 |
-| `shortest paths` | 10 |
+| `shortest paths` | 11 |
 | `geometry` | 8 |
 | `interactive` | 8 |
 | `divide and conquer` | 7 |
@@ -544,14 +547,14 @@
 | 0800 | 70 |
 | 1000 | 33 |
 | 1100 | 25 |
-| 1200 | 55 |
+| 1200 | 56 |
 | 1300 | 35 |
 | 1400 | 41 |
-| 1500 | 64 |
+| 1500 | 65 |
 | 1600 | 46 |
 | 1700 | 30 |
 | 1800 | 17 |
-| 1900 | 20 |
+| 1900 | 21 |
 | 2000 | 3 |
 | 2100 | 3 |
 | 2200 | 1 |
