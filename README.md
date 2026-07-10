@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 489
+**Total Problems:** 491
 
-**With Source Code:** 68 / 489
+**With Source Code:** 68 / 491
 
 
 ## Problems
@@ -294,6 +294,7 @@
 | 1993C | [Light Switches](problems/1400/1993C-Light-Switches) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1993/problem/C) |
 | 2000E | [Photoshoot for Gorillas](problems/1400/2000E-Photoshoot-for-Gorillas) | 1400 | `combinatorics`, `data structures`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2000/problem/E) |
 | 2014D | [Robert Hood and Mrs Hood](problems/1400/2014D-Robert-Hood-and-Mrs-Hood) | 1400 | `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2014/problem/D) |
+| 2038C | [DIY](problems/1400/2038C-DIY) | 1400 | `data structures`, `geometry`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2038/problem/C) |
 | 2038L | [Bridge Renovation](problems/1400/2038L-Bridge-Renovation) | 1400 | `brute force`, `dp`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2038/problem/L) |
 | 2055C | [The Trail](problems/1400/2055C-The-Trail) | 1400 | `brute force`, `constructive algorithms`, `greedy`, `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2055/problem/C) |
 | 2098B | [Sasha and the Apartment Purchase](problems/1400/2098B-Sasha-and-the-Apartment-Purchase) | 1400 | `math`, `sortings` | - | [CF](https://codeforces.com/contest/2098/problem/B) |
@@ -485,6 +486,7 @@
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1989/problem/D) |
 | 2000F | [Color Rows and Columns](problems/1900/2000F-Color-Rows-and-Columns) | 1900 | `dp`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2000/problem/F) |
 | 2022D1 | [Asesino (Easy Version)](problems/1900/2022D1-Asesino-Easy-Version) | 1900 | `binary search`, `brute force`, `constructive algorithms`, `implementation`, `interactive` | - | [CF](https://codeforces.com/contest/2022/problem/D1) |
+| 2044F | [Easy Demon Problem](problems/1900/2044F-Easy-Demon-Problem) | 1900 | `binary search`, `brute force`, `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2044/problem/F) |
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
@@ -507,16 +509,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 222 |
-| `math` | 190 |
+| `greedy` | 223 |
+| `math` | 191 |
 | `implementation` | 127 |
 | `dp` | 100 |
+| `brute force` | 88 |
 | `constructive algorithms` | 88 |
-| `brute force` | 87 |
-| `sortings` | 67 |
-| `binary search` | 66 |
-| `data structures` | 61 |
-| `number theory` | 60 |
+| `sortings` | 68 |
+| `binary search` | 67 |
+| `data structures` | 63 |
+| `number theory` | 61 |
 | `dfs and similar` | 45 |
 | `two pointers` | 41 |
 | `graphs` | 35 |
@@ -527,7 +529,7 @@
 | `games` | 17 |
 | `dsu` | 12 |
 | `shortest paths` | 11 |
-| `geometry` | 8 |
+| `geometry` | 9 |
 | `interactive` | 8 |
 | `divide and conquer` | 7 |
 | `probabilities` | 5 |
@@ -550,12 +552,12 @@
 | 1100 | 25 |
 | 1200 | 56 |
 | 1300 | 35 |
-| 1400 | 41 |
+| 1400 | 42 |
 | 1500 | 65 |
 | 1600 | 47 |
 | 1700 | 30 |
 | 1800 | 17 |
-| 1900 | 21 |
+| 1900 | 22 |
 | 2000 | 3 |
 | 2100 | 3 |
 | 2200 | 1 |
