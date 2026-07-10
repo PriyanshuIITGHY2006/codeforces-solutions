@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 488
+**Total Problems:** 489
 
-**With Source Code:** 68 / 488
+**With Source Code:** 68 / 489
 
 
 ## Problems
@@ -402,6 +402,7 @@
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
 | 2036E | [Reverse the Rivers](problems/1600/2036E-Reverse-the-Rivers) | 1600 | `binary search`, `constructive algorithms`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2036/problem/E) |
 | 2040C | [Ordered Permutations](problems/1600/2040C-Ordered-Permutations) | 1600 | `bitmasks`, `combinatorics`, `constructive algorithms`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2040/problem/C) |
+| 2043C | [Sums on Segments](problems/1600/2043C-Sums-on-Segments) | 1600 | `binary search`, `brute force`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2043/problem/C) |
 | 2046B | [Move Back at a Cost](problems/1600/2046B-Move-Back-at-a-Cost) | 1600 | `binary search`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/B) |
 | 2051E | [Best Price](problems/1600/2051E-Best-Price) | 1600 | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2051/problem/E) |
 | 2061D | [Kevin and Numbers](problems/1600/2061D-Kevin-and-Numbers) | 1600 | `bitmasks`, `data structures` | - | [CF](https://codeforces.com/contest/2061/problem/D) |
@@ -506,15 +507,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 221 |
-| `math` | 189 |
+| `greedy` | 222 |
+| `math` | 190 |
 | `implementation` | 127 |
-| `dp` | 99 |
+| `dp` | 100 |
 | `constructive algorithms` | 88 |
-| `brute force` | 86 |
+| `brute force` | 87 |
 | `sortings` | 67 |
-| `binary search` | 65 |
-| `data structures` | 60 |
+| `binary search` | 66 |
+| `data structures` | 61 |
 | `number theory` | 60 |
 | `dfs and similar` | 45 |
 | `two pointers` | 41 |
@@ -551,7 +552,7 @@
 | 1300 | 35 |
 | 1400 | 41 |
 | 1500 | 65 |
-| 1600 | 46 |
+| 1600 | 47 |
 | 1700 | 30 |
 | 1800 | 17 |
 | 1900 | 21 |
