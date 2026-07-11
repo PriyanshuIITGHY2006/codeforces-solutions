@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 491
+**Total Problems:** 493
 
-**With Source Code:** 68 / 491
+**With Source Code:** 68 / 493
 
 
 ## Problems
@@ -441,6 +441,7 @@
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/1950/problem/F) |
 | 2030D | [QED's Favorite Permutation](problems/1700/2030D-QEDs-Favorite-Permutation) | 1700 | `data structures`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2030/problem/D) |
+| 2031D | [Penchick and Desert Rabbit](problems/1700/2031D-Penchick-and-Desert-Rabbit) | 1700 | `binary search`, `data structures`, `dfs and similar`, `dp`, `dsu`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2031/problem/D) |
 | 2039D | [Shohag Loves GCD](problems/1700/2039D-Shohag-Loves-GCD) | 1700 | `constructive algorithms`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2039/problem/D) |
 | 2071C | [Trapmigiano Reggiano](problems/1700/2071C-Trapmigiano-Reggiano) | 1700 | `constructive algorithms`, `data structures`, `dfs and similar`, `dp`, `greedy`, `sortings`, `trees` | - | [CF](https://codeforces.com/contest/2071/problem/C) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
@@ -466,6 +467,7 @@
 | 2014E | [Rendez-vous de Marian et Robin](problems/1800/2014E-Rendez-vous-de-Marian-et-Robin) | 1800 | `dfs and similar`, `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/2014/problem/E) |
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
+| 2117F | [Wildflower](problems/1800/2117F-Wildflower) | 1800 | `combinatorics`, `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/2117/problem/F) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
@@ -509,25 +511,25 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 223 |
+| `greedy` | 224 |
 | `math` | 191 |
-| `implementation` | 127 |
-| `dp` | 100 |
+| `implementation` | 128 |
+| `dp` | 101 |
 | `brute force` | 88 |
 | `constructive algorithms` | 88 |
+| `binary search` | 68 |
 | `sortings` | 68 |
-| `binary search` | 67 |
-| `data structures` | 63 |
+| `data structures` | 64 |
 | `number theory` | 61 |
-| `dfs and similar` | 45 |
-| `two pointers` | 41 |
+| `dfs and similar` | 47 |
+| `two pointers` | 42 |
 | `graphs` | 35 |
-| `trees` | 33 |
-| `combinatorics` | 28 |
+| `trees` | 34 |
+| `combinatorics` | 29 |
 | `strings` | 28 |
 | `bitmasks` | 26 |
 | `games` | 17 |
-| `dsu` | 12 |
+| `dsu` | 13 |
 | `shortest paths` | 11 |
 | `geometry` | 9 |
 | `interactive` | 8 |
@@ -555,8 +557,8 @@
 | 1400 | 42 |
 | 1500 | 65 |
 | 1600 | 47 |
-| 1700 | 30 |
-| 1800 | 17 |
+| 1700 | 31 |
+| 1800 | 18 |
 | 1900 | 22 |
 | 2000 | 3 |
 | 2100 | 3 |
