@@ -4,15 +4,17 @@
 
 **Language:** C++
 
-**Total Problems:** 497
+**Total Problems:** 499
 
-**With Source Code:** 68 / 497
+**With Source Code:** 68 / 499
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2246C | [0mar and Alternating Sums](problems/Unrated/2246C-0mar-and-Alternating-Sums) | ? | `combinatorics`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2246/problem/C) |
+| 2246A | [farmpiggie and Subset Sum](problems/Unrated/2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -516,11 +518,11 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 228 |
-| `math` | 192 |
+| `math` | 193 |
 | `implementation` | 129 |
-| `dp` | 101 |
+| `dp` | 102 |
 | `brute force` | 90 |
-| `constructive algorithms` | 88 |
+| `constructive algorithms` | 89 |
 | `binary search` | 69 |
 | `sortings` | 68 |
 | `data structures` | 64 |
@@ -529,8 +531,8 @@
 | `two pointers` | 42 |
 | `graphs` | 35 |
 | `trees` | 34 |
+| `combinatorics` | 30 |
 | `strings` | 30 |
-| `combinatorics` | 29 |
 | `bitmasks` | 27 |
 | `games` | 17 |
 | `dsu` | 13 |
@@ -570,4 +572,4 @@
 | 2300 | 2 |
 | 2400 | 1 |
 | 900 | 11 |
-| Unrated | 21 |
+| Unrated | 23 |
