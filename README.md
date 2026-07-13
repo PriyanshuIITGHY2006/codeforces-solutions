@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 500
+**Total Problems:** 502
 
-**With Source Code:** 68 / 500
+**With Source Code:** 68 / 502
 
 
 ## Problems
@@ -250,6 +250,7 @@
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
 | 2036D | [I Love 1543](problems/1300/2036D-I-Love-1543) | 1300 | `brute force`, `implementation`, `matrices` | - | [CF](https://codeforces.com/contest/2036/problem/D) |
 | 2041A | [The Bento Box Adventure](problems/1300/2041A-The-Bento-Box-Adventure) | 1300 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2041/problem/A) |
+| 2049B | [pspspsps](problems/1300/2049B-pspspsps) | 1300 | `brute force`, `constructive algorithms`, `graph matchings`, `implementation` | - | [CF](https://codeforces.com/contest/2049/problem/B) |
 | 2050D | [Digital string maximization](problems/1300/2050D-Digital-string-maximization) | 1300 | `brute force`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2050/problem/D) |
 | 2072D | [For Wizards, the Exam Is Easy, but I Couldn't Handle It](problems/1300/2072D-For-Wizards-the-Exam-Is-Easy-but-I-Couldnt-Handle-It) | 1300 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2072/problem/D) |
 | 2091E | [Interesting Ratio](problems/1300/2091E-Interesting-Ratio) | 1300 | `brute force`, `math`, `number theory`, `two pointers` | - | [CF](https://codeforces.com/contest/2091/problem/E) |
@@ -476,6 +477,7 @@
 | 2106E | [Wolf](problems/1800/2106E-Wolf) | 1800 | `binary search`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2106/problem/E) |
 | 2117F | [Wildflower](problems/1800/2117F-Wildflower) | 1800 | `combinatorics`, `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/2117/problem/F) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
+| 2127D | [Root was Built by Love, Broken by Destiny](problems/1800/2127D-Root-was-Built-by-Love-Broken-by-Destiny) | 1800 | `combinatorics`, `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2127/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
 | 2192D | [Cost of Tree](problems/1800/2192D-Cost-of-Tree) | 1800 | `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2192/problem/D) |
@@ -520,19 +522,19 @@
 |-----|-------|
 | `greedy` | 228 |
 | `math` | 194 |
-| `implementation` | 129 |
+| `implementation` | 130 |
 | `dp` | 102 |
-| `brute force` | 90 |
-| `constructive algorithms` | 89 |
+| `brute force` | 91 |
+| `constructive algorithms` | 90 |
 | `binary search` | 70 |
 | `sortings` | 68 |
 | `data structures` | 64 |
 | `number theory` | 61 |
-| `dfs and similar` | 47 |
+| `dfs and similar` | 48 |
 | `two pointers` | 42 |
-| `graphs` | 35 |
-| `trees` | 34 |
-| `combinatorics` | 31 |
+| `graphs` | 36 |
+| `trees` | 35 |
+| `combinatorics` | 32 |
 | `strings` | 30 |
 | `bitmasks` | 27 |
 | `games` | 17 |
@@ -546,6 +548,7 @@
 | `hashing` | 4 |
 | `matrices` | 3 |
 | `schedules` | 2 |
+| `graph matchings` | 1 |
 | `meet-in-the-middle` | 1 |
 | `flows` | 1 |
 | `string suffix structures` | 1 |
@@ -560,12 +563,12 @@
 | 1000 | 35 |
 | 1100 | 26 |
 | 1200 | 57 |
-| 1300 | 36 |
+| 1300 | 37 |
 | 1400 | 43 |
 | 1500 | 66 |
 | 1600 | 49 |
 | 1700 | 32 |
-| 1800 | 19 |
+| 1800 | 20 |
 | 1900 | 22 |
 | 2000 | 3 |
 | 2100 | 3 |
