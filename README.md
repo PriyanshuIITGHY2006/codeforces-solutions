@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 499
+**Total Problems:** 500
 
-**With Source Code:** 68 / 499
+**With Source Code:** 68 / 500
 
 
 ## Problems
@@ -364,6 +364,7 @@
 | 2060E | [Graph Composition](problems/1500/2060E-Graph-Composition) | 1500 | `dfs and similar`, `dsu`, `graphs`, `greedy` | - | [CF](https://codeforces.com/contest/2060/problem/E) |
 | 2070C | [Limited Repainting](problems/1500/2070C-Limited-Repainting) | 1500 | `binary search`, `greedy` | - | [CF](https://codeforces.com/contest/2070/problem/C) |
 | 2072E | [Do You Love Your Hero and His Two-Hit Multi-Target Attacks?](problems/1500/2072E-Do-You-Love-Your-Hero-and-His-Two-Hit-Multi-Target-Attacks) | 1500 | `binary search`, `brute force`, `constructive algorithms`, `dp`, `geometry`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2072/problem/E) |
+| 2075C | [Two Colors](problems/1500/2075C-Two-Colors) | 1500 | `binary search`, `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/2075/problem/C) |
 | 2108C | [Neo's Escape](problems/1500/2108C-Neos-Escape) | 1500 | `binary search`, `brute force`, `data structures`, `dp`, `dsu`, `graphs`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2108/problem/C) |
 | 2137E | [Mexification](problems/1500/2137E-Mexification) | 1500 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2137/problem/E) |
 | 2140C | [Ultimate Value](problems/1500/2140C-Ultimate-Value) | 1500 | `data structures`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/2140/problem/C) |
@@ -518,12 +519,12 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 228 |
-| `math` | 193 |
+| `math` | 194 |
 | `implementation` | 129 |
 | `dp` | 102 |
 | `brute force` | 90 |
 | `constructive algorithms` | 89 |
-| `binary search` | 69 |
+| `binary search` | 70 |
 | `sortings` | 68 |
 | `data structures` | 64 |
 | `number theory` | 61 |
@@ -531,7 +532,7 @@
 | `two pointers` | 42 |
 | `graphs` | 35 |
 | `trees` | 34 |
-| `combinatorics` | 30 |
+| `combinatorics` | 31 |
 | `strings` | 30 |
 | `bitmasks` | 27 |
 | `games` | 17 |
@@ -561,7 +562,7 @@
 | 1200 | 57 |
 | 1300 | 36 |
 | 1400 | 43 |
-| 1500 | 65 |
+| 1500 | 66 |
 | 1600 | 49 |
 | 1700 | 32 |
 | 1800 | 19 |
