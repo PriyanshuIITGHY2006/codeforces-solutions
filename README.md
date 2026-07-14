@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 502
+**Total Problems:** 509
 
-**With Source Code:** 68 / 502
+**With Source Code:** 68 / 509
 
 
 ## Problems
@@ -36,6 +36,11 @@
 | 684247D2 | [Alice's Coins (Hard Version)](problems/Unrated/684247D2-Alices-Coins-Hard-Version) | ? |  | - | [CF](https://codeforces.com/contest/684247/problem/D2) |
 | 684247D1 | [Alice's Coins](problems/Unrated/684247D1-Alices-Coins) | ? |  | - | [CF](https://codeforces.com/contest/684247/problem/D1) |
 | 684247A | [Last Fill](problems/Unrated/684247A-Last-Fill) | ? |  | - | [CF](https://codeforces.com/contest/684247/problem/A) |
+| 703927D | [Carryless Ledger](problems/Unrated/703927D-Carryless-Ledger) | ? |  | - | [CF](https://codeforces.com/contest/703927/problem/D) |
+| 703927E | [Path GCD](problems/Unrated/703927E-Path-GCD) | ? |  | - | [CF](https://codeforces.com/contest/703927/problem/E) |
+| 703927C | [Even-Sortable Substrings](problems/Unrated/703927C-Even-Sortable-Substrings) | ? |  | - | [CF](https://codeforces.com/contest/703927/problem/C) |
+| 703927B | [Rising Suffixes](problems/Unrated/703927B-Rising-Suffixes) | ? |  | - | [CF](https://codeforces.com/contest/703927/problem/B) |
+| 703927A | [Three Dials](problems/Unrated/703927A-Three-Dials) | ? |  | - | [CF](https://codeforces.com/contest/703927/problem/A) |
 | 4A | [Watermelon](problems/0800/4A-Watermelon) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/4/problem/A) |
 | 386A | [Second-Price Auction](problems/0800/386A-Second-Price-Auction) | 800 | `implementation` | - | [CF](https://codeforces.com/contest/386/problem/A) |
 | 1194A | [Remove a Progression](problems/0800/1194A-Remove-a-Progression) | 800 | `math` | - | [CF](https://codeforces.com/contest/1194/problem/A) |
@@ -219,6 +224,7 @@
 | 2041E | [Beautiful Array](problems/1200/2041E-Beautiful-Array) | 1200 | `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2041/problem/E) |
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2048C | [Kevin and Binary Strings](problems/1200/2048C-Kevin-and-Binary-Strings) | 1200 | `bitmasks`, `brute force`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2048/problem/C) |
+| 2051D | [Counting Pairs](problems/1200/2051D-Counting-Pairs) | 1200 | `binary search`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2051/problem/D) |
 | 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
 | 2109B | [Slice to Survive](problems/1200/2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2109/problem/B) |
@@ -514,6 +520,7 @@
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/2028/problem/E) |
 | 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | - | [CF](https://codeforces.com/contest/2134/problem/E) |
+| 2159C | [Twin Polynomials](problems/2300/2159C-Twin-Polynomials) | 2300 | `combinatorics`, `graph matchings`, `math` | - | [CF](https://codeforces.com/contest/2159/problem/C) |
 | 2176F | [Omega Numbers](problems/2400/2176F-Omega-Numbers) | 2400 | `bitmasks`, `combinatorics`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2176/problem/F) |
 
 ## Tag Distribution
@@ -521,20 +528,20 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 228 |
-| `math` | 194 |
+| `math` | 195 |
 | `implementation` | 130 |
 | `dp` | 102 |
 | `brute force` | 91 |
 | `constructive algorithms` | 90 |
-| `binary search` | 70 |
-| `sortings` | 68 |
+| `binary search` | 71 |
+| `sortings` | 69 |
 | `data structures` | 64 |
 | `number theory` | 61 |
 | `dfs and similar` | 48 |
-| `two pointers` | 42 |
+| `two pointers` | 43 |
 | `graphs` | 36 |
 | `trees` | 35 |
-| `combinatorics` | 32 |
+| `combinatorics` | 33 |
 | `strings` | 30 |
 | `bitmasks` | 27 |
 | `games` | 17 |
@@ -547,8 +554,8 @@
 | `ternary search` | 4 |
 | `hashing` | 4 |
 | `matrices` | 3 |
+| `graph matchings` | 2 |
 | `schedules` | 2 |
-| `graph matchings` | 1 |
 | `meet-in-the-middle` | 1 |
 | `flows` | 1 |
 | `string suffix structures` | 1 |
@@ -562,7 +569,7 @@
 | 0800 | 71 |
 | 1000 | 35 |
 | 1100 | 26 |
-| 1200 | 57 |
+| 1200 | 58 |
 | 1300 | 37 |
 | 1400 | 43 |
 | 1500 | 66 |
@@ -573,7 +580,7 @@
 | 2000 | 3 |
 | 2100 | 3 |
 | 2200 | 1 |
-| 2300 | 2 |
+| 2300 | 3 |
 | 2400 | 1 |
 | 900 | 11 |
-| Unrated | 23 |
+| Unrated | 28 |
