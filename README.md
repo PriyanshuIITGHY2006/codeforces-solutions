@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 509
+**Total Problems:** 511
 
-**With Source Code:** 68 / 509
+**With Source Code:** 68 / 511
 
 
 ## Problems
@@ -456,6 +456,7 @@
 | 2031D | [Penchick and Desert Rabbit](problems/1700/2031D-Penchick-and-Desert-Rabbit) | 1700 | `binary search`, `data structures`, `dfs and similar`, `dp`, `dsu`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2031/problem/D) |
 | 2039D | [Shohag Loves GCD](problems/1700/2039D-Shohag-Loves-GCD) | 1700 | `constructive algorithms`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2039/problem/D) |
 | 2045A | [Scrambled Scrabble](problems/1700/2045A-Scrambled-Scrabble) | 1700 | `brute force`, `greedy` | - | [CF](https://codeforces.com/contest/2045/problem/A) |
+| 2065G | [Skibidus and Capping](problems/1700/2065G-Skibidus-and-Capping) | 1700 | `combinatorics`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2065/problem/G) |
 | 2071C | [Trapmigiano Reggiano](problems/1700/2071C-Trapmigiano-Reggiano) | 1700 | `constructive algorithms`, `data structures`, `dfs and similar`, `dp`, `greedy`, `sortings`, `trees` | - | [CF](https://codeforces.com/contest/2071/problem/C) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
 | 2123F | [Minimize Fixed Points](problems/1700/2123F-Minimize-Fixed-Points) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2123/problem/F) |
@@ -471,6 +472,7 @@
 | 2236F1 | [Elections in Saransk (easy version)](problems/1700/2236F1-Elections-in-Saransk-easy-version) | 1700 | `number theory` | - | [CF](https://codeforces.com/contest/2236/problem/F1) |
 | 161D | [Distance in Tree](problems/1800/161D-Distance-in-Tree) | 1800 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/161/problem/D) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
+| 706D | [Vasiliy's Multiset](problems/1800/706D-Vasiliys-Multiset) | 1800 | `binary search`, `bitmasks`, `data structures`, `trees` | - | [CF](https://codeforces.com/contest/706/problem/D) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1709/problem/C) |
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | - | [CF](https://codeforces.com/contest/1729/problem/E) |
@@ -528,22 +530,22 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 228 |
-| `math` | 195 |
+| `math` | 196 |
 | `implementation` | 130 |
 | `dp` | 102 |
 | `brute force` | 91 |
 | `constructive algorithms` | 90 |
-| `binary search` | 71 |
+| `binary search` | 72 |
 | `sortings` | 69 |
-| `data structures` | 64 |
-| `number theory` | 61 |
+| `data structures` | 65 |
+| `number theory` | 62 |
 | `dfs and similar` | 48 |
 | `two pointers` | 43 |
+| `trees` | 36 |
 | `graphs` | 36 |
-| `trees` | 35 |
-| `combinatorics` | 33 |
+| `combinatorics` | 34 |
 | `strings` | 30 |
-| `bitmasks` | 27 |
+| `bitmasks` | 28 |
 | `games` | 17 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
@@ -574,8 +576,8 @@
 | 1400 | 43 |
 | 1500 | 66 |
 | 1600 | 49 |
-| 1700 | 32 |
-| 1800 | 20 |
+| 1700 | 33 |
+| 1800 | 21 |
 | 1900 | 22 |
 | 2000 | 3 |
 | 2100 | 3 |
