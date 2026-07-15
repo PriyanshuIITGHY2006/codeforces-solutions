@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 511
+**Total Problems:** 512
 
-**With Source Code:** 68 / 511
+**With Source Code:** 68 / 512
 
 
 ## Problems
@@ -225,6 +225,7 @@
 | 2046A | [Swap Columns and Find a Path](problems/1200/2046A-Swap-Columns-and-Find-a-Path) | 1200 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2046/problem/A) |
 | 2048C | [Kevin and Binary Strings](problems/1200/2048C-Kevin-and-Binary-Strings) | 1200 | `bitmasks`, `brute force`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2048/problem/C) |
 | 2051D | [Counting Pairs](problems/1200/2051D-Counting-Pairs) | 1200 | `binary search`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2051/problem/D) |
+| 2053B | [Outstanding Impressionist](problems/1200/2053B-Outstanding-Impressionist) | 1200 | `binary search`, `brute force`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2053/problem/B) |
 | 2056C | [Palindromic Subsequences](problems/1200/2056C-Palindromic-Subsequences) | 1200 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2056/problem/C) |
 | 2062C | [Cirno and Operations](problems/1200/2062C-Cirno-and-Operations) | 1200 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2062/problem/C) |
 | 2109B | [Slice to Survive](problems/1200/2109B-Slice-to-Survive) | 1200 | `bitmasks`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2109/problem/B) |
@@ -529,15 +530,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 228 |
+| `greedy` | 229 |
 | `math` | 196 |
 | `implementation` | 130 |
 | `dp` | 102 |
-| `brute force` | 91 |
+| `brute force` | 92 |
 | `constructive algorithms` | 90 |
-| `binary search` | 72 |
+| `binary search` | 73 |
 | `sortings` | 69 |
-| `data structures` | 65 |
+| `data structures` | 66 |
 | `number theory` | 62 |
 | `dfs and similar` | 48 |
 | `two pointers` | 43 |
@@ -571,7 +572,7 @@
 | 0800 | 71 |
 | 1000 | 35 |
 | 1100 | 26 |
-| 1200 | 58 |
+| 1200 | 59 |
 | 1300 | 37 |
 | 1400 | 43 |
 | 1500 | 66 |
