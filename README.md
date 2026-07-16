@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 513
+**Total Problems:** 514
 
-**With Source Code:** 68 / 513
+**With Source Code:** 68 / 514
 
 
 ## Problems
@@ -517,6 +517,7 @@
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | - | [CF](https://codeforces.com/contest/1142/problem/B) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
+| 2171G | [Sakura Adachi and Optimal Sequences](problems/2000/2171G-Sakura-Adachi-and-Optimal-Sequences) | 2000 | `bitmasks`, `combinatorics`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2171/problem/G) |
 | 2194E | [The Turtle Strikes Back](problems/2000/2194E-The-Turtle-Strikes-Back) | 2000 | `dp`, `graphs`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2194/problem/E) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | - | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1486/problem/D) |
@@ -531,8 +532,8 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 230 |
-| `math` | 196 |
+| `greedy` | 231 |
+| `math` | 197 |
 | `implementation` | 131 |
 | `dp` | 103 |
 | `brute force` | 92 |
@@ -545,9 +546,9 @@
 | `two pointers` | 43 |
 | `graphs` | 37 |
 | `trees` | 36 |
-| `combinatorics` | 34 |
+| `combinatorics` | 35 |
 | `strings` | 30 |
-| `bitmasks` | 28 |
+| `bitmasks` | 29 |
 | `games` | 17 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
@@ -581,7 +582,7 @@
 | 1700 | 33 |
 | 1800 | 21 |
 | 1900 | 22 |
-| 2000 | 4 |
+| 2000 | 5 |
 | 2100 | 3 |
 | 2200 | 1 |
 | 2300 | 3 |
