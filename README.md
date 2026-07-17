@@ -4,15 +4,18 @@
 
 **Language:** C++
 
-**Total Problems:** 514
+**Total Problems:** 517
 
-**With Source Code:** 68 / 514
+**With Source Code:** 68 / 517
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2245C | [MEXOR](problems/Unrated/2245C-MEXOR) | ? | `bitmasks`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2245/problem/C) |
+| 2245B | [Delete and Concatenate](problems/Unrated/2245B-Delete-and-Concatenate) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/B) |
+| 2245A | [Who Watches the Watchpig?](problems/Unrated/2245A-Who-Watches-the-Watchpig) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/A) |
 | 2246C | [0mar and Alternating Sums](problems/Unrated/2246C-0mar-and-Alternating-Sums) | ? | `combinatorics`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2246/problem/C) |
 | 2246A | [farmpiggie and Subset Sum](problems/Unrated/2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
@@ -532,12 +535,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 231 |
-| `math` | 197 |
+| `greedy` | 233 |
+| `math` | 198 |
 | `implementation` | 131 |
 | `dp` | 103 |
 | `brute force` | 92 |
-| `constructive algorithms` | 90 |
+| `constructive algorithms` | 91 |
 | `binary search` | 73 |
 | `sortings` | 69 |
 | `data structures` | 66 |
@@ -547,8 +550,8 @@
 | `graphs` | 37 |
 | `trees` | 36 |
 | `combinatorics` | 35 |
+| `bitmasks` | 30 |
 | `strings` | 30 |
-| `bitmasks` | 29 |
 | `games` | 17 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
@@ -588,4 +591,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 11 |
-| Unrated | 28 |
+| Unrated | 31 |
