@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 517
+**Total Problems:** 518
 
-**With Source Code:** 68 / 517
+**With Source Code:** 68 / 518
 
 
 ## Problems
@@ -359,6 +359,7 @@
 | 1516B | [AGAGA XOOORRR](problems/1500/1516B-AGAGA-XOOORRR) | 1500 | `bitmasks`, `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1516/problem/B) |
 | 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
 | 1575J | [Jeopardy of Dropped Balls](problems/1500/1575J-Jeopardy-of-Dropped-Balls) | 1500 | `binary search`, `brute force`, `dsu`, `implementation` | - | [CF](https://codeforces.com/contest/1575/problem/J) |
+| 1742F | [Smaller](problems/1500/1742F-Smaller) | 1500 | `constructive algorithms`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/1742/problem/F) |
 | 1776L | [Controllers](problems/1500/1776L-Controllers) | 1500 | `binary search`, `math` | - | [CF](https://codeforces.com/contest/1776/problem/L) |
 | 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
 | 1872E | [Data Structures Fan](problems/1500/1872E-Data-Structures-Fan) | 1500 | `binary search`, `bitmasks`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1872/problem/E) |
@@ -535,12 +536,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 233 |
+| `greedy` | 234 |
 | `math` | 198 |
 | `implementation` | 131 |
 | `dp` | 103 |
+| `constructive algorithms` | 92 |
 | `brute force` | 92 |
-| `constructive algorithms` | 91 |
 | `binary search` | 73 |
 | `sortings` | 69 |
 | `data structures` | 66 |
@@ -550,8 +551,8 @@
 | `graphs` | 37 |
 | `trees` | 36 |
 | `combinatorics` | 35 |
+| `strings` | 31 |
 | `bitmasks` | 30 |
-| `strings` | 30 |
 | `games` | 17 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
@@ -580,7 +581,7 @@
 | 1200 | 59 |
 | 1300 | 37 |
 | 1400 | 43 |
-| 1500 | 66 |
+| 1500 | 67 |
 | 1600 | 49 |
 | 1700 | 33 |
 | 1800 | 21 |
