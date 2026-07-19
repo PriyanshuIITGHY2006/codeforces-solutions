@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 518
+**Total Problems:** 519
 
-**With Source Code:** 68 / 518
+**With Source Code:** 68 / 519
 
 
 ## Problems
@@ -521,6 +521,7 @@
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | - | [CF](https://codeforces.com/contest/1142/problem/B) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
+| 2171E | [Anisphia Wynn Palettia and Good Permutations](problems/2000/2171E-Anisphia-Wynn-Palettia-and-Good-Permutations) | 2000 | `constructive algorithms`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2171/problem/E) |
 | 2171G | [Sakura Adachi and Optimal Sequences](problems/2000/2171G-Sakura-Adachi-and-Optimal-Sequences) | 2000 | `bitmasks`, `combinatorics`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2171/problem/G) |
 | 2194E | [The Turtle Strikes Back](problems/2000/2194E-The-Turtle-Strikes-Back) | 2000 | `dp`, `graphs`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2194/problem/E) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | - | [CF](https://codeforces.com/contest/837/problem/D) |
@@ -536,16 +537,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 234 |
+| `greedy` | 235 |
 | `math` | 198 |
 | `implementation` | 131 |
 | `dp` | 103 |
-| `constructive algorithms` | 92 |
+| `constructive algorithms` | 93 |
 | `brute force` | 92 |
 | `binary search` | 73 |
 | `sortings` | 69 |
 | `data structures` | 66 |
-| `number theory` | 62 |
+| `number theory` | 63 |
 | `dfs and similar` | 48 |
 | `two pointers` | 43 |
 | `graphs` | 37 |
@@ -586,7 +587,7 @@
 | 1700 | 33 |
 | 1800 | 21 |
 | 1900 | 22 |
-| 2000 | 5 |
+| 2000 | 6 |
 | 2100 | 3 |
 | 2200 | 1 |
 | 2300 | 3 |
