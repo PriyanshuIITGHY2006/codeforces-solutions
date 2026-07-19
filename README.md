@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 521
+**Total Problems:** 523
 
-**With Source Code:** 68 / 521
+**With Source Code:** 68 / 523
 
 
 ## Problems
@@ -44,6 +44,8 @@
 | 703927C | [Even-Sortable Substrings](problems/Unrated/703927C-Even-Sortable-Substrings) | ? |  | - | [CF](https://codeforces.com/contest/703927/problem/C) |
 | 703927B | [Rising Suffixes](problems/Unrated/703927B-Rising-Suffixes) | ? |  | - | [CF](https://codeforces.com/contest/703927/problem/B) |
 | 703927A | [Three Dials](problems/Unrated/703927A-Three-Dials) | ? |  | - | [CF](https://codeforces.com/contest/703927/problem/A) |
+| 705712D | [Fabulous Flipping](problems/Unrated/705712D-Fabulous-Flipping) | ? |  | - | [CF](https://codeforces.com/contest/705712/problem/D) |
+| 705712C | [Marble Management](problems/Unrated/705712C-Marble-Management) | ? |  | - | [CF](https://codeforces.com/contest/705712/problem/C) |
 | 705712B | [Jump Queries](problems/Unrated/705712B-Jump-Queries) | ? |  | - | [CF](https://codeforces.com/contest/705712/problem/B) |
 | 705712A | [Perfect Pruning](problems/Unrated/705712A-Perfect-Pruning) | ? |  | - | [CF](https://codeforces.com/contest/705712/problem/A) |
 | 4A | [Watermelon](problems/0800/4A-Watermelon) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/4/problem/A) |
@@ -595,4 +597,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 11 |
-| Unrated | 33 |
+| Unrated | 35 |
