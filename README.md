@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 523
+**Total Problems:** 524
 
-**With Source Code:** 68 / 523
+**With Source Code:** 68 / 524
 
 
 ## Problems
@@ -112,6 +112,7 @@
 | 2224A | [Zhily and Array Operating](problems/0800/2224A-Zhily-and-Array-Operating) | 800 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2224/problem/A) |
 | 2231A | [Construct an Array](problems/0800/2231A-Construct-an-Array) | 800 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/A) |
 | 2233A | [AI Project Development](problems/0800/2233A-AI-Project-Development) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/2233/problem/A) |
+| 2234B | [Palindrome, Twelve and Two Terms](problems/0800/2234B-Palindrome-Twelve-and-Two-Terms) | 800 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2234/problem/B) |
 | 2236A | [Games on the Train](problems/0800/2236A-Games-on-the-Train) | 800 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/A) |
 | 2236B | [Tatar TV Show](problems/0800/2236B-Tatar-TV-Show) | 800 | `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2236/problem/B) |
 | 2238A | [Another Puzzle from Papyrus](problems/0800/2238A-Another-Puzzle-from-Papyrus) | 800 | `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2238/problem/A) |
@@ -542,11 +543,11 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 235 |
-| `math` | 198 |
+| `math` | 199 |
 | `implementation` | 131 |
 | `dp` | 103 |
-| `constructive algorithms` | 93 |
-| `brute force` | 92 |
+| `constructive algorithms` | 94 |
+| `brute force` | 93 |
 | `binary search` | 73 |
 | `sortings` | 69 |
 | `data structures` | 66 |
@@ -580,7 +581,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 71 |
+| 0800 | 72 |
 | 1000 | 35 |
 | 1100 | 26 |
 | 1200 | 59 |
