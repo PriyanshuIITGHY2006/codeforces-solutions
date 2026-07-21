@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 524
+**Total Problems:** 525
 
-**With Source Code:** 68 / 524
+**With Source Code:** 68 / 525
 
 
 ## Problems
@@ -115,6 +115,7 @@
 | 2234B | [Palindrome, Twelve and Two Terms](problems/0800/2234B-Palindrome-Twelve-and-Two-Terms) | 800 | `brute force`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2234/problem/B) |
 | 2236A | [Games on the Train](problems/0800/2236A-Games-on-the-Train) | 800 | `greedy`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/A) |
 | 2236B | [Tatar TV Show](problems/0800/2236B-Tatar-TV-Show) | 800 | `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2236/problem/B) |
+| 2237A | [Destroying Towers](problems/0800/2237A-Destroying-Towers) | 800 | `games`, `greedy`, `schedules` | - | [CF](https://codeforces.com/contest/2237/problem/A) |
 | 2238A | [Another Puzzle from Papyrus](problems/0800/2238A-Another-Puzzle-from-Papyrus) | 800 | `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2238/problem/A) |
 | 2242A | [Bigrams](problems/0800/2242A-Bigrams) | 800 | `sortings`, `strings` | - | [CF](https://codeforces.com/contest/2242/problem/A) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
@@ -542,7 +543,7 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 235 |
+| `greedy` | 236 |
 | `math` | 199 |
 | `implementation` | 131 |
 | `dp` | 103 |
@@ -559,7 +560,7 @@
 | `combinatorics` | 35 |
 | `strings` | 31 |
 | `bitmasks` | 30 |
-| `games` | 17 |
+| `games` | 18 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
 | `geometry` | 9 |
@@ -568,9 +569,9 @@
 | `probabilities` | 5 |
 | `ternary search` | 4 |
 | `hashing` | 4 |
+| `schedules` | 3 |
 | `matrices` | 3 |
 | `graph matchings` | 2 |
-| `schedules` | 2 |
 | `meet-in-the-middle` | 1 |
 | `flows` | 1 |
 | `string suffix structures` | 1 |
@@ -581,7 +582,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 72 |
+| 0800 | 73 |
 | 1000 | 35 |
 | 1100 | 26 |
 | 1200 | 59 |
