@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 525
+**Total Problems:** 527
 
-**With Source Code:** 68 / 525
+**With Source Code:** 68 / 527
 
 
 ## Problems
@@ -405,6 +405,7 @@
 | 377A | [Maze](problems/1600/377A-Maze) | 1600 | `dfs and similar` | - | [CF](https://codeforces.com/contest/377/problem/A) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
 | 510C | [Fox And Names](problems/1600/510C-Fox-And-Names) | 1600 | `dfs and similar`, `graphs`, `sortings` | - | [CF](https://codeforces.com/contest/510/problem/C) |
+| 706C | [Hard problem](problems/1600/706C-Hard-problem) | 1600 | `dp`, `strings` | - | [CF](https://codeforces.com/contest/706/problem/C) |
 | 763A | [Timofey and a tree](problems/1600/763A-Timofey-and-a-tree) | 1600 | `dfs and similar`, `dp`, `dsu`, `graphs`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/763/problem/A) |
 | 979C | [Kuro and Walking Route](problems/1600/979C-Kuro-and-Walking-Route) | 1600 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/979/problem/C) |
 | 986A | [Fair](problems/1600/986A-Fair) | 1600 | `graphs`, `greedy`, `number theory`, `shortest paths` | - | [CF](https://codeforces.com/contest/986/problem/A) |
@@ -452,6 +453,7 @@
 | 219D | [Choosing Capital for Treeland](problems/1700/219D-Choosing-Capital-for-Treeland) | 1700 | `dfs and similar`, `dp`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/219/problem/D) |
 | 327C | [Magic Five](problems/1700/327C-Magic-Five) | 1700 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/327/problem/C) |
 | 427C | [Checkposts](problems/1700/427C-Checkposts) | 1700 | `dfs and similar`, `graphs`, `two pointers` | - | [CF](https://codeforces.com/contest/427/problem/C) |
+| 466C | [Number of Ways](problems/1700/466C-Number-of-Ways) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | - | [CF](https://codeforces.com/contest/466/problem/C) |
 | 474D | [Flowers](problems/1700/474D-Flowers) | 1700 | `dp` | Yes | [CF](https://codeforces.com/contest/474/problem/D) |
 | 1093D | [Beautiful Graph](problems/1700/1093D-Beautiful-Graph) | 1700 | `dfs and similar`, `graphs` | Yes | [CF](https://codeforces.com/contest/1093/problem/D) |
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
@@ -546,19 +548,19 @@
 | `greedy` | 236 |
 | `math` | 199 |
 | `implementation` | 131 |
-| `dp` | 103 |
+| `dp` | 105 |
+| `brute force` | 94 |
 | `constructive algorithms` | 94 |
-| `brute force` | 93 |
-| `binary search` | 73 |
+| `binary search` | 74 |
 | `sortings` | 69 |
-| `data structures` | 66 |
+| `data structures` | 67 |
 | `number theory` | 63 |
 | `dfs and similar` | 48 |
-| `two pointers` | 43 |
+| `two pointers` | 44 |
 | `graphs` | 37 |
 | `trees` | 36 |
 | `combinatorics` | 35 |
-| `strings` | 31 |
+| `strings` | 32 |
 | `bitmasks` | 30 |
 | `games` | 18 |
 | `dsu` | 13 |
@@ -589,8 +591,8 @@
 | 1300 | 37 |
 | 1400 | 43 |
 | 1500 | 67 |
-| 1600 | 49 |
-| 1700 | 33 |
+| 1600 | 50 |
+| 1700 | 34 |
 | 1800 | 21 |
 | 1900 | 22 |
 | 2000 | 6 |
