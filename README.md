@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 527
+**Total Problems:** 528
 
-**With Source Code:** 68 / 527
+**With Source Code:** 68 / 528
 
 
 ## Problems
@@ -257,6 +257,7 @@
 | 862B | [Mahmoud and Ehab and the bipartiteness](problems/1300/862B-Mahmoud-and-Ehab-and-the-bipartiteness) | 1300 | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/862/problem/B) |
 | 1152B | [Neko Performs Cat Furrier Transform](problems/1300/1152B-Neko-Performs-Cat-Furrier-Transform) | 1300 | `bitmasks`, `constructive algorithms`, `dfs and similar`, `math` | Yes | [CF](https://codeforces.com/contest/1152/problem/B) |
 | 1225B2 | [TV Subscriptions (Hard Version)](problems/1300/1225B2-TV-Subscriptions-Hard-Version) | 1300 | `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/1225/problem/B2) |
+| 1366B | [Shuffle](problems/1300/1366B-Shuffle) | 1300 | `math`, `two pointers` | - | [CF](https://codeforces.com/contest/1366/problem/B) |
 | 1661B | [Getting Zero](problems/1300/1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1661/problem/B) |
 | 1741D | [Masha and a Beautiful Tree](problems/1300/1741D-Masha-and-a-Beautiful-Tree) | 1300 | `dfs and similar`, `divide and conquer`, `graphs`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/1741/problem/D) |
 | 1851D | [Prefix Permutation Sums](problems/1300/1851D-Prefix-Permutation-Sums) | 1300 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1851/problem/D) |
@@ -546,7 +547,7 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 236 |
-| `math` | 199 |
+| `math` | 200 |
 | `implementation` | 131 |
 | `dp` | 105 |
 | `brute force` | 94 |
@@ -556,7 +557,7 @@
 | `data structures` | 67 |
 | `number theory` | 63 |
 | `dfs and similar` | 48 |
-| `two pointers` | 44 |
+| `two pointers` | 45 |
 | `graphs` | 37 |
 | `trees` | 36 |
 | `combinatorics` | 35 |
@@ -588,7 +589,7 @@
 | 1000 | 35 |
 | 1100 | 26 |
 | 1200 | 59 |
-| 1300 | 37 |
+| 1300 | 38 |
 | 1400 | 43 |
 | 1500 | 67 |
 | 1600 | 50 |
