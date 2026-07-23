@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 528
+**Total Problems:** 529
 
-**With Source Code:** 68 / 528
+**With Source Code:** 68 / 529
 
 
 ## Problems
@@ -488,6 +488,7 @@
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | - | [CF](https://codeforces.com/contest/300/problem/C) |
 | 706D | [Vasiliy's Multiset](problems/1800/706D-Vasiliys-Multiset) | 1800 | `binary search`, `bitmasks`, `data structures`, `trees` | - | [CF](https://codeforces.com/contest/706/problem/D) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | - | [CF](https://codeforces.com/contest/1005/problem/E1) |
+| 1207D | [Number Of Permutations](problems/1800/1207D-Number-Of-Permutations) | 1800 | `combinatorics` | - | [CF](https://codeforces.com/contest/1207/problem/D) |
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/1709/problem/C) |
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | - | [CF](https://codeforces.com/contest/1729/problem/E) |
 | 1824B1 | [LuoTianyi and the Floating Islands (Easy Version)](problems/1800/1824B1-LuoTianyi-and-the-Floating-Islands-Easy-Version) | 1800 | `combinatorics`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/1824/problem/B1) |
@@ -559,8 +560,8 @@
 | `dfs and similar` | 48 |
 | `two pointers` | 45 |
 | `graphs` | 37 |
+| `combinatorics` | 36 |
 | `trees` | 36 |
-| `combinatorics` | 35 |
 | `strings` | 32 |
 | `bitmasks` | 30 |
 | `games` | 18 |
@@ -594,7 +595,7 @@
 | 1500 | 67 |
 | 1600 | 50 |
 | 1700 | 34 |
-| 1800 | 21 |
+| 1800 | 22 |
 | 1900 | 22 |
 | 2000 | 6 |
 | 2100 | 3 |
