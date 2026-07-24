@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 529
+**Total Problems:** 530
 
-**With Source Code:** 68 / 529
+**With Source Code:** 68 / 530
 
 
 ## Problems
@@ -457,6 +457,7 @@
 | 466C | [Number of Ways](problems/1700/466C-Number-of-Ways) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | - | [CF](https://codeforces.com/contest/466/problem/C) |
 | 474D | [Flowers](problems/1700/474D-Flowers) | 1700 | `dp` | Yes | [CF](https://codeforces.com/contest/474/problem/D) |
 | 1093D | [Beautiful Graph](problems/1700/1093D-Beautiful-Graph) | 1700 | `dfs and similar`, `graphs` | Yes | [CF](https://codeforces.com/contest/1093/problem/D) |
+| 1132C | [Painting the Fence](problems/1700/1132C-Painting-the-Fence) | 1700 | `brute force` | - | [CF](https://codeforces.com/contest/1132/problem/C) |
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1365D | [Solve The Maze](problems/1700/1365D-Solve-The-Maze) | 1700 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `greedy`, `implementation`, `shortest paths` | - | [CF](https://codeforces.com/contest/1365/problem/D) |
@@ -551,7 +552,7 @@
 | `math` | 200 |
 | `implementation` | 131 |
 | `dp` | 105 |
-| `brute force` | 94 |
+| `brute force` | 95 |
 | `constructive algorithms` | 94 |
 | `binary search` | 74 |
 | `sortings` | 69 |
@@ -594,7 +595,7 @@
 | 1400 | 43 |
 | 1500 | 67 |
 | 1600 | 50 |
-| 1700 | 34 |
+| 1700 | 35 |
 | 1800 | 22 |
 | 1900 | 22 |
 | 2000 | 6 |
