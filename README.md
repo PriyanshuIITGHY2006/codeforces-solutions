@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 532
+**Total Problems:** 533
 
-**With Source Code:** 68 / 532
+**With Source Code:** 68 / 533
 
 
 ## Problems
@@ -532,6 +532,7 @@
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | - | [CF](https://codeforces.com/contest/1142/problem/B) |
+| 1223D | [Sequence Sorting](problems/2000/1223D-Sequence-Sorting) | 2000 | `dp`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/1223/problem/D) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1536/problem/D) |
 | 2171E | [Anisphia Wynn Palettia and Good Permutations](problems/2000/2171E-Anisphia-Wynn-Palettia-and-Good-Permutations) | 2000 | `constructive algorithms`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2171/problem/E) |
@@ -550,10 +551,10 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 238 |
+| `greedy` | 239 |
 | `math` | 200 |
 | `implementation` | 131 |
-| `dp` | 106 |
+| `dp` | 107 |
 | `brute force` | 96 |
 | `constructive algorithms` | 94 |
 | `binary search` | 75 |
@@ -561,7 +562,7 @@
 | `data structures` | 67 |
 | `number theory` | 63 |
 | `dfs and similar` | 48 |
-| `two pointers` | 45 |
+| `two pointers` | 46 |
 | `graphs` | 37 |
 | `combinatorics` | 36 |
 | `trees` | 36 |
@@ -600,7 +601,7 @@
 | 1700 | 35 |
 | 1800 | 22 |
 | 1900 | 23 |
-| 2000 | 6 |
+| 2000 | 7 |
 | 2100 | 3 |
 | 2200 | 1 |
 | 2300 | 3 |
