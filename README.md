@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 530
+**Total Problems:** 532
 
-**With Source Code:** 68 / 530
+**With Source Code:** 68 / 532
 
 
 ## Problems
@@ -264,6 +264,7 @@
 | 1873F | [Money Trees](problems/1300/1873F-Money-Trees) | 1300 | `binary search`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/1873/problem/F) |
 | 1881D | [Divide and Equalize](problems/1300/1881D-Divide-and-Equalize) | 1300 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1881/problem/D) |
 | 1900C | [Anji's Binary Tree](problems/1300/1900C-Anjis-Binary-Tree) | 1300 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1900/problem/C) |
+| 1913C | [Game with Multiset](problems/1300/1913C-Game-with-Multiset) | 1300 | `binary search`, `bitmasks`, `brute force`, `greedy` | - | [CF](https://codeforces.com/contest/1913/problem/C) |
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
 | 2036D | [I Love 1543](problems/1300/2036D-I-Love-1543) | 1300 | `brute force`, `implementation`, `matrices` | - | [CF](https://codeforces.com/contest/2036/problem/D) |
 | 2041A | [The Bento Box Adventure](problems/1300/2041A-The-Bento-Box-Adventure) | 1300 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2041/problem/A) |
@@ -527,6 +528,7 @@
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
 | 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/2109/problem/D) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
+| 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2133/problem/D) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | - | [CF](https://codeforces.com/contest/1142/problem/B) |
@@ -548,13 +550,13 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 236 |
+| `greedy` | 238 |
 | `math` | 200 |
 | `implementation` | 131 |
-| `dp` | 105 |
-| `brute force` | 95 |
+| `dp` | 106 |
+| `brute force` | 96 |
 | `constructive algorithms` | 94 |
-| `binary search` | 74 |
+| `binary search` | 75 |
 | `sortings` | 69 |
 | `data structures` | 67 |
 | `number theory` | 63 |
@@ -564,7 +566,7 @@
 | `combinatorics` | 36 |
 | `trees` | 36 |
 | `strings` | 32 |
-| `bitmasks` | 30 |
+| `bitmasks` | 31 |
 | `games` | 18 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
@@ -591,13 +593,13 @@
 | 1000 | 35 |
 | 1100 | 26 |
 | 1200 | 59 |
-| 1300 | 38 |
+| 1300 | 39 |
 | 1400 | 43 |
 | 1500 | 67 |
 | 1600 | 50 |
 | 1700 | 35 |
 | 1800 | 22 |
-| 1900 | 22 |
+| 1900 | 23 |
 | 2000 | 6 |
 | 2100 | 3 |
 | 2200 | 1 |

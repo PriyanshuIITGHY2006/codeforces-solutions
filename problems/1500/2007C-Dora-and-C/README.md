@@ -10,4 +10,4 @@
 
 **Language:** C++23 (GCC 14-64, msys2)
 
-**Submission:** [Link](https://codeforces.com/contest/2007/submission/380956743)
+**Submission:** [Link](https://codeforces.com/contest/2007/submission/384133915)
