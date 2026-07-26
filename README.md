@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 533
+**Total Problems:** 536
 
-**With Source Code:** 68 / 533
+**With Source Code:** 68 / 536
 
 
 ## Problems
@@ -225,6 +225,7 @@
 | 1909B | [Make Almost Equal With Mod](problems/1200/1909B-Make-Almost-Equal-With-Mod) | 1200 | `bitmasks`, `constructive algorithms`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1909/problem/B) |
 | 1914D | [Three Activities](problems/1200/1914D-Three-Activities) | 1200 | `brute force`, `dp`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/1914/problem/D) |
 | 1925B | [A Balanced Problemset?](problems/1200/1925B-A-Balanced-Problemset) | 1200 | `brute force`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1925/problem/B) |
+| 1941D | [Rudolf and the Ball Game](problems/1200/1941D-Rudolf-and-the-Ball-Game) | 1200 | `dfs and similar`, `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1941/problem/D) |
 | 1975C | [Chamo and Mocha's Array](problems/1200/1975C-Chamo-and-Mochas-Array) | 1200 | `binary search`, `brute force`, `greedy` | - | [CF](https://codeforces.com/contest/1975/problem/C) |
 | 1979C | [Earning on Bets](problems/1200/1979C-Earning-on-Bets) | 1200 | `binary search`, `combinatorics`, `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/1979/problem/C) |
 | 1982B | [Collatz Conjecture](problems/1200/1982B-Collatz-Conjecture) | 1200 | `brute force`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1982/problem/B) |
@@ -367,6 +368,7 @@
 | 1516B | [AGAGA XOOORRR](problems/1500/1516B-AGAGA-XOOORRR) | 1500 | `bitmasks`, `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1516/problem/B) |
 | 1538F | [Interesting Function](problems/1500/1538F-Interesting-Function) | 1500 | `binary search`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1538/problem/F) |
 | 1575J | [Jeopardy of Dropped Balls](problems/1500/1575J-Jeopardy-of-Dropped-Balls) | 1500 | `binary search`, `brute force`, `dsu`, `implementation` | - | [CF](https://codeforces.com/contest/1575/problem/J) |
+| 1742G | [Orray](problems/1500/1742G-Orray) | 1500 | `bitmasks`, `brute force`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/1742/problem/G) |
 | 1742F | [Smaller](problems/1500/1742F-Smaller) | 1500 | `constructive algorithms`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/1742/problem/F) |
 | 1776L | [Controllers](problems/1500/1776L-Controllers) | 1500 | `binary search`, `math` | - | [CF](https://codeforces.com/contest/1776/problem/L) |
 | 1795C | [Tea Tasting](problems/1500/1795C-Tea-Tasting) | 1500 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/1795/problem/C) |
@@ -454,6 +456,7 @@
 | 176B | [Word Cut](problems/1700/176B-Word-Cut) | 1700 | `dp` | - | [CF](https://codeforces.com/contest/176/problem/B) |
 | 219D | [Choosing Capital for Treeland](problems/1700/219D-Choosing-Capital-for-Treeland) | 1700 | `dfs and similar`, `dp`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/219/problem/D) |
 | 327C | [Magic Five](problems/1700/327C-Magic-Five) | 1700 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/327/problem/C) |
+| 339D | [Xenia and Bit Operations](problems/1700/339D-Xenia-and-Bit-Operations) | 1700 | `data structures`, `trees` | - | [CF](https://codeforces.com/contest/339/problem/D) |
 | 427C | [Checkposts](problems/1700/427C-Checkposts) | 1700 | `dfs and similar`, `graphs`, `two pointers` | - | [CF](https://codeforces.com/contest/427/problem/C) |
 | 466C | [Number of Ways](problems/1700/466C-Number-of-Ways) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | - | [CF](https://codeforces.com/contest/466/problem/C) |
 | 474D | [Flowers](problems/1700/474D-Flowers) | 1700 | `dp` | Yes | [CF](https://codeforces.com/contest/474/problem/D) |
@@ -551,23 +554,23 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 239 |
-| `math` | 200 |
-| `implementation` | 131 |
-| `dp` | 107 |
-| `brute force` | 96 |
+| `greedy` | 240 |
+| `math` | 201 |
+| `implementation` | 132 |
+| `dp` | 108 |
+| `brute force` | 97 |
 | `constructive algorithms` | 94 |
 | `binary search` | 75 |
-| `sortings` | 69 |
-| `data structures` | 67 |
+| `sortings` | 70 |
+| `data structures` | 68 |
 | `number theory` | 63 |
-| `dfs and similar` | 48 |
+| `dfs and similar` | 49 |
 | `two pointers` | 46 |
+| `trees` | 37 |
 | `graphs` | 37 |
 | `combinatorics` | 36 |
-| `trees` | 36 |
+| `bitmasks` | 32 |
 | `strings` | 32 |
-| `bitmasks` | 31 |
 | `games` | 18 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
@@ -593,12 +596,12 @@
 | 0800 | 73 |
 | 1000 | 35 |
 | 1100 | 26 |
-| 1200 | 59 |
+| 1200 | 60 |
 | 1300 | 39 |
 | 1400 | 43 |
-| 1500 | 67 |
+| 1500 | 68 |
 | 1600 | 50 |
-| 1700 | 35 |
+| 1700 | 36 |
 | 1800 | 22 |
 | 1900 | 23 |
 | 2000 | 7 |
