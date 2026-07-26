@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 536
+**Total Problems:** 537
 
-**With Source Code:** 68 / 536
+**With Source Code:** 68 / 537
 
 
 ## Problems
@@ -533,6 +533,7 @@
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2133/problem/D) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | - | [CF](https://codeforces.com/contest/2190/problem/B2) |
+| 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/2228/problem/D) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | - | [CF](https://codeforces.com/contest/1142/problem/B) |
 | 1223D | [Sequence Sorting](problems/2000/1223D-Sequence-Sorting) | 2000 | `dp`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/1223/problem/D) |
@@ -556,13 +557,13 @@
 |-----|-------|
 | `greedy` | 240 |
 | `math` | 201 |
-| `implementation` | 132 |
+| `implementation` | 133 |
 | `dp` | 108 |
 | `brute force` | 97 |
 | `constructive algorithms` | 94 |
-| `binary search` | 75 |
+| `binary search` | 76 |
 | `sortings` | 70 |
-| `data structures` | 68 |
+| `data structures` | 69 |
 | `number theory` | 63 |
 | `dfs and similar` | 49 |
 | `two pointers` | 46 |
@@ -603,7 +604,7 @@
 | 1600 | 50 |
 | 1700 | 36 |
 | 1800 | 22 |
-| 1900 | 23 |
+| 1900 | 24 |
 | 2000 | 7 |
 | 2100 | 3 |
 | 2200 | 1 |
