@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 539
+**Total Problems:** 541
 
-**With Source Code:** 68 / 539
+**With Source Code:** 68 / 541
 
 
 ## Problems
@@ -18,6 +18,7 @@
 | 2245A | [Who Watches the Watchpig?](problems/Unrated/2245A-Who-Watches-the-Watchpig) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/A) |
 | 2246C | [0mar and Alternating Sums](problems/Unrated/2246C-0mar-and-Alternating-Sums) | ? | `combinatorics`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2246/problem/C) |
 | 2246A | [farmpiggie and Subset Sum](problems/Unrated/2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2246/problem/A) |
+| 2250C | [Rank Subsequence](problems/Unrated/2250C-Rank-Subsequence) | ? | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2250/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -147,6 +148,7 @@
 | 1744C | [Traffic Light](problems/1000/1744C-Traffic-Light) | 1000 | `binary search`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/1744/problem/C) |
 | 1765M | [Minimum LCM](problems/1000/1765M-Minimum-LCM) | 1000 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1765/problem/M) |
 | 1791D | [Distinct Split](problems/1000/1791D-Distinct-Split) | 1000 | `brute force`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/1791/problem/D) |
+| 1837C | [Best Binary String](problems/1000/1837C-Best-Binary-String) | 1000 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1837/problem/C) |
 | 1849B | [Monsters](problems/1000/1849B-Monsters) | 1000 | `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/1849/problem/B) |
 | 1859B | [Olya and Game with Arrays](problems/1000/1859B-Olya-and-Game-with-Arrays) | 1000 | `constructive algorithms`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/1859/problem/B) |
 | 1876A | [Helmets in Night Light](problems/1000/1876A-Helmets-in-Night-Light) | 1000 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1876/problem/A) |
@@ -557,12 +559,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 242 |
+| `greedy` | 244 |
 | `math` | 202 |
-| `implementation` | 134 |
+| `implementation` | 135 |
 | `dp` | 108 |
-| `brute force` | 97 |
-| `constructive algorithms` | 96 |
+| `brute force` | 98 |
+| `constructive algorithms` | 97 |
 | `binary search` | 76 |
 | `sortings` | 71 |
 | `data structures` | 70 |
@@ -597,7 +599,7 @@
 | Rating | Count |
 |--------|-------|
 | 0800 | 73 |
-| 1000 | 35 |
+| 1000 | 36 |
 | 1100 | 26 |
 | 1200 | 60 |
 | 1300 | 40 |
@@ -613,4 +615,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 11 |
-| Unrated | 35 |
+| Unrated | 36 |
