@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 537
+**Total Problems:** 539
 
-**With Source Code:** 68 / 537
+**With Source Code:** 68 / 539
 
 
 ## Problems
@@ -266,6 +266,7 @@
 | 1881D | [Divide and Equalize](problems/1300/1881D-Divide-and-Equalize) | 1300 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1881/problem/D) |
 | 1900C | [Anji's Binary Tree](problems/1300/1900C-Anjis-Binary-Tree) | 1300 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1900/problem/C) |
 | 1913C | [Game with Multiset](problems/1300/1913C-Game-with-Multiset) | 1300 | `binary search`, `bitmasks`, `brute force`, `greedy` | - | [CF](https://codeforces.com/contest/1913/problem/C) |
+| 1980C | [Sofia and the Lost Operations](problems/1300/1980C-Sofia-and-the-Lost-Operations) | 1300 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1980/problem/C) |
 | 1999E | [Triple Operations](problems/1300/1999E-Triple-Operations) | 1300 | `dp`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/1999/problem/E) |
 | 2036D | [I Love 1543](problems/1300/2036D-I-Love-1543) | 1300 | `brute force`, `implementation`, `matrices` | - | [CF](https://codeforces.com/contest/2036/problem/D) |
 | 2041A | [The Bento Box Adventure](problems/1300/2041A-The-Bento-Box-Adventure) | 1300 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2041/problem/A) |
@@ -427,6 +428,7 @@
 | 1730B | [Meeting on the Line](problems/1600/1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 1775C | [Interesting Sequence](problems/1600/1775C-Interesting-Sequence) | 1600 | `bitmasks`, `math` | - | [CF](https://codeforces.com/contest/1775/problem/C) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
+| 1980E | [Permutation of Rows and Columns](problems/1600/1980E-Permutation-of-Rows-and-Columns) | 1600 | `constructive algorithms`, `data structures`, `greedy`, `hashing`, `implementation`, `math`, `matrices`, `sortings` | - | [CF](https://codeforces.com/contest/1980/problem/E) |
 | 2036E | [Reverse the Rivers](problems/1600/2036E-Reverse-the-Rivers) | 1600 | `binary search`, `constructive algorithms`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2036/problem/E) |
 | 2040C | [Ordered Permutations](problems/1600/2040C-Ordered-Permutations) | 1600 | `bitmasks`, `combinatorics`, `constructive algorithms`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2040/problem/C) |
 | 2043C | [Sums on Segments](problems/1600/2043C-Sums-on-Segments) | 1600 | `binary search`, `brute force`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2043/problem/C) |
@@ -555,15 +557,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 240 |
-| `math` | 201 |
-| `implementation` | 133 |
+| `greedy` | 242 |
+| `math` | 202 |
+| `implementation` | 134 |
 | `dp` | 108 |
 | `brute force` | 97 |
-| `constructive algorithms` | 94 |
+| `constructive algorithms` | 96 |
 | `binary search` | 76 |
-| `sortings` | 70 |
-| `data structures` | 69 |
+| `sortings` | 71 |
+| `data structures` | 70 |
 | `number theory` | 63 |
 | `dfs and similar` | 49 |
 | `two pointers` | 46 |
@@ -578,11 +580,11 @@
 | `geometry` | 9 |
 | `interactive` | 8 |
 | `divide and conquer` | 7 |
+| `hashing` | 5 |
 | `probabilities` | 5 |
+| `matrices` | 4 |
 | `ternary search` | 4 |
-| `hashing` | 4 |
 | `schedules` | 3 |
-| `matrices` | 3 |
 | `graph matchings` | 2 |
 | `meet-in-the-middle` | 1 |
 | `flows` | 1 |
@@ -598,10 +600,10 @@
 | 1000 | 35 |
 | 1100 | 26 |
 | 1200 | 60 |
-| 1300 | 39 |
+| 1300 | 40 |
 | 1400 | 43 |
 | 1500 | 68 |
-| 1600 | 50 |
+| 1600 | 51 |
 | 1700 | 36 |
 | 1800 | 22 |
 | 1900 | 24 |
