@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 541
+**Total Problems:** 542
 
-**With Source Code:** 68 / 541
+**With Source Code:** 68 / 542
 
 
 ## Problems
@@ -412,6 +412,7 @@
 | 377A | [Maze](problems/1600/377A-Maze) | 1600 | `dfs and similar` | - | [CF](https://codeforces.com/contest/377/problem/A) |
 | 429B | [Working out](problems/1600/429B-Working-out) | 1600 | `dp` | - | [CF](https://codeforces.com/contest/429/problem/B) |
 | 510C | [Fox And Names](problems/1600/510C-Fox-And-Names) | 1600 | `dfs and similar`, `graphs`, `sortings` | - | [CF](https://codeforces.com/contest/510/problem/C) |
+| 704A | [Thor](problems/1600/704A-Thor) | 1600 | `brute force`, `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/704/problem/A) |
 | 706C | [Hard problem](problems/1600/706C-Hard-problem) | 1600 | `dp`, `strings` | - | [CF](https://codeforces.com/contest/706/problem/C) |
 | 763A | [Timofey and a tree](problems/1600/763A-Timofey-and-a-tree) | 1600 | `dfs and similar`, `dp`, `dsu`, `graphs`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/763/problem/A) |
 | 979C | [Kuro and Walking Route](problems/1600/979C-Kuro-and-Walking-Route) | 1600 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/979/problem/C) |
@@ -561,13 +562,13 @@
 |-----|-------|
 | `greedy` | 244 |
 | `math` | 202 |
-| `implementation` | 135 |
+| `implementation` | 136 |
 | `dp` | 108 |
-| `brute force` | 98 |
+| `brute force` | 99 |
 | `constructive algorithms` | 97 |
 | `binary search` | 76 |
+| `data structures` | 71 |
 | `sortings` | 71 |
-| `data structures` | 70 |
 | `number theory` | 63 |
 | `dfs and similar` | 49 |
 | `two pointers` | 46 |
@@ -605,7 +606,7 @@
 | 1300 | 40 |
 | 1400 | 43 |
 | 1500 | 68 |
-| 1600 | 51 |
+| 1600 | 52 |
 | 1700 | 36 |
 | 1800 | 22 |
 | 1900 | 24 |
