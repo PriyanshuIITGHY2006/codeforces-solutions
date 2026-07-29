@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 542
+**Total Problems:** 543
 
-**With Source Code:** 68 / 542
+**With Source Code:** 68 / 543
 
 
 ## Problems
@@ -547,6 +547,7 @@
 | 2171E | [Anisphia Wynn Palettia and Good Permutations](problems/2000/2171E-Anisphia-Wynn-Palettia-and-Good-Permutations) | 2000 | `constructive algorithms`, `greedy`, `number theory` | - | [CF](https://codeforces.com/contest/2171/problem/E) |
 | 2171G | [Sakura Adachi and Optimal Sequences](problems/2000/2171G-Sakura-Adachi-and-Optimal-Sequences) | 2000 | `bitmasks`, `combinatorics`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2171/problem/G) |
 | 2194E | [The Turtle Strikes Back](problems/2000/2194E-The-Turtle-Strikes-Back) | 2000 | `dp`, `graphs`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2194/problem/E) |
+| 2195F | [Parabola Independence](problems/2000/2195F-Parabola-Independence) | 2000 | `dp`, `graphs`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2195/problem/F) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | - | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1486/problem/D) |
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2029/problem/E) |
@@ -560,20 +561,20 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 244 |
-| `math` | 202 |
+| `greedy` | 245 |
+| `math` | 203 |
 | `implementation` | 136 |
-| `dp` | 108 |
+| `dp` | 109 |
 | `brute force` | 99 |
 | `constructive algorithms` | 97 |
 | `binary search` | 76 |
+| `sortings` | 72 |
 | `data structures` | 71 |
-| `sortings` | 71 |
 | `number theory` | 63 |
 | `dfs and similar` | 49 |
 | `two pointers` | 46 |
+| `graphs` | 38 |
 | `trees` | 37 |
-| `graphs` | 37 |
 | `combinatorics` | 36 |
 | `bitmasks` | 32 |
 | `strings` | 32 |
@@ -610,7 +611,7 @@
 | 1700 | 36 |
 | 1800 | 22 |
 | 1900 | 24 |
-| 2000 | 7 |
+| 2000 | 8 |
 | 2100 | 3 |
 | 2200 | 1 |
 | 2300 | 3 |
