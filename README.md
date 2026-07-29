@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 543
+**Total Problems:** 547
 
-**With Source Code:** 68 / 543
+**With Source Code:** 68 / 547
 
 
 ## Problems
@@ -24,6 +24,7 @@
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | Yes | [CF](https://codeforces.com/contest/590997/problem/F) |
 | 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
+| 639709F | [Sweets (medium)](problems/Unrated/639709F-Sweets-medium) | ? |  | - | [CF](https://codeforces.com/contest/639709/problem/F) |
 | 660580A | [OR and Recruitment](problems/Unrated/660580A-OR-and-Recruitment) | ? |  | - | [CF](https://codeforces.com/contest/660580/problem/A) |
 | 662678D | [The Hellfire Club !](problems/Unrated/662678D-The-Hellfire-Club) | ? |  | - | [CF](https://codeforces.com/contest/662678/problem/D) |
 | 662678C | [Suzie, Do You Copy?](problems/Unrated/662678C-Suzie-Do-You-Copy) | ? |  | - | [CF](https://codeforces.com/contest/662678/problem/C) |
@@ -133,6 +134,7 @@
 | 2209B | [Array](problems/900/2209B-Array) | 900 | `greedy` | Yes | [CF](https://codeforces.com/contest/2209/problem/B) |
 | 2233B | [Different Distances](problems/900/2233B-Different-Distances) | 900 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2233/problem/B) |
 | 2238B | [Crimson Triples](problems/900/2238B-Crimson-Triples) | 900 | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2238/problem/B) |
+| 639709E | [Mocha and Red and Blue](problems/900/639709E-Mocha-and-Red-and-Blue) | 900 |  | - | [CF](https://codeforces.com/contest/639709/problem/E) |
 | 43A | [Football](problems/1000/43A-Football) | 1000 | `strings` | - | [CF](https://codeforces.com/contest/43/problem/A) |
 | 58A | [Chat room](problems/1000/58A-Chat-room) | 1000 | `greedy`, `strings` | - | [CF](https://codeforces.com/contest/58/problem/A) |
 | 491A | [Up the hill](problems/1000/491A-Up-the-hill) | 1000 | `constructive algorithms`, `implementation` | - | [CF](https://codeforces.com/contest/491/problem/A) |
@@ -507,6 +509,7 @@
 | 2014E | [Rendez-vous de Marian et Robin](problems/1800/2014E-Rendez-vous-de-Marian-et-Robin) | 1800 | `dfs and similar`, `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/2014/problem/E) |
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | - | [CF](https://codeforces.com/contest/2042/problem/C) |
+| 2043D | [Problem about GCD](problems/1800/2043D-Problem-about-GCD) | 1800 | `brute force`, `flows`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2043/problem/D) |
 | 2106E | [Wolf](problems/1800/2106E-Wolf) | 1800 | `binary search`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2106/problem/E) |
 | 2117F | [Wildflower](problems/1800/2117F-Wildflower) | 1800 | `combinatorics`, `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/2117/problem/F) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
@@ -516,6 +519,7 @@
 | 2192D | [Cost of Tree](problems/1800/2192D-Cost-of-Tree) | 1800 | `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2192/problem/D) |
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
 | 2218G | [The 67th Iteration of "Counting is Fun"](problems/1800/2218G-The-67th-Iteration-of-Counting-is-Fun) | 1800 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/2218/problem/G) |
+| 639709D | [Add Points](problems/1800/639709D-Add-Points) | 1800 |  | - | [CF](https://codeforces.com/contest/639709/problem/D) |
 | 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
 | 366C | [Dima and Salad](problems/1900/366C-Dima-and-Salad) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/366/problem/C) |
@@ -562,15 +566,15 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 245 |
-| `math` | 203 |
+| `math` | 204 |
 | `implementation` | 136 |
 | `dp` | 109 |
-| `brute force` | 99 |
+| `brute force` | 100 |
 | `constructive algorithms` | 97 |
 | `binary search` | 76 |
 | `sortings` | 72 |
 | `data structures` | 71 |
-| `number theory` | 63 |
+| `number theory` | 64 |
 | `dfs and similar` | 49 |
 | `two pointers` | 46 |
 | `graphs` | 38 |
@@ -589,9 +593,9 @@
 | `matrices` | 4 |
 | `ternary search` | 4 |
 | `schedules` | 3 |
+| `flows` | 2 |
 | `graph matchings` | 2 |
 | `meet-in-the-middle` | 1 |
-| `flows` | 1 |
 | `string suffix structures` | 1 |
 | `chinese remainder theorem` | 1 |
 | `expression parsing` | 1 |
@@ -609,12 +613,12 @@
 | 1500 | 68 |
 | 1600 | 52 |
 | 1700 | 36 |
-| 1800 | 22 |
+| 1800 | 24 |
 | 1900 | 24 |
 | 2000 | 8 |
 | 2100 | 3 |
 | 2200 | 1 |
 | 2300 | 3 |
 | 2400 | 1 |
-| 900 | 11 |
-| Unrated | 36 |
+| 900 | 12 |
+| Unrated | 37 |
