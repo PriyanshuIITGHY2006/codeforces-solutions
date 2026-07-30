@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 548
+**Total Problems:** 550
 
-**With Source Code:** 68 / 548
+**With Source Code:** 68 / 550
 
 
 ## Problems
@@ -537,8 +537,10 @@
 | 2022D1 | [Asesino (Easy Version)](problems/1900/2022D1-Asesino-Easy-Version) | 1900 | `binary search`, `brute force`, `constructive algorithms`, `implementation`, `interactive` | - | [CF](https://codeforces.com/contest/2022/problem/D1) |
 | 2044F | [Easy Demon Problem](problems/1900/2044F-Easy-Demon-Problem) | 1900 | `binary search`, `brute force`, `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2044/problem/F) |
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2049/problem/D) |
+| 2050G | [Tree Destruction](problems/1900/2050G-Tree-Destruction) | 1900 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/2050/problem/G) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2066/problem/B) |
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
+| 2093G | [Shorten the Array](problems/1900/2093G-Shorten-the-Array) | 1900 | `binary search`, `bitmasks`, `data structures`, `dfs and similar`, `greedy`, `strings`, `trees`, `two pointers` | - | [CF](https://codeforces.com/contest/2093/problem/G) |
 | 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/2109/problem/D) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | - | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2133/problem/D) |
@@ -566,23 +568,23 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 246 |
+| `greedy` | 247 |
 | `math` | 204 |
 | `implementation` | 136 |
-| `dp` | 109 |
+| `dp` | 110 |
 | `brute force` | 100 |
 | `constructive algorithms` | 98 |
-| `binary search` | 76 |
+| `binary search` | 77 |
+| `data structures` | 72 |
 | `sortings` | 72 |
-| `data structures` | 71 |
 | `number theory` | 64 |
-| `dfs and similar` | 49 |
-| `two pointers` | 46 |
+| `dfs and similar` | 51 |
+| `two pointers` | 47 |
+| `trees` | 39 |
 | `graphs` | 38 |
-| `trees` | 37 |
 | `combinatorics` | 36 |
-| `bitmasks` | 32 |
-| `strings` | 32 |
+| `bitmasks` | 33 |
+| `strings` | 33 |
 | `games` | 18 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
@@ -615,7 +617,7 @@
 | 1600 | 52 |
 | 1700 | 36 |
 | 1800 | 24 |
-| 1900 | 24 |
+| 1900 | 26 |
 | 2000 | 8 |
 | 2100 | 3 |
 | 2200 | 1 |
