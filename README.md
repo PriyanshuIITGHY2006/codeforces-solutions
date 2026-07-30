@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 547
+**Total Problems:** 548
 
-**With Source Code:** 68 / 547
+**With Source Code:** 68 / 548
 
 
 ## Problems
@@ -317,6 +317,7 @@
 | 1350B | [Orac and Models](problems/1400/1350B-Orac-and-Models) | 1400 | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1350/problem/B) |
 | 1837D | [Bracket Coloring](problems/1400/1837D-Bracket-Coloring) | 1400 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1837/problem/D) |
 | 1860C | [Game on Permutation](problems/1400/1860C-Game-on-Permutation) | 1400 | `data structures`, `dp`, `games`, `greedy` | - | [CF](https://codeforces.com/contest/1860/problem/C) |
+| 1923C | [Find B](problems/1400/1923C-Find-B) | 1400 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1923/problem/C) |
 | 1993C | [Light Switches](problems/1400/1993C-Light-Switches) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1993/problem/C) |
 | 2000E | [Photoshoot for Gorillas](problems/1400/2000E-Photoshoot-for-Gorillas) | 1400 | `combinatorics`, `data structures`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2000/problem/E) |
 | 2014D | [Robert Hood and Mrs Hood](problems/1400/2014D-Robert-Hood-and-Mrs-Hood) | 1400 | `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2014/problem/D) |
@@ -565,12 +566,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 245 |
+| `greedy` | 246 |
 | `math` | 204 |
 | `implementation` | 136 |
 | `dp` | 109 |
 | `brute force` | 100 |
-| `constructive algorithms` | 97 |
+| `constructive algorithms` | 98 |
 | `binary search` | 76 |
 | `sortings` | 72 |
 | `data structures` | 71 |
@@ -609,7 +610,7 @@
 | 1100 | 26 |
 | 1200 | 60 |
 | 1300 | 40 |
-| 1400 | 43 |
+| 1400 | 44 |
 | 1500 | 68 |
 | 1600 | 52 |
 | 1700 | 36 |
