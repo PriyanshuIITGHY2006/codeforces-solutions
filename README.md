@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 550
+**Total Problems:** 552
 
-**With Source Code:** 68 / 550
+**With Source Code:** 68 / 552
 
 
 ## Problems
@@ -263,6 +263,7 @@
 | 1152B | [Neko Performs Cat Furrier Transform](problems/1300/1152B-Neko-Performs-Cat-Furrier-Transform) | 1300 | `bitmasks`, `constructive algorithms`, `dfs and similar`, `math` | Yes | [CF](https://codeforces.com/contest/1152/problem/B) |
 | 1225B2 | [TV Subscriptions (Hard Version)](problems/1300/1225B2-TV-Subscriptions-Hard-Version) | 1300 | `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/1225/problem/B2) |
 | 1366B | [Shuffle](problems/1300/1366B-Shuffle) | 1300 | `math`, `two pointers` | - | [CF](https://codeforces.com/contest/1366/problem/B) |
+| 1424G | [Years](problems/1300/1424G-Years) | 1300 | `data structures`, `sortings` | - | [CF](https://codeforces.com/contest/1424/problem/G) |
 | 1661B | [Getting Zero](problems/1300/1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | - | [CF](https://codeforces.com/contest/1661/problem/B) |
 | 1741D | [Masha and a Beautiful Tree](problems/1300/1741D-Masha-and-a-Beautiful-Tree) | 1300 | `dfs and similar`, `divide and conquer`, `graphs`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/1741/problem/D) |
 | 1851D | [Prefix Permutation Sums](problems/1300/1851D-Prefix-Permutation-Sums) | 1300 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1851/problem/D) |
@@ -433,6 +434,7 @@
 | 1633D | [Make Them Equal](problems/1600/1633D-Make-Them-Equal) | 1600 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/1633/problem/D) |
 | 1730B | [Meeting on the Line](problems/1600/1730B-Meeting-on-the-Line) | 1600 | `binary search`, `geometry`, `greedy`, `implementation`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/1730/problem/B) |
 | 1775C | [Interesting Sequence](problems/1600/1775C-Interesting-Sequence) | 1600 | `bitmasks`, `math` | - | [CF](https://codeforces.com/contest/1775/problem/C) |
+| 1787C | [Remove the Bracket](problems/1600/1787C-Remove-the-Bracket) | 1600 | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1787/problem/C) |
 | 1795D | [Triangle Coloring](problems/1600/1795D-Triangle-Coloring) | 1600 | `combinatorics`, `math` | - | [CF](https://codeforces.com/contest/1795/problem/D) |
 | 1980E | [Permutation of Rows and Columns](problems/1600/1980E-Permutation-of-Rows-and-Columns) | 1600 | `constructive algorithms`, `data structures`, `greedy`, `hashing`, `implementation`, `math`, `matrices`, `sortings` | - | [CF](https://codeforces.com/contest/1980/problem/E) |
 | 2036E | [Reverse the Rivers](problems/1600/2036E-Reverse-the-Rivers) | 1600 | `binary search`, `constructive algorithms`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2036/problem/E) |
@@ -568,15 +570,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 247 |
-| `math` | 204 |
+| `greedy` | 248 |
+| `math` | 205 |
 | `implementation` | 136 |
-| `dp` | 110 |
+| `dp` | 111 |
 | `brute force` | 100 |
 | `constructive algorithms` | 98 |
 | `binary search` | 77 |
-| `data structures` | 72 |
-| `sortings` | 72 |
+| `data structures` | 73 |
+| `sortings` | 73 |
 | `number theory` | 64 |
 | `dfs and similar` | 51 |
 | `two pointers` | 47 |
@@ -611,10 +613,10 @@
 | 1000 | 36 |
 | 1100 | 26 |
 | 1200 | 60 |
-| 1300 | 40 |
+| 1300 | 41 |
 | 1400 | 44 |
 | 1500 | 68 |
-| 1600 | 52 |
+| 1600 | 53 |
 | 1700 | 36 |
 | 1800 | 24 |
 | 1900 | 26 |
