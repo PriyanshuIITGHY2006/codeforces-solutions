@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 552
+**Total Problems:** 553
 
-**With Source Code:** 68 / 552
+**With Source Code:** 68 / 553
 
 
 ## Problems
@@ -18,6 +18,7 @@
 | 2245A | [Who Watches the Watchpig?](problems/Unrated/2245A-Who-Watches-the-Watchpig) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/A) |
 | 2246C | [0mar and Alternating Sums](problems/Unrated/2246C-0mar-and-Alternating-Sums) | ? | `combinatorics`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2246/problem/C) |
 | 2246A | [farmpiggie and Subset Sum](problems/Unrated/2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2246/problem/A) |
+| 2248C | [Maximize the Score](problems/Unrated/2248C-Maximize-the-Score) | ? | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2248/problem/C) |
 | 2250C | [Rank Subsequence](problems/Unrated/2250C-Rank-Subsequence) | ? | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2250/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -570,10 +571,10 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 248 |
+| `greedy` | 249 |
 | `math` | 205 |
 | `implementation` | 136 |
-| `dp` | 111 |
+| `dp` | 112 |
 | `brute force` | 100 |
 | `constructive algorithms` | 98 |
 | `binary search` | 77 |
@@ -626,4 +627,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 37 |
+| Unrated | 38 |
