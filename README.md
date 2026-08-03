@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 553
+**Total Problems:** 554
 
-**With Source Code:** 68 / 553
+**With Source Code:** 68 / 554
 
 
 ## Problems
@@ -116,6 +116,7 @@
 | 2242A | [Bigrams](problems/0800/2242A-Bigrams) | 800 | `sortings`, `strings` | - | [CF](https://codeforces.com/contest/2242/problem/A) |
 | 2245A | [Who Watches the Watchpig?](problems/0800/2245A-Who-Watches-the-Watchpig) | 800 | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/A) |
 | 2246A | [farmpiggie and Subset Sum](problems/0800/2246A-farmpiggie-and-Subset-Sum) | 800 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2246/problem/A) |
+| 2250A | [Threshold Movement](problems/0800/2250A-Threshold-Movement) | 800 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2250/problem/A) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
@@ -572,10 +573,10 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 249 |
-| `math` | 205 |
-| `implementation` | 136 |
+| `math` | 206 |
+| `implementation` | 137 |
 | `dp` | 112 |
-| `brute force` | 100 |
+| `brute force` | 101 |
 | `constructive algorithms` | 98 |
 | `binary search` | 77 |
 | `data structures` | 73 |
@@ -610,7 +611,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 75 |
+| 0800 | 76 |
 | 1000 | 36 |
 | 1100 | 27 |
 | 1200 | 60 |
