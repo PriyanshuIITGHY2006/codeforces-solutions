@@ -13,13 +13,6 @@
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2245C | [MEXOR](problems/Unrated/2245C-MEXOR) | ? | `bitmasks`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2245/problem/C) |
-| 2245B | [Delete and Concatenate](problems/Unrated/2245B-Delete-and-Concatenate) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/B) |
-| 2245A | [Who Watches the Watchpig?](problems/Unrated/2245A-Who-Watches-the-Watchpig) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/A) |
-| 2246C | [0mar and Alternating Sums](problems/Unrated/2246C-0mar-and-Alternating-Sums) | ? | `combinatorics`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2246/problem/C) |
-| 2246A | [farmpiggie and Subset Sum](problems/Unrated/2246A-farmpiggie-and-Subset-Sum) | ? | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2246/problem/A) |
-| 2248C | [Maximize the Score](problems/Unrated/2248C-Maximize-the-Score) | ? | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2248/problem/C) |
-| 2250C | [Rank Subsequence](problems/Unrated/2250C-Rank-Subsequence) | ? | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2250/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -121,6 +114,8 @@
 | 2237A | [Destroying Towers](problems/0800/2237A-Destroying-Towers) | 800 | `games`, `greedy`, `schedules` | - | [CF](https://codeforces.com/contest/2237/problem/A) |
 | 2238A | [Another Puzzle from Papyrus](problems/0800/2238A-Another-Puzzle-from-Papyrus) | 800 | `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2238/problem/A) |
 | 2242A | [Bigrams](problems/0800/2242A-Bigrams) | 800 | `sortings`, `strings` | - | [CF](https://codeforces.com/contest/2242/problem/A) |
+| 2245A | [Who Watches the Watchpig?](problems/0800/2245A-Who-Watches-the-Watchpig) | 800 | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/A) |
+| 2246A | [farmpiggie and Subset Sum](problems/0800/2246A-farmpiggie-and-Subset-Sum) | 800 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2246/problem/A) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
@@ -198,6 +193,7 @@
 | 2225C | [Red-Black Pairs](problems/1100/2225C-Red-Black-Pairs) | 1100 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2225/problem/C) |
 | 2231B | [Another Sorting Problem](problems/1100/2231B-Another-Sorting-Problem) | 1100 | `constructive algorithms` | - | [CF](https://codeforces.com/contest/2231/problem/B) |
 | 2241D | [An Alternative Way](problems/1100/2241D-An-Alternative-Way) | 1100 | `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2241/problem/D) |
+| 2245B | [Delete and Concatenate](problems/1100/2245B-Delete-and-Concatenate) | 1100 | `greedy` | - | [CF](https://codeforces.com/contest/2245/problem/B) |
 | 285B | [Find Marble](problems/1200/285B-Find-Marble) | 1200 | `implementation` | - | [CF](https://codeforces.com/contest/285/problem/B) |
 | 433B | [Kuriyama Mirai's Stones](problems/1200/433B-Kuriyama-Mirais-Stones) | 1200 | `dp`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/433/problem/B) |
 | 514A | [Chewbaсca and Number](problems/1200/514A-Chewbaсca-and-Number) | 1200 | `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/514/problem/A) |
@@ -299,6 +295,8 @@
 | 2230C | [Arrange the Numbers in a Circle](problems/1300/2230C-Arrange-the-Numbers-in-a-Circle) | 1300 | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2230/problem/C) |
 | 2236D | [Brand New Tatar TV Show](problems/1300/2236D-Brand-New-Tatar-TV-Show) | 1300 | `binary search`, `constructive algorithms`, `dp`, `games`, `math` | - | [CF](https://codeforces.com/contest/2236/problem/D) |
 | 2242C | [Unstable Elements](problems/1300/2242C-Unstable-Elements) | 1300 | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2242/problem/C) |
+| 2248C | [Maximize the Score](problems/1300/2248C-Maximize-the-Score) | 1300 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2248/problem/C) |
+| 2250C | [Rank Subsequence](problems/1300/2250C-Rank-Subsequence) | 1300 | `brute force`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2250/problem/C) |
 | 279B | [Books](problems/1400/279B-Books) | 1400 | `binary search`, `brute force`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/279/problem/B) |
 | 295A | [Greg and Array](problems/1400/295A-Greg-and-Array) | 1400 | `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/295/problem/A) |
 | 369B | [Valera and Contest](problems/1400/369B-Valera-and-Contest) | 1400 | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/369/problem/B) |
@@ -340,6 +338,8 @@
 | 2231C | [Chipmunk Theo and Equality](problems/1400/2231C-Chipmunk-Theo-and-Equality) | 1400 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2231/problem/C) |
 | 2233C | [Cost of a Bracket Sequence](problems/1400/2233C-Cost-of-a-Bracket-Sequence) | 1400 | `brute force`, `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2233/problem/C) |
 | 2238C | [Village Guilds](problems/1400/2238C-Village-Guilds) | 1400 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/2238/problem/C) |
+| 2245C | [MEXOR](problems/1400/2245C-MEXOR) | 1400 | `bitmasks`, `constructive algorithms`, `math` | - | [CF](https://codeforces.com/contest/2245/problem/C) |
+| 2246C | [0mar and Alternating Sums](problems/1400/2246C-0mar-and-Alternating-Sums) | 1400 | `combinatorics`, `dp`, `math` | - | [CF](https://codeforces.com/contest/2246/problem/C) |
 | 660580E | [Bitwise and Recruitment](problems/1400/660580E-Bitwise-and-Recruitment) | 1400 |  | - | [CF](https://codeforces.com/contest/660580/problem/E) |
 | 660580D | [LCM and Recruitment](problems/1400/660580D-LCM-and-Recruitment) | 1400 |  | - | [CF](https://codeforces.com/contest/660580/problem/D) |
 | 660722F | [PRIDE !](problems/1400/660722F-PRIDE) | 1400 |  | - | [CF](https://codeforces.com/contest/660722/problem/F) |
@@ -610,12 +610,12 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 73 |
+| 0800 | 75 |
 | 1000 | 36 |
-| 1100 | 26 |
+| 1100 | 27 |
 | 1200 | 60 |
-| 1300 | 41 |
-| 1400 | 44 |
+| 1300 | 43 |
+| 1400 | 46 |
 | 1500 | 68 |
 | 1600 | 53 |
 | 1700 | 36 |
@@ -627,4 +627,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 38 |
+| Unrated | 31 |
