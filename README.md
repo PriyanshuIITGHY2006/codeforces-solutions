@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 555
+**Total Problems:** 557
 
-**With Source Code:** 68 / 555
+**With Source Code:** 68 / 557
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2254E | [Chronostasis](problems/Unrated/2254E-Chronostasis) | ? | `binary search`, `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2254/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -533,6 +534,7 @@
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | - | [CF](https://codeforces.com/contest/1245/problem/D) |
 | 1702G1 | [Passable Paths (easy version)](problems/1900/1702G1-Passable-Paths-easy-version) | 1900 | `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/1702/problem/G1) |
+| 1759G | [Restore the Permutation](problems/1900/1759G-Restore-the-Permutation) | 1900 | `binary search`, `constructive algorithms`, `data structures`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1759/problem/G) |
 | 1777D | [Score of a Tree](problems/1900/1777D-Score-of-a-Tree) | 1900 | `bitmasks`, `combinatorics`, `dfs and similar`, `dp`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/1777/problem/D) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1800F | [Dasha and Nightmares](problems/1900/1800F-Dasha-and-Nightmares) | 1900 | `bitmasks`, `hashing`, `meet-in-the-middle`, `strings` | - | [CF](https://codeforces.com/contest/1800/problem/F) |
@@ -573,14 +575,14 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 249 |
-| `math` | 206 |
+| `greedy` | 251 |
+| `math` | 207 |
 | `implementation` | 138 |
 | `dp` | 112 |
 | `brute force` | 101 |
-| `constructive algorithms` | 98 |
-| `binary search` | 77 |
-| `data structures` | 73 |
+| `constructive algorithms` | 99 |
+| `binary search` | 79 |
+| `data structures` | 75 |
 | `sortings` | 73 |
 | `number theory` | 64 |
 | `dfs and similar` | 52 |
@@ -622,11 +624,11 @@
 | 1600 | 53 |
 | 1700 | 36 |
 | 1800 | 24 |
-| 1900 | 26 |
+| 1900 | 27 |
 | 2000 | 8 |
 | 2100 | 4 |
 | 2200 | 1 |
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 31 |
+| Unrated | 32 |
