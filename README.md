@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 554
+**Total Problems:** 555
 
-**With Source Code:** 68 / 554
+**With Source Code:** 68 / 555
 
 
 ## Problems
@@ -561,6 +561,7 @@
 | 2195F | [Parabola Independence](problems/2000/2195F-Parabola-Independence) | 2000 | `dp`, `graphs`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2195/problem/F) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | - | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | - | [CF](https://codeforces.com/contest/1486/problem/D) |
+| 1811F | [Is It Flower?](problems/2100/1811F-Is-It-Flower) | 2100 | `dfs and similar`, `graphs`, `implementation` | - | [CF](https://codeforces.com/contest/1811/problem/F) |
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2029/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/2028/problem/E) |
@@ -574,7 +575,7 @@
 |-----|-------|
 | `greedy` | 249 |
 | `math` | 206 |
-| `implementation` | 137 |
+| `implementation` | 138 |
 | `dp` | 112 |
 | `brute force` | 101 |
 | `constructive algorithms` | 98 |
@@ -582,10 +583,10 @@
 | `data structures` | 73 |
 | `sortings` | 73 |
 | `number theory` | 64 |
-| `dfs and similar` | 51 |
+| `dfs and similar` | 52 |
 | `two pointers` | 47 |
+| `graphs` | 39 |
 | `trees` | 39 |
-| `graphs` | 38 |
 | `combinatorics` | 36 |
 | `bitmasks` | 33 |
 | `strings` | 33 |
@@ -623,7 +624,7 @@
 | 1800 | 24 |
 | 1900 | 26 |
 | 2000 | 8 |
-| 2100 | 3 |
+| 2100 | 4 |
 | 2200 | 1 |
 | 2300 | 3 |
 | 2400 | 1 |
