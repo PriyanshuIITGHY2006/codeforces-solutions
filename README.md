@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 557
+**Total Problems:** 558
 
-**With Source Code:** 330 / 557
+**With Source Code:** 330 / 558
 
 
 ## Problems
@@ -317,6 +317,7 @@
 | 1285C | [Fadi and LCM](problems/1400/1285C-Fadi-and-LCM) | 1400 | `brute force`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1285/problem/C) |
 | 1330B | [Dreamoon Likes Permutations](problems/1400/1330B-Dreamoon-Likes-Permutations) | 1400 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1330/problem/B) |
 | 1350B | [Orac and Models](problems/1400/1350B-Orac-and-Models) | 1400 | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1350/problem/B) |
+| 1393B | [Applejack and Storages](problems/1400/1393B-Applejack-and-Storages) | 1400 | `constructive algorithms`, `data structures`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/1393/problem/B) |
 | 1837D | [Bracket Coloring](problems/1400/1837D-Bracket-Coloring) | 1400 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/1837/problem/D) |
 | 1860C | [Game on Permutation](problems/1400/1860C-Game-on-Permutation) | 1400 | `data structures`, `dp`, `games`, `greedy` | Yes | [CF](https://codeforces.com/contest/1860/problem/C) |
 | 1923C | [Find B](problems/1400/1923C-Find-B) | 1400 | `constructive algorithms`, `greedy` | Yes | [CF](https://codeforces.com/contest/1923/problem/C) |
@@ -575,14 +576,14 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 251 |
+| `greedy` | 252 |
 | `math` | 207 |
-| `implementation` | 138 |
+| `implementation` | 139 |
 | `dp` | 112 |
 | `brute force` | 101 |
-| `constructive algorithms` | 99 |
+| `constructive algorithms` | 100 |
 | `binary search` | 79 |
-| `data structures` | 75 |
+| `data structures` | 76 |
 | `sortings` | 73 |
 | `number theory` | 64 |
 | `dfs and similar` | 52 |
@@ -619,7 +620,7 @@
 | 1100 | 27 |
 | 1200 | 60 |
 | 1300 | 43 |
-| 1400 | 46 |
+| 1400 | 47 |
 | 1500 | 68 |
 | 1600 | 53 |
 | 1700 | 36 |
