@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `greedy`, `math`, `strings`
+**Tags:** `dp`, `greedy`, `math`, `strings`
 
 **Language:** C++23 (GCC 14-64, msys2)
 

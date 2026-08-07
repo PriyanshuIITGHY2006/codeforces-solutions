@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 564
+**Total Problems:** 565
 
-**With Source Code:** 331 / 564
+**With Source Code:** 331 / 565
 
 
 ## Problems
@@ -15,7 +15,7 @@
 |---|---------|--------|------|------|------|
 | 2252D | [Array Replacement](problems/Unrated/2252D-Array-Replacement) | ? | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2252/problem/D) |
 | 2252C | [Risky Tower](problems/Unrated/2252C-Risky-Tower) | ? | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2252/problem/C) |
-| 2252B | [Always Changing](problems/Unrated/2252B-Always-Changing) | ? | `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2252/problem/B) |
+| 2252B | [Always Changing](problems/Unrated/2252B-Always-Changing) | ? | `dp`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2252/problem/B) |
 | 2252A | [Boss Fight](problems/Unrated/2252A-Boss-Fight) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 2254E | [Chronostasis](problems/Unrated/2254E-Chronostasis) | ? | `binary search`, `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2254/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
@@ -525,6 +525,7 @@
 | 2117F | [Wildflower](problems/1800/2117F-Wildflower) | 1800 | `combinatorics`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/2117/problem/F) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
 | 2127D | [Root was Built by Love, Broken by Destiny](problems/1800/2127D-Root-was-Built-by-Love-Broken-by-Destiny) | 1800 | `combinatorics`, `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2127/problem/D) |
+| 2164D | [Copy String](problems/1800/2164D-Copy-String) | 1800 | `greedy`, `implementation`, `strings`, `two pointers` | - | [CF](https://codeforces.com/contest/2164/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
 | 2192D | [Cost of Tree](problems/1800/2192D-Cost-of-Tree) | 1800 | `dp`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2192/problem/D) |
@@ -582,10 +583,10 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 256 |
+| `greedy` | 257 |
 | `math` | 209 |
-| `implementation` | 139 |
-| `dp` | 114 |
+| `implementation` | 140 |
+| `dp` | 115 |
 | `brute force` | 102 |
 | `constructive algorithms` | 100 |
 | `binary search` | 80 |
@@ -593,11 +594,11 @@
 | `sortings` | 76 |
 | `number theory` | 64 |
 | `dfs and similar` | 52 |
-| `two pointers` | 47 |
+| `two pointers` | 48 |
 | `graphs` | 39 |
 | `trees` | 39 |
 | `combinatorics` | 36 |
-| `strings` | 34 |
+| `strings` | 35 |
 | `bitmasks` | 33 |
 | `games` | 18 |
 | `dsu` | 13 |
@@ -630,7 +631,7 @@
 | 1500 | 68 |
 | 1600 | 53 |
 | 1700 | 36 |
-| 1800 | 24 |
+| 1800 | 25 |
 | 1900 | 28 |
 | 2000 | 8 |
 | 2100 | 5 |
