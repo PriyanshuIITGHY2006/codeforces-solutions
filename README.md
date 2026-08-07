@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 565
+**Total Problems:** 567
 
-**With Source Code:** 331 / 565
+**With Source Code:** 331 / 567
 
 
 ## Problems
@@ -16,7 +16,8 @@
 | 2252D | [Array Replacement](problems/Unrated/2252D-Array-Replacement) | ? | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2252/problem/D) |
 | 2252C | [Risky Tower](problems/Unrated/2252C-Risky-Tower) | ? | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2252/problem/C) |
 | 2252B | [Always Changing](problems/Unrated/2252B-Always-Changing) | ? | `dp`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2252/problem/B) |
-| 2252A | [Boss Fight](problems/Unrated/2252A-Boss-Fight) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2252/problem/A) |
+| 2252A | [Boss Fight](problems/Unrated/2252A-Boss-Fight) | ? | `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2252/problem/A) |
+| 2253A | [The Best Card](problems/Unrated/2253A-The-Best-Card) | ? |  | - | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254E | [Chronostasis](problems/Unrated/2254E-Chronostasis) | ? | `binary search`, `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2254/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -392,6 +393,7 @@
 | 1881E | [Block Sequence](problems/1500/1881E-Block-Sequence) | 1500 | `dp` | Yes | [CF](https://codeforces.com/contest/1881/problem/E) |
 | 1915F | [Greetings](problems/1500/1915F-Greetings) | 1500 | `data structures`, `divide and conquer`, `sortings` | Yes | [CF](https://codeforces.com/contest/1915/problem/F) |
 | 1933E | [Turtle vs. Rabbit Race: Optimal Trainings](problems/1500/1933E-Turtle-vs.-Rabbit-Race-Optimal-Trainings) | 1500 | `binary search`, `implementation`, `math`, `ternary search` | Yes | [CF](https://codeforces.com/contest/1933/problem/E) |
+| 1950E | [Nearly Shortest Repeating Substring](problems/1500/1950E-Nearly-Shortest-Repeating-Substring) | 1500 | `brute force`, `implementation`, `number theory`, `strings` | - | [CF](https://codeforces.com/contest/1950/problem/E) |
 | 1999F | [Expected Median](problems/1500/1999F-Expected-Median) | 1500 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/1999/problem/F) |
 | 2007C | [Dora and C++](problems/1500/2007C-Dora-and-C) | 1500 | `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2007/problem/C) |
 | 2027C | [Add Zeros](problems/1500/2027C-Add-Zeros) | 1500 | `brute force`, `data structures`, `dfs and similar`, `dp`, `graphs`, `greedy` | Yes | [CF](https://codeforces.com/contest/2027/problem/C) |
@@ -585,20 +587,20 @@
 |-----|-------|
 | `greedy` | 257 |
 | `math` | 209 |
-| `implementation` | 140 |
+| `implementation` | 141 |
 | `dp` | 115 |
-| `brute force` | 102 |
+| `brute force` | 103 |
 | `constructive algorithms` | 100 |
+| `data structures` | 80 |
 | `binary search` | 80 |
-| `data structures` | 79 |
 | `sortings` | 76 |
-| `number theory` | 64 |
+| `number theory` | 65 |
 | `dfs and similar` | 52 |
 | `two pointers` | 48 |
 | `graphs` | 39 |
 | `trees` | 39 |
+| `strings` | 36 |
 | `combinatorics` | 36 |
-| `strings` | 35 |
 | `bitmasks` | 33 |
 | `games` | 18 |
 | `dsu` | 13 |
@@ -628,7 +630,7 @@
 | 1200 | 60 |
 | 1300 | 43 |
 | 1400 | 47 |
-| 1500 | 68 |
+| 1500 | 69 |
 | 1600 | 53 |
 | 1700 | 36 |
 | 1800 | 25 |
@@ -639,4 +641,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 36 |
+| Unrated | 37 |
