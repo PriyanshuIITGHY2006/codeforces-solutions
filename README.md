@@ -18,9 +18,9 @@
 | 2252B | [Always Changing](problems/Unrated/2252B-Always-Changing) | ? | `dp`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2252/problem/B) |
 | 2252A | [Boss Fight](problems/Unrated/2252A-Boss-Fight) | ? | `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 2253D | [Hypercarp and Interdimensional Jumps](problems/Unrated/2253D-Hypercarp-and-Interdimensional-Jumps) | ? | `binary search`, `brute force`, `geometry`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2253/problem/D) |
-| 2253C | [Sum of Distinct Values in a Matrix](problems/Unrated/2253C-Sum-of-Distinct-Values-in-a-Matrix) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2253/problem/C) |
+| 2253C | [Sum of Distinct Values in a Matrix](problems/Unrated/2253C-Sum-of-Distinct-Values-in-a-Matrix) | ? | `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2253/problem/C) |
 | 2253B | [Hypercarp and the Control Panel](problems/Unrated/2253B-Hypercarp-and-the-Control-Panel) | ? | `brute force`, `data structures`, `two pointers` | - | [CF](https://codeforces.com/contest/2253/problem/B) |
-| 2253A | [The Best Card](problems/Unrated/2253A-The-Best-Card) | ? | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2253/problem/A) |
+| 2253A | [The Best Card](problems/Unrated/2253A-The-Best-Card) | ? | `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254E | [Chronostasis](problems/Unrated/2254E-Chronostasis) | ? | `binary search`, `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2254/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -588,7 +588,7 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 259 |
+| `greedy` | 260 |
 | `math` | 211 |
 | `implementation` | 142 |
 | `dp` | 115 |
@@ -596,10 +596,10 @@
 | `constructive algorithms` | 100 |
 | `binary search` | 81 |
 | `data structures` | 81 |
-| `sortings` | 76 |
+| `sortings` | 77 |
 | `number theory` | 66 |
 | `dfs and similar` | 52 |
-| `two pointers` | 49 |
+| `two pointers` | 50 |
 | `graphs` | 39 |
 | `trees` | 39 |
 | `strings` | 36 |

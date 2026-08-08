@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `greedy`
+**Tags:** `greedy`, `sortings`, `two pointers`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
