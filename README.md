@@ -17,7 +17,7 @@
 | 2252C | [Risky Tower](problems/Unrated/2252C-Risky-Tower) | ? | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2252/problem/C) |
 | 2252B | [Always Changing](problems/Unrated/2252B-Always-Changing) | ? | `dp`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2252/problem/B) |
 | 2252A | [Boss Fight](problems/Unrated/2252A-Boss-Fight) | ? | `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2252/problem/A) |
-| 2253D | [Hypercarp and Interdimensional Jumps](problems/Unrated/2253D-Hypercarp-and-Interdimensional-Jumps) | ? | `binary search`, `geometry`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2253/problem/D) |
+| 2253D | [Hypercarp and Interdimensional Jumps](problems/Unrated/2253D-Hypercarp-and-Interdimensional-Jumps) | ? | `binary search`, `brute force`, `geometry`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2253/problem/D) |
 | 2253C | [Sum of Distinct Values in a Matrix](problems/Unrated/2253C-Sum-of-Distinct-Values-in-a-Matrix) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2253/problem/C) |
 | 2253B | [Hypercarp and the Control Panel](problems/Unrated/2253B-Hypercarp-and-the-Control-Panel) | ? | `brute force`, `data structures`, `two pointers` | - | [CF](https://codeforces.com/contest/2253/problem/B) |
 | 2253A | [The Best Card](problems/Unrated/2253A-The-Best-Card) | ? | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2253/problem/A) |
@@ -590,9 +590,9 @@
 |-----|-------|
 | `greedy` | 259 |
 | `math` | 211 |
-| `implementation` | 141 |
+| `implementation` | 142 |
 | `dp` | 115 |
-| `brute force` | 104 |
+| `brute force` | 105 |
 | `constructive algorithms` | 100 |
 | `binary search` | 81 |
 | `data structures` | 81 |

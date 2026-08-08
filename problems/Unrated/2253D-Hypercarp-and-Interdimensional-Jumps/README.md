@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `binary search`, `geometry`, `greedy`, `math`
+**Tags:** `binary search`, `brute force`, `geometry`, `greedy`, `implementation`, `math`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
