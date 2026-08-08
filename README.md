@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 570
+**Total Problems:** 573
 
-**With Source Code:** 331 / 570
+**With Source Code:** 331 / 573
 
 
 ## Problems
@@ -129,6 +129,7 @@
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
+| 709390A | [Red-Blue Shuffle](problems/0800/709390A-Red-Blue-Shuffle) | 800 |  | - | [CF](https://codeforces.com/contest/709390/problem/A) |
 | 26A | [Almost Prime](problems/900/26A-Almost-Prime) | 900 | `number theory` | - | [CF](https://codeforces.com/contest/26/problem/A) |
 | 337A | [Puzzles](problems/900/337A-Puzzles) | 900 | `greedy` | Yes | [CF](https://codeforces.com/contest/337/problem/A) |
 | 1855B | [Longest Divisors Interval](problems/900/1855B-Longest-Divisors-Interval) | 900 | `brute force`, `combinatorics`, `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1855/problem/B) |
@@ -512,6 +513,7 @@
 | 2227F | [It Just Keeps Going Sideways](problems/1700/2227F-It-Just-Keeps-Going-Sideways) | 1700 | `binary search`, `data structures`, `dp`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2227/problem/F) |
 | 2236E | [Friendly Gifts](problems/1700/2236E-Friendly-Gifts) | 1700 | `brute force`, `dp` | Yes | [CF](https://codeforces.com/contest/2236/problem/E) |
 | 2236F1 | [Elections in Saransk (easy version)](problems/1700/2236F1-Elections-in-Saransk-easy-version) | 1700 | `number theory` | Yes | [CF](https://codeforces.com/contest/2236/problem/F1) |
+| 709390B | [Wet Shark and Flowers](problems/1700/709390B-Wet-Shark-and-Flowers) | 1700 |  | - | [CF](https://codeforces.com/contest/709390/problem/B) |
 | 161D | [Distance in Tree](problems/1800/161D-Distance-in-Tree) | 1800 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/161/problem/D) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | Yes | [CF](https://codeforces.com/contest/300/problem/C) |
 | 706D | [Vasiliy's Multiset](problems/1800/706D-Vasiliys-Multiset) | 1800 | `binary search`, `bitmasks`, `data structures`, `trees` | Yes | [CF](https://codeforces.com/contest/706/problem/D) |
@@ -573,6 +575,7 @@
 | 2171G | [Sakura Adachi and Optimal Sequences](problems/2000/2171G-Sakura-Adachi-and-Optimal-Sequences) | 2000 | `bitmasks`, `combinatorics`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2171/problem/G) |
 | 2194E | [The Turtle Strikes Back](problems/2000/2194E-The-Turtle-Strikes-Back) | 2000 | `dp`, `graphs`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2194/problem/E) |
 | 2195F | [Parabola Independence](problems/2000/2195F-Parabola-Independence) | 2000 | `dp`, `graphs`, `greedy`, `math`, `sortings` | Yes | [CF](https://codeforces.com/contest/2195/problem/F) |
+| 709390C | [Little Elephant and Furik and Rubik](problems/2000/709390C-Little-Elephant-and-Furik-and-Rubik) | 2000 |  | - | [CF](https://codeforces.com/contest/709390/problem/C) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | Yes | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1265E | [Beautiful Mirrors](problems/2100/1265E-Beautiful-Mirrors) | 2100 | `data structures`, `dp`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1265/problem/E) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/1486/problem/D) |
@@ -627,7 +630,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 76 |
+| 0800 | 77 |
 | 1000 | 36 |
 | 1100 | 27 |
 | 1200 | 60 |
@@ -635,10 +638,10 @@
 | 1400 | 47 |
 | 1500 | 69 |
 | 1600 | 53 |
-| 1700 | 36 |
+| 1700 | 37 |
 | 1800 | 25 |
 | 1900 | 28 |
-| 2000 | 8 |
+| 2000 | 9 |
 | 2100 | 5 |
 | 2200 | 1 |
 | 2300 | 3 |
