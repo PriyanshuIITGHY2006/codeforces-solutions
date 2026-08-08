@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 567
+**Total Problems:** 570
 
-**With Source Code:** 331 / 567
+**With Source Code:** 331 / 570
 
 
 ## Problems
@@ -17,7 +17,10 @@
 | 2252C | [Risky Tower](problems/Unrated/2252C-Risky-Tower) | ? | `binary search`, `brute force`, `data structures`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2252/problem/C) |
 | 2252B | [Always Changing](problems/Unrated/2252B-Always-Changing) | ? | `dp`, `greedy`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2252/problem/B) |
 | 2252A | [Boss Fight](problems/Unrated/2252A-Boss-Fight) | ? | `data structures`, `greedy` | - | [CF](https://codeforces.com/contest/2252/problem/A) |
-| 2253A | [The Best Card](problems/Unrated/2253A-The-Best-Card) | ? |  | - | [CF](https://codeforces.com/contest/2253/problem/A) |
+| 2253D | [Hypercarp and Interdimensional Jumps](problems/Unrated/2253D-Hypercarp-and-Interdimensional-Jumps) | ? | `binary search`, `geometry`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2253/problem/D) |
+| 2253C | [Sum of Distinct Values in a Matrix](problems/Unrated/2253C-Sum-of-Distinct-Values-in-a-Matrix) | ? | `greedy` | - | [CF](https://codeforces.com/contest/2253/problem/C) |
+| 2253B | [Hypercarp and the Control Panel](problems/Unrated/2253B-Hypercarp-and-the-Control-Panel) | ? | `brute force`, `data structures`, `two pointers` | - | [CF](https://codeforces.com/contest/2253/problem/B) |
+| 2253A | [The Best Card](problems/Unrated/2253A-The-Best-Card) | ? | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254E | [Chronostasis](problems/Unrated/2254E-Chronostasis) | ? | `binary search`, `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2254/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -585,18 +588,18 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 257 |
-| `math` | 209 |
+| `greedy` | 259 |
+| `math` | 211 |
 | `implementation` | 141 |
 | `dp` | 115 |
-| `brute force` | 103 |
+| `brute force` | 104 |
 | `constructive algorithms` | 100 |
-| `data structures` | 80 |
-| `binary search` | 80 |
+| `binary search` | 81 |
+| `data structures` | 81 |
 | `sortings` | 76 |
-| `number theory` | 65 |
+| `number theory` | 66 |
 | `dfs and similar` | 52 |
-| `two pointers` | 48 |
+| `two pointers` | 49 |
 | `graphs` | 39 |
 | `trees` | 39 |
 | `strings` | 36 |
@@ -605,7 +608,7 @@
 | `games` | 18 |
 | `dsu` | 13 |
 | `shortest paths` | 11 |
-| `geometry` | 9 |
+| `geometry` | 10 |
 | `interactive` | 8 |
 | `divide and conquer` | 7 |
 | `probabilities` | 6 |
@@ -641,4 +644,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 37 |
+| Unrated | 40 |
