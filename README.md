@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 573
+**Total Problems:** 576
 
-**With Source Code:** 346 / 573
+**With Source Code:** 346 / 576
 
 
 ## Problems
@@ -25,6 +25,9 @@
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
+| 106179C | [XOR LCM](problems/Unrated/106179C-XOR-LCM) | ? |  | - | [CF](https://codeforces.com/contest/106179/problem/C) |
+| 106179B | [Pseudo Palindrome](problems/Unrated/106179B-Pseudo-Palindrome) | ? |  | - | [CF](https://codeforces.com/contest/106179/problem/B) |
+| 106179A | [How many?](problems/Unrated/106179A-How-many) | ? |  | - | [CF](https://codeforces.com/contest/106179/problem/A) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | Yes | [CF](https://codeforces.com/contest/590997/problem/F) |
 | 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
 | 639709F | [Sweets (medium)](problems/Unrated/639709F-Sweets-medium) | ? |  | Yes | [CF](https://codeforces.com/contest/639709/problem/F) |
@@ -647,4 +650,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 40 |
+| Unrated | 43 |
