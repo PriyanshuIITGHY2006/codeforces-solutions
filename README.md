@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 577
+**Total Problems:** 578
 
-**With Source Code:** 346 / 577
+**With Source Code:** 346 / 578
 
 
 ## Problems
@@ -467,6 +467,7 @@
 | 2130D | [Stay or Mirror](problems/1600/2130D-Stay-or-Mirror) | 1600 | `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2130/problem/D) |
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
 | 2157D | [Billion Players Game](problems/1600/2157D-Billion-Players-Game) | 1600 | `binary search`, `greedy`, `math`, `sortings`, `ternary search`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2157/problem/D) |
+| 2167E | [khba Loves to Sleep!](problems/1600/2167E-khba-Loves-to-Sleep) | 1600 | `binary search`, `data structures`, `geometry`, `greedy`, `implementation` | - | [CF](https://codeforces.com/contest/2167/problem/E) |
 | 2167G | [Mukhammadali and the Smooth Array](problems/1600/2167G-Mukhammadali-and-the-Smooth-Array) | 1600 | `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/2167/problem/G) |
 | 2171F | [Rae Taylor and Trees (hard version)](problems/1600/2171F-Rae-Taylor-and-Trees-hard-version) | 1600 | `binary search`, `constructive algorithms`, `data structures`, `dp`, `dsu`, `greedy`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/2171/problem/F) |
 | 2172F | [Cluster Computing System](problems/1600/2172F-Cluster-Computing-System) | 1600 | `graphs`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2172/problem/F) |
@@ -595,14 +596,14 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 260 |
+| `greedy` | 261 |
 | `math` | 211 |
-| `implementation` | 142 |
+| `implementation` | 143 |
 | `dp` | 115 |
 | `brute force` | 105 |
 | `constructive algorithms` | 100 |
-| `binary search` | 81 |
-| `data structures` | 81 |
+| `binary search` | 82 |
+| `data structures` | 82 |
 | `sortings` | 77 |
 | `number theory` | 66 |
 | `dfs and similar` | 52 |
@@ -614,8 +615,8 @@
 | `bitmasks` | 33 |
 | `games` | 18 |
 | `dsu` | 13 |
+| `geometry` | 11 |
 | `shortest paths` | 11 |
-| `geometry` | 10 |
 | `interactive` | 8 |
 | `divide and conquer` | 7 |
 | `probabilities` | 6 |
@@ -641,7 +642,7 @@
 | 1300 | 43 |
 | 1400 | 47 |
 | 1500 | 69 |
-| 1600 | 53 |
+| 1600 | 54 |
 | 1700 | 37 |
 | 1800 | 25 |
 | 1900 | 28 |
