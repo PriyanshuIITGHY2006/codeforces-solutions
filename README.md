@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 576
+**Total Problems:** 577
 
-**With Source Code:** 346 / 576
+**With Source Code:** 346 / 577
 
 
 ## Problems
@@ -25,6 +25,7 @@
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
+| 106179D | [Make Empty](problems/Unrated/106179D-Make-Empty) | ? |  | - | [CF](https://codeforces.com/contest/106179/problem/D) |
 | 106179C | [XOR LCM](problems/Unrated/106179C-XOR-LCM) | ? |  | - | [CF](https://codeforces.com/contest/106179/problem/C) |
 | 106179B | [Pseudo Palindrome](problems/Unrated/106179B-Pseudo-Palindrome) | ? |  | - | [CF](https://codeforces.com/contest/106179/problem/B) |
 | 106179A | [How many?](problems/Unrated/106179A-How-many) | ? |  | - | [CF](https://codeforces.com/contest/106179/problem/A) |
@@ -650,4 +651,4 @@
 | 2300 | 3 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 43 |
+| Unrated | 44 |
