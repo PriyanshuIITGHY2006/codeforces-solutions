@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 578
+**Total Problems:** 579
 
-**With Source Code:** 346 / 578
+**With Source Code:** 346 / 579
 
 
 ## Problems
@@ -506,6 +506,7 @@
 | 2045A | [Scrambled Scrabble](problems/1700/2045A-Scrambled-Scrabble) | 1700 | `brute force`, `greedy` | Yes | [CF](https://codeforces.com/contest/2045/problem/A) |
 | 2065G | [Skibidus and Capping](problems/1700/2065G-Skibidus-and-Capping) | 1700 | `combinatorics`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2065/problem/G) |
 | 2071C | [Trapmigiano Reggiano](problems/1700/2071C-Trapmigiano-Reggiano) | 1700 | `constructive algorithms`, `data structures`, `dfs and similar`, `dp`, `greedy`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/2071/problem/C) |
+| 2089A | [Simple Permutation](problems/1700/2089A-Simple-Permutation) | 1700 | `constructive algorithms`, `number theory` | - | [CF](https://codeforces.com/contest/2089/problem/A) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
 | 2123F | [Minimize Fixed Points](problems/1700/2123F-Minimize-Fixed-Points) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2123/problem/F) |
 | 2132E | [Arithmetics Competition](problems/1700/2132E-Arithmetics-Competition) | 1700 | `binary search`, `data structures`, `greedy`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2132/problem/E) |
@@ -601,11 +602,11 @@
 | `implementation` | 143 |
 | `dp` | 115 |
 | `brute force` | 105 |
-| `constructive algorithms` | 100 |
+| `constructive algorithms` | 101 |
 | `binary search` | 82 |
 | `data structures` | 82 |
 | `sortings` | 77 |
-| `number theory` | 66 |
+| `number theory` | 67 |
 | `dfs and similar` | 52 |
 | `two pointers` | 50 |
 | `graphs` | 39 |
@@ -643,7 +644,7 @@
 | 1400 | 47 |
 | 1500 | 69 |
 | 1600 | 54 |
-| 1700 | 37 |
+| 1700 | 38 |
 | 1800 | 25 |
 | 1900 | 28 |
 | 2000 | 9 |
