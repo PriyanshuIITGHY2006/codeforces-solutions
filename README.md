@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 583
+**Total Problems:** 584
 
-**With Source Code:** 346 / 583
+**With Source Code:** 346 / 584
 
 
 ## Problems
@@ -552,6 +552,7 @@
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
 | 366C | [Dima and Salad](problems/1900/366C-Dima-and-Salad) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/366/problem/C) |
 | 739B | [Alyona and a tree](problems/1900/739B-Alyona-and-a-tree) | 1900 | `binary search`, `data structures`, `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/739/problem/B) |
+| 935D | [Fafa and Ancient Alphabet](problems/1900/935D-Fafa-and-Ancient-Alphabet) | 1900 | `math`, `probabilities` | - | [CF](https://codeforces.com/contest/935/problem/D) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | Yes | [CF](https://codeforces.com/contest/1245/problem/D) |
@@ -602,7 +603,7 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 261 |
-| `math` | 214 |
+| `math` | 215 |
 | `implementation` | 143 |
 | `dp` | 116 |
 | `brute force` | 106 |
@@ -620,9 +621,9 @@
 | `bitmasks` | 33 |
 | `games` | 18 |
 | `dsu` | 13 |
+| `probabilities` | 11 |
 | `geometry` | 11 |
 | `shortest paths` | 11 |
-| `probabilities` | 10 |
 | `interactive` | 8 |
 | `divide and conquer` | 7 |
 | `hashing` | 5 |
@@ -650,7 +651,7 @@
 | 1600 | 54 |
 | 1700 | 39 |
 | 1800 | 27 |
-| 1900 | 28 |
+| 1900 | 29 |
 | 2000 | 10 |
 | 2100 | 5 |
 | 2200 | 1 |
