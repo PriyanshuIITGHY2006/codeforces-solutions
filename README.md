@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 584
+**Total Problems:** 585
 
-**With Source Code:** 346 / 584
+**With Source Code:** 346 / 585
 
 
 ## Problems
@@ -590,6 +590,7 @@
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | Yes | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1265E | [Beautiful Mirrors](problems/2100/1265E-Beautiful-Mirrors) | 2100 | `data structures`, `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1265/problem/E) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/1486/problem/D) |
+| 1778D | [Flexible String Revisit](problems/2100/1778D-Flexible-String-Revisit) | 2100 | `combinatorics`, `dp`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1778/problem/D) |
 | 1811F | [Is It Flower?](problems/2100/1811F-Is-It-Flower) | 2100 | `dfs and similar`, `graphs`, `implementation` | Yes | [CF](https://codeforces.com/contest/1811/problem/F) |
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2029/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
@@ -603,9 +604,9 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 261 |
-| `math` | 215 |
+| `math` | 216 |
 | `implementation` | 143 |
-| `dp` | 116 |
+| `dp` | 117 |
 | `brute force` | 106 |
 | `constructive algorithms` | 101 |
 | `data structures` | 83 |
@@ -615,13 +616,13 @@
 | `dfs and similar` | 53 |
 | `two pointers` | 51 |
 | `trees` | 40 |
+| `combinatorics` | 39 |
 | `graphs` | 39 |
-| `combinatorics` | 38 |
 | `strings` | 36 |
 | `bitmasks` | 33 |
 | `games` | 18 |
 | `dsu` | 13 |
-| `probabilities` | 11 |
+| `probabilities` | 12 |
 | `geometry` | 11 |
 | `shortest paths` | 11 |
 | `interactive` | 8 |
@@ -653,7 +654,7 @@
 | 1800 | 27 |
 | 1900 | 29 |
 | 2000 | 10 |
-| 2100 | 5 |
+| 2100 | 6 |
 | 2200 | 1 |
 | 2300 | 3 |
 | 2400 | 1 |
