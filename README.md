@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 586
+**Total Problems:** 587
 
-**With Source Code:** 358 / 586
+**With Source Code:** 358 / 587
 
 
 ## Problems
@@ -574,6 +574,7 @@
 | 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2109/problem/D) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2133/problem/D) |
+| 2184F | [Cherry Tree](problems/1900/2184F-Cherry-Tree) | 1900 | `dfs and similar`, `dp`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2184/problem/F) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/D) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2233/problem/D) |
@@ -607,18 +608,18 @@
 | `greedy` | 261 |
 | `math` | 217 |
 | `implementation` | 143 |
-| `dp` | 118 |
+| `dp` | 119 |
 | `brute force` | 106 |
 | `constructive algorithms` | 101 |
 | `data structures` | 83 |
 | `binary search` | 82 |
 | `sortings` | 77 |
 | `number theory` | 67 |
-| `dfs and similar` | 53 |
+| `dfs and similar` | 54 |
 | `two pointers` | 51 |
-| `trees` | 40 |
+| `trees` | 41 |
+| `graphs` | 40 |
 | `combinatorics` | 39 |
-| `graphs` | 39 |
 | `strings` | 36 |
 | `bitmasks` | 33 |
 | `games` | 18 |
@@ -653,7 +654,7 @@
 | 1600 | 54 |
 | 1700 | 39 |
 | 1800 | 27 |
-| 1900 | 29 |
+| 1900 | 30 |
 | 2000 | 10 |
 | 2100 | 6 |
 | 2200 | 1 |
