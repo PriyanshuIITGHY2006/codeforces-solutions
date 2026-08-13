@@ -6,7 +6,7 @@
 
 **Total Problems:** 588
 
-**With Source Code:** 358 / 588
+**With Source Code:** 361 / 588
 
 
 ## Problems
@@ -572,10 +572,10 @@
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
 | 2093G | [Shorten the Array](problems/1900/2093G-Shorten-the-Array) | 1900 | `binary search`, `bitmasks`, `data structures`, `dfs and similar`, `greedy`, `strings`, `trees`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2093/problem/G) |
 | 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2109/problem/D) |
-| 2117G | [Omg Graph](problems/1900/2117G-Omg-Graph) | 1900 | `brute force`, `dsu`, `graphs`, `greedy`, `shortest paths`, `sortings` | - | [CF](https://codeforces.com/contest/2117/problem/G) |
+| 2117G | [Omg Graph](problems/1900/2117G-Omg-Graph) | 1900 | `brute force`, `dsu`, `graphs`, `greedy`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/2117/problem/G) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2133/problem/D) |
-| 2184F | [Cherry Tree](problems/1900/2184F-Cherry-Tree) | 1900 | `dfs and similar`, `dp`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2184/problem/F) |
+| 2184F | [Cherry Tree](problems/1900/2184F-Cherry-Tree) | 1900 | `dfs and similar`, `dp`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2184/problem/F) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/D) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2233/problem/D) |
@@ -596,7 +596,7 @@
 | 1811F | [Is It Flower?](problems/2100/1811F-Is-It-Flower) | 2100 | `dfs and similar`, `graphs`, `implementation` | Yes | [CF](https://codeforces.com/contest/1811/problem/F) |
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2029/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
-| 1096F | [Inversion Expectation](problems/2300/1096F-Inversion-Expectation) | 2300 | `dp`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1096/problem/F) |
+| 1096F | [Inversion Expectation](problems/2300/1096F-Inversion-Expectation) | 2300 | `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1096/problem/F) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/2028/problem/E) |
 | 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | Yes | [CF](https://codeforces.com/contest/2134/problem/E) |
 | 2159C | [Twin Polynomials](problems/2300/2159C-Twin-Polynomials) | 2300 | `combinatorics`, `graph matchings`, `math` | Yes | [CF](https://codeforces.com/contest/2159/problem/C) |
