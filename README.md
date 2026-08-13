@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 587
+**Total Problems:** 588
 
-**With Source Code:** 358 / 587
+**With Source Code:** 358 / 588
 
 
 ## Problems
@@ -572,6 +572,7 @@
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
 | 2093G | [Shorten the Array](problems/1900/2093G-Shorten-the-Array) | 1900 | `binary search`, `bitmasks`, `data structures`, `dfs and similar`, `greedy`, `strings`, `trees`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2093/problem/G) |
 | 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2109/problem/D) |
+| 2117G | [Omg Graph](problems/1900/2117G-Omg-Graph) | 1900 | `brute force`, `dsu`, `graphs`, `greedy`, `shortest paths`, `sortings` | - | [CF](https://codeforces.com/contest/2117/problem/G) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2133/problem/D) |
 | 2184F | [Cherry Tree](problems/1900/2184F-Cherry-Tree) | 1900 | `dfs and similar`, `dp`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2184/problem/F) |
@@ -605,28 +606,28 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 261 |
+| `greedy` | 262 |
 | `math` | 217 |
 | `implementation` | 143 |
 | `dp` | 119 |
-| `brute force` | 106 |
+| `brute force` | 107 |
 | `constructive algorithms` | 101 |
 | `data structures` | 83 |
 | `binary search` | 82 |
-| `sortings` | 77 |
+| `sortings` | 78 |
 | `number theory` | 67 |
 | `dfs and similar` | 54 |
 | `two pointers` | 51 |
+| `graphs` | 41 |
 | `trees` | 41 |
-| `graphs` | 40 |
 | `combinatorics` | 39 |
 | `strings` | 36 |
 | `bitmasks` | 33 |
 | `games` | 18 |
+| `dsu` | 14 |
 | `probabilities` | 13 |
-| `dsu` | 13 |
+| `shortest paths` | 12 |
 | `geometry` | 11 |
-| `shortest paths` | 11 |
 | `interactive` | 8 |
 | `divide and conquer` | 7 |
 | `hashing` | 5 |
@@ -654,7 +655,7 @@
 | 1600 | 54 |
 | 1700 | 39 |
 | 1800 | 27 |
-| 1900 | 30 |
+| 1900 | 31 |
 | 2000 | 10 |
 | 2100 | 6 |
 | 2200 | 1 |
