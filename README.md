@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 589
+**Total Problems:** 590
 
-**With Source Code:** 361 / 589
+**With Source Code:** 361 / 590
 
 
 ## Problems
@@ -579,6 +579,7 @@
 | 2184F | [Cherry Tree](problems/1900/2184F-Cherry-Tree) | 1900 | `dfs and similar`, `dp`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2184/problem/F) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/D) |
+| 2231D | [Maximum Prefix Sums](problems/1900/2231D-Maximum-Prefix-Sums) | 1900 | `constructive algorithms`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2231/problem/D) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 1009E | [Intercity Travelling](problems/2000/1009E-Intercity-Travelling) | 2000 | `combinatorics`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1009/problem/E) |
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | Yes | [CF](https://codeforces.com/contest/1142/problem/B) |
@@ -607,18 +608,18 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 263 |
+| `greedy` | 264 |
 | `math` | 217 |
-| `implementation` | 143 |
+| `implementation` | 144 |
 | `dp` | 120 |
 | `brute force` | 107 |
-| `constructive algorithms` | 101 |
+| `constructive algorithms` | 102 |
 | `binary search` | 83 |
 | `data structures` | 83 |
 | `sortings` | 78 |
 | `number theory` | 67 |
 | `dfs and similar` | 54 |
-| `two pointers` | 51 |
+| `two pointers` | 52 |
 | `graphs` | 41 |
 | `trees` | 41 |
 | `combinatorics` | 39 |
@@ -656,7 +657,7 @@
 | 1600 | 54 |
 | 1700 | 41 |
 | 1800 | 28 |
-| 1900 | 31 |
+| 1900 | 32 |
 | 2000 | 10 |
 | 2100 | 6 |
 | 2200 | 1 |
