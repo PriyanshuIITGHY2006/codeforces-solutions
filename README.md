@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 590
+**Total Problems:** 593
 
-**With Source Code:** 361 / 590
+**With Source Code:** 361 / 593
 
 
 ## Problems
@@ -537,9 +537,11 @@
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | Yes | [CF](https://codeforces.com/contest/2042/problem/C) |
 | 2043D | [Problem about GCD](problems/1800/2043D-Problem-about-GCD) | 1800 | `brute force`, `flows`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2043/problem/D) |
+| 2093F | [Hackers and Neural Networks](problems/1800/2093F-Hackers-and-Neural-Networks) | 1800 | `bitmasks`, `brute force`, `greedy` | - | [CF](https://codeforces.com/contest/2093/problem/F) |
 | 2106E | [Wolf](problems/1800/2106E-Wolf) | 1800 | `binary search`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2106/problem/E) |
 | 2117F | [Wildflower](problems/1800/2117F-Wildflower) | 1800 | `combinatorics`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/2117/problem/F) |
 | 2120D | [Matrix game](problems/1800/2120D-Matrix-game) | 1800 | `combinatorics`, `math` | Yes | [CF](https://codeforces.com/contest/2120/problem/D) |
+| 2121F | [Yamakasi](problems/1800/2121F-Yamakasi) | 1800 | `binary search`, `brute force`, `data structures`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2121/problem/F) |
 | 2127D | [Root was Built by Love, Broken by Destiny](problems/1800/2127D-Root-was-Built-by-Love-Broken-by-Destiny) | 1800 | `combinatorics`, `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2127/problem/D) |
 | 2164D | [Copy String](problems/1800/2164D-Copy-String) | 1800 | `greedy`, `implementation`, `strings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2164/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
@@ -586,6 +588,7 @@
 | 1223D | [Sequence Sorting](problems/2000/1223D-Sequence-Sorting) | 2000 | `dp`, `greedy`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1223/problem/D) |
 | 1294F | [Three Paths on a Tree](problems/2000/1294F-Three-Paths-on-a-Tree) | 2000 | `dfs and similar`, `dp`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/1294/problem/F) |
 | 1536D | [Omkar and Medians](problems/2000/1536D-Omkar-and-Medians) | 2000 | `data structures`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/1536/problem/D) |
+| 2020E | [Expected Power](problems/2000/2020E-Expected-Power) | 2000 | `bitmasks`, `dp`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/2020/problem/E) |
 | 2171E | [Anisphia Wynn Palettia and Good Permutations](problems/2000/2171E-Anisphia-Wynn-Palettia-and-Good-Permutations) | 2000 | `constructive algorithms`, `greedy`, `number theory` | Yes | [CF](https://codeforces.com/contest/2171/problem/E) |
 | 2171G | [Sakura Adachi and Optimal Sequences](problems/2000/2171G-Sakura-Adachi-and-Optimal-Sequences) | 2000 | `bitmasks`, `combinatorics`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2171/problem/G) |
 | 2194E | [The Turtle Strikes Back](problems/2000/2194E-The-Turtle-Strikes-Back) | 2000 | `dp`, `graphs`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2194/problem/E) |
@@ -608,26 +611,26 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 264 |
-| `math` | 217 |
+| `greedy` | 266 |
+| `math` | 218 |
 | `implementation` | 144 |
-| `dp` | 120 |
-| `brute force` | 107 |
+| `dp` | 121 |
+| `brute force` | 109 |
 | `constructive algorithms` | 102 |
-| `binary search` | 83 |
-| `data structures` | 83 |
+| `binary search` | 84 |
+| `data structures` | 84 |
 | `sortings` | 78 |
 | `number theory` | 67 |
 | `dfs and similar` | 54 |
-| `two pointers` | 52 |
+| `two pointers` | 53 |
 | `graphs` | 41 |
 | `trees` | 41 |
 | `combinatorics` | 39 |
 | `strings` | 37 |
-| `bitmasks` | 33 |
+| `bitmasks` | 35 |
 | `games` | 18 |
+| `probabilities` | 14 |
 | `dsu` | 14 |
-| `probabilities` | 13 |
 | `shortest paths` | 12 |
 | `geometry` | 11 |
 | `interactive` | 8 |
@@ -656,9 +659,9 @@
 | 1500 | 71 |
 | 1600 | 54 |
 | 1700 | 41 |
-| 1800 | 28 |
+| 1800 | 30 |
 | 1900 | 32 |
-| 2000 | 10 |
+| 2000 | 11 |
 | 2100 | 6 |
 | 2200 | 1 |
 | 2300 | 4 |
