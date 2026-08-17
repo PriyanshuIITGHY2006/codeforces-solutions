@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 593
+**Total Problems:** 595
 
-**With Source Code:** 361 / 593
+**With Source Code:** 361 / 595
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2257C | [Spying on the Beaver](problems/Unrated/2257C-Spying-on-the-Beaver) | ? | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2257/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -572,6 +573,7 @@
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | Yes | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2050G | [Tree Destruction](problems/1900/2050G-Tree-Destruction) | 1900 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/2050/problem/G) |
 | 2066B | [White Magic](problems/1900/2066B-White-Magic) | 1900 | `constructive algorithms`, `data structures`, `dp`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2066/problem/B) |
+| 2073A | [Control Towers](problems/1900/2073A-Control-Towers) | 1900 |  | - | [CF](https://codeforces.com/contest/2073/problem/A) |
 | 2089B1 | [Canteen (Easy Version)](problems/1900/2089B1-Canteen-Easy-Version) | 1900 | `binary search`, `data structures`, `flows`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2089/problem/B1) |
 | 2093G | [Shorten the Array](problems/1900/2093G-Shorten-the-Array) | 1900 | `binary search`, `bitmasks`, `data structures`, `dfs and similar`, `greedy`, `strings`, `trees`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2093/problem/G) |
 | 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2109/problem/D) |
@@ -621,10 +623,10 @@
 | `data structures` | 84 |
 | `sortings` | 78 |
 | `number theory` | 67 |
-| `dfs and similar` | 54 |
+| `dfs and similar` | 55 |
 | `two pointers` | 53 |
-| `graphs` | 41 |
-| `trees` | 41 |
+| `graphs` | 42 |
+| `trees` | 42 |
 | `combinatorics` | 39 |
 | `strings` | 37 |
 | `bitmasks` | 35 |
@@ -660,11 +662,11 @@
 | 1600 | 54 |
 | 1700 | 41 |
 | 1800 | 30 |
-| 1900 | 32 |
+| 1900 | 33 |
 | 2000 | 11 |
 | 2100 | 6 |
 | 2200 | 1 |
 | 2300 | 4 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 35 |
+| Unrated | 36 |
