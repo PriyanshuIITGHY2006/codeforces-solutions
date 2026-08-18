@@ -14,7 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2257D | [Bermuda Rectangle](problems/Unrated/2257D-Bermuda-Rectangle) | ? | `binary search`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2257/problem/D) |
-| 2257C | [Spying on the Beaver](problems/Unrated/2257C-Spying-on-the-Beaver) | ? | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2257/problem/C) |
+| 2257C | [Spying on the Beaver](problems/Unrated/2257C-Spying-on-the-Beaver) | ? | `dfs and similar`, `dsu`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2257/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -632,8 +632,8 @@
 | `strings` | 37 |
 | `bitmasks` | 35 |
 | `games` | 18 |
+| `dsu` | 15 |
 | `probabilities` | 14 |
-| `dsu` | 14 |
 | `shortest paths` | 12 |
 | `geometry` | 11 |
 | `interactive` | 8 |

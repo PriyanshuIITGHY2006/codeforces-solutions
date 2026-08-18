@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `dfs and similar`, `graphs`, `trees`
+**Tags:** `dfs and similar`, `dsu`, `graphs`, `trees`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
