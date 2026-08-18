@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 595
+**Total Problems:** 596
 
-**With Source Code:** 361 / 595
+**With Source Code:** 361 / 596
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2257D | [Bermuda Rectangle](problems/Unrated/2257D-Bermuda-Rectangle) | ? | `binary search`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2257/problem/D) |
 | 2257C | [Spying on the Beaver](problems/Unrated/2257C-Spying-on-the-Beaver) | ? | `dfs and similar`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2257/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -614,15 +615,15 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 266 |
-| `math` | 218 |
+| `math` | 219 |
 | `implementation` | 144 |
 | `dp` | 121 |
 | `brute force` | 109 |
 | `constructive algorithms` | 102 |
-| `binary search` | 84 |
+| `binary search` | 85 |
 | `data structures` | 84 |
 | `sortings` | 78 |
-| `number theory` | 67 |
+| `number theory` | 68 |
 | `dfs and similar` | 55 |
 | `two pointers` | 53 |
 | `graphs` | 42 |
@@ -669,4 +670,4 @@
 | 2300 | 4 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 36 |
+| Unrated | 37 |
