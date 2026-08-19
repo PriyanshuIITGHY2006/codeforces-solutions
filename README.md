@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 596
+**Total Problems:** 598
 
-**With Source Code:** 361 / 596
+**With Source Code:** 361 / 598
 
 
 ## Problems
@@ -501,6 +501,7 @@
 | 1826D | [Running Miles](problems/1700/1826D-Running-Miles) | 1700 | `brute force`, `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/1826/problem/D) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/1950/problem/F) |
+| 1986E | [Beautiful Array](problems/1700/1986E-Beautiful-Array) | 1700 | `greedy`, `math`, `number theory`, `sortings` | - | [CF](https://codeforces.com/contest/1986/problem/E) |
 | 2030D | [QED's Favorite Permutation](problems/1700/2030D-QEDs-Favorite-Permutation) | 1700 | `data structures`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2030/problem/D) |
 | 2031D | [Penchick and Desert Rabbit](problems/1700/2031D-Penchick-and-Desert-Rabbit) | 1700 | `binary search`, `data structures`, `dfs and similar`, `dp`, `dsu`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2031/problem/D) |
 | 2039D | [Shohag Loves GCD](problems/1700/2039D-Shohag-Loves-GCD) | 1700 | `constructive algorithms`, `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2039/problem/D) |
@@ -523,6 +524,7 @@
 | 2236F1 | [Elections in Saransk (easy version)](problems/1700/2236F1-Elections-in-Saransk-easy-version) | 1700 | `number theory` | Yes | [CF](https://codeforces.com/contest/2236/problem/F1) |
 | 2252D | [Array Replacement](problems/1700/2252D-Array-Replacement) | 1700 | `greedy`, `sortings` | Yes | [CF](https://codeforces.com/contest/2252/problem/D) |
 | 709390B | [Wet Shark and Flowers](problems/1700/709390B-Wet-Shark-and-Flowers) | 1700 |  | Yes | [CF](https://codeforces.com/contest/709390/problem/B) |
+| 30C | [Shooting Gallery](problems/1800/30C-Shooting-Gallery) | 1800 | `dp`, `probabilities` | - | [CF](https://codeforces.com/contest/30/problem/C) |
 | 161D | [Distance in Tree](problems/1800/161D-Distance-in-Tree) | 1800 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/161/problem/D) |
 | 300C | [Beautiful Numbers](problems/1800/300C-Beautiful-Numbers) | 1800 | `brute force`, `combinatorics` | Yes | [CF](https://codeforces.com/contest/300/problem/C) |
 | 626D | [Jerry's Protest](problems/1800/626D-Jerrys-Protest) | 1800 | `brute force`, `combinatorics`, `dp`, `probabilities` | Yes | [CF](https://codeforces.com/contest/626/problem/D) |
@@ -614,16 +616,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 266 |
-| `math` | 219 |
+| `greedy` | 267 |
+| `math` | 220 |
 | `implementation` | 144 |
-| `dp` | 121 |
+| `dp` | 122 |
 | `brute force` | 109 |
 | `constructive algorithms` | 102 |
 | `binary search` | 85 |
 | `data structures` | 84 |
-| `sortings` | 78 |
-| `number theory` | 68 |
+| `sortings` | 79 |
+| `number theory` | 69 |
 | `dfs and similar` | 55 |
 | `two pointers` | 53 |
 | `graphs` | 42 |
@@ -632,8 +634,8 @@
 | `strings` | 37 |
 | `bitmasks` | 35 |
 | `games` | 18 |
+| `probabilities` | 15 |
 | `dsu` | 15 |
-| `probabilities` | 14 |
 | `shortest paths` | 12 |
 | `geometry` | 11 |
 | `interactive` | 8 |
@@ -661,8 +663,8 @@
 | 1400 | 48 |
 | 1500 | 71 |
 | 1600 | 54 |
-| 1700 | 41 |
-| 1800 | 30 |
+| 1700 | 42 |
+| 1800 | 31 |
 | 1900 | 33 |
 | 2000 | 11 |
 | 2100 | 6 |
