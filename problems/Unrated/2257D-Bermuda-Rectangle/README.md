@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `binary search`, `math`, `number theory`
+**Tags:** `binary search`, `implementation`, `math`, `number theory`, `two pointers`
 
 **Language:** C++23 (GCC 14-64, msys2)
 

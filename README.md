@@ -13,7 +13,7 @@
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2257D | [Bermuda Rectangle](problems/Unrated/2257D-Bermuda-Rectangle) | ? | `binary search`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2257/problem/D) |
+| 2257D | [Bermuda Rectangle](problems/Unrated/2257D-Bermuda-Rectangle) | ? | `binary search`, `implementation`, `math`, `number theory`, `two pointers` | - | [CF](https://codeforces.com/contest/2257/problem/D) |
 | 2257C | [Spying on the Beaver](problems/Unrated/2257C-Spying-on-the-Beaver) | ? | `dfs and similar`, `dsu`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2257/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -618,7 +618,7 @@
 |-----|-------|
 | `greedy` | 267 |
 | `math` | 220 |
-| `implementation` | 144 |
+| `implementation` | 145 |
 | `dp` | 122 |
 | `brute force` | 109 |
 | `constructive algorithms` | 102 |
@@ -627,7 +627,7 @@
 | `sortings` | 79 |
 | `number theory` | 69 |
 | `dfs and similar` | 55 |
-| `two pointers` | 53 |
+| `two pointers` | 54 |
 | `graphs` | 42 |
 | `trees` | 42 |
 | `combinatorics` | 39 |
