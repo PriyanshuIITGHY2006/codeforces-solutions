@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 598
+**Total Problems:** 599
 
-**With Source Code:** 361 / 598
+**With Source Code:** 361 / 599
 
 
 ## Problems
@@ -606,6 +606,7 @@
 | 1811F | [Is It Flower?](problems/2100/1811F-Is-It-Flower) | 2100 | `dfs and similar`, `graphs`, `implementation` | Yes | [CF](https://codeforces.com/contest/1811/problem/F) |
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2029/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
+| 960E | [Alternating Tree](problems/2300/960E-Alternating-Tree) | 2300 | `combinatorics`, `dfs and similar`, `divide and conquer`, `dp`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/960/problem/E) |
 | 1096F | [Inversion Expectation](problems/2300/1096F-Inversion-Expectation) | 2300 | `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1096/problem/F) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/2028/problem/E) |
 | 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | Yes | [CF](https://codeforces.com/contest/2134/problem/E) |
@@ -619,27 +620,27 @@
 | `greedy` | 267 |
 | `math` | 220 |
 | `implementation` | 145 |
-| `dp` | 122 |
+| `dp` | 123 |
 | `brute force` | 109 |
 | `constructive algorithms` | 102 |
 | `binary search` | 85 |
 | `data structures` | 84 |
 | `sortings` | 79 |
 | `number theory` | 69 |
-| `dfs and similar` | 55 |
+| `dfs and similar` | 56 |
 | `two pointers` | 54 |
+| `trees` | 43 |
 | `graphs` | 42 |
-| `trees` | 42 |
-| `combinatorics` | 39 |
+| `combinatorics` | 40 |
 | `strings` | 37 |
 | `bitmasks` | 35 |
 | `games` | 18 |
-| `probabilities` | 15 |
+| `probabilities` | 16 |
 | `dsu` | 15 |
 | `shortest paths` | 12 |
 | `geometry` | 11 |
+| `divide and conquer` | 8 |
 | `interactive` | 8 |
-| `divide and conquer` | 7 |
 | `hashing` | 5 |
 | `matrices` | 4 |
 | `ternary search` | 4 |
@@ -669,7 +670,7 @@
 | 2000 | 11 |
 | 2100 | 6 |
 | 2200 | 1 |
-| 2300 | 4 |
+| 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
 | Unrated | 37 |
