@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 599
+**Total Problems:** 602
 
-**With Source Code:** 361 / 599
+**With Source Code:** 361 / 602
 
 
 ## Problems
@@ -24,6 +24,9 @@
 | 106179A | [How many?](problems/Unrated/106179A-How-many) | ? |  | Yes | [CF](https://codeforces.com/contest/106179/problem/A) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | Yes | [CF](https://codeforces.com/contest/590997/problem/F) |
 | 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
+| 631167E | [Our Random Jump](problems/Unrated/631167E-Our-Random-Jump) | ? |  | - | [CF](https://codeforces.com/contest/631167/problem/E) |
+| 631167D | [Alien Planet](problems/Unrated/631167D-Alien-Planet) | ? |  | - | [CF](https://codeforces.com/contest/631167/problem/D) |
+| 631167C | [What the Flip?!](problems/Unrated/631167C-What-the-Flip) | ? |  | - | [CF](https://codeforces.com/contest/631167/problem/C) |
 | 639709F | [Sweets (medium)](problems/Unrated/639709F-Sweets-medium) | ? |  | Yes | [CF](https://codeforces.com/contest/639709/problem/F) |
 | 660580A | [OR and Recruitment](problems/Unrated/660580A-OR-and-Recruitment) | ? |  | - | [CF](https://codeforces.com/contest/660580/problem/A) |
 | 662678D | [The Hellfire Club !](problems/Unrated/662678D-The-Hellfire-Club) | ? |  | - | [CF](https://codeforces.com/contest/662678/problem/D) |
@@ -673,4 +676,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 37 |
+| Unrated | 40 |
