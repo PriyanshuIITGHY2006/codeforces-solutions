@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 602
+**Total Problems:** 603
 
-**With Source Code:** 361 / 602
+**With Source Code:** 361 / 603
 
 
 ## Problems
@@ -128,6 +128,7 @@
 | 2250A | [Threshold Movement](problems/0800/2250A-Threshold-Movement) | 800 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2250/problem/A) |
 | 2252A | [Boss Fight](problems/0800/2252A-Boss-Fight) | 800 | `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 2253A | [The Best Card](problems/0800/2253A-The-Best-Card) | 800 | `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2253/problem/A) |
+| 2254A | [Riptide](problems/0800/2254A-Riptide) | 800 | `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2254/problem/A) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
@@ -622,13 +623,13 @@
 |-----|-------|
 | `greedy` | 267 |
 | `math` | 220 |
-| `implementation` | 145 |
+| `implementation` | 146 |
 | `dp` | 123 |
 | `brute force` | 109 |
 | `constructive algorithms` | 103 |
 | `binary search` | 85 |
 | `data structures` | 84 |
-| `sortings` | 79 |
+| `sortings` | 80 |
 | `number theory` | 69 |
 | `dfs and similar` | 56 |
 | `two pointers` | 54 |
@@ -659,7 +660,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 79 |
+| 0800 | 80 |
 | 1000 | 36 |
 | 1100 | 29 |
 | 1200 | 60 |
