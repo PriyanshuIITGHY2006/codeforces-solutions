@@ -14,7 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2257D | [Bermuda Rectangle](problems/Unrated/2257D-Bermuda-Rectangle) | ? | `binary search`, `implementation`, `math`, `number theory`, `two pointers` | - | [CF](https://codeforces.com/contest/2257/problem/D) |
-| 2257C | [Spying on the Beaver](problems/Unrated/2257C-Spying-on-the-Beaver) | ? | `dfs and similar`, `dsu`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2257/problem/C) |
+| 2257C | [Spying on the Beaver](problems/Unrated/2257C-Spying-on-the-Beaver) | ? | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `trees` | - | [CF](https://codeforces.com/contest/2257/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -625,7 +625,7 @@
 | `implementation` | 145 |
 | `dp` | 123 |
 | `brute force` | 109 |
-| `constructive algorithms` | 102 |
+| `constructive algorithms` | 103 |
 | `binary search` | 85 |
 | `data structures` | 84 |
 | `sortings` | 79 |
