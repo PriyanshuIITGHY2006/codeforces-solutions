@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 605
+**Total Problems:** 606
 
-**With Source Code:** 376 / 605
+**With Source Code:** 376 / 606
 
 
 ## Problems
@@ -605,6 +605,7 @@
 | 2194E | [The Turtle Strikes Back](problems/2000/2194E-The-Turtle-Strikes-Back) | 2000 | `dp`, `graphs`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2194/problem/E) |
 | 2195F | [Parabola Independence](problems/2000/2195F-Parabola-Independence) | 2000 | `dp`, `graphs`, `greedy`, `math`, `sortings` | Yes | [CF](https://codeforces.com/contest/2195/problem/F) |
 | 709390C | [Little Elephant and Furik and Rubik](problems/2000/709390C-Little-Elephant-and-Furik-and-Rubik) | 2000 |  | Yes | [CF](https://codeforces.com/contest/709390/problem/C) |
+| 414C | [Mashmokh and Reverse Operation](problems/2100/414C-Mashmokh-and-Reverse-Operation) | 2100 | `combinatorics`, `divide and conquer` | - | [CF](https://codeforces.com/contest/414/problem/C) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | Yes | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1265E | [Beautiful Mirrors](problems/2100/1265E-Beautiful-Mirrors) | 2100 | `data structures`, `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1265/problem/E) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/1486/problem/D) |
@@ -637,7 +638,7 @@
 | `two pointers` | 54 |
 | `trees` | 43 |
 | `graphs` | 42 |
-| `combinatorics` | 40 |
+| `combinatorics` | 41 |
 | `strings` | 37 |
 | `bitmasks` | 35 |
 | `games` | 18 |
@@ -645,7 +646,7 @@
 | `dsu` | 15 |
 | `shortest paths` | 12 |
 | `geometry` | 11 |
-| `divide and conquer` | 8 |
+| `divide and conquer` | 9 |
 | `interactive` | 8 |
 | `hashing` | 5 |
 | `matrices` | 4 |
@@ -674,7 +675,7 @@
 | 1800 | 31 |
 | 1900 | 33 |
 | 2000 | 11 |
-| 2100 | 6 |
+| 2100 | 7 |
 | 2200 | 1 |
 | 2300 | 5 |
 | 2400 | 1 |
