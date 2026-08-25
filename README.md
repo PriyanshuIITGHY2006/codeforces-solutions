@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 606
+**Total Problems:** 607
 
-**With Source Code:** 376 / 606
+**With Source Code:** 376 / 607
 
 
 ## Problems
@@ -594,6 +594,7 @@
 | 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/D) |
 | 2231D | [Maximum Prefix Sums](problems/1900/2231D-Maximum-Prefix-Sums) | 1900 | `constructive algorithms`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2231/problem/D) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2233/problem/D) |
+| 863E | [Turn Off The TV](problems/2000/863E-Turn-Off-The-TV) | 2000 | `data structures`, `sortings` | - | [CF](https://codeforces.com/contest/863/problem/E) |
 | 1009E | [Intercity Travelling](problems/2000/1009E-Intercity-Travelling) | 2000 | `combinatorics`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1009/problem/E) |
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | Yes | [CF](https://codeforces.com/contest/1142/problem/B) |
 | 1223D | [Sequence Sorting](problems/2000/1223D-Sequence-Sorting) | 2000 | `dp`, `greedy`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1223/problem/D) |
@@ -630,9 +631,9 @@
 | `dp` | 123 |
 | `brute force` | 109 |
 | `constructive algorithms` | 103 |
+| `data structures` | 85 |
 | `binary search` | 85 |
-| `data structures` | 84 |
-| `sortings` | 80 |
+| `sortings` | 81 |
 | `number theory` | 69 |
 | `dfs and similar` | 56 |
 | `two pointers` | 54 |
@@ -674,7 +675,7 @@
 | 1700 | 42 |
 | 1800 | 31 |
 | 1900 | 33 |
-| 2000 | 11 |
+| 2000 | 12 |
 | 2100 | 7 |
 | 2200 | 1 |
 | 2300 | 5 |
