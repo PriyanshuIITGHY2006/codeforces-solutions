@@ -1,4 +1,9 @@
-// Problem: 414B - Mashmokh and ACM
-// Submission: https://codeforces.com/contest/414/submission/352571763
-//
-// Drop 414B.cpp into the solutions/ folder and push to add your code here.
+#include <bits/stdc++.h>
+using namespace std;
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    return 0;
+}
