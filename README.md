@@ -13,8 +13,6 @@
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2257D | [Bermuda Rectangle](problems/Unrated/2257D-Bermuda-Rectangle) | ? | `binary search`, `implementation`, `math`, `number theory`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2257/problem/D) |
-| 2257C | [Spying on the Beaver](problems/Unrated/2257C-Spying-on-the-Beaver) | ? | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2257/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -270,6 +268,7 @@
 | 2210C1 | [A Simple GCD Problem (Easy Version)](problems/1200/2210C1-A-Simple-GCD-Problem-Easy-Version) | 1200 | `greedy`, `number theory` | Yes | [CF](https://codeforces.com/contest/2210/problem/C1) |
 | 2218E | [The 67th XOR Problem](problems/1200/2218E-The-67th-XOR-Problem) | 1200 | `binary search`, `bitmasks`, `brute force` | Yes | [CF](https://codeforces.com/contest/2218/problem/E) |
 | 2227D | [Palindromex](problems/1200/2227D-Palindromex) | 1200 | `binary search`, `brute force`, `constructive algorithms`, `data structures`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2227/problem/D) |
+| 2257C | [Spying on the Beaver](problems/1200/2257C-Spying-on-the-Beaver) | 1200 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2257/problem/C) |
 | 660580C | [Range and Recruitment](problems/1200/660580C-Range-and-Recruitment) | 1200 |  | - | [CF](https://codeforces.com/contest/660580/problem/C) |
 | 660722D | [Multiplication and Recruitment](problems/1200/660722D-Multiplication-and-Recruitment) | 1200 |  | - | [CF](https://codeforces.com/contest/660722/problem/D) |
 | 230B | [T-primes](problems/1300/230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/230/problem/B) |
@@ -486,6 +485,7 @@
 | 2228C2 | [Cirno and Number (Hard Version)](problems/1600/2228C2-Cirno-and-Number-Hard-Version) | 1600 | `binary search`, `dfs and similar`, `dp`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/C2) |
 | 2241E | [Fair and Square](problems/1600/2241E-Fair-and-Square) | 1600 | `combinatorics`, `dp`, `graphs`, `math`, `number theory`, `trees` | Yes | [CF](https://codeforces.com/contest/2241/problem/E) |
 | 2242D | [Two Digit Strings](problems/1600/2242D-Two-Digit-Strings) | 1600 | `dp`, `strings` | Yes | [CF](https://codeforces.com/contest/2242/problem/D) |
+| 2257D | [Bermuda Rectangle](problems/1600/2257D-Bermuda-Rectangle) | 1600 | `binary search`, `implementation`, `math`, `number theory`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2257/problem/D) |
 | 660580G | [Zero and Recruitment](problems/1600/660580G-Zero-and-Recruitment) | 1600 |  | - | [CF](https://codeforces.com/contest/660580/problem/G) |
 | 660722E | [Obsessed gardener](problems/1600/660722E-Obsessed-gardener) | 1600 |  | - | [CF](https://codeforces.com/contest/660722/problem/E) |
 | 176B | [Word Cut](problems/1700/176B-Word-Cut) | 1700 | `dp` | - | [CF](https://codeforces.com/contest/176/problem/B) |
@@ -669,11 +669,11 @@
 | 0800 | 80 |
 | 1000 | 36 |
 | 1100 | 29 |
-| 1200 | 60 |
+| 1200 | 61 |
 | 1300 | 43 |
 | 1400 | 48 |
 | 1500 | 71 |
-| 1600 | 54 |
+| 1600 | 55 |
 | 1700 | 42 |
 | 1800 | 31 |
 | 1900 | 34 |
@@ -683,4 +683,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 42 |
+| Unrated | 40 |
