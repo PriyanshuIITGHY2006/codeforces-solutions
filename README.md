@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 614
+**Total Problems:** 615
 
-**With Source Code:** 381 / 614
+**With Source Code:** 388 / 615
 
 
 ## Problems
@@ -20,10 +20,11 @@
 | 106179C | [XOR LCM](problems/Unrated/106179C-XOR-LCM) | ? |  | Yes | [CF](https://codeforces.com/contest/106179/problem/C) |
 | 106179B | [Pseudo Palindrome](problems/Unrated/106179B-Pseudo-Palindrome) | ? |  | Yes | [CF](https://codeforces.com/contest/106179/problem/B) |
 | 106179A | [How many?](problems/Unrated/106179A-How-many) | ? |  | Yes | [CF](https://codeforces.com/contest/106179/problem/A) |
-| 106494D | [Alternative Worlds II](problems/Unrated/106494D-Alternative-Worlds-II) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/D) |
-| 106494C | [Alternative Worlds I](problems/Unrated/106494C-Alternative-Worlds-I) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/C) |
-| 106494A | [Random Order](problems/Unrated/106494A-Random-Order) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/A) |
-| 106494B | [Rest Point](problems/Unrated/106494B-Rest-Point) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/B) |
+| 106494F | [Thanos Sort](problems/Unrated/106494F-Thanos-Sort) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/F) |
+| 106494D | [Alternative Worlds II](problems/Unrated/106494D-Alternative-Worlds-II) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/D) |
+| 106494C | [Alternative Worlds I](problems/Unrated/106494C-Alternative-Worlds-I) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/C) |
+| 106494A | [Random Order](problems/Unrated/106494A-Random-Order) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/A) |
+| 106494B | [Rest Point](problems/Unrated/106494B-Rest-Point) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/B) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | Yes | [CF](https://codeforces.com/contest/590997/problem/F) |
 | 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
 | 631167E | [Our Random Jump](problems/Unrated/631167E-Our-Random-Jump) | ? |  | Yes | [CF](https://codeforces.com/contest/631167/problem/E) |
@@ -570,11 +571,11 @@
 | 366C | [Dima and Salad](problems/1900/366C-Dima-and-Salad) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/366/problem/C) |
 | 739B | [Alyona and a tree](problems/1900/739B-Alyona-and-a-tree) | 1900 | `binary search`, `data structures`, `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/739/problem/B) |
 | 935D | [Fafa and Ancient Alphabet](problems/1900/935D-Fafa-and-Ancient-Alphabet) | 1900 | `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/935/problem/D) |
-| 1012C | [Hills](problems/1900/1012C-Hills) | 1900 | `dp` | - | [CF](https://codeforces.com/contest/1012/problem/C) |
+| 1012C | [Hills](problems/1900/1012C-Hills) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1012/problem/C) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | Yes | [CF](https://codeforces.com/contest/1245/problem/D) |
-| 1453D | [Checkpoints](problems/1900/1453D-Checkpoints) | 1900 | `brute force`, `constructive algorithms`, `greedy`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1453/problem/D) |
+| 1453D | [Checkpoints](problems/1900/1453D-Checkpoints) | 1900 | `brute force`, `constructive algorithms`, `greedy`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1453/problem/D) |
 | 1702G1 | [Passable Paths (easy version)](problems/1900/1702G1-Passable-Paths-easy-version) | 1900 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1702/problem/G1) |
 | 1759G | [Restore the Permutation](problems/1900/1759G-Restore-the-Permutation) | 1900 | `binary search`, `constructive algorithms`, `data structures`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1759/problem/G) |
 | 1777D | [Score of a Tree](problems/1900/1777D-Score-of-a-Tree) | 1900 | `bitmasks`, `combinatorics`, `dfs and similar`, `dp`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/1777/problem/D) |
@@ -616,7 +617,7 @@
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | Yes | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1265E | [Beautiful Mirrors](problems/2100/1265E-Beautiful-Mirrors) | 2100 | `data structures`, `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1265/problem/E) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/1486/problem/D) |
-| 1525E | [Assimilation IV](problems/2100/1525E-Assimilation-IV) | 2100 | `combinatorics`, `dp`, `math`, `probabilities`, `two pointers` | - | [CF](https://codeforces.com/contest/1525/problem/E) |
+| 1525E | [Assimilation IV](problems/2100/1525E-Assimilation-IV) | 2100 | `combinatorics`, `dp`, `math`, `probabilities`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1525/problem/E) |
 | 1778D | [Flexible String Revisit](problems/2100/1778D-Flexible-String-Revisit) | 2100 | `combinatorics`, `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1778/problem/D) |
 | 1811F | [Is It Flower?](problems/2100/1811F-Is-It-Flower) | 2100 | `dfs and similar`, `graphs`, `implementation` | Yes | [CF](https://codeforces.com/contest/1811/problem/F) |
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2029/problem/E) |
@@ -688,4 +689,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 44 |
+| Unrated | 45 |
