@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 615
+**Total Problems:** 616
 
-**With Source Code:** 388 / 615
+**With Source Code:** 388 / 616
 
 
 ## Problems
@@ -568,6 +568,7 @@
 | 639709D | [Add Points](problems/1800/639709D-Add-Points) | 1800 |  | Yes | [CF](https://codeforces.com/contest/639709/problem/D) |
 | 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
+| 190D | [Non-Secret Cypher](problems/1900/190D-Non-Secret-Cypher) | 1900 | `two pointers` | - | [CF](https://codeforces.com/contest/190/problem/D) |
 | 366C | [Dima and Salad](problems/1900/366C-Dima-and-Salad) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/366/problem/C) |
 | 739B | [Alyona and a tree](problems/1900/739B-Alyona-and-a-tree) | 1900 | `binary search`, `data structures`, `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/739/problem/B) |
 | 935D | [Fafa and Ancient Alphabet](problems/1900/935D-Fafa-and-Ancient-Alphabet) | 1900 | `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/935/problem/D) |
@@ -643,8 +644,8 @@
 | `binary search` | 85 |
 | `sortings` | 81 |
 | `number theory` | 69 |
+| `two pointers` | 56 |
 | `dfs and similar` | 56 |
-| `two pointers` | 55 |
 | `trees` | 43 |
 | `combinatorics` | 42 |
 | `graphs` | 42 |
@@ -682,7 +683,7 @@
 | 1600 | 55 |
 | 1700 | 42 |
 | 1800 | 31 |
-| 1900 | 35 |
+| 1900 | 36 |
 | 2000 | 12 |
 | 2100 | 8 |
 | 2200 | 1 |
