@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 610
+**Total Problems:** 614
 
-**With Source Code:** 381 / 610
+**With Source Code:** 381 / 614
 
 
 ## Problems
@@ -20,6 +20,10 @@
 | 106179C | [XOR LCM](problems/Unrated/106179C-XOR-LCM) | ? |  | Yes | [CF](https://codeforces.com/contest/106179/problem/C) |
 | 106179B | [Pseudo Palindrome](problems/Unrated/106179B-Pseudo-Palindrome) | ? |  | Yes | [CF](https://codeforces.com/contest/106179/problem/B) |
 | 106179A | [How many?](problems/Unrated/106179A-How-many) | ? |  | Yes | [CF](https://codeforces.com/contest/106179/problem/A) |
+| 106494D | [Alternative Worlds II](problems/Unrated/106494D-Alternative-Worlds-II) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/D) |
+| 106494C | [Alternative Worlds I](problems/Unrated/106494C-Alternative-Worlds-I) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/C) |
+| 106494A | [Random Order](problems/Unrated/106494A-Random-Order) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/A) |
+| 106494B | [Rest Point](problems/Unrated/106494B-Rest-Point) | ? |  | - | [CF](https://codeforces.com/contest/106494/problem/B) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | Yes | [CF](https://codeforces.com/contest/590997/problem/F) |
 | 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
 | 631167E | [Our Random Jump](problems/Unrated/631167E-Our-Random-Jump) | ? |  | Yes | [CF](https://codeforces.com/contest/631167/problem/E) |
@@ -684,4 +688,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 40 |
+| Unrated | 44 |
