@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 616
+**Total Problems:** 617
 
-**With Source Code:** 388 / 616
+**With Source Code:** 388 / 617
 
 
 ## Problems
@@ -584,6 +584,7 @@
 | 1800F | [Dasha and Nightmares](problems/1900/1800F-Dasha-and-Nightmares) | 1900 | `bitmasks`, `hashing`, `meet-in-the-middle`, `strings` | Yes | [CF](https://codeforces.com/contest/1800/problem/F) |
 | 1932F | [Feed Cats](problems/1900/1932F-Feed-Cats) | 1900 | `data structures`, `dp`, `sortings` | Yes | [CF](https://codeforces.com/contest/1932/problem/F) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1989/problem/D) |
+| 1991E | [Coloring Game](problems/1900/1991E-Coloring-Game) | 1900 | `constructive algorithms`, `dfs and similar`, `games`, `graphs`, `greedy`, `interactive` | - | [CF](https://codeforces.com/contest/1991/problem/E) |
 | 2000F | [Color Rows and Columns](problems/1900/2000F-Color-Rows-and-Columns) | 1900 | `dp`, `greedy`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2000/problem/F) |
 | 2022D1 | [Asesino (Easy Version)](problems/1900/2022D1-Asesino-Easy-Version) | 1900 | `binary search`, `brute force`, `constructive algorithms`, `implementation`, `interactive` | Yes | [CF](https://codeforces.com/contest/2022/problem/D1) |
 | 2044F | [Easy Demon Problem](problems/1900/2044F-Easy-Demon-Problem) | 1900 | `binary search`, `brute force`, `data structures`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2044/problem/F) |
@@ -634,30 +635,30 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 268 |
+| `greedy` | 269 |
 | `math` | 222 |
 | `implementation` | 146 |
 | `dp` | 125 |
 | `brute force` | 110 |
-| `constructive algorithms` | 104 |
+| `constructive algorithms` | 105 |
 | `data structures` | 85 |
 | `binary search` | 85 |
 | `sortings` | 81 |
 | `number theory` | 69 |
+| `dfs and similar` | 57 |
 | `two pointers` | 56 |
-| `dfs and similar` | 56 |
+| `graphs` | 43 |
 | `trees` | 43 |
 | `combinatorics` | 42 |
-| `graphs` | 42 |
 | `strings` | 37 |
 | `bitmasks` | 35 |
+| `games` | 19 |
 | `probabilities` | 18 |
-| `games` | 18 |
 | `dsu` | 15 |
 | `shortest paths` | 12 |
 | `geometry` | 11 |
+| `interactive` | 9 |
 | `divide and conquer` | 9 |
-| `interactive` | 8 |
 | `hashing` | 5 |
 | `matrices` | 4 |
 | `ternary search` | 4 |
@@ -683,7 +684,7 @@
 | 1600 | 55 |
 | 1700 | 42 |
 | 1800 | 31 |
-| 1900 | 36 |
+| 1900 | 37 |
 | 2000 | 12 |
 | 2100 | 8 |
 | 2200 | 1 |
