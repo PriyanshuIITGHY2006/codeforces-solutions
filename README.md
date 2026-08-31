@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 617
+**Total Problems:** 619
 
-**With Source Code:** 389 / 617
+**With Source Code:** 389 / 619
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2258A | [Odd Eraser](problems/Unrated/2258A-Odd-Eraser) | ? | `math` | - | [CF](https://codeforces.com/contest/2258/problem/A) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -598,6 +599,7 @@
 | 2117G | [Omg Graph](problems/1900/2117G-Omg-Graph) | 1900 | `brute force`, `dsu`, `graphs`, `greedy`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/2117/problem/G) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2133/problem/D) |
+| 2148G | [Farmer John's Last Wish](problems/1900/2148G-Farmer-Johns-Last-Wish) | 1900 | `binary search`, `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2148/problem/G) |
 | 2184F | [Cherry Tree](problems/1900/2184F-Cherry-Tree) | 1900 | `dfs and similar`, `dp`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2184/problem/F) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/D) |
@@ -636,15 +638,15 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 269 |
-| `math` | 222 |
+| `math` | 224 |
 | `implementation` | 146 |
 | `dp` | 125 |
 | `brute force` | 110 |
 | `constructive algorithms` | 105 |
-| `data structures` | 85 |
-| `binary search` | 85 |
+| `binary search` | 86 |
+| `data structures` | 86 |
 | `sortings` | 81 |
-| `number theory` | 69 |
+| `number theory` | 70 |
 | `dfs and similar` | 57 |
 | `two pointers` | 56 |
 | `graphs` | 43 |
@@ -684,11 +686,11 @@
 | 1600 | 55 |
 | 1700 | 42 |
 | 1800 | 31 |
-| 1900 | 37 |
+| 1900 | 38 |
 | 2000 | 12 |
 | 2100 | 8 |
 | 2200 | 1 |
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 45 |
+| Unrated | 46 |
