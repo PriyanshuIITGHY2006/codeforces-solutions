@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 621
+**Total Problems:** 622
 
-**With Source Code:** 389 / 621
+**With Source Code:** 389 / 622
 
 
 ## Problems
@@ -546,6 +546,7 @@
 | 846F | [Random Query](problems/1800/846F-Random-Query) | 1800 | `data structures`, `math`, `probabilities`, `two pointers` | Yes | [CF](https://codeforces.com/contest/846/problem/F) |
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | Yes | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1207D | [Number Of Permutations](problems/1800/1207D-Number-Of-Permutations) | 1800 | `combinatorics` | Yes | [CF](https://codeforces.com/contest/1207/problem/D) |
+| 1560E | [Polycarp and String Transformation](problems/1800/1560E-Polycarp-and-String-Transformation) | 1800 | `binary search`, `implementation`, `sortings`, `strings` | - | [CF](https://codeforces.com/contest/1560/problem/E) |
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/1709/problem/C) |
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1729/problem/E) |
 | 1824B1 | [LuoTianyi and the Floating Islands (Easy Version)](problems/1800/1824B1-LuoTianyi-and-the-Floating-Islands-Easy-Version) | 1800 | `combinatorics`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/1824/problem/B1) |
@@ -641,20 +642,20 @@
 |-----|-------|
 | `greedy` | 269 |
 | `math` | 224 |
-| `implementation` | 146 |
+| `implementation` | 147 |
 | `dp` | 125 |
 | `brute force` | 110 |
 | `constructive algorithms` | 105 |
-| `binary search` | 86 |
+| `binary search` | 87 |
 | `data structures` | 86 |
-| `sortings` | 81 |
+| `sortings` | 82 |
 | `number theory` | 70 |
 | `dfs and similar` | 57 |
 | `two pointers` | 56 |
 | `graphs` | 43 |
 | `trees` | 43 |
 | `combinatorics` | 42 |
-| `strings` | 37 |
+| `strings` | 38 |
 | `bitmasks` | 35 |
 | `games` | 19 |
 | `probabilities` | 18 |
@@ -687,7 +688,7 @@
 | 1500 | 71 |
 | 1600 | 55 |
 | 1700 | 42 |
-| 1800 | 31 |
+| 1800 | 32 |
 | 1900 | 38 |
 | 2000 | 12 |
 | 2100 | 8 |
