@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 622
+**Total Problems:** 624
 
-**With Source Code:** 389 / 622
+**With Source Code:** 389 / 624
 
 
 ## Problems
@@ -458,6 +458,7 @@
 | 1349A | [Orac and LCM](problems/1600/1349A-Orac-and-LCM) | 1600 | `data structures`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/1349/problem/A) |
 | 1389B | [Array Walk](problems/1600/1389B-Array-Walk) | 1600 | `brute force`, `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/1389/problem/B) |
 | 1476C | [Longest Simple Cycle](problems/1600/1476C-Longest-Simple-Cycle) | 1600 | `dp`, `graphs`, `greedy` | Yes | [CF](https://codeforces.com/contest/1476/problem/C) |
+| 1511D | [Min Cost String](problems/1600/1511D-Min-Cost-String) | 1600 | `brute force`, `constructive algorithms`, `graphs`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/1511/problem/D) |
 | 1513C | [Add One](problems/1600/1513C-Add-One) | 1600 | `dp`, `matrices` | - | [CF](https://codeforces.com/contest/1513/problem/C) |
 | 1537E1 | [Erase and Extend (Easy Version)](problems/1600/1537E1-Erase-and-Extend-Easy-Version) | 1600 | `binary search`, `brute force`, `dp`, `greedy`, `hashing`, `implementation`, `string suffix structures`, `strings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1537/problem/E1) |
 | 1542C | [Strange Function](problems/1600/1542C-Strange-Function) | 1600 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/1542/problem/C) |
@@ -582,6 +583,7 @@
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | Yes | [CF](https://codeforces.com/contest/1245/problem/D) |
 | 1453D | [Checkpoints](problems/1900/1453D-Checkpoints) | 1900 | `brute force`, `constructive algorithms`, `greedy`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1453/problem/D) |
 | 1702G1 | [Passable Paths (easy version)](problems/1900/1702G1-Passable-Paths-easy-version) | 1900 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1702/problem/G1) |
+| 1714F | [Build a Tree and That Is It](problems/1900/1714F-Build-a-Tree-and-That-Is-It) | 1900 | `constructive algorithms`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/1714/problem/F) |
 | 1759G | [Restore the Permutation](problems/1900/1759G-Restore-the-Permutation) | 1900 | `binary search`, `constructive algorithms`, `data structures`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1759/problem/G) |
 | 1777D | [Score of a Tree](problems/1900/1777D-Score-of-a-Tree) | 1900 | `bitmasks`, `combinatorics`, `dfs and similar`, `dp`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/1777/problem/D) |
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
@@ -640,22 +642,22 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 269 |
+| `greedy` | 270 |
 | `math` | 224 |
-| `implementation` | 147 |
+| `implementation` | 148 |
 | `dp` | 125 |
-| `brute force` | 110 |
-| `constructive algorithms` | 105 |
+| `brute force` | 111 |
+| `constructive algorithms` | 107 |
 | `binary search` | 87 |
 | `data structures` | 86 |
 | `sortings` | 82 |
 | `number theory` | 70 |
 | `dfs and similar` | 57 |
 | `two pointers` | 56 |
-| `graphs` | 43 |
-| `trees` | 43 |
+| `graphs` | 44 |
+| `trees` | 44 |
 | `combinatorics` | 42 |
-| `strings` | 38 |
+| `strings` | 39 |
 | `bitmasks` | 35 |
 | `games` | 19 |
 | `probabilities` | 18 |
@@ -686,10 +688,10 @@
 | 1300 | 43 |
 | 1400 | 48 |
 | 1500 | 71 |
-| 1600 | 55 |
+| 1600 | 56 |
 | 1700 | 42 |
 | 1800 | 32 |
-| 1900 | 38 |
+| 1900 | 39 |
 | 2000 | 12 |
 | 2100 | 8 |
 | 2200 | 1 |
