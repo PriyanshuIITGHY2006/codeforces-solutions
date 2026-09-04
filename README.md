@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 625
+**Total Problems:** 626
 
-**With Source Code:** 389 / 625
+**With Source Code:** 389 / 626
 
 
 ## Problems
@@ -513,6 +513,7 @@
 | 1474C | [Array Destruction](problems/1700/1474C-Array-Destruction) | 1700 | `brute force`, `constructive algorithms`, `data structures`, `greedy`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/1474/problem/C) |
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
 | 1731D | [Valiant's New Map](problems/1700/1731D-Valiants-New-Map) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1731/problem/D) |
+| 1735D | [Meta-set](problems/1700/1735D-Meta-set) | 1700 | `brute force`, `combinatorics`, `data structures`, `hashing`, `math` | - | [CF](https://codeforces.com/contest/1735/problem/D) |
 | 1826D | [Running Miles](problems/1700/1826D-Running-Miles) | 1700 | `brute force`, `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/1826/problem/D) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/1950/problem/F) |
@@ -644,20 +645,20 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 271 |
-| `math` | 224 |
+| `math` | 225 |
 | `implementation` | 148 |
 | `dp` | 125 |
-| `brute force` | 112 |
+| `brute force` | 113 |
 | `constructive algorithms` | 107 |
+| `data structures` | 87 |
 | `binary search` | 87 |
-| `data structures` | 86 |
 | `sortings` | 83 |
 | `number theory` | 70 |
 | `dfs and similar` | 58 |
 | `two pointers` | 56 |
 | `trees` | 45 |
 | `graphs` | 44 |
-| `combinatorics` | 42 |
+| `combinatorics` | 43 |
 | `strings` | 39 |
 | `bitmasks` | 35 |
 | `games` | 19 |
@@ -667,7 +668,7 @@
 | `geometry` | 11 |
 | `interactive` | 9 |
 | `divide and conquer` | 9 |
-| `hashing` | 5 |
+| `hashing` | 6 |
 | `matrices` | 4 |
 | `ternary search` | 4 |
 | `schedules` | 3 |
@@ -690,7 +691,7 @@
 | 1400 | 48 |
 | 1500 | 71 |
 | 1600 | 56 |
-| 1700 | 43 |
+| 1700 | 44 |
 | 1800 | 32 |
 | 1900 | 39 |
 | 2000 | 12 |
