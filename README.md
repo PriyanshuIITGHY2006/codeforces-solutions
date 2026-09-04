@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 624
+**Total Problems:** 625
 
-**With Source Code:** 389 / 624
+**With Source Code:** 389 / 625
 
 
 ## Problems
@@ -517,6 +517,7 @@
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/1950/problem/F) |
 | 1986E | [Beautiful Array](problems/1700/1986E-Beautiful-Array) | 1700 | `greedy`, `math`, `number theory`, `sortings` | Yes | [CF](https://codeforces.com/contest/1986/problem/E) |
+| 2018C | [Tree Pruning](problems/1700/2018C-Tree-Pruning) | 1700 | `brute force`, `dfs and similar`, `greedy`, `sortings`, `trees` | - | [CF](https://codeforces.com/contest/2018/problem/C) |
 | 2030D | [QED's Favorite Permutation](problems/1700/2030D-QEDs-Favorite-Permutation) | 1700 | `data structures`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2030/problem/D) |
 | 2031D | [Penchick and Desert Rabbit](problems/1700/2031D-Penchick-and-Desert-Rabbit) | 1700 | `binary search`, `data structures`, `dfs and similar`, `dp`, `dsu`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2031/problem/D) |
 | 2039D | [Shohag Loves GCD](problems/1700/2039D-Shohag-Loves-GCD) | 1700 | `constructive algorithms`, `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2039/problem/D) |
@@ -642,20 +643,20 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 270 |
+| `greedy` | 271 |
 | `math` | 224 |
 | `implementation` | 148 |
 | `dp` | 125 |
-| `brute force` | 111 |
+| `brute force` | 112 |
 | `constructive algorithms` | 107 |
 | `binary search` | 87 |
 | `data structures` | 86 |
-| `sortings` | 82 |
+| `sortings` | 83 |
 | `number theory` | 70 |
-| `dfs and similar` | 57 |
+| `dfs and similar` | 58 |
 | `two pointers` | 56 |
+| `trees` | 45 |
 | `graphs` | 44 |
-| `trees` | 44 |
 | `combinatorics` | 42 |
 | `strings` | 39 |
 | `bitmasks` | 35 |
@@ -689,7 +690,7 @@
 | 1400 | 48 |
 | 1500 | 71 |
 | 1600 | 56 |
-| 1700 | 42 |
+| 1700 | 43 |
 | 1800 | 32 |
 | 1900 | 39 |
 | 2000 | 12 |
