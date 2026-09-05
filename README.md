@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 627
+**Total Problems:** 628
 
-**With Source Code:** 389 / 627
+**With Source Code:** 389 / 628
 
 
 ## Problems
@@ -508,6 +508,7 @@
 | 1093D | [Beautiful Graph](problems/1700/1093D-Beautiful-Graph) | 1700 | `dfs and similar`, `graphs` | Yes | [CF](https://codeforces.com/contest/1093/problem/D) |
 | 1132C | [Painting the Fence](problems/1700/1132C-Painting-the-Fence) | 1700 | `brute force` | Yes | [CF](https://codeforces.com/contest/1132/problem/C) |
 | 1157C2 | [Increasing Subsequence (hard version)](problems/1700/1157C2-Increasing-Subsequence-hard-version) | 1700 | `greedy` | - | [CF](https://codeforces.com/contest/1157/problem/C2) |
+| 1176E | [Cover it!](problems/1700/1176E-Cover-it) | 1700 | `dfs and similar`, `dsu`, `graphs`, `shortest paths`, `trees` | - | [CF](https://codeforces.com/contest/1176/problem/E) |
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1365D | [Solve The Maze](problems/1700/1365D-Solve-The-Maze) | 1700 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `greedy`, `implementation`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/1365/problem/D) |
 | 1474C | [Array Destruction](problems/1700/1474C-Array-Destruction) | 1700 | `brute force`, `constructive algorithms`, `data structures`, `greedy`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/1474/problem/C) |
@@ -655,17 +656,17 @@
 | `binary search` | 87 |
 | `sortings` | 84 |
 | `number theory` | 70 |
-| `dfs and similar` | 58 |
+| `dfs and similar` | 59 |
 | `two pointers` | 56 |
-| `trees` | 45 |
-| `graphs` | 44 |
+| `trees` | 46 |
+| `graphs` | 45 |
 | `combinatorics` | 43 |
 | `strings` | 39 |
 | `bitmasks` | 35 |
 | `games` | 19 |
 | `probabilities` | 18 |
-| `dsu` | 15 |
-| `shortest paths` | 12 |
+| `dsu` | 16 |
+| `shortest paths` | 13 |
 | `geometry` | 11 |
 | `interactive` | 9 |
 | `divide and conquer` | 9 |
@@ -692,7 +693,7 @@
 | 1400 | 48 |
 | 1500 | 71 |
 | 1600 | 56 |
-| 1700 | 45 |
+| 1700 | 46 |
 | 1800 | 32 |
 | 1900 | 39 |
 | 2000 | 12 |
