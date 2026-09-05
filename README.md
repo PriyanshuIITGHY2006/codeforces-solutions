@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 628
+**Total Problems:** 629
 
-**With Source Code:** 389 / 628
+**With Source Code:** 389 / 629
 
 
 ## Problems
@@ -14,6 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2258A | [Odd Eraser](problems/Unrated/2258A-Odd-Eraser) | ? | `math` | - | [CF](https://codeforces.com/contest/2258/problem/A) |
+| 2259E | [Treasure Map Destruction (Constructive Version)](problems/Unrated/2259E-Treasure-Map-Destruction-Constructive-Version) | ? | `2-sat`, `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2259/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -646,12 +647,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 272 |
+| `greedy` | 273 |
 | `math` | 225 |
 | `implementation` | 148 |
 | `dp` | 125 |
 | `brute force` | 113 |
-| `constructive algorithms` | 108 |
+| `constructive algorithms` | 109 |
 | `data structures` | 87 |
 | `binary search` | 87 |
 | `sortings` | 84 |
@@ -676,6 +677,7 @@
 | `schedules` | 3 |
 | `flows` | 2 |
 | `graph matchings` | 2 |
+| `2-sat` | 1 |
 | `meet-in-the-middle` | 1 |
 | `string suffix structures` | 1 |
 | `chinese remainder theorem` | 1 |
@@ -702,4 +704,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 48 |
+| Unrated | 49 |
