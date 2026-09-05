@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 626
+**Total Problems:** 627
 
-**With Source Code:** 389 / 626
+**With Source Code:** 389 / 627
 
 
 ## Problems
@@ -511,6 +511,7 @@
 | 1324E | [Sleeping Schedule](problems/1700/1324E-Sleeping-Schedule) | 1700 | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/1324/problem/E) |
 | 1365D | [Solve The Maze](problems/1700/1365D-Solve-The-Maze) | 1700 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `greedy`, `implementation`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/1365/problem/D) |
 | 1474C | [Array Destruction](problems/1700/1474C-Array-Destruction) | 1700 | `brute force`, `constructive algorithms`, `data structures`, `greedy`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/1474/problem/C) |
+| 1684D | [Traps](problems/1700/1684D-Traps) | 1700 | `constructive algorithms`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1684/problem/D) |
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
 | 1731D | [Valiant's New Map](problems/1700/1731D-Valiants-New-Map) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1731/problem/D) |
 | 1735D | [Meta-set](problems/1700/1735D-Meta-set) | 1700 | `brute force`, `combinatorics`, `data structures`, `hashing`, `math` | - | [CF](https://codeforces.com/contest/1735/problem/D) |
@@ -644,15 +645,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 271 |
+| `greedy` | 272 |
 | `math` | 225 |
 | `implementation` | 148 |
 | `dp` | 125 |
 | `brute force` | 113 |
-| `constructive algorithms` | 107 |
+| `constructive algorithms` | 108 |
 | `data structures` | 87 |
 | `binary search` | 87 |
-| `sortings` | 83 |
+| `sortings` | 84 |
 | `number theory` | 70 |
 | `dfs and similar` | 58 |
 | `two pointers` | 56 |
@@ -691,7 +692,7 @@
 | 1400 | 48 |
 | 1500 | 71 |
 | 1600 | 56 |
-| 1700 | 44 |
+| 1700 | 45 |
 | 1800 | 32 |
 | 1900 | 39 |
 | 2000 | 12 |
