@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 629
+**Total Problems:** 631
 
-**With Source Code:** 389 / 629
+**With Source Code:** 389 / 631
 
 
 ## Problems
@@ -14,6 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2258A | [Odd Eraser](problems/Unrated/2258A-Odd-Eraser) | ? | `math` | - | [CF](https://codeforces.com/contest/2258/problem/A) |
+| 2259F | [Binary Bubble Sort Inversions](problems/Unrated/2259F-Binary-Bubble-Sort-Inversions) | ? | `data structures`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2259/problem/F) |
 | 2259E | [Treasure Map Destruction (Constructive Version)](problems/Unrated/2259E-Treasure-Map-Destruction-Constructive-Version) | ? | `2-sat`, `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2259/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -553,6 +554,7 @@
 | 1005E1 | [Median on Segments (Permutations Edition)](problems/1800/1005E1-Median-on-Segments-Permutations-Edition) | 1800 | `sortings` | Yes | [CF](https://codeforces.com/contest/1005/problem/E1) |
 | 1207D | [Number Of Permutations](problems/1800/1207D-Number-Of-Permutations) | 1800 | `combinatorics` | Yes | [CF](https://codeforces.com/contest/1207/problem/D) |
 | 1560E | [Polycarp and String Transformation](problems/1800/1560E-Polycarp-and-String-Transformation) | 1800 | `binary search`, `implementation`, `sortings`, `strings` | - | [CF](https://codeforces.com/contest/1560/problem/E) |
+| 1675F | [Vlad and Unfinished Business](problems/1800/1675F-Vlad-and-Unfinished-Business) | 1800 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/1675/problem/F) |
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/1709/problem/C) |
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1729/problem/E) |
 | 1824B1 | [LuoTianyi and the Floating Islands (Easy Version)](problems/1800/1824B1-LuoTianyi-and-the-Floating-Islands-Easy-Version) | 1800 | `combinatorics`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/1824/problem/B1) |
@@ -647,19 +649,19 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 273 |
-| `math` | 225 |
+| `greedy` | 274 |
+| `math` | 226 |
 | `implementation` | 148 |
-| `dp` | 125 |
+| `dp` | 126 |
 | `brute force` | 113 |
 | `constructive algorithms` | 109 |
-| `data structures` | 87 |
+| `data structures` | 88 |
 | `binary search` | 87 |
 | `sortings` | 84 |
 | `number theory` | 70 |
-| `dfs and similar` | 59 |
-| `two pointers` | 56 |
-| `trees` | 46 |
+| `dfs and similar` | 60 |
+| `two pointers` | 57 |
+| `trees` | 47 |
 | `graphs` | 45 |
 | `combinatorics` | 43 |
 | `strings` | 39 |
@@ -696,7 +698,7 @@
 | 1500 | 71 |
 | 1600 | 56 |
 | 1700 | 46 |
-| 1800 | 32 |
+| 1800 | 33 |
 | 1900 | 39 |
 | 2000 | 12 |
 | 2100 | 8 |
@@ -704,4 +706,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 49 |
+| Unrated | 50 |
