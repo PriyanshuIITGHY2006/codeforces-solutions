@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 635
+**Total Problems:** 636
 
-**With Source Code:** 389 / 635
+**With Source Code:** 389 / 636
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2260D | [Signs of Prefix Sums](problems/Unrated/2260D-Signs-of-Prefix-Sums) | ? | `brute force`, `dfs and similar` | - | [CF](https://codeforces.com/contest/2260/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -657,13 +658,13 @@
 | `math` | 228 |
 | `implementation` | 148 |
 | `dp` | 128 |
-| `brute force` | 114 |
+| `brute force` | 115 |
 | `constructive algorithms` | 109 |
 | `data structures` | 89 |
 | `binary search` | 88 |
 | `sortings` | 84 |
 | `number theory` | 70 |
-| `dfs and similar` | 63 |
+| `dfs and similar` | 64 |
 | `two pointers` | 57 |
 | `trees` | 49 |
 | `graphs` | 45 |
@@ -710,4 +711,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 47 |
+| Unrated | 48 |
