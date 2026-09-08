@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 631
+**Total Problems:** 633
 
-**With Source Code:** 389 / 631
+**With Source Code:** 389 / 633
 
 
 ## Problems
@@ -521,6 +521,7 @@
 | 1826D | [Running Miles](problems/1700/1826D-Running-Miles) | 1700 | `brute force`, `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/1826/problem/D) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/1950/problem/F) |
+| 1970C2 | [Game on Tree (Medium)](problems/1700/1970C2-Game-on-Tree-Medium) | 1700 | `dfs and similar`, `dp`, `games`, `trees` | - | [CF](https://codeforces.com/contest/1970/problem/C2) |
 | 1986E | [Beautiful Array](problems/1700/1986E-Beautiful-Array) | 1700 | `greedy`, `math`, `number theory`, `sortings` | Yes | [CF](https://codeforces.com/contest/1986/problem/E) |
 | 2018C | [Tree Pruning](problems/1700/2018C-Tree-Pruning) | 1700 | `brute force`, `dfs and similar`, `greedy`, `sortings`, `trees` | - | [CF](https://codeforces.com/contest/2018/problem/C) |
 | 2030D | [QED's Favorite Permutation](problems/1700/2030D-QEDs-Favorite-Permutation) | 1700 | `data structures`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2030/problem/D) |
@@ -637,6 +638,7 @@
 | 1778D | [Flexible String Revisit](problems/2100/1778D-Flexible-String-Revisit) | 2100 | `combinatorics`, `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1778/problem/D) |
 | 1811F | [Is It Flower?](problems/2100/1811F-Is-It-Flower) | 2100 | `dfs and similar`, `graphs`, `implementation` | Yes | [CF](https://codeforces.com/contest/1811/problem/F) |
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2029/problem/E) |
+| 2234E | [Vlad, Misha and Two Arrays](problems/2100/2234E-Vlad-Misha-and-Two-Arrays) | 2100 | `brute force`, `combinatorics`, `dfs and similar`, `divide and conquer`, `math` | - | [CF](https://codeforces.com/contest/2234/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 960E | [Alternating Tree](problems/2300/960E-Alternating-Tree) | 2300 | `combinatorics`, `dfs and similar`, `divide and conquer`, `dp`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/960/problem/E) |
 | 1096F | [Inversion Expectation](problems/2300/1096F-Inversion-Expectation) | 2300 | `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1096/problem/F) |
@@ -650,29 +652,29 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 274 |
-| `math` | 226 |
+| `math` | 227 |
 | `implementation` | 148 |
-| `dp` | 126 |
-| `brute force` | 113 |
+| `dp` | 127 |
+| `brute force` | 114 |
 | `constructive algorithms` | 109 |
 | `data structures` | 88 |
 | `binary search` | 87 |
 | `sortings` | 84 |
 | `number theory` | 70 |
-| `dfs and similar` | 60 |
+| `dfs and similar` | 62 |
 | `two pointers` | 57 |
-| `trees` | 47 |
+| `trees` | 48 |
 | `graphs` | 45 |
-| `combinatorics` | 43 |
+| `combinatorics` | 44 |
 | `strings` | 39 |
 | `bitmasks` | 35 |
-| `games` | 19 |
+| `games` | 20 |
 | `probabilities` | 18 |
 | `dsu` | 16 |
 | `shortest paths` | 13 |
 | `geometry` | 11 |
+| `divide and conquer` | 10 |
 | `interactive` | 9 |
-| `divide and conquer` | 9 |
 | `hashing` | 6 |
 | `matrices` | 4 |
 | `ternary search` | 4 |
@@ -697,11 +699,11 @@
 | 1400 | 48 |
 | 1500 | 71 |
 | 1600 | 56 |
-| 1700 | 46 |
+| 1700 | 47 |
 | 1800 | 33 |
 | 1900 | 39 |
 | 2000 | 12 |
-| 2100 | 8 |
+| 2100 | 9 |
 | 2200 | 1 |
 | 2300 | 5 |
 | 2400 | 1 |
