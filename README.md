@@ -4,18 +4,15 @@
 
 **Language:** C++
 
-**Total Problems:** 634
+**Total Problems:** 635
 
-**With Source Code:** 389 / 634
+**With Source Code:** 389 / 635
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2258A | [Odd Eraser](problems/Unrated/2258A-Odd-Eraser) | ? | `math` | - | [CF](https://codeforces.com/contest/2258/problem/A) |
-| 2259F | [Binary Bubble Sort Inversions](problems/Unrated/2259F-Binary-Bubble-Sort-Inversions) | ? | `data structures`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2259/problem/F) |
-| 2259E | [Treasure Map Destruction (Constructive Version)](problems/Unrated/2259E-Treasure-Map-Destruction-Constructive-Version) | ? | `2-sat`, `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2259/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -139,6 +136,7 @@
 | 2252A | [Boss Fight](problems/0800/2252A-Boss-Fight) | 800 | `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 2253A | [The Best Card](problems/0800/2253A-The-Best-Card) | 800 | `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254A | [Riptide](problems/0800/2254A-Riptide) | 800 | `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2254/problem/A) |
+| 2258A | [Odd Eraser](problems/0800/2258A-Odd-Eraser) | 800 | `math` | - | [CF](https://codeforces.com/contest/2258/problem/A) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
@@ -443,6 +441,7 @@
 | 2238D | [Storming Arasaka](problems/1500/2238D-Storming-Arasaka) | 1500 | `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2238/problem/D) |
 | 2253C | [Sum of Distinct Values in a Matrix](problems/1500/2253C-Sum-of-Distinct-Values-in-a-Matrix) | 1500 | `greedy`, `sortings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2253/problem/C) |
 | 2254E | [Chronostasis](problems/1500/2254E-Chronostasis) | 1500 | `binary search`, `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2254/problem/E) |
+| 2259E | [Treasure Map Destruction (Constructive Version)](problems/1500/2259E-Treasure-Map-Destruction-Constructive-Version) | 1500 | `2-sat`, `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2259/problem/E) |
 | 150B | [Quantity of Strings](problems/1600/150B-Quantity-of-Strings) | 1600 | `combinatorics`, `dfs and similar`, `graphs`, `math` | Yes | [CF](https://codeforces.com/contest/150/problem/B) |
 | 165C | [Another Problem on Strings](problems/1600/165C-Another-Problem-on-Strings) | 1600 | `binary search`, `brute force`, `dp`, `math`, `strings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/165/problem/C) |
 | 369C | [Valera and Elections](problems/1600/369C-Valera-and-Elections) | 1600 | `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/369/problem/C) |
@@ -578,6 +577,7 @@
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
 | 2218G | [The 67th Iteration of "Counting is Fun"](problems/1800/2218G-The-67th-Iteration-of-Counting-is-Fun) | 1800 | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2218/problem/G) |
 | 2253D | [Hypercarp and Interdimensional Jumps](problems/1800/2253D-Hypercarp-and-Interdimensional-Jumps) | 1800 | `binary search`, `brute force`, `geometry`, `greedy`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2253/problem/D) |
+| 2259F | [Binary Bubble Sort Inversions](problems/1800/2259F-Binary-Bubble-Sort-Inversions) | 1800 | `data structures`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/2259/problem/F) |
 | 639709D | [Add Points](problems/1800/639709D-Add-Points) | 1800 |  | Yes | [CF](https://codeforces.com/contest/639709/problem/D) |
 | 20C | [Dijkstra?](problems/1900/20C-Dijkstra) | 1900 | `graphs`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/20/problem/C) |
 | 180D | [Name](problems/1900/180D-Name) | 1900 | `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/180/problem/D) |
@@ -619,6 +619,7 @@
 | 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/D) |
 | 2231D | [Maximum Prefix Sums](problems/1900/2231D-Maximum-Prefix-Sums) | 1900 | `constructive algorithms`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2231/problem/D) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2233/problem/D) |
+| 2259G | [Index Removal](problems/1900/2259G-Index-Removal) | 1900 | `binary search`, `data structures`, `math` | - | [CF](https://codeforces.com/contest/2259/problem/G) |
 | 863E | [Turn Off The TV](problems/2000/863E-Turn-Off-The-TV) | 2000 | `data structures`, `sortings` | Yes | [CF](https://codeforces.com/contest/863/problem/E) |
 | 1009E | [Intercity Travelling](problems/2000/1009E-Intercity-Travelling) | 2000 | `combinatorics`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1009/problem/E) |
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | Yes | [CF](https://codeforces.com/contest/1142/problem/B) |
@@ -653,13 +654,13 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 274 |
-| `math` | 227 |
+| `math` | 228 |
 | `implementation` | 148 |
 | `dp` | 128 |
 | `brute force` | 114 |
 | `constructive algorithms` | 109 |
-| `data structures` | 88 |
-| `binary search` | 87 |
+| `data structures` | 89 |
+| `binary search` | 88 |
 | `sortings` | 84 |
 | `number theory` | 70 |
 | `dfs and similar` | 63 |
@@ -692,21 +693,21 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 80 |
+| 0800 | 81 |
 | 1000 | 36 |
 | 1100 | 29 |
 | 1200 | 61 |
 | 1300 | 43 |
 | 1400 | 48 |
-| 1500 | 71 |
+| 1500 | 72 |
 | 1600 | 56 |
 | 1700 | 47 |
-| 1800 | 33 |
-| 1900 | 40 |
+| 1800 | 34 |
+| 1900 | 41 |
 | 2000 | 12 |
 | 2100 | 9 |
 | 2200 | 1 |
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 50 |
+| Unrated | 47 |
