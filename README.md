@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 633
+**Total Problems:** 634
 
-**With Source Code:** 389 / 633
+**With Source Code:** 389 / 634
 
 
 ## Problems
@@ -597,6 +597,7 @@
 | 1791G2 | [Teleporters (Hard Version)](problems/1900/1791G2-Teleporters-Hard-Version) | 1900 | `binary search`, `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/1791/problem/G2) |
 | 1800F | [Dasha and Nightmares](problems/1900/1800F-Dasha-and-Nightmares) | 1900 | `bitmasks`, `hashing`, `meet-in-the-middle`, `strings` | Yes | [CF](https://codeforces.com/contest/1800/problem/F) |
 | 1932F | [Feed Cats](problems/1900/1932F-Feed-Cats) | 1900 | `data structures`, `dp`, `sortings` | Yes | [CF](https://codeforces.com/contest/1932/problem/F) |
+| 1970C3 | [Game on Tree (Hard)](problems/1900/1970C3-Game-on-Tree-Hard) | 1900 | `dfs and similar`, `dp`, `games`, `trees` | - | [CF](https://codeforces.com/contest/1970/problem/C3) |
 | 1989D | [Smithing Skill](problems/1900/1989D-Smithing-Skill) | 1900 | `brute force`, `data structures`, `dp`, `greedy`, `math`, `sortings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1989/problem/D) |
 | 1991E | [Coloring Game](problems/1900/1991E-Coloring-Game) | 1900 | `constructive algorithms`, `dfs and similar`, `games`, `graphs`, `greedy`, `interactive` | Yes | [CF](https://codeforces.com/contest/1991/problem/E) |
 | 2000F | [Color Rows and Columns](problems/1900/2000F-Color-Rows-and-Columns) | 1900 | `dp`, `greedy`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2000/problem/F) |
@@ -654,21 +655,21 @@
 | `greedy` | 274 |
 | `math` | 227 |
 | `implementation` | 148 |
-| `dp` | 127 |
+| `dp` | 128 |
 | `brute force` | 114 |
 | `constructive algorithms` | 109 |
 | `data structures` | 88 |
 | `binary search` | 87 |
 | `sortings` | 84 |
 | `number theory` | 70 |
-| `dfs and similar` | 62 |
+| `dfs and similar` | 63 |
 | `two pointers` | 57 |
-| `trees` | 48 |
+| `trees` | 49 |
 | `graphs` | 45 |
 | `combinatorics` | 44 |
 | `strings` | 39 |
 | `bitmasks` | 35 |
-| `games` | 20 |
+| `games` | 21 |
 | `probabilities` | 18 |
 | `dsu` | 16 |
 | `shortest paths` | 13 |
@@ -701,7 +702,7 @@
 | 1600 | 56 |
 | 1700 | 47 |
 | 1800 | 33 |
-| 1900 | 39 |
+| 1900 | 40 |
 | 2000 | 12 |
 | 2100 | 9 |
 | 2200 | 1 |
