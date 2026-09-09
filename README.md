@@ -14,7 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2260C | [Maximize XOR, Minimize Operations](problems/Unrated/2260C-Maximize-XOR-Minimize-Operations) | ? | `bitmasks`, `greedy` | - | [CF](https://codeforces.com/contest/2260/problem/C) |
-| 2260D | [Signs of Prefix Sums](problems/Unrated/2260D-Signs-of-Prefix-Sums) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `dp` | - | [CF](https://codeforces.com/contest/2260/problem/D) |
+| 2260D | [Signs of Prefix Sums](problems/Unrated/2260D-Signs-of-Prefix-Sums) | ? | `binary search`, `brute force`, `constructive algorithms`, `dfs and similar`, `dp` | - | [CF](https://codeforces.com/contest/2260/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -661,8 +661,8 @@
 | `dp` | 129 |
 | `brute force` | 115 |
 | `constructive algorithms` | 110 |
+| `binary search` | 89 |
 | `data structures` | 89 |
-| `binary search` | 88 |
 | `sortings` | 84 |
 | `number theory` | 70 |
 | `dfs and similar` | 64 |
