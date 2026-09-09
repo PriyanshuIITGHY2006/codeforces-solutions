@@ -4,16 +4,17 @@
 
 **Language:** C++
 
-**Total Problems:** 636
+**Total Problems:** 637
 
-**With Source Code:** 389 / 636
+**With Source Code:** 389 / 637
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2260D | [Signs of Prefix Sums](problems/Unrated/2260D-Signs-of-Prefix-Sums) | ? | `brute force`, `dfs and similar` | - | [CF](https://codeforces.com/contest/2260/problem/D) |
+| 2260C | [Maximize XOR, Minimize Operations](problems/Unrated/2260C-Maximize-XOR-Minimize-Operations) | ? | `bitmasks`, `greedy` | - | [CF](https://codeforces.com/contest/2260/problem/C) |
+| 2260D | [Signs of Prefix Sums](problems/Unrated/2260D-Signs-of-Prefix-Sums) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `dp` | - | [CF](https://codeforces.com/contest/2260/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -654,12 +655,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 274 |
+| `greedy` | 275 |
 | `math` | 228 |
 | `implementation` | 148 |
-| `dp` | 128 |
+| `dp` | 129 |
 | `brute force` | 115 |
-| `constructive algorithms` | 109 |
+| `constructive algorithms` | 110 |
 | `data structures` | 89 |
 | `binary search` | 88 |
 | `sortings` | 84 |
@@ -670,7 +671,7 @@
 | `graphs` | 45 |
 | `combinatorics` | 44 |
 | `strings` | 39 |
-| `bitmasks` | 35 |
+| `bitmasks` | 36 |
 | `games` | 21 |
 | `probabilities` | 18 |
 | `dsu` | 16 |
@@ -711,4 +712,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 48 |
+| Unrated | 49 |
