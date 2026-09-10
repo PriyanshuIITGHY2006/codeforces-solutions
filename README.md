@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 637
+**Total Problems:** 638
 
-**With Source Code:** 389 / 637
+**With Source Code:** 389 / 638
 
 
 ## Problems
@@ -139,6 +139,7 @@
 | 2253A | [The Best Card](problems/0800/2253A-The-Best-Card) | 800 | `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254A | [Riptide](problems/0800/2254A-Riptide) | 800 | `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2254/problem/A) |
 | 2258A | [Odd Eraser](problems/0800/2258A-Odd-Eraser) | 800 | `math` | - | [CF](https://codeforces.com/contest/2258/problem/A) |
+| 2259B | [Minus Two](problems/0800/2259B-Minus-Two) | 800 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2259/problem/B) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
 | 662678A | [The Vanishing of Will Byers](problems/0800/662678A-The-Vanishing-of-Will-Byers) | 800 |  | - | [CF](https://codeforces.com/contest/662678/problem/A) |
@@ -656,7 +657,7 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 275 |
-| `math` | 228 |
+| `math` | 229 |
 | `implementation` | 148 |
 | `dp` | 129 |
 | `brute force` | 115 |
@@ -664,7 +665,7 @@
 | `binary search` | 89 |
 | `data structures` | 89 |
 | `sortings` | 84 |
-| `number theory` | 70 |
+| `number theory` | 71 |
 | `dfs and similar` | 64 |
 | `two pointers` | 57 |
 | `trees` | 49 |
@@ -695,7 +696,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 81 |
+| 0800 | 82 |
 | 1000 | 36 |
 | 1100 | 29 |
 | 1200 | 61 |
