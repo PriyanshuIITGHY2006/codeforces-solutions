@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 638
+**Total Problems:** 639
 
-**With Source Code:** 389 / 638
+**With Source Code:** 389 / 639
 
 
 ## Problems
@@ -139,6 +139,7 @@
 | 2253A | [The Best Card](problems/0800/2253A-The-Best-Card) | 800 | `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254A | [Riptide](problems/0800/2254A-Riptide) | 800 | `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2254/problem/A) |
 | 2258A | [Odd Eraser](problems/0800/2258A-Odd-Eraser) | 800 | `math` | - | [CF](https://codeforces.com/contest/2258/problem/A) |
+| 2259A | [Moo Language School](problems/0800/2259A-Moo-Language-School) | 800 | `brute force`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2259/problem/A) |
 | 2259B | [Minus Two](problems/0800/2259B-Minus-Two) | 800 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2259/problem/B) |
 | 660722B | [Equality and Recruitment](problems/0800/660722B-Equality-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/B) |
 | 660722A | [Name and Recruitment](problems/0800/660722A-Name-and-Recruitment) | 800 |  | - | [CF](https://codeforces.com/contest/660722/problem/A) |
@@ -656,18 +657,18 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 275 |
+| `greedy` | 276 |
 | `math` | 229 |
 | `implementation` | 149 |
 | `dp` | 129 |
-| `brute force` | 115 |
+| `brute force` | 116 |
 | `constructive algorithms` | 110 |
 | `binary search` | 89 |
 | `data structures` | 89 |
 | `sortings` | 84 |
 | `number theory` | 71 |
 | `dfs and similar` | 64 |
-| `two pointers` | 57 |
+| `two pointers` | 58 |
 | `trees` | 49 |
 | `graphs` | 45 |
 | `combinatorics` | 44 |
@@ -696,7 +697,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 82 |
+| 0800 | 83 |
 | 1000 | 36 |
 | 1100 | 29 |
 | 1200 | 61 |
