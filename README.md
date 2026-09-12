@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 639
+**Total Problems:** 640
 
-**With Source Code:** 389 / 639
+**With Source Code:** 389 / 640
 
 
 ## Problems
@@ -138,6 +138,7 @@
 | 2252A | [Boss Fight](problems/0800/2252A-Boss-Fight) | 800 | `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 2253A | [The Best Card](problems/0800/2253A-The-Best-Card) | 800 | `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2253/problem/A) |
 | 2254A | [Riptide](problems/0800/2254A-Riptide) | 800 | `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2254/problem/A) |
+| 2257A | [Creating Abbreviations](problems/0800/2257A-Creating-Abbreviations) | 800 | `brute force`, `strings` | - | [CF](https://codeforces.com/contest/2257/problem/A) |
 | 2258A | [Odd Eraser](problems/0800/2258A-Odd-Eraser) | 800 | `math` | - | [CF](https://codeforces.com/contest/2258/problem/A) |
 | 2259A | [Moo Language School](problems/0800/2259A-Moo-Language-School) | 800 | `brute force`, `greedy`, `two pointers` | - | [CF](https://codeforces.com/contest/2259/problem/A) |
 | 2259B | [Minus Two](problems/0800/2259B-Minus-Two) | 800 | `math`, `number theory` | - | [CF](https://codeforces.com/contest/2259/problem/B) |
@@ -661,7 +662,7 @@
 | `math` | 229 |
 | `implementation` | 149 |
 | `dp` | 129 |
-| `brute force` | 116 |
+| `brute force` | 117 |
 | `constructive algorithms` | 110 |
 | `data structures` | 89 |
 | `binary search` | 88 |
@@ -672,7 +673,7 @@
 | `trees` | 49 |
 | `graphs` | 45 |
 | `combinatorics` | 44 |
-| `strings` | 39 |
+| `strings` | 40 |
 | `bitmasks` | 36 |
 | `games` | 21 |
 | `probabilities` | 18 |
@@ -697,7 +698,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 83 |
+| 0800 | 84 |
 | 1000 | 36 |
 | 1100 | 29 |
 | 1200 | 61 |
