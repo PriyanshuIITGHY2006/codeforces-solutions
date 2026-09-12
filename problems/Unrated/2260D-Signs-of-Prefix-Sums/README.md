@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `binary search`, `brute force`, `constructive algorithms`, `dfs and similar`, `dp`, `implementation`
+**Tags:** `brute force`, `constructive algorithms`, `dfs and similar`, `dp`, `implementation`
 
 **Language:** C++23 (GCC 14-64, msys2)
 
