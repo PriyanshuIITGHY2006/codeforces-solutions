@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 640
+**Total Problems:** 641
 
-**With Source Code:** 389 / 640
+**With Source Code:** 389 / 641
 
 
 ## Problems
@@ -134,6 +134,7 @@
 | 2242A | [Bigrams](problems/0800/2242A-Bigrams) | 800 | `sortings`, `strings` | Yes | [CF](https://codeforces.com/contest/2242/problem/A) |
 | 2245A | [Who Watches the Watchpig?](problems/0800/2245A-Who-Watches-the-Watchpig) | 800 | `greedy` | Yes | [CF](https://codeforces.com/contest/2245/problem/A) |
 | 2246A | [farmpiggie and Subset Sum](problems/0800/2246A-farmpiggie-and-Subset-Sum) | 800 | `constructive algorithms` | Yes | [CF](https://codeforces.com/contest/2246/problem/A) |
+| 2247A | [Zero Sum](problems/0800/2247A-Zero-Sum) | 800 | `constructive algorithms`, `dp`, `number theory` | - | [CF](https://codeforces.com/contest/2247/problem/A) |
 | 2250A | [Threshold Movement](problems/0800/2250A-Threshold-Movement) | 800 | `brute force`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2250/problem/A) |
 | 2252A | [Boss Fight](problems/0800/2252A-Boss-Fight) | 800 | `data structures`, `greedy` | Yes | [CF](https://codeforces.com/contest/2252/problem/A) |
 | 2253A | [The Best Card](problems/0800/2253A-The-Best-Card) | 800 | `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2253/problem/A) |
@@ -661,13 +662,13 @@
 | `greedy` | 276 |
 | `math` | 229 |
 | `implementation` | 149 |
-| `dp` | 129 |
+| `dp` | 130 |
 | `brute force` | 117 |
-| `constructive algorithms` | 110 |
+| `constructive algorithms` | 111 |
 | `data structures` | 89 |
 | `binary search` | 88 |
 | `sortings` | 84 |
-| `number theory` | 71 |
+| `number theory` | 72 |
 | `dfs and similar` | 64 |
 | `two pointers` | 58 |
 | `trees` | 49 |
@@ -698,7 +699,7 @@
 
 | Rating | Count |
 |--------|-------|
-| 0800 | 84 |
+| 0800 | 85 |
 | 1000 | 36 |
 | 1100 | 29 |
 | 1200 | 61 |
