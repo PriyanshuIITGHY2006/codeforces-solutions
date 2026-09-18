@@ -13,8 +13,6 @@
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2260C | [Maximize XOR, Minimize Operations](problems/Unrated/2260C-Maximize-XOR-Minimize-Operations) | ? | `bitmasks`, `greedy` | - | [CF](https://codeforces.com/contest/2260/problem/C) |
-| 2260D | [Signs of Prefix Sums](problems/Unrated/2260D-Signs-of-Prefix-Sums) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `dp`, `implementation` | - | [CF](https://codeforces.com/contest/2260/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -328,6 +326,7 @@
 | 2242C | [Unstable Elements](problems/1300/2242C-Unstable-Elements) | 1300 | `brute force`, `data structures`, `implementation`, `sortings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2242/problem/C) |
 | 2248C | [Maximize the Score](problems/1300/2248C-Maximize-the-Score) | 1300 | `dp`, `greedy` | - | [CF](https://codeforces.com/contest/2248/problem/C) |
 | 2250C | [Rank Subsequence](problems/1300/2250C-Rank-Subsequence) | 1300 | `brute force`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2250/problem/C) |
+| 2260C | [Maximize XOR, Minimize Operations](problems/1300/2260C-Maximize-XOR-Minimize-Operations) | 1300 | `bitmasks`, `greedy` | - | [CF](https://codeforces.com/contest/2260/problem/C) |
 | 279B | [Books](problems/1400/279B-Books) | 1400 | `binary search`, `brute force`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/279/problem/B) |
 | 295A | [Greg and Array](problems/1400/295A-Greg-and-Array) | 1400 | `data structures`, `implementation` | - | [CF](https://codeforces.com/contest/295/problem/A) |
 | 369B | [Valera and Contest](problems/1400/369B-Valera-and-Contest) | 1400 | `constructive algorithms`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/369/problem/B) |
@@ -550,6 +549,7 @@
 | 2236E | [Friendly Gifts](problems/1700/2236E-Friendly-Gifts) | 1700 | `brute force`, `dp` | Yes | [CF](https://codeforces.com/contest/2236/problem/E) |
 | 2236F1 | [Elections in Saransk (easy version)](problems/1700/2236F1-Elections-in-Saransk-easy-version) | 1700 | `number theory` | Yes | [CF](https://codeforces.com/contest/2236/problem/F1) |
 | 2252D | [Array Replacement](problems/1700/2252D-Array-Replacement) | 1700 | `greedy`, `sortings` | Yes | [CF](https://codeforces.com/contest/2252/problem/D) |
+| 2260D | [Signs of Prefix Sums](problems/1700/2260D-Signs-of-Prefix-Sums) | 1700 | `brute force`, `constructive algorithms`, `dfs and similar`, `dp`, `implementation` | - | [CF](https://codeforces.com/contest/2260/problem/D) |
 | 709390B | [Wet Shark and Flowers](problems/1700/709390B-Wet-Shark-and-Flowers) | 1700 |  | Yes | [CF](https://codeforces.com/contest/709390/problem/B) |
 | 30C | [Shooting Gallery](problems/1800/30C-Shooting-Gallery) | 1800 | `dp`, `probabilities` | Yes | [CF](https://codeforces.com/contest/30/problem/C) |
 | 161D | [Distance in Tree](problems/1800/161D-Distance-in-Tree) | 1800 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/161/problem/D) |
@@ -703,11 +703,11 @@
 | 1000 | 36 |
 | 1100 | 29 |
 | 1200 | 61 |
-| 1300 | 43 |
+| 1300 | 44 |
 | 1400 | 48 |
 | 1500 | 72 |
 | 1600 | 56 |
-| 1700 | 47 |
+| 1700 | 48 |
 | 1800 | 34 |
 | 1900 | 41 |
 | 2000 | 12 |
@@ -716,4 +716,4 @@
 | 2300 | 5 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 49 |
+| Unrated | 47 |
