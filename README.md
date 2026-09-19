@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 641
+**Total Problems:** 642
 
-**With Source Code:** 389 / 641
+**With Source Code:** 389 / 642
 
 
 ## Problems
@@ -646,6 +646,7 @@
 | 1778D | [Flexible String Revisit](problems/2100/1778D-Flexible-String-Revisit) | 2100 | `combinatorics`, `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1778/problem/D) |
 | 1811F | [Is It Flower?](problems/2100/1811F-Is-It-Flower) | 2100 | `dfs and similar`, `graphs`, `implementation` | Yes | [CF](https://codeforces.com/contest/1811/problem/F) |
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2029/problem/E) |
+| 2040E | [Control of Randomness](problems/2100/2040E-Control-of-Randomness) | 2100 | `combinatorics`, `dfs and similar`, `dp`, `graphs`, `greedy`, `math`, `probabilities`, `trees` | - | [CF](https://codeforces.com/contest/2040/problem/E) |
 | 2234E | [Vlad, Misha and Two Arrays](problems/2100/2234E-Vlad-Misha-and-Two-Arrays) | 2100 | `brute force`, `combinatorics`, `dfs and similar`, `divide and conquer`, `math` | - | [CF](https://codeforces.com/contest/2234/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 960E | [Alternating Tree](problems/2300/960E-Alternating-Tree) | 2300 | `combinatorics`, `dfs and similar`, `divide and conquer`, `dp`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/960/problem/E) |
@@ -659,25 +660,25 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 276 |
-| `math` | 229 |
+| `greedy` | 277 |
+| `math` | 230 |
 | `implementation` | 149 |
-| `dp` | 130 |
+| `dp` | 131 |
 | `brute force` | 117 |
 | `constructive algorithms` | 111 |
 | `data structures` | 89 |
 | `binary search` | 88 |
 | `sortings` | 84 |
 | `number theory` | 72 |
-| `dfs and similar` | 64 |
+| `dfs and similar` | 65 |
 | `two pointers` | 58 |
-| `trees` | 49 |
-| `graphs` | 45 |
-| `combinatorics` | 44 |
+| `trees` | 50 |
+| `graphs` | 46 |
+| `combinatorics` | 45 |
 | `strings` | 40 |
 | `bitmasks` | 36 |
 | `games` | 21 |
-| `probabilities` | 18 |
+| `probabilities` | 19 |
 | `dsu` | 16 |
 | `shortest paths` | 13 |
 | `geometry` | 11 |
@@ -711,7 +712,7 @@
 | 1800 | 34 |
 | 1900 | 41 |
 | 2000 | 12 |
-| 2100 | 9 |
+| 2100 | 10 |
 | 2200 | 1 |
 | 2300 | 5 |
 | 2400 | 1 |
