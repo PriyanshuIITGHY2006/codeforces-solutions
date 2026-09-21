@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 642
+**Total Problems:** 644
 
-**With Source Code:** 414 / 642
+**With Source Code:** 414 / 644
 
 
 ## Problems
@@ -281,6 +281,7 @@
 | 2218E | [The 67th XOR Problem](problems/1200/2218E-The-67th-XOR-Problem) | 1200 | `binary search`, `bitmasks`, `brute force` | Yes | [CF](https://codeforces.com/contest/2218/problem/E) |
 | 2227D | [Palindromex](problems/1200/2227D-Palindromex) | 1200 | `binary search`, `brute force`, `constructive algorithms`, `data structures`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2227/problem/D) |
 | 2257C | [Spying on the Beaver](problems/1200/2257C-Spying-on-the-Beaver) | 1200 | `constructive algorithms`, `dfs and similar`, `dsu`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2257/problem/C) |
+| 2263C1 | [Floor of MEX (Easy Version)](problems/1200/2263C1-Floor-of-MEX-Easy-Version) | 1200 | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2263/problem/C1) |
 | 660580C | [Range and Recruitment](problems/1200/660580C-Range-and-Recruitment) | 1200 |  | - | [CF](https://codeforces.com/contest/660580/problem/C) |
 | 660722D | [Multiplication and Recruitment](problems/1200/660722D-Multiplication-and-Recruitment) | 1200 |  | - | [CF](https://codeforces.com/contest/660722/problem/D) |
 | 230B | [T-primes](problems/1300/230B-T-primes) | 1300 | `binary search`, `implementation`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/230/problem/B) |
@@ -651,6 +652,7 @@
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 960E | [Alternating Tree](problems/2300/960E-Alternating-Tree) | 2300 | `combinatorics`, `dfs and similar`, `divide and conquer`, `dp`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/960/problem/E) |
 | 1096F | [Inversion Expectation](problems/2300/1096F-Inversion-Expectation) | 2300 | `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1096/problem/F) |
+| 1983E | [I Love Balls](problems/2300/1983E-I-Love-Balls) | 2300 | `combinatorics`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1983/problem/E) |
 | 2028E | [Alice's Adventures in the Rabbit Hole](problems/2300/2028E-Alices-Adventures-in-the-Rabbit-Hole) | 2300 | `combinatorics`, `dfs and similar`, `dp`, `games`, `greedy`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/2028/problem/E) |
 | 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | Yes | [CF](https://codeforces.com/contest/2134/problem/E) |
 | 2159C | [Twin Polynomials](problems/2300/2159C-Twin-Polynomials) | 2300 | `combinatorics`, `graph matchings`, `math` | Yes | [CF](https://codeforces.com/contest/2159/problem/C) |
@@ -660,12 +662,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 277 |
-| `math` | 230 |
+| `greedy` | 278 |
+| `math` | 231 |
 | `implementation` | 149 |
 | `dp` | 131 |
 | `brute force` | 117 |
-| `constructive algorithms` | 111 |
+| `constructive algorithms` | 112 |
 | `data structures` | 89 |
 | `binary search` | 88 |
 | `sortings` | 84 |
@@ -673,12 +675,12 @@
 | `dfs and similar` | 65 |
 | `two pointers` | 58 |
 | `trees` | 50 |
+| `combinatorics` | 46 |
 | `graphs` | 46 |
-| `combinatorics` | 45 |
 | `strings` | 40 |
 | `bitmasks` | 36 |
 | `games` | 21 |
-| `probabilities` | 19 |
+| `probabilities` | 20 |
 | `dsu` | 16 |
 | `shortest paths` | 13 |
 | `geometry` | 11 |
@@ -703,7 +705,7 @@
 | 0800 | 85 |
 | 1000 | 36 |
 | 1100 | 29 |
-| 1200 | 61 |
+| 1200 | 62 |
 | 1300 | 44 |
 | 1400 | 48 |
 | 1500 | 72 |
@@ -714,7 +716,7 @@
 | 2000 | 12 |
 | 2100 | 10 |
 | 2200 | 1 |
-| 2300 | 5 |
+| 2300 | 6 |
 | 2400 | 1 |
 | 900 | 12 |
 | Unrated | 47 |
