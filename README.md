@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 644
+**Total Problems:** 645
 
-**With Source Code:** 414 / 644
+**With Source Code:** 414 / 645
 
 
 ## Problems
@@ -292,6 +292,7 @@
 | 1366B | [Shuffle](problems/1300/1366B-Shuffle) | 1300 | `math`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1366/problem/B) |
 | 1424G | [Years](problems/1300/1424G-Years) | 1300 | `data structures`, `sortings` | Yes | [CF](https://codeforces.com/contest/1424/problem/G) |
 | 1661B | [Getting Zero](problems/1300/1661B-Getting-Zero) | 1300 | `bitmasks`, `brute force`, `dfs and similar`, `dp`, `graphs`, `greedy`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/1661/problem/B) |
+| 1675D | [Vertical Paths](problems/1300/1675D-Vertical-Paths) | 1300 | `graphs`, `implementation`, `trees` | - | [CF](https://codeforces.com/contest/1675/problem/D) |
 | 1741D | [Masha and a Beautiful Tree](problems/1300/1741D-Masha-and-a-Beautiful-Tree) | 1300 | `dfs and similar`, `divide and conquer`, `graphs`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/1741/problem/D) |
 | 1851D | [Prefix Permutation Sums](problems/1300/1851D-Prefix-Permutation-Sums) | 1300 | `implementation`, `math` | - | [CF](https://codeforces.com/contest/1851/problem/D) |
 | 1873F | [Money Trees](problems/1300/1873F-Money-Trees) | 1300 | `binary search`, `greedy`, `math`, `two pointers` | - | [CF](https://codeforces.com/contest/1873/problem/F) |
@@ -664,7 +665,7 @@
 |-----|-------|
 | `greedy` | 278 |
 | `math` | 231 |
-| `implementation` | 149 |
+| `implementation` | 150 |
 | `dp` | 131 |
 | `brute force` | 117 |
 | `constructive algorithms` | 112 |
@@ -674,9 +675,9 @@
 | `number theory` | 72 |
 | `dfs and similar` | 65 |
 | `two pointers` | 58 |
-| `trees` | 50 |
+| `trees` | 51 |
+| `graphs` | 47 |
 | `combinatorics` | 46 |
-| `graphs` | 46 |
 | `strings` | 40 |
 | `bitmasks` | 36 |
 | `games` | 21 |
@@ -706,7 +707,7 @@
 | 1000 | 36 |
 | 1100 | 29 |
 | 1200 | 62 |
-| 1300 | 44 |
+| 1300 | 45 |
 | 1400 | 48 |
 | 1500 | 72 |
 | 1600 | 56 |
