@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 645
+**Total Problems:** 646
 
-**With Source Code:** 414 / 645
+**With Source Code:** 414 / 646
 
 
 ## Problems
@@ -533,6 +533,7 @@
 | 2030D | [QED's Favorite Permutation](problems/1700/2030D-QEDs-Favorite-Permutation) | 1700 | `data structures`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2030/problem/D) |
 | 2031D | [Penchick and Desert Rabbit](problems/1700/2031D-Penchick-and-Desert-Rabbit) | 1700 | `binary search`, `data structures`, `dfs and similar`, `dp`, `dsu`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2031/problem/D) |
 | 2039D | [Shohag Loves GCD](problems/1700/2039D-Shohag-Loves-GCD) | 1700 | `constructive algorithms`, `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2039/problem/D) |
+| 2041D | [Drunken Maze](problems/1700/2041D-Drunken-Maze) | 1700 | `brute force`, `dfs and similar`, `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/2041/problem/D) |
 | 2045A | [Scrambled Scrabble](problems/1700/2045A-Scrambled-Scrabble) | 1700 | `brute force`, `greedy` | Yes | [CF](https://codeforces.com/contest/2045/problem/A) |
 | 2065G | [Skibidus and Capping](problems/1700/2065G-Skibidus-and-Capping) | 1700 | `combinatorics`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2065/problem/G) |
 | 2071C | [Trapmigiano Reggiano](problems/1700/2071C-Trapmigiano-Reggiano) | 1700 | `constructive algorithms`, `data structures`, `dfs and similar`, `dp`, `greedy`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/2071/problem/C) |
@@ -667,23 +668,23 @@
 | `math` | 231 |
 | `implementation` | 150 |
 | `dp` | 131 |
-| `brute force` | 117 |
+| `brute force` | 118 |
 | `constructive algorithms` | 112 |
 | `data structures` | 89 |
 | `binary search` | 88 |
 | `sortings` | 84 |
 | `number theory` | 72 |
-| `dfs and similar` | 65 |
+| `dfs and similar` | 66 |
 | `two pointers` | 58 |
 | `trees` | 51 |
-| `graphs` | 47 |
+| `graphs` | 48 |
 | `combinatorics` | 46 |
 | `strings` | 40 |
 | `bitmasks` | 36 |
 | `games` | 21 |
 | `probabilities` | 20 |
 | `dsu` | 16 |
-| `shortest paths` | 13 |
+| `shortest paths` | 14 |
 | `geometry` | 11 |
 | `divide and conquer` | 10 |
 | `interactive` | 9 |
@@ -711,7 +712,7 @@
 | 1400 | 48 |
 | 1500 | 72 |
 | 1600 | 56 |
-| 1700 | 48 |
+| 1700 | 49 |
 | 1800 | 34 |
 | 1900 | 41 |
 | 2000 | 12 |
