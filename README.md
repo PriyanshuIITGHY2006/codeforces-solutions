@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 646
+**Total Problems:** 647
 
-**With Source Code:** 414 / 646
+**With Source Code:** 414 / 647
 
 
 ## Problems
@@ -551,6 +551,7 @@
 | 2227F | [It Just Keeps Going Sideways](problems/1700/2227F-It-Just-Keeps-Going-Sideways) | 1700 | `binary search`, `data structures`, `dp`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2227/problem/F) |
 | 2236E | [Friendly Gifts](problems/1700/2236E-Friendly-Gifts) | 1700 | `brute force`, `dp` | Yes | [CF](https://codeforces.com/contest/2236/problem/E) |
 | 2236F1 | [Elections in Saransk (easy version)](problems/1700/2236F1-Elections-in-Saransk-easy-version) | 1700 | `number theory` | Yes | [CF](https://codeforces.com/contest/2236/problem/F1) |
+| 2244F | [Anya Loves Trees!](problems/1700/2244F-Anya-Loves-Trees) | 1700 | `dfs and similar`, `dp`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2244/problem/F) |
 | 2252D | [Array Replacement](problems/1700/2252D-Array-Replacement) | 1700 | `greedy`, `sortings` | Yes | [CF](https://codeforces.com/contest/2252/problem/D) |
 | 2260D | [Signs of Prefix Sums](problems/1700/2260D-Signs-of-Prefix-Sums) | 1700 | `brute force`, `constructive algorithms`, `dfs and similar`, `dp`, `implementation` | Yes | [CF](https://codeforces.com/contest/2260/problem/D) |
 | 709390B | [Wet Shark and Flowers](problems/1700/709390B-Wet-Shark-and-Flowers) | 1700 |  | Yes | [CF](https://codeforces.com/contest/709390/problem/B) |
@@ -664,19 +665,19 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 278 |
+| `greedy` | 279 |
 | `math` | 231 |
 | `implementation` | 150 |
-| `dp` | 131 |
+| `dp` | 132 |
 | `brute force` | 118 |
 | `constructive algorithms` | 112 |
 | `data structures` | 89 |
 | `binary search` | 88 |
 | `sortings` | 84 |
 | `number theory` | 72 |
-| `dfs and similar` | 66 |
+| `dfs and similar` | 67 |
 | `two pointers` | 58 |
-| `trees` | 51 |
+| `trees` | 52 |
 | `graphs` | 48 |
 | `combinatorics` | 46 |
 | `strings` | 40 |
@@ -712,7 +713,7 @@
 | 1400 | 48 |
 | 1500 | 72 |
 | 1600 | 56 |
-| 1700 | 49 |
+| 1700 | 50 |
 | 1800 | 34 |
 | 1900 | 41 |
 | 2000 | 12 |
