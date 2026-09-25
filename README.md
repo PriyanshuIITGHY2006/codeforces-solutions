@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 653
+**Total Problems:** 654
 
-**With Source Code:** 423 / 653
+**With Source Code:** 423 / 654
 
 
 ## Problems
@@ -658,6 +658,7 @@
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2029/problem/E) |
 | 2040E | [Control of Randomness](problems/2100/2040E-Control-of-Randomness) | 2100 | `combinatorics`, `dfs and similar`, `dp`, `graphs`, `greedy`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/2040/problem/E) |
 | 2234E | [Vlad, Misha and Two Arrays](problems/2100/2234E-Vlad-Misha-and-Two-Arrays) | 2100 | `brute force`, `combinatorics`, `dfs and similar`, `divide and conquer`, `math` | Yes | [CF](https://codeforces.com/contest/2234/problem/E) |
+| 2257E | [Busy Beaver](problems/2100/2257E-Busy-Beaver) | 2100 | `brute force`, `data structures`, `divide and conquer`, `dp`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2257/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 960E | [Alternating Tree](problems/2300/960E-Alternating-Tree) | 2300 | `combinatorics`, `dfs and similar`, `divide and conquer`, `dp`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/960/problem/E) |
 | 1096F | [Inversion Expectation](problems/2300/1096F-Inversion-Expectation) | 2300 | `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1096/problem/F) |
@@ -671,15 +672,15 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 281 |
+| `greedy` | 282 |
 | `math` | 233 |
-| `implementation` | 151 |
-| `dp` | 135 |
-| `brute force` | 118 |
+| `implementation` | 152 |
+| `dp` | 136 |
+| `brute force` | 119 |
 | `constructive algorithms` | 113 |
-| `data structures` | 90 |
+| `data structures` | 91 |
 | `binary search` | 89 |
-| `sortings` | 85 |
+| `sortings` | 86 |
 | `number theory` | 74 |
 | `dfs and similar` | 68 |
 | `two pointers` | 59 |
@@ -692,8 +693,8 @@
 | `probabilities` | 20 |
 | `dsu` | 17 |
 | `shortest paths` | 14 |
+| `divide and conquer` | 11 |
 | `geometry` | 11 |
-| `divide and conquer` | 10 |
 | `interactive` | 9 |
 | `hashing` | 6 |
 | `matrices` | 4 |
@@ -723,7 +724,7 @@
 | 1800 | 34 |
 | 1900 | 43 |
 | 2000 | 12 |
-| 2100 | 10 |
+| 2100 | 11 |
 | 2200 | 1 |
 | 2300 | 6 |
 | 2400 | 1 |
