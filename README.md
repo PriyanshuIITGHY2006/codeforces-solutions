@@ -13,7 +13,7 @@
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2266E | [Prime Destruction](problems/Unrated/2266E-Prime-Destruction) | ? | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2266/problem/E) |
+| 2266E | [Prime Destruction](problems/Unrated/2266E-Prime-Destruction) | ? | `brute force`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2266/problem/E) |
 | 2267B | [Fashionable Array](problems/Unrated/2267B-Fashionable-Array) | ? | `brute force`, `constructive algorithms`, `sortings` | - | [CF](https://codeforces.com/contest/2267/problem/B) |
 | 2267C | [GCD Treasury](problems/Unrated/2267C-GCD-Treasury) | ? | `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2267/problem/C) |
 | 2267F1 | [XOR Transformations (Easy Version)](problems/Unrated/2267F1-XOR-Transformations-Easy-Version) | ? | `bitmasks`, `brute force`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2267/problem/F1) |
@@ -681,7 +681,7 @@
 | `math` | 235 |
 | `implementation` | 153 |
 | `dp` | 137 |
-| `brute force` | 121 |
+| `brute force` | 122 |
 | `constructive algorithms` | 115 |
 | `data structures` | 91 |
 | `sortings` | 89 |
