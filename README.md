@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 658
+**Total Problems:** 659
 
-**With Source Code:** 423 / 658
+**With Source Code:** 423 / 659
 
 
 ## Problems
@@ -671,13 +671,14 @@
 | 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | Yes | [CF](https://codeforces.com/contest/2134/problem/E) |
 | 2159C | [Twin Polynomials](problems/2300/2159C-Twin-Polynomials) | 2300 | `combinatorics`, `graph matchings`, `math` | Yes | [CF](https://codeforces.com/contest/2159/problem/C) |
 | 2176F | [Omega Numbers](problems/2400/2176F-Omega-Numbers) | 2400 | `bitmasks`, `combinatorics`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2176/problem/F) |
+| 1948F | [Rare Coins](problems/2500/1948F-Rare-Coins) | 2500 | `combinatorics`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1948/problem/F) |
 
 ## Tag Distribution
 
 | Tag | Count |
 |-----|-------|
 | `greedy` | 284 |
-| `math` | 234 |
+| `math` | 235 |
 | `implementation` | 153 |
 | `dp` | 137 |
 | `brute force` | 121 |
@@ -690,11 +691,11 @@
 | `two pointers` | 60 |
 | `trees` | 52 |
 | `graphs` | 49 |
-| `combinatorics` | 46 |
+| `combinatorics` | 47 |
 | `strings` | 41 |
 | `bitmasks` | 38 |
+| `probabilities` | 21 |
 | `games` | 21 |
-| `probabilities` | 20 |
 | `dsu` | 17 |
 | `shortest paths` | 14 |
 | `divide and conquer` | 11 |
@@ -732,5 +733,6 @@
 | 2200 | 1 |
 | 2300 | 6 |
 | 2400 | 1 |
+| 2500 | 1 |
 | 900 | 12 |
 | Unrated | 52 |
