@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 654
+**Total Problems:** 656
 
-**With Source Code:** 423 / 654
+**With Source Code:** 423 / 656
 
 
 ## Problems
@@ -14,6 +14,8 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2266E | [Prime Destruction](problems/Unrated/2266E-Prime-Destruction) | ? | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2266/problem/E) |
+| 2267F1 | [XOR Transformations (Easy Version)](problems/Unrated/2267F1-XOR-Transformations-Easy-Version) | ? | `bitmasks`, `brute force`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2267/problem/F1) |
+| 2267D | [Backrooms Hill](problems/Unrated/2267D-Backrooms-Hill) | ? | `constructive algorithms`, `dp`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2267/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -672,23 +674,23 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 282 |
+| `greedy` | 283 |
 | `math` | 233 |
-| `implementation` | 152 |
-| `dp` | 136 |
-| `brute force` | 119 |
-| `constructive algorithms` | 113 |
+| `implementation` | 153 |
+| `dp` | 137 |
+| `brute force` | 120 |
+| `constructive algorithms` | 114 |
 | `data structures` | 91 |
 | `binary search` | 89 |
-| `sortings` | 86 |
+| `sortings` | 88 |
 | `number theory` | 74 |
 | `dfs and similar` | 68 |
-| `two pointers` | 59 |
+| `two pointers` | 60 |
 | `trees` | 52 |
 | `graphs` | 49 |
 | `combinatorics` | 46 |
 | `strings` | 41 |
-| `bitmasks` | 37 |
+| `bitmasks` | 38 |
 | `games` | 21 |
 | `probabilities` | 20 |
 | `dsu` | 17 |
@@ -729,4 +731,4 @@
 | 2300 | 6 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 48 |
+| Unrated | 50 |
