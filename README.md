@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 656
+**Total Problems:** 658
 
-**With Source Code:** 423 / 656
+**With Source Code:** 423 / 658
 
 
 ## Problems
@@ -14,6 +14,8 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2266E | [Prime Destruction](problems/Unrated/2266E-Prime-Destruction) | ? | `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2266/problem/E) |
+| 2267B | [Fashionable Array](problems/Unrated/2267B-Fashionable-Array) | ? | `brute force`, `constructive algorithms`, `sortings` | - | [CF](https://codeforces.com/contest/2267/problem/B) |
+| 2267C | [GCD Treasury](problems/Unrated/2267C-GCD-Treasury) | ? | `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2267/problem/C) |
 | 2267F1 | [XOR Transformations (Easy Version)](problems/Unrated/2267F1-XOR-Transformations-Easy-Version) | ? | `bitmasks`, `brute force`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2267/problem/F1) |
 | 2267D | [Backrooms Hill](problems/Unrated/2267D-Backrooms-Hill) | ? | `constructive algorithms`, `dp`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2267/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
@@ -674,16 +676,16 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 283 |
-| `math` | 233 |
+| `greedy` | 284 |
+| `math` | 234 |
 | `implementation` | 153 |
 | `dp` | 137 |
-| `brute force` | 120 |
-| `constructive algorithms` | 114 |
+| `brute force` | 121 |
+| `constructive algorithms` | 115 |
 | `data structures` | 91 |
+| `sortings` | 89 |
 | `binary search` | 89 |
-| `sortings` | 88 |
-| `number theory` | 74 |
+| `number theory` | 75 |
 | `dfs and similar` | 68 |
 | `two pointers` | 60 |
 | `trees` | 52 |
@@ -731,4 +733,4 @@
 | 2300 | 6 |
 | 2400 | 1 |
 | 900 | 12 |
-| Unrated | 50 |
+| Unrated | 52 |
