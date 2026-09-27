@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 659
+**Total Problems:** 661
 
-**With Source Code:** 423 / 659
+**With Source Code:** 423 / 661
 
 
 ## Problems
@@ -18,6 +18,7 @@
 | 2267C | [GCD Treasury](problems/Unrated/2267C-GCD-Treasury) | ? | `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2267/problem/C) |
 | 2267F1 | [XOR Transformations (Easy Version)](problems/Unrated/2267F1-XOR-Transformations-Easy-Version) | ? | `bitmasks`, `brute force`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2267/problem/F1) |
 | 2267D | [Backrooms Hill](problems/Unrated/2267D-Backrooms-Hill) | ? | `constructive algorithms`, `dp`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2267/problem/D) |
+| 2269B | [KiaKio and Squared Numbers](problems/Unrated/2269B-KiaKio-and-Squared-Numbers) | ? | `brute force`, `implementation` | - | [CF](https://codeforces.com/contest/2269/problem/B) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
 | 106052A | [Swap by Value](problems/Unrated/106052A-Swap-by-Value) | ? |  | - | [CF](https://codeforces.com/contest/106052/problem/A) |
@@ -671,6 +672,7 @@
 | 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | Yes | [CF](https://codeforces.com/contest/2134/problem/E) |
 | 2159C | [Twin Polynomials](problems/2300/2159C-Twin-Polynomials) | 2300 | `combinatorics`, `graph matchings`, `math` | Yes | [CF](https://codeforces.com/contest/2159/problem/C) |
 | 2176F | [Omega Numbers](problems/2400/2176F-Omega-Numbers) | 2400 | `bitmasks`, `combinatorics`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2176/problem/F) |
+| 1854C | [Expected Destruction](problems/2500/1854C-Expected-Destruction) | 2500 | `combinatorics`, `dp`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1854/problem/C) |
 | 1948F | [Rare Coins](problems/2500/1948F-Rare-Coins) | 2500 | `combinatorics`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1948/problem/F) |
 
 ## Tag Distribution
@@ -678,10 +680,10 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 284 |
-| `math` | 235 |
-| `implementation` | 153 |
-| `dp` | 137 |
-| `brute force` | 122 |
+| `math` | 236 |
+| `implementation` | 154 |
+| `dp` | 138 |
+| `brute force` | 123 |
 | `constructive algorithms` | 115 |
 | `data structures` | 91 |
 | `sortings` | 89 |
@@ -691,10 +693,10 @@
 | `two pointers` | 60 |
 | `trees` | 52 |
 | `graphs` | 49 |
-| `combinatorics` | 47 |
+| `combinatorics` | 48 |
 | `strings` | 41 |
 | `bitmasks` | 38 |
-| `probabilities` | 21 |
+| `probabilities` | 22 |
 | `games` | 21 |
 | `dsu` | 17 |
 | `shortest paths` | 14 |
@@ -733,6 +735,6 @@
 | 2200 | 1 |
 | 2300 | 6 |
 | 2400 | 1 |
-| 2500 | 1 |
+| 2500 | 2 |
 | 900 | 12 |
-| Unrated | 52 |
+| Unrated | 53 |
