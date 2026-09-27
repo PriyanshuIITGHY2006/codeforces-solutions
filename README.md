@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 661
+**Total Problems:** 664
 
-**With Source Code:** 423 / 661
+**With Source Code:** 423 / 664
 
 
 ## Problems
@@ -66,6 +66,9 @@
 | 712191A | [The Coin Heist](problems/Unrated/712191A-The-Coin-Heist) | ? |  | Yes | [CF](https://codeforces.com/contest/712191/problem/A) |
 | 713390E | [Spice Skewers](problems/Unrated/713390E-Spice-Skewers) | ? |  | Yes | [CF](https://codeforces.com/contest/713390/problem/E) |
 | 713390D | [Boxed Volumes](problems/Unrated/713390D-Boxed-Volumes) | ? |  | Yes | [CF](https://codeforces.com/contest/713390/problem/D) |
+| 719392B2 | [Maximum Subsequence (Hard)](problems/Unrated/719392B2-Maximum-Subsequence-Hard) | ? |  | - | [CF](https://codeforces.com/contest/719392/problem/B2) |
+| 719392B1 | [Maximum Subsequence (Easy)](problems/Unrated/719392B1-Maximum-Subsequence-Easy) | ? |  | - | [CF](https://codeforces.com/contest/719392/problem/B1) |
+| 719392A | [Random Deleting](problems/Unrated/719392A-Random-Deleting) | ? |  | - | [CF](https://codeforces.com/contest/719392/problem/A) |
 | 4A | [Watermelon](problems/0800/4A-Watermelon) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/4/problem/A) |
 | 386A | [Second-Price Auction](problems/0800/386A-Second-Price-Auction) | 800 | `implementation` | - | [CF](https://codeforces.com/contest/386/problem/A) |
 | 1194A | [Remove a Progression](problems/0800/1194A-Remove-a-Progression) | 800 | `math` | - | [CF](https://codeforces.com/contest/1194/problem/A) |
@@ -737,4 +740,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 53 |
+| Unrated | 56 |
