@@ -6,18 +6,18 @@
 
 **Total Problems:** 666
 
-**With Source Code:** 423 / 666
+**With Source Code:** 433 / 666
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2266E | [Prime Destruction](problems/Unrated/2266E-Prime-Destruction) | ? | `brute force`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2266/problem/E) |
-| 2267B | [Fashionable Array](problems/Unrated/2267B-Fashionable-Array) | ? | `brute force`, `constructive algorithms`, `sortings` | - | [CF](https://codeforces.com/contest/2267/problem/B) |
-| 2267C | [GCD Treasury](problems/Unrated/2267C-GCD-Treasury) | ? | `greedy`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2267/problem/C) |
-| 2267F1 | [XOR Transformations (Easy Version)](problems/Unrated/2267F1-XOR-Transformations-Easy-Version) | ? | `bitmasks`, `brute force`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2267/problem/F1) |
-| 2267D | [Backrooms Hill](problems/Unrated/2267D-Backrooms-Hill) | ? | `constructive algorithms`, `dp`, `greedy`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2267/problem/D) |
+| 2266E | [Prime Destruction](problems/Unrated/2266E-Prime-Destruction) | ? | `brute force`, `dp`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2266/problem/E) |
+| 2267B | [Fashionable Array](problems/Unrated/2267B-Fashionable-Array) | ? | `brute force`, `constructive algorithms`, `sortings` | Yes | [CF](https://codeforces.com/contest/2267/problem/B) |
+| 2267C | [GCD Treasury](problems/Unrated/2267C-GCD-Treasury) | ? | `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2267/problem/C) |
+| 2267F1 | [XOR Transformations (Easy Version)](problems/Unrated/2267F1-XOR-Transformations-Easy-Version) | ? | `bitmasks`, `brute force`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2267/problem/F1) |
+| 2267D | [Backrooms Hill](problems/Unrated/2267D-Backrooms-Hill) | ? | `constructive algorithms`, `dp`, `greedy`, `sortings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2267/problem/D) |
 | 2269B | [KiaKio and Squared Numbers](problems/Unrated/2269B-KiaKio-and-Squared-Numbers) | ? | `brute force`, `implementation` | - | [CF](https://codeforces.com/contest/2269/problem/B) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105757J | [Alice and Bob](problems/Unrated/105757J-Alice-and-Bob) | ? |  | Yes | [CF](https://codeforces.com/contest/105757/problem/J) |
@@ -580,7 +580,7 @@
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/1709/problem/C) |
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1729/problem/E) |
 | 1824B1 | [LuoTianyi and the Floating Islands (Easy Version)](problems/1800/1824B1-LuoTianyi-and-the-Floating-Islands-Easy-Version) | 1800 | `combinatorics`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/1824/problem/B1) |
-| 1922E | [Increasing Subsequences](problems/1800/1922E-Increasing-Subsequences) | 1800 | `bitmasks`, `constructive algorithms`, `divide and conquer`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1922/problem/E) |
+| 1922E | [Increasing Subsequences](problems/1800/1922E-Increasing-Subsequences) | 1800 | `bitmasks`, `constructive algorithms`, `divide and conquer`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1922/problem/E) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | Yes | [CF](https://codeforces.com/contest/1974/problem/E) |
 | 2005C | [Lazy Narek](problems/1800/2005C-Lazy-Narek) | 1800 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2005/problem/C) |
 | 2014E | [Rendez-vous de Marian et Robin](problems/1800/2014E-Rendez-vous-de-Marian-et-Robin) | 1800 | `dfs and similar`, `graphs`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2014/problem/E) |
@@ -626,7 +626,7 @@
 | 1991E | [Coloring Game](problems/1900/1991E-Coloring-Game) | 1900 | `constructive algorithms`, `dfs and similar`, `games`, `graphs`, `greedy`, `interactive` | Yes | [CF](https://codeforces.com/contest/1991/problem/E) |
 | 2000F | [Color Rows and Columns](problems/1900/2000F-Color-Rows-and-Columns) | 1900 | `dp`, `greedy`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2000/problem/F) |
 | 2022D1 | [Asesino (Easy Version)](problems/1900/2022D1-Asesino-Easy-Version) | 1900 | `binary search`, `brute force`, `constructive algorithms`, `implementation`, `interactive` | Yes | [CF](https://codeforces.com/contest/2022/problem/D1) |
-| 2036F | [XORificator 3000](problems/1900/2036F-XORificator-3000) | 1900 | `bitmasks`, `dp`, `number theory`, `two pointers` | - | [CF](https://codeforces.com/contest/2036/problem/F) |
+| 2036F | [XORificator 3000](problems/1900/2036F-XORificator-3000) | 1900 | `bitmasks`, `dp`, `number theory`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2036/problem/F) |
 | 2044F | [Easy Demon Problem](problems/1900/2044F-Easy-Demon-Problem) | 1900 | `binary search`, `brute force`, `data structures`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2044/problem/F) |
 | 2049D | [Shift + Esc](problems/1900/2049D-Shift--Esc) | 1900 | `brute force`, `dp` | Yes | [CF](https://codeforces.com/contest/2049/problem/D) |
 | 2050G | [Tree Destruction](problems/1900/2050G-Tree-Destruction) | 1900 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/2050/problem/G) |
@@ -645,7 +645,7 @@
 | 2231D | [Maximum Prefix Sums](problems/1900/2231D-Maximum-Prefix-Sums) | 1900 | `constructive algorithms`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2231/problem/D) |
 | 2233D | [Goods on the Shelf](problems/1900/2233D-Goods-on-the-Shelf) | 1900 | `brute force`, `data structures`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2233/problem/D) |
 | 2259G | [Index Removal](problems/1900/2259G-Index-Removal) | 1900 | `binary search`, `data structures`, `math` | Yes | [CF](https://codeforces.com/contest/2259/problem/G) |
-| 540C | [Ice Cave](problems/2000/540C-Ice-Cave) | 2000 | `dfs and similar` | - | [CF](https://codeforces.com/contest/540/problem/C) |
+| 540C | [Ice Cave](problems/2000/540C-Ice-Cave) | 2000 | `dfs and similar` | Yes | [CF](https://codeforces.com/contest/540/problem/C) |
 | 863E | [Turn Off The TV](problems/2000/863E-Turn-Off-The-TV) | 2000 | `data structures`, `sortings` | Yes | [CF](https://codeforces.com/contest/863/problem/E) |
 | 1009E | [Intercity Travelling](problems/2000/1009E-Intercity-Travelling) | 2000 | `combinatorics`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1009/problem/E) |
 | 1142B | [Lynyrd Skynyrd](problems/2000/1142B-Lynyrd-Skynyrd) | 2000 | `data structures`, `dfs and similar`, `dp`, `math`, `trees` | Yes | [CF](https://codeforces.com/contest/1142/problem/B) |
@@ -668,7 +668,7 @@
 | 2029E | [Common Generator](problems/2100/2029E-Common-Generator) | 2100 | `brute force`, `constructive algorithms`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2029/problem/E) |
 | 2040E | [Control of Randomness](problems/2100/2040E-Control-of-Randomness) | 2100 | `combinatorics`, `dfs and similar`, `dp`, `graphs`, `greedy`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/2040/problem/E) |
 | 2234E | [Vlad, Misha and Two Arrays](problems/2100/2234E-Vlad-Misha-and-Two-Arrays) | 2100 | `brute force`, `combinatorics`, `dfs and similar`, `divide and conquer`, `math` | Yes | [CF](https://codeforces.com/contest/2234/problem/E) |
-| 2257E | [Busy Beaver](problems/2100/2257E-Busy-Beaver) | 2100 | `brute force`, `data structures`, `divide and conquer`, `dp`, `greedy`, `implementation`, `sortings` | - | [CF](https://codeforces.com/contest/2257/problem/E) |
+| 2257E | [Busy Beaver](problems/2100/2257E-Busy-Beaver) | 2100 | `brute force`, `data structures`, `divide and conquer`, `dp`, `greedy`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2257/problem/E) |
 | 2173E | [Shiro's Mirror Duel](problems/2200/2173E-Shiros-Mirror-Duel) | 2200 | `constructive algorithms`, `greedy`, `interactive`, `probabilities`, `sortings` | - | [CF](https://codeforces.com/contest/2173/problem/E) |
 | 960E | [Alternating Tree](problems/2300/960E-Alternating-Tree) | 2300 | `combinatorics`, `dfs and similar`, `divide and conquer`, `dp`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/960/problem/E) |
 | 1096F | [Inversion Expectation](problems/2300/1096F-Inversion-Expectation) | 2300 | `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1096/problem/F) |
@@ -678,7 +678,7 @@
 | 2159C | [Twin Polynomials](problems/2300/2159C-Twin-Polynomials) | 2300 | `combinatorics`, `graph matchings`, `math` | Yes | [CF](https://codeforces.com/contest/2159/problem/C) |
 | 2176F | [Omega Numbers](problems/2400/2176F-Omega-Numbers) | 2400 | `bitmasks`, `combinatorics`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2176/problem/F) |
 | 1854C | [Expected Destruction](problems/2500/1854C-Expected-Destruction) | 2500 | `combinatorics`, `dp`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1854/problem/C) |
-| 1948F | [Rare Coins](problems/2500/1948F-Rare-Coins) | 2500 | `combinatorics`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1948/problem/F) |
+| 1948F | [Rare Coins](problems/2500/1948F-Rare-Coins) | 2500 | `combinatorics`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1948/problem/F) |
 
 ## Tag Distribution
 
