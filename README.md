@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 665
+**Total Problems:** 666
 
-**With Source Code:** 423 / 665
+**With Source Code:** 423 / 666
 
 
 ## Problems
@@ -580,6 +580,7 @@
 | 1709C | [Recover an RBS](problems/1800/1709C-Recover-an-RBS) | 1800 | `constructive algorithms`, `greedy`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/1709/problem/C) |
 | 1729E | [Guess the Cycle Size](problems/1800/1729E-Guess-the-Cycle-Size) | 1800 | `interactive`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1729/problem/E) |
 | 1824B1 | [LuoTianyi and the Floating Islands (Easy Version)](problems/1800/1824B1-LuoTianyi-and-the-Floating-Islands-Easy-Version) | 1800 | `combinatorics`, `math`, `probabilities`, `trees` | Yes | [CF](https://codeforces.com/contest/1824/problem/B1) |
+| 1922E | [Increasing Subsequences](problems/1800/1922E-Increasing-Subsequences) | 1800 | `bitmasks`, `constructive algorithms`, `divide and conquer`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/1922/problem/E) |
 | 1974E | [Money Buys Happiness](problems/1800/1974E-Money-Buys-Happiness) | 1800 | `dp` | Yes | [CF](https://codeforces.com/contest/1974/problem/E) |
 | 2005C | [Lazy Narek](problems/1800/2005C-Lazy-Narek) | 1800 | `dp`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2005/problem/C) |
 | 2014E | [Rendez-vous de Marian et Robin](problems/1800/2014E-Rendez-vous-de-Marian-et-Robin) | 1800 | `dfs and similar`, `graphs`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2014/problem/E) |
@@ -683,12 +684,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 284 |
-| `math` | 236 |
+| `greedy` | 285 |
+| `math` | 237 |
 | `implementation` | 154 |
 | `dp` | 138 |
 | `brute force` | 123 |
-| `constructive algorithms` | 115 |
+| `constructive algorithms` | 116 |
 | `data structures` | 91 |
 | `sortings` | 89 |
 | `binary search` | 89 |
@@ -699,12 +700,12 @@
 | `graphs` | 49 |
 | `combinatorics` | 48 |
 | `strings` | 41 |
-| `bitmasks` | 38 |
+| `bitmasks` | 39 |
 | `probabilities` | 22 |
 | `games` | 21 |
 | `dsu` | 17 |
 | `shortest paths` | 14 |
-| `divide and conquer` | 11 |
+| `divide and conquer` | 12 |
 | `geometry` | 11 |
 | `interactive` | 9 |
 | `hashing` | 6 |
@@ -732,7 +733,7 @@
 | 1500 | 71 |
 | 1600 | 58 |
 | 1700 | 51 |
-| 1800 | 34 |
+| 1800 | 35 |
 | 1900 | 43 |
 | 2000 | 13 |
 | 2100 | 11 |
