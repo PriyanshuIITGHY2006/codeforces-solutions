@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 666
+**Total Problems:** 667
 
-**With Source Code:** 433 / 666
+**With Source Code:** 433 / 667
 
 
 ## Problems
@@ -31,6 +31,7 @@
 | 106494C | [Alternative Worlds I](problems/Unrated/106494C-Alternative-Worlds-I) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/C) |
 | 106494A | [Random Order](problems/Unrated/106494A-Random-Order) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/A) |
 | 106494B | [Rest Point](problems/Unrated/106494B-Rest-Point) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/B) |
+| 106728F | [Escape Route](problems/Unrated/106728F-Escape-Route) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/F) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | Yes | [CF](https://codeforces.com/contest/590997/problem/F) |
 | 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
 | 631167E | [Our Random Jump](problems/Unrated/631167E-Our-Random-Jump) | ? |  | Yes | [CF](https://codeforces.com/contest/631167/problem/E) |
@@ -742,4 +743,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 56 |
+| Unrated | 57 |
