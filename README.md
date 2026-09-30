@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 671
+**Total Problems:** 673
 
-**With Source Code:** 433 / 671
+**With Source Code:** 433 / 673
 
 
 ## Problems
@@ -31,6 +31,8 @@
 | 106494C | [Alternative Worlds I](problems/Unrated/106494C-Alternative-Worlds-I) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/C) |
 | 106494A | [Random Order](problems/Unrated/106494A-Random-Order) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/A) |
 | 106494B | [Rest Point](problems/Unrated/106494B-Rest-Point) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/B) |
+| 106728B | [The Secret of Fats](problems/Unrated/106728B-The-Secret-of-Fats) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/B) |
+| 106728A | [TOPC Crit](problems/Unrated/106728A-TOPC-Crit) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/A) |
 | 106728F | [Escape Route](problems/Unrated/106728F-Escape-Route) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/F) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | Yes | [CF](https://codeforces.com/contest/590997/problem/F) |
 | 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
@@ -747,4 +749,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 57 |
+| Unrated | 59 |
