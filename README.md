@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 673
+**Total Problems:** 675
 
-**With Source Code:** 433 / 673
+**With Source Code:** 433 / 675
 
 
 ## Problems
@@ -31,9 +31,11 @@
 | 106494C | [Alternative Worlds I](problems/Unrated/106494C-Alternative-Worlds-I) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/C) |
 | 106494A | [Random Order](problems/Unrated/106494A-Random-Order) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/A) |
 | 106494B | [Rest Point](problems/Unrated/106494B-Rest-Point) | ? |  | Yes | [CF](https://codeforces.com/contest/106494/problem/B) |
+| 106728D | [Listen to the Music](problems/Unrated/106728D-Listen-to-the-Music) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/D) |
+| 106728E | [Elegant Slabstones Rearrangement](problems/Unrated/106728E-Elegant-Slabstones-Rearrangement) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/E) |
+| 106728F | [Escape Route](problems/Unrated/106728F-Escape-Route) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/F) |
 | 106728B | [The Secret of Fats](problems/Unrated/106728B-The-Secret-of-Fats) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/B) |
 | 106728A | [TOPC Crit](problems/Unrated/106728A-TOPC-Crit) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/A) |
-| 106728F | [Escape Route](problems/Unrated/106728F-Escape-Route) | ? |  | - | [CF](https://codeforces.com/contest/106728/problem/F) |
 | 590997F | [Permaban](problems/Unrated/590997F-Permaban) | ? |  | Yes | [CF](https://codeforces.com/contest/590997/problem/F) |
 | 631166B | [Stat Expo](problems/Unrated/631166B-Stat-Expo) | ? |  | - | [CF](https://codeforces.com/contest/631166/problem/B) |
 | 631167E | [Our Random Jump](problems/Unrated/631167E-Our-Random-Jump) | ? |  | Yes | [CF](https://codeforces.com/contest/631167/problem/E) |
@@ -749,4 +751,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 59 |
+| Unrated | 61 |
