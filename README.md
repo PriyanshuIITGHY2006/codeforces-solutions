@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 680
+**Total Problems:** 685
 
-**With Source Code:** 433 / 680
+**With Source Code:** 433 / 685
 
 
 ## Problems
@@ -73,6 +73,11 @@
 | 719392B2 | [Maximum Subsequence (Hard)](problems/Unrated/719392B2-Maximum-Subsequence-Hard) | ? |  | - | [CF](https://codeforces.com/contest/719392/problem/B2) |
 | 719392B1 | [Maximum Subsequence (Easy)](problems/Unrated/719392B1-Maximum-Subsequence-Easy) | ? |  | - | [CF](https://codeforces.com/contest/719392/problem/B1) |
 | 719392A | [Random Deleting](problems/Unrated/719392A-Random-Deleting) | ? |  | - | [CF](https://codeforces.com/contest/719392/problem/A) |
+| 719724E | [11:58 PM](problems/Unrated/719724E-1158-PM) | ? |  | - | [CF](https://codeforces.com/contest/719724/problem/E) |
+| 719724C | [Disjoint Walkways](problems/Unrated/719724C-Disjoint-Walkways) | ? |  | - | [CF](https://codeforces.com/contest/719724/problem/C) |
+| 719724B | [The Bus Round](problems/Unrated/719724B-The-Bus-Round) | ? |  | - | [CF](https://codeforces.com/contest/719724/problem/B) |
+| 719724A | [Matching Socks](problems/Unrated/719724A-Matching-Socks) | ? |  | - | [CF](https://codeforces.com/contest/719724/problem/A) |
+| 720455F | [Foggy Window](problems/Unrated/720455F-Foggy-Window) | ? |  | - | [CF](https://codeforces.com/contest/720455/problem/F) |
 | 4A | [Watermelon](problems/0800/4A-Watermelon) | 800 | `brute force`, `math` | - | [CF](https://codeforces.com/contest/4/problem/A) |
 | 386A | [Second-Price Auction](problems/0800/386A-Second-Price-Auction) | 800 | `implementation` | - | [CF](https://codeforces.com/contest/386/problem/A) |
 | 1194A | [Remove a Progression](problems/0800/1194A-Remove-a-Progression) | 800 | `math` | - | [CF](https://codeforces.com/contest/1194/problem/A) |
@@ -756,4 +761,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 60 |
+| Unrated | 65 |
