@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 685
+**Total Problems:** 686
 
-**With Source Code:** 433 / 685
+**With Source Code:** 434 / 686
 
 
 ## Problems
@@ -516,6 +516,7 @@
 | 2132D | [From 1 to Infinity](problems/1600/2132D-From-1-to-Infinity) | 1600 | `binary search`, `dp`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2132/problem/D) |
 | 2155C | [The Ancient Wizards' Capes](problems/1600/2155C-The-Ancient-Wizards-Capes) | 1600 | `brute force`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2155/problem/C) |
 | 2157D | [Billion Players Game](problems/1600/2157D-Billion-Players-Game) | 1600 | `binary search`, `greedy`, `math`, `sortings`, `ternary search`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2157/problem/D) |
+| 2167F | [Tree, TREE!!!](problems/1600/2167F-Tree-TREE) | 1600 | `dfs and similar`, `dp`, `math`, `trees` | Yes | [CF](https://codeforces.com/contest/2167/problem/F) |
 | 2167E | [khba Loves to Sleep!](problems/1600/2167E-khba-Loves-to-Sleep) | 1600 | `binary search`, `data structures`, `geometry`, `greedy`, `implementation` | Yes | [CF](https://codeforces.com/contest/2167/problem/E) |
 | 2167G | [Mukhammadali and the Smooth Array](problems/1600/2167G-Mukhammadali-and-the-Smooth-Array) | 1600 | `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/2167/problem/G) |
 | 2171F | [Rae Taylor and Trees (hard version)](problems/1600/2171F-Rae-Taylor-and-Trees-hard-version) | 1600 | `binary search`, `constructive algorithms`, `data structures`, `dp`, `dsu`, `greedy`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/2171/problem/F) |
@@ -704,18 +705,18 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 285 |
-| `math` | 237 |
+| `math` | 238 |
 | `implementation` | 154 |
-| `dp` | 138 |
+| `dp` | 139 |
 | `brute force` | 123 |
 | `constructive algorithms` | 116 |
 | `data structures` | 91 |
 | `sortings` | 89 |
 | `binary search` | 89 |
 | `number theory` | 75 |
-| `dfs and similar` | 69 |
+| `dfs and similar` | 70 |
 | `two pointers` | 60 |
-| `trees` | 52 |
+| `trees` | 53 |
 | `graphs` | 49 |
 | `combinatorics` | 48 |
 | `strings` | 41 |
@@ -750,7 +751,7 @@
 | 1300 | 45 |
 | 1400 | 50 |
 | 1500 | 71 |
-| 1600 | 59 |
+| 1600 | 60 |
 | 1700 | 52 |
 | 1800 | 35 |
 | 1900 | 44 |
