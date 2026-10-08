@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 686
+**Total Problems:** 687
 
-**With Source Code:** 434 / 686
+**With Source Code:** 434 / 687
 
 
 ## Problems
@@ -553,6 +553,7 @@
 | 1714G | [Path Prefixes](problems/1700/1714G-Path-Prefixes) | 1700 | `binary search`, `data structures`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/G) |
 | 1731D | [Valiant's New Map](problems/1700/1731D-Valiants-New-Map) | 1700 | `binary search`, `brute force`, `data structures`, `dp`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1731/problem/D) |
 | 1735D | [Meta-set](problems/1700/1735D-Meta-set) | 1700 | `brute force`, `combinatorics`, `data structures`, `hashing`, `math` | Yes | [CF](https://codeforces.com/contest/1735/problem/D) |
+| 1799C | [Double Lexicographically Minimum](problems/1700/1799C-Double-Lexicographically-Minimum) | 1700 | `greedy`, `strings` | - | [CF](https://codeforces.com/contest/1799/problem/C) |
 | 1826D | [Running Miles](problems/1700/1826D-Running-Miles) | 1700 | `brute force`, `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/1826/problem/D) |
 | 1833F | [Ira and Flamenco](problems/1700/1833F-Ira-and-Flamenco) | 1700 | `combinatorics`, `constructive algorithms`, `data structures`, `implementation`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/1833/problem/F) |
 | 1950F | [0, 1, 2, Tree!](problems/1700/1950F-0-1-2-Tree) | 1700 | `bitmasks`, `brute force`, `greedy`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/1950/problem/F) |
@@ -704,7 +705,7 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 285 |
+| `greedy` | 286 |
 | `math` | 238 |
 | `implementation` | 154 |
 | `dp` | 139 |
@@ -719,7 +720,7 @@
 | `trees` | 53 |
 | `graphs` | 49 |
 | `combinatorics` | 48 |
-| `strings` | 41 |
+| `strings` | 42 |
 | `bitmasks` | 39 |
 | `probabilities` | 22 |
 | `games` | 21 |
@@ -752,7 +753,7 @@
 | 1400 | 50 |
 | 1500 | 71 |
 | 1600 | 60 |
-| 1700 | 52 |
+| 1700 | 53 |
 | 1800 | 35 |
 | 1900 | 44 |
 | 2000 | 13 |
