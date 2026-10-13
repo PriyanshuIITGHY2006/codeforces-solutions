@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 688
+**Total Problems:** 689
 
-**With Source Code:** 434 / 688
+**With Source Code:** 434 / 689
 
 
 ## Problems
@@ -628,6 +628,7 @@
 | 190D | [Non-Secret Cypher](problems/1900/190D-Non-Secret-Cypher) | 1900 | `two pointers` | - | [CF](https://codeforces.com/contest/190/problem/D) |
 | 366C | [Dima and Salad](problems/1900/366C-Dima-and-Salad) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/366/problem/C) |
 | 739B | [Alyona and a tree](problems/1900/739B-Alyona-and-a-tree) | 1900 | `binary search`, `data structures`, `dfs and similar`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/739/problem/B) |
+| 803D | [Magazine Ad](problems/1900/803D-Magazine-Ad) | 1900 | `binary search`, `greedy` | - | [CF](https://codeforces.com/contest/803/problem/D) |
 | 935D | [Fafa and Ancient Alphabet](problems/1900/935D-Fafa-and-Ancient-Alphabet) | 1900 | `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/935/problem/D) |
 | 1012C | [Hills](problems/1900/1012C-Hills) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1012/problem/C) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1077/problem/F1) |
@@ -706,14 +707,14 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 286 |
+| `greedy` | 287 |
 | `math` | 238 |
 | `implementation` | 154 |
 | `dp` | 139 |
 | `brute force` | 123 |
 | `constructive algorithms` | 117 |
+| `binary search` | 91 |
 | `data structures` | 91 |
-| `binary search` | 90 |
 | `sortings` | 89 |
 | `number theory` | 75 |
 | `dfs and similar` | 70 |
@@ -756,7 +757,7 @@
 | 1600 | 60 |
 | 1700 | 53 |
 | 1800 | 35 |
-| 1900 | 44 |
+| 1900 | 45 |
 | 2000 | 13 |
 | 2100 | 11 |
 | 2200 | 1 |
