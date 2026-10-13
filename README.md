@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 687
+**Total Problems:** 688
 
-**With Source Code:** 434 / 687
+**With Source Code:** 434 / 688
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2274C | [Lavencia Oranges](problems/Unrated/2274C-Lavencia-Oranges) | ? | `binary search`, `constructive algorithms` | - | [CF](https://codeforces.com/contest/2274/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -710,10 +711,10 @@
 | `implementation` | 154 |
 | `dp` | 139 |
 | `brute force` | 123 |
-| `constructive algorithms` | 116 |
+| `constructive algorithms` | 117 |
 | `data structures` | 91 |
+| `binary search` | 90 |
 | `sortings` | 89 |
-| `binary search` | 89 |
 | `number theory` | 75 |
 | `dfs and similar` | 70 |
 | `two pointers` | 60 |
@@ -763,4 +764,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 65 |
+| Unrated | 66 |
