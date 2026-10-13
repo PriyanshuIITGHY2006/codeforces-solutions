@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 689
+**Total Problems:** 690
 
-**With Source Code:** 434 / 689
+**With Source Code:** 434 / 690
 
 
 ## Problems
@@ -14,6 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2274C | [Lavencia Oranges](problems/Unrated/2274C-Lavencia-Oranges) | ? | `binary search`, `constructive algorithms` | - | [CF](https://codeforces.com/contest/2274/problem/C) |
+| 2275E | [Repentance Is Already on the Way](problems/Unrated/2275E-Repentance-Is-Already-on-the-Way) | ? | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/2275/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -709,8 +710,8 @@
 |-----|-------|
 | `greedy` | 287 |
 | `math` | 238 |
-| `implementation` | 154 |
-| `dp` | 139 |
+| `implementation` | 155 |
+| `dp` | 140 |
 | `brute force` | 123 |
 | `constructive algorithms` | 117 |
 | `binary search` | 91 |
@@ -765,4 +766,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 66 |
+| Unrated | 67 |
