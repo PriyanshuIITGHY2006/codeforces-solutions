@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 690
+**Total Problems:** 692
 
-**With Source Code:** 434 / 690
+**With Source Code:** 434 / 692
 
 
 ## Problems
@@ -14,6 +14,8 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2274C | [Lavencia Oranges](problems/Unrated/2274C-Lavencia-Oranges) | ? | `binary search`, `constructive algorithms` | - | [CF](https://codeforces.com/contest/2274/problem/C) |
+| 2275G | [Copper Squander](problems/Unrated/2275G-Copper-Squander) | ? | `binary search`, `data structures`, `dsu`, `graphs`, `greedy`, `math`, `sortings`, `ternary search` | - | [CF](https://codeforces.com/contest/2275/problem/G) |
+| 2275F | [Tea Blend](problems/Unrated/2275F-Tea-Blend) | ? | `hashing`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2275/problem/F) |
 | 2275E | [Repentance Is Already on the Way](problems/Unrated/2275E-Repentance-Is-Already-on-the-Way) | ? | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/2275/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
@@ -708,33 +710,33 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 287 |
-| `math` | 238 |
+| `greedy` | 288 |
+| `math` | 240 |
 | `implementation` | 155 |
 | `dp` | 140 |
 | `brute force` | 123 |
 | `constructive algorithms` | 117 |
-| `binary search` | 91 |
-| `data structures` | 91 |
-| `sortings` | 89 |
-| `number theory` | 75 |
+| `binary search` | 92 |
+| `data structures` | 92 |
+| `sortings` | 90 |
+| `number theory` | 76 |
 | `dfs and similar` | 70 |
 | `two pointers` | 60 |
 | `trees` | 53 |
-| `graphs` | 49 |
+| `graphs` | 50 |
 | `combinatorics` | 48 |
 | `strings` | 42 |
 | `bitmasks` | 39 |
 | `probabilities` | 22 |
 | `games` | 21 |
-| `dsu` | 17 |
+| `dsu` | 18 |
 | `shortest paths` | 14 |
 | `divide and conquer` | 12 |
 | `geometry` | 11 |
 | `interactive` | 9 |
-| `hashing` | 6 |
+| `hashing` | 7 |
+| `ternary search` | 5 |
 | `matrices` | 4 |
-| `ternary search` | 4 |
 | `schedules` | 3 |
 | `flows` | 2 |
 | `graph matchings` | 2 |
@@ -766,4 +768,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 67 |
+| Unrated | 69 |
