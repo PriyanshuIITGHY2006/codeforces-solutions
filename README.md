@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 692
+**Total Problems:** 694
 
-**With Source Code:** 434 / 692
+**With Source Code:** 434 / 694
 
 
 ## Problems
@@ -17,6 +17,8 @@
 | 2275G | [Copper Squander](problems/Unrated/2275G-Copper-Squander) | ? | `binary search`, `data structures`, `dsu`, `graphs`, `greedy`, `math`, `sortings`, `ternary search` | - | [CF](https://codeforces.com/contest/2275/problem/G) |
 | 2275F | [Tea Blend](problems/Unrated/2275F-Tea-Blend) | ? | `hashing`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2275/problem/F) |
 | 2275E | [Repentance Is Already on the Way](problems/Unrated/2275E-Repentance-Is-Already-on-the-Way) | ? | `dp`, `implementation` | - | [CF](https://codeforces.com/contest/2275/problem/E) |
+| 2276E | [Good Substrings](problems/Unrated/2276E-Good-Substrings) | ? | `combinatorics`, `data structures`, `dp`, `greedy`, `strings` | - | [CF](https://codeforces.com/contest/2276/problem/E) |
+| 2276D | [Caveman](problems/Unrated/2276D-Caveman) | ? | `combinatorics`, `graphs` | - | [CF](https://codeforces.com/contest/2276/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -710,22 +712,22 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 288 |
+| `greedy` | 289 |
 | `math` | 240 |
 | `implementation` | 155 |
-| `dp` | 140 |
+| `dp` | 141 |
 | `brute force` | 123 |
 | `constructive algorithms` | 117 |
+| `data structures` | 93 |
 | `binary search` | 92 |
-| `data structures` | 92 |
 | `sortings` | 90 |
 | `number theory` | 76 |
 | `dfs and similar` | 70 |
 | `two pointers` | 60 |
 | `trees` | 53 |
-| `graphs` | 50 |
-| `combinatorics` | 48 |
-| `strings` | 42 |
+| `graphs` | 51 |
+| `combinatorics` | 50 |
+| `strings` | 43 |
 | `bitmasks` | 39 |
 | `probabilities` | 22 |
 | `games` | 21 |
@@ -768,4 +770,4 @@
 | 2400 | 1 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 69 |
+| Unrated | 71 |
