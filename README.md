@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 696
+**Total Problems:** 697
 
-**With Source Code:** 449 / 696
+**With Source Code:** 449 / 697
 
 
 ## Problems
@@ -664,6 +664,7 @@
 | 2093G | [Shorten the Array](problems/1900/2093G-Shorten-the-Array) | 1900 | `binary search`, `bitmasks`, `data structures`, `dfs and similar`, `greedy`, `strings`, `trees`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2093/problem/G) |
 | 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2109/problem/D) |
 | 2117G | [Omg Graph](problems/1900/2117G-Omg-Graph) | 1900 | `brute force`, `dsu`, `graphs`, `greedy`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/2117/problem/G) |
+| 2128E1 | [Submedians (Easy Version)](problems/1900/2128E1-Submedians-Easy-Version) | 1900 | `binary search`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2128/problem/E1) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2133/problem/D) |
 | 2148G | [Farmer John's Last Wish](problems/1900/2148G-Farmer-Johns-Last-Wish) | 1900 | `binary search`, `data structures`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2148/problem/G) |
@@ -714,14 +715,14 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 290 |
-| `math` | 242 |
+| `greedy` | 291 |
+| `math` | 243 |
 | `implementation` | 156 |
-| `dp` | 142 |
+| `dp` | 143 |
 | `brute force` | 123 |
 | `constructive algorithms` | 117 |
-| `binary search` | 93 |
-| `data structures` | 93 |
+| `binary search` | 94 |
+| `data structures` | 94 |
 | `sortings` | 90 |
 | `number theory` | 76 |
 | `dfs and similar` | 70 |
@@ -764,7 +765,7 @@
 | 1600 | 60 |
 | 1700 | 53 |
 | 1800 | 35 |
-| 1900 | 46 |
+| 1900 | 47 |
 | 2000 | 13 |
 | 2100 | 11 |
 | 2200 | 1 |
