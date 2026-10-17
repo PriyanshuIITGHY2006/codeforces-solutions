@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 695
+**Total Problems:** 696
 
-**With Source Code:** 449 / 695
+**With Source Code:** 449 / 696
 
 
 ## Problems
@@ -667,6 +667,7 @@
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2129/problem/C1) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2133/problem/D) |
 | 2148G | [Farmer John's Last Wish](problems/1900/2148G-Farmer-Johns-Last-Wish) | 1900 | `binary search`, `data structures`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2148/problem/G) |
+| 2149F | [Nezuko in the Clearing](problems/1900/2149F-Nezuko-in-the-Clearing) | 1900 | `binary search`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/2149/problem/F) |
 | 2184F | [Cherry Tree](problems/1900/2184F-Cherry-Tree) | 1900 | `dfs and similar`, `dp`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2184/problem/F) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/D) |
@@ -714,13 +715,13 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 290 |
-| `math` | 241 |
+| `math` | 242 |
 | `implementation` | 156 |
 | `dp` | 142 |
 | `brute force` | 123 |
 | `constructive algorithms` | 117 |
+| `binary search` | 93 |
 | `data structures` | 93 |
-| `binary search` | 92 |
 | `sortings` | 90 |
 | `number theory` | 76 |
 | `dfs and similar` | 70 |
@@ -738,7 +739,7 @@
 | `geometry` | 11 |
 | `interactive` | 9 |
 | `hashing` | 7 |
-| `ternary search` | 5 |
+| `ternary search` | 6 |
 | `matrices` | 4 |
 | `schedules` | 3 |
 | `flows` | 2 |
@@ -763,7 +764,7 @@
 | 1600 | 60 |
 | 1700 | 53 |
 | 1800 | 35 |
-| 1900 | 45 |
+| 1900 | 46 |
 | 2000 | 13 |
 | 2100 | 11 |
 | 2200 | 1 |
