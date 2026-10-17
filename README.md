@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 697
+**Total Problems:** 698
 
-**With Source Code:** 449 / 697
+**With Source Code:** 449 / 698
 
 
 ## Problems
@@ -666,6 +666,7 @@
 | 2117G | [Omg Graph](problems/1900/2117G-Omg-Graph) | 1900 | `brute force`, `dsu`, `graphs`, `greedy`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/2117/problem/G) |
 | 2128E1 | [Submedians (Easy Version)](problems/1900/2128E1-Submedians-Easy-Version) | 1900 | `binary search`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2128/problem/E1) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2129/problem/C1) |
+| 2131F | [Unjust Binary Life](problems/1900/2131F-Unjust-Binary-Life) | 1900 | `binary search`, `data structures`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2131/problem/F) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2133/problem/D) |
 | 2148G | [Farmer John's Last Wish](problems/1900/2148G-Farmer-Johns-Last-Wish) | 1900 | `binary search`, `data structures`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2148/problem/G) |
 | 2149F | [Nezuko in the Clearing](problems/1900/2149F-Nezuko-in-the-Clearing) | 1900 | `binary search`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/2149/problem/F) |
@@ -715,18 +716,18 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 291 |
-| `math` | 243 |
+| `greedy` | 292 |
+| `math` | 244 |
 | `implementation` | 156 |
 | `dp` | 143 |
 | `brute force` | 123 |
 | `constructive algorithms` | 117 |
-| `binary search` | 94 |
-| `data structures` | 94 |
-| `sortings` | 90 |
+| `binary search` | 95 |
+| `data structures` | 95 |
+| `sortings` | 91 |
 | `number theory` | 76 |
 | `dfs and similar` | 70 |
-| `two pointers` | 60 |
+| `two pointers` | 61 |
 | `trees` | 53 |
 | `graphs` | 51 |
 | `combinatorics` | 50 |
@@ -765,7 +766,7 @@
 | 1600 | 60 |
 | 1700 | 53 |
 | 1800 | 35 |
-| 1900 | 47 |
+| 1900 | 48 |
 | 2000 | 13 |
 | 2100 | 11 |
 | 2200 | 1 |
