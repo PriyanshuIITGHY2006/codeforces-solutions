@@ -6,7 +6,7 @@
 
 **Rating:** Unrated
 
-**Tags:** `dp`, `dsu`, `games`, `greedy`, `implementation`, `math`
+**Tags:** `brute force`, `dp`, `dsu`, `games`, `greedy`, `implementation`, `math`
 
 **Language:** C++23 (GCC 14-64, msys2)
 

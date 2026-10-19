@@ -17,7 +17,7 @@
 | 2275G | [Copper Squander](problems/Unrated/2275G-Copper-Squander) | ? | `binary search`, `data structures`, `dsu`, `graphs`, `greedy`, `math`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2275/problem/G) |
 | 2275F | [Tea Blend](problems/Unrated/2275F-Tea-Blend) | ? | `hashing`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2275/problem/F) |
 | 2275E | [Repentance Is Already on the Way](problems/Unrated/2275E-Repentance-Is-Already-on-the-Way) | ? | `dp`, `implementation` | Yes | [CF](https://codeforces.com/contest/2275/problem/E) |
-| 2276F | [Permutation Coloring Game](problems/Unrated/2276F-Permutation-Coloring-Game) | ? | `dp`, `dsu`, `games`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2276/problem/F) |
+| 2276F | [Permutation Coloring Game](problems/Unrated/2276F-Permutation-Coloring-Game) | ? | `brute force`, `dp`, `dsu`, `games`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2276/problem/F) |
 | 2276E | [Good Substrings](problems/Unrated/2276E-Good-Substrings) | ? | `combinatorics`, `data structures`, `dp`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2276/problem/E) |
 | 2276D | [Caveman](problems/Unrated/2276D-Caveman) | ? | `combinatorics`, `graphs` | Yes | [CF](https://codeforces.com/contest/2276/problem/D) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
@@ -720,7 +720,7 @@
 | `math` | 244 |
 | `implementation` | 156 |
 | `dp` | 143 |
-| `brute force` | 123 |
+| `brute force` | 124 |
 | `constructive algorithms` | 117 |
 | `binary search` | 95 |
 | `data structures` | 95 |
