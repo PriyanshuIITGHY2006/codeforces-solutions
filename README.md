@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 8
+**Total Problems:** 9
 
-**With Source Code:** 7 / 8
+**With Source Code:** 7 / 9
 
 
 ## Problems
@@ -20,21 +20,24 @@
 | 2276E | [Good Substrings](problems/1800/2276E-Good-Substrings) | 1800 | `combinatorics`, `data structures`, `dp`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2276/problem/E) |
 | 803D | [Magazine Ad](problems/1900/803D-Magazine-Ad) | 1900 | `binary search`, `greedy` | Yes | [CF](https://codeforces.com/contest/803/problem/D) |
 | 2275G | [Copper Squander](problems/1900/2275G-Copper-Squander) | 1900 | `binary search`, `data structures`, `dsu`, `graphs`, `greedy`, `math`, `sortings`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2275/problem/G) |
+| 1472G | [Moving to the Capital](problems/2100/1472G-Moving-to-the-Capital) | 2100 | `dfs and similar`, `dp`, `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/1472/problem/G) |
 | 2276F | [Permutation Coloring Game](problems/2400/2276F-Permutation-Coloring-Game) | 2400 | `brute force`, `dp`, `dsu`, `games`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2276/problem/F) |
 
 ## Tag Distribution
 
 | Tag | Count |
 |-----|-------|
+| `dp` | 4 |
 | `greedy` | 4 |
-| `dp` | 3 |
+| `graphs` | 3 |
 | `math` | 3 |
 | `binary search` | 3 |
 | `dsu` | 2 |
 | `implementation` | 2 |
 | `combinatorics` | 2 |
 | `data structures` | 2 |
-| `graphs` | 2 |
+| `dfs and similar` | 1 |
+| `shortest paths` | 1 |
 | `brute force` | 1 |
 | `games` | 1 |
 | `strings` | 1 |
@@ -53,4 +56,5 @@
 | 1500 | 1 |
 | 1800 | 2 |
 | 1900 | 2 |
+| 2100 | 1 |
 | 2400 | 1 |
