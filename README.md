@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 699
+**Total Problems:** 700
 
-**With Source Code:** 449 / 699
+**With Source Code:** 449 / 700
 
 
 ## Problems
@@ -589,6 +589,7 @@
 | 2252D | [Array Replacement](problems/1700/2252D-Array-Replacement) | 1700 | `greedy`, `sortings` | Yes | [CF](https://codeforces.com/contest/2252/problem/D) |
 | 2260D | [Signs of Prefix Sums](problems/1700/2260D-Signs-of-Prefix-Sums) | 1700 | `brute force`, `constructive algorithms`, `dfs and similar`, `dp`, `implementation` | Yes | [CF](https://codeforces.com/contest/2260/problem/D) |
 | 2267F1 | [XOR Transformations (Easy Version)](problems/1700/2267F1-XOR-Transformations-Easy-Version) | 1700 | `bitmasks`, `brute force`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2267/problem/F1) |
+| 2271D | [Target Infection](problems/1700/2271D-Target-Infection) | 1700 | `binary search`, `brute force`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2271/problem/D) |
 | 709390B | [Wet Shark and Flowers](problems/1700/709390B-Wet-Shark-and-Flowers) | 1700 |  | Yes | [CF](https://codeforces.com/contest/709390/problem/B) |
 | 30C | [Shooting Gallery](problems/1800/30C-Shooting-Gallery) | 1800 | `dp`, `probabilities` | Yes | [CF](https://codeforces.com/contest/30/problem/C) |
 | 161D | [Distance in Tree](problems/1800/161D-Distance-in-Tree) | 1800 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/161/problem/D) |
@@ -717,18 +718,18 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 292 |
+| `greedy` | 293 |
 | `math` | 244 |
-| `implementation` | 156 |
+| `implementation` | 157 |
 | `dp` | 144 |
-| `brute force` | 124 |
+| `brute force` | 125 |
 | `constructive algorithms` | 117 |
-| `binary search` | 95 |
+| `binary search` | 96 |
 | `data structures` | 95 |
 | `sortings` | 91 |
 | `number theory` | 76 |
 | `dfs and similar` | 71 |
-| `two pointers` | 61 |
+| `two pointers` | 62 |
 | `trees` | 53 |
 | `graphs` | 52 |
 | `combinatorics` | 50 |
@@ -765,7 +766,7 @@
 | 1400 | 51 |
 | 1500 | 72 |
 | 1600 | 60 |
-| 1700 | 53 |
+| 1700 | 54 |
 | 1800 | 37 |
 | 1900 | 49 |
 | 2000 | 13 |
