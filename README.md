@@ -4,15 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 700
+**Total Problems:** 701
 
-**With Source Code:** 449 / 700
+**With Source Code:** 449 / 701
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
+| 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `graphs`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2277/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -718,7 +719,7 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 293 |
+| `greedy` | 294 |
 | `math` | 244 |
 | `implementation` | 157 |
 | `dp` | 144 |
@@ -728,10 +729,10 @@
 | `data structures` | 95 |
 | `sortings` | 91 |
 | `number theory` | 76 |
-| `dfs and similar` | 71 |
+| `dfs and similar` | 72 |
 | `two pointers` | 62 |
-| `trees` | 53 |
-| `graphs` | 52 |
+| `trees` | 54 |
+| `graphs` | 53 |
 | `combinatorics` | 50 |
 | `strings` | 43 |
 | `bitmasks` | 39 |
@@ -776,4 +777,4 @@
 | 2400 | 2 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 65 |
+| Unrated | 66 |
