@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 701
+**Total Problems:** 702
 
-**With Source Code:** 449 / 701
+**With Source Code:** 449 / 702
 
 
 ## Problems
@@ -621,6 +621,7 @@
 | 2164D | [Copy String](problems/1800/2164D-Copy-String) | 1800 | `greedy`, `implementation`, `strings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2164/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
+| 2185G | [Mixing MEXes](problems/1800/2185G-Mixing-MEXes) | 1800 | `data structures`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2185/problem/G) |
 | 2192D | [Cost of Tree](problems/1800/2192D-Cost-of-Tree) | 1800 | `dp`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2192/problem/D) |
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
 | 2218G | [The 67th Iteration of "Counting is Fun"](problems/1800/2218G-The-67th-Iteration-of-Counting-is-Fun) | 1800 | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2218/problem/G) |
@@ -720,13 +721,13 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 294 |
-| `math` | 244 |
-| `implementation` | 157 |
+| `math` | 245 |
+| `implementation` | 158 |
 | `dp` | 144 |
 | `brute force` | 125 |
 | `constructive algorithms` | 117 |
+| `data structures` | 96 |
 | `binary search` | 96 |
-| `data structures` | 95 |
 | `sortings` | 91 |
 | `number theory` | 76 |
 | `dfs and similar` | 72 |
@@ -768,7 +769,7 @@
 | 1500 | 72 |
 | 1600 | 60 |
 | 1700 | 54 |
-| 1800 | 37 |
+| 1800 | 38 |
 | 1900 | 49 |
 | 2000 | 13 |
 | 2100 | 12 |
