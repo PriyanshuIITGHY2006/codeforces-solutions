@@ -13,7 +13,7 @@
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `graphs`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2277/problem/C) |
+| 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2277/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -733,7 +733,7 @@
 | `dfs and similar` | 72 |
 | `two pointers` | 62 |
 | `trees` | 54 |
-| `graphs` | 53 |
+| `graphs` | 52 |
 | `combinatorics` | 50 |
 | `strings` | 43 |
 | `bitmasks` | 39 |
