@@ -4,16 +4,16 @@
 
 **Language:** C++
 
-**Total Problems:** 702
+**Total Problems:** 703
 
-**With Source Code:** 449 / 702
+**With Source Code:** 457 / 703
 
 
 ## Problems
 
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
-| 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `greedy`, `trees` | - | [CF](https://codeforces.com/contest/2277/problem/C) |
+| 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2277/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -590,7 +590,7 @@
 | 2252D | [Array Replacement](problems/1700/2252D-Array-Replacement) | 1700 | `greedy`, `sortings` | Yes | [CF](https://codeforces.com/contest/2252/problem/D) |
 | 2260D | [Signs of Prefix Sums](problems/1700/2260D-Signs-of-Prefix-Sums) | 1700 | `brute force`, `constructive algorithms`, `dfs and similar`, `dp`, `implementation` | Yes | [CF](https://codeforces.com/contest/2260/problem/D) |
 | 2267F1 | [XOR Transformations (Easy Version)](problems/1700/2267F1-XOR-Transformations-Easy-Version) | 1700 | `bitmasks`, `brute force`, `implementation`, `sortings` | Yes | [CF](https://codeforces.com/contest/2267/problem/F1) |
-| 2271D | [Target Infection](problems/1700/2271D-Target-Infection) | 1700 | `binary search`, `brute force`, `greedy`, `implementation`, `two pointers` | - | [CF](https://codeforces.com/contest/2271/problem/D) |
+| 2271D | [Target Infection](problems/1700/2271D-Target-Infection) | 1700 | `binary search`, `brute force`, `greedy`, `implementation`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2271/problem/D) |
 | 709390B | [Wet Shark and Flowers](problems/1700/709390B-Wet-Shark-and-Flowers) | 1700 |  | Yes | [CF](https://codeforces.com/contest/709390/problem/B) |
 | 30C | [Shooting Gallery](problems/1800/30C-Shooting-Gallery) | 1800 | `dp`, `probabilities` | Yes | [CF](https://codeforces.com/contest/30/problem/C) |
 | 161D | [Distance in Tree](problems/1800/161D-Distance-in-Tree) | 1800 | `dfs and similar`, `dp`, `trees` | - | [CF](https://codeforces.com/contest/161/problem/D) |
@@ -621,7 +621,7 @@
 | 2164D | [Copy String](problems/1800/2164D-Copy-String) | 1800 | `greedy`, `implementation`, `strings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2164/problem/D) |
 | 2172B | [Buses](problems/1800/2172B-Buses) | 1800 | `greedy`, `sortings` | - | [CF](https://codeforces.com/contest/2172/problem/B) |
 | 2179E | [Blackslex and Girls](problems/1800/2179E-Blackslex-and-Girls) | 1800 | `constructive algorithms`, `geometry`, `math` | - | [CF](https://codeforces.com/contest/2179/problem/E) |
-| 2185G | [Mixing MEXes](problems/1800/2185G-Mixing-MEXes) | 1800 | `data structures`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2185/problem/G) |
+| 2185G | [Mixing MEXes](problems/1800/2185G-Mixing-MEXes) | 1800 | `data structures`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2185/problem/G) |
 | 2192D | [Cost of Tree](problems/1800/2192D-Cost-of-Tree) | 1800 | `dp`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2192/problem/D) |
 | 2204E | [Sum of Digits (and Again)](problems/1800/2204E-Sum-of-Digits-and-Again) | 1800 | `brute force`, `constructive algorithms`, `math` | Yes | [CF](https://codeforces.com/contest/2204/problem/E) |
 | 2218G | [The 67th Iteration of "Counting is Fun"](problems/1800/2218G-The-67th-Iteration-of-Counting-is-Fun) | 1800 | `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2218/problem/G) |
@@ -643,6 +643,7 @@
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | Yes | [CF](https://codeforces.com/contest/1245/problem/D) |
 | 1361B | [Johnny and Grandmaster](problems/1900/1361B-Johnny-and-Grandmaster) | 1900 | `greedy`, `implementation`, `math`, `sortings` | Yes | [CF](https://codeforces.com/contest/1361/problem/B) |
 | 1453D | [Checkpoints](problems/1900/1453D-Checkpoints) | 1900 | `brute force`, `constructive algorithms`, `greedy`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1453/problem/D) |
+| 1601B | [Frog Traveler](problems/1900/1601B-Frog-Traveler) | 1900 | `data structures`, `dfs and similar`, `dp`, `graphs`, `shortest paths`, `two pointers` | - | [CF](https://codeforces.com/contest/1601/problem/B) |
 | 1702G1 | [Passable Paths (easy version)](problems/1900/1702G1-Passable-Paths-easy-version) | 1900 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1702/problem/G1) |
 | 1714F | [Build a Tree and That Is It](problems/1900/1714F-Build-a-Tree-and-That-Is-It) | 1900 | `constructive algorithms`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/F) |
 | 1759G | [Restore the Permutation](problems/1900/1759G-Restore-the-Permutation) | 1900 | `binary search`, `constructive algorithms`, `data structures`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1759/problem/G) |
@@ -665,12 +666,12 @@
 | 2093G | [Shorten the Array](problems/1900/2093G-Shorten-the-Array) | 1900 | `binary search`, `bitmasks`, `data structures`, `dfs and similar`, `greedy`, `strings`, `trees`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2093/problem/G) |
 | 2109D | [D/D/D](problems/1900/2109D-DDD) | 1900 | `dfs and similar`, `graphs`, `greedy`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2109/problem/D) |
 | 2117G | [Omg Graph](problems/1900/2117G-Omg-Graph) | 1900 | `brute force`, `dsu`, `graphs`, `greedy`, `shortest paths`, `sortings` | Yes | [CF](https://codeforces.com/contest/2117/problem/G) |
-| 2128E1 | [Submedians (Easy Version)](problems/1900/2128E1-Submedians-Easy-Version) | 1900 | `binary search`, `data structures`, `dp`, `greedy`, `math` | - | [CF](https://codeforces.com/contest/2128/problem/E1) |
+| 2128E1 | [Submedians (Easy Version)](problems/1900/2128E1-Submedians-Easy-Version) | 1900 | `binary search`, `data structures`, `dp`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2128/problem/E1) |
 | 2129C1 | [Interactive RBS (Easy Version)](problems/1900/2129C1-Interactive-RBS-Easy-Version) | 1900 | `binary search`, `bitmasks`, `constructive algorithms`, `interactive` | Yes | [CF](https://codeforces.com/contest/2129/problem/C1) |
-| 2131F | [Unjust Binary Life](problems/1900/2131F-Unjust-Binary-Life) | 1900 | `binary search`, `data structures`, `greedy`, `math`, `sortings`, `two pointers` | - | [CF](https://codeforces.com/contest/2131/problem/F) |
+| 2131F | [Unjust Binary Life](problems/1900/2131F-Unjust-Binary-Life) | 1900 | `binary search`, `data structures`, `greedy`, `math`, `sortings`, `two pointers` | Yes | [CF](https://codeforces.com/contest/2131/problem/F) |
 | 2133D | [Chicken Jockey](problems/1900/2133D-Chicken-Jockey) | 1900 | `dp`, `greedy` | Yes | [CF](https://codeforces.com/contest/2133/problem/D) |
 | 2148G | [Farmer John's Last Wish](problems/1900/2148G-Farmer-Johns-Last-Wish) | 1900 | `binary search`, `data structures`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2148/problem/G) |
-| 2149F | [Nezuko in the Clearing](problems/1900/2149F-Nezuko-in-the-Clearing) | 1900 | `binary search`, `math`, `ternary search` | - | [CF](https://codeforces.com/contest/2149/problem/F) |
+| 2149F | [Nezuko in the Clearing](problems/1900/2149F-Nezuko-in-the-Clearing) | 1900 | `binary search`, `math`, `ternary search` | Yes | [CF](https://codeforces.com/contest/2149/problem/F) |
 | 2184F | [Cherry Tree](problems/1900/2184F-Cherry-Tree) | 1900 | `dfs and similar`, `dp`, `graphs`, `trees` | Yes | [CF](https://codeforces.com/contest/2184/problem/F) |
 | 2190B2 | [Sub-RBS (Hard Version)](problems/1900/2190B2-Sub-RBS-Hard-Version) | 1900 | `dp`, `games`, `implementation`, `strings` | Yes | [CF](https://codeforces.com/contest/2190/problem/B2) |
 | 2228D | [Sanae, Cross and Color](problems/1900/2228D-Sanae-Cross-and-Color) | 1900 | `binary search`, `data structures`, `implementation` | Yes | [CF](https://codeforces.com/contest/2228/problem/D) |
@@ -695,7 +696,7 @@
 | 414C | [Mashmokh and Reverse Operation](problems/2100/414C-Mashmokh-and-Reverse-Operation) | 2100 | `combinatorics`, `divide and conquer` | Yes | [CF](https://codeforces.com/contest/414/problem/C) |
 | 837D | [Round Subset](problems/2100/837D-Round-Subset) | 2100 | `dp`, `math` | Yes | [CF](https://codeforces.com/contest/837/problem/D) |
 | 1265E | [Beautiful Mirrors](problems/2100/1265E-Beautiful-Mirrors) | 2100 | `data structures`, `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1265/problem/E) |
-| 1472G | [Moving to the Capital](problems/2100/1472G-Moving-to-the-Capital) | 2100 | `dfs and similar`, `dp`, `graphs`, `shortest paths` | - | [CF](https://codeforces.com/contest/1472/problem/G) |
+| 1472G | [Moving to the Capital](problems/2100/1472G-Moving-to-the-Capital) | 2100 | `dfs and similar`, `dp`, `graphs`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/1472/problem/G) |
 | 1486D | [Max Median](problems/2100/1486D-Max-Median) | 2100 | `binary search`, `data structures`, `dp` | Yes | [CF](https://codeforces.com/contest/1486/problem/D) |
 | 1525E | [Assimilation IV](problems/2100/1525E-Assimilation-IV) | 2100 | `combinatorics`, `dp`, `math`, `probabilities`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1525/problem/E) |
 | 1778D | [Flexible String Revisit](problems/2100/1778D-Flexible-String-Revisit) | 2100 | `combinatorics`, `dp`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1778/problem/D) |
@@ -712,7 +713,7 @@
 | 2134E | [Power Boxes](problems/2300/2134E-Power-Boxes) | 2300 | `constructive algorithms`, `dp`, `implementation`, `interactive` | Yes | [CF](https://codeforces.com/contest/2134/problem/E) |
 | 2159C | [Twin Polynomials](problems/2300/2159C-Twin-Polynomials) | 2300 | `combinatorics`, `graph matchings`, `math` | Yes | [CF](https://codeforces.com/contest/2159/problem/C) |
 | 2176F | [Omega Numbers](problems/2400/2176F-Omega-Numbers) | 2400 | `bitmasks`, `combinatorics`, `dp`, `math`, `number theory` | - | [CF](https://codeforces.com/contest/2176/problem/F) |
-| 2276F | [Permutation Coloring Game](problems/2400/2276F-Permutation-Coloring-Game) | 2400 | `brute force`, `dp`, `dsu`, `games`, `greedy`, `implementation`, `math` | - | [CF](https://codeforces.com/contest/2276/problem/F) |
+| 2276F | [Permutation Coloring Game](problems/2400/2276F-Permutation-Coloring-Game) | 2400 | `brute force`, `dp`, `dsu`, `games`, `greedy`, `implementation`, `math` | Yes | [CF](https://codeforces.com/contest/2276/problem/F) |
 | 1854C | [Expected Destruction](problems/2500/1854C-Expected-Destruction) | 2500 | `combinatorics`, `dp`, `math`, `probabilities` | - | [CF](https://codeforces.com/contest/1854/problem/C) |
 | 1948F | [Rare Coins](problems/2500/1948F-Rare-Coins) | 2500 | `combinatorics`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1948/problem/F) |
 
@@ -723,24 +724,24 @@
 | `greedy` | 294 |
 | `math` | 245 |
 | `implementation` | 158 |
-| `dp` | 144 |
+| `dp` | 145 |
 | `brute force` | 125 |
 | `constructive algorithms` | 117 |
-| `data structures` | 96 |
+| `data structures` | 97 |
 | `binary search` | 96 |
 | `sortings` | 91 |
 | `number theory` | 76 |
-| `dfs and similar` | 72 |
-| `two pointers` | 62 |
+| `dfs and similar` | 73 |
+| `two pointers` | 63 |
 | `trees` | 54 |
-| `graphs` | 52 |
+| `graphs` | 53 |
 | `combinatorics` | 50 |
 | `strings` | 43 |
 | `bitmasks` | 39 |
 | `games` | 22 |
 | `probabilities` | 22 |
 | `dsu` | 19 |
-| `shortest paths` | 15 |
+| `shortest paths` | 16 |
 | `divide and conquer` | 12 |
 | `geometry` | 11 |
 | `interactive` | 9 |
@@ -770,7 +771,7 @@
 | 1600 | 60 |
 | 1700 | 54 |
 | 1800 | 38 |
-| 1900 | 49 |
+| 1900 | 50 |
 | 2000 | 13 |
 | 2100 | 12 |
 | 2200 | 1 |
