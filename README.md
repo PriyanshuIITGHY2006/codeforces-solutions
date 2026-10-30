@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 703
+**Total Problems:** 705
 
-**With Source Code:** 457 / 703
+**With Source Code:** 457 / 705
 
 
 ## Problems
@@ -570,8 +570,10 @@
 | 2039D | [Shohag Loves GCD](problems/1700/2039D-Shohag-Loves-GCD) | 1700 | `constructive algorithms`, `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2039/problem/D) |
 | 2041D | [Drunken Maze](problems/1700/2041D-Drunken-Maze) | 1700 | `brute force`, `dfs and similar`, `graphs`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2041/problem/D) |
 | 2045A | [Scrambled Scrabble](problems/1700/2045A-Scrambled-Scrabble) | 1700 | `brute force`, `greedy` | Yes | [CF](https://codeforces.com/contest/2045/problem/A) |
+| 2052F | [Fix Flooded Floor](problems/1700/2052F-Fix-Flooded-Floor) | 1700 | `constructive algorithms`, `dp`, `graphs` | - | [CF](https://codeforces.com/contest/2052/problem/F) |
 | 2065G | [Skibidus and Capping](problems/1700/2065G-Skibidus-and-Capping) | 1700 | `combinatorics`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2065/problem/G) |
 | 2071C | [Trapmigiano Reggiano](problems/1700/2071C-Trapmigiano-Reggiano) | 1700 | `constructive algorithms`, `data structures`, `dfs and similar`, `dp`, `greedy`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/2071/problem/C) |
+| 2086D | [Even String](problems/1700/2086D-Even-String) | 1700 | `brute force`, `combinatorics`, `dp`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2086/problem/D) |
 | 2089A | [Simple Permutation](problems/1700/2089A-Simple-Permutation) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2089/problem/A) |
 | 2104E | [Unpleasant Strings](problems/1700/2104E-Unpleasant-Strings) | 1700 | `binary search`, `dp`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2104/problem/E) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
@@ -722,21 +724,21 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 294 |
-| `math` | 245 |
+| `math` | 246 |
 | `implementation` | 158 |
-| `dp` | 145 |
-| `brute force` | 125 |
-| `constructive algorithms` | 117 |
+| `dp` | 147 |
+| `brute force` | 126 |
+| `constructive algorithms` | 118 |
 | `data structures` | 97 |
 | `binary search` | 96 |
 | `sortings` | 91 |
 | `number theory` | 76 |
 | `dfs and similar` | 73 |
 | `two pointers` | 63 |
+| `graphs` | 54 |
 | `trees` | 54 |
-| `graphs` | 53 |
-| `combinatorics` | 50 |
-| `strings` | 43 |
+| `combinatorics` | 51 |
+| `strings` | 44 |
 | `bitmasks` | 39 |
 | `games` | 22 |
 | `probabilities` | 22 |
@@ -769,7 +771,7 @@
 | 1400 | 51 |
 | 1500 | 72 |
 | 1600 | 60 |
-| 1700 | 54 |
+| 1700 | 56 |
 | 1800 | 38 |
 | 1900 | 50 |
 | 2000 | 13 |
