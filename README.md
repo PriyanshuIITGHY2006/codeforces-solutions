@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 705
+**Total Problems:** 706
 
-**With Source Code:** 457 / 705
+**With Source Code:** 457 / 706
 
 
 ## Problems
@@ -14,6 +14,7 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2277/problem/C) |
+| 2278E | [Swap and Negate](problems/Unrated/2278E-Swap-and-Negate) | ? | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2278/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -723,12 +724,12 @@
 
 | Tag | Count |
 |-----|-------|
-| `greedy` | 294 |
+| `greedy` | 295 |
 | `math` | 246 |
 | `implementation` | 158 |
 | `dp` | 147 |
 | `brute force` | 126 |
-| `constructive algorithms` | 118 |
+| `constructive algorithms` | 119 |
 | `data structures` | 97 |
 | `binary search` | 96 |
 | `sortings` | 91 |
@@ -781,4 +782,4 @@
 | 2400 | 2 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 66 |
+| Unrated | 67 |
