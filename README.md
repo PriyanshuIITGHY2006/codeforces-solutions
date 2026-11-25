@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 706
+**Total Problems:** 708
 
-**With Source Code:** 457 / 706
+**With Source Code:** 457 / 708
 
 
 ## Problems
@@ -15,6 +15,7 @@
 |---|---------|--------|------|------|------|
 | 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2277/problem/C) |
 | 2278E | [Swap and Negate](problems/Unrated/2278E-Swap-and-Negate) | ? | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2278/problem/E) |
+| 2283C | [Big XOR](problems/Unrated/2283C-Big-XOR) | ? | `bitmasks`, `constructive algorithms` | - | [CF](https://codeforces.com/contest/2283/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -615,6 +616,7 @@
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | Yes | [CF](https://codeforces.com/contest/2042/problem/C) |
 | 2043D | [Problem about GCD](problems/1800/2043D-Problem-about-GCD) | 1800 | `brute force`, `flows`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2043/problem/D) |
+| 2091F | [Igor and Mountain](problems/1800/2091F-Igor-and-Mountain) | 1800 | `binary search`, `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2091/problem/F) |
 | 2093F | [Hackers and Neural Networks](problems/1800/2093F-Hackers-and-Neural-Networks) | 1800 | `bitmasks`, `brute force`, `greedy` | Yes | [CF](https://codeforces.com/contest/2093/problem/F) |
 | 2106E | [Wolf](problems/1800/2106E-Wolf) | 1800 | `binary search`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2106/problem/E) |
 | 2117F | [Wildflower](problems/1800/2117F-Wildflower) | 1800 | `combinatorics`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/2117/problem/F) |
@@ -727,11 +729,11 @@
 | `greedy` | 295 |
 | `math` | 246 |
 | `implementation` | 158 |
-| `dp` | 147 |
-| `brute force` | 126 |
-| `constructive algorithms` | 119 |
+| `dp` | 148 |
+| `brute force` | 127 |
+| `constructive algorithms` | 120 |
+| `binary search` | 97 |
 | `data structures` | 97 |
-| `binary search` | 96 |
 | `sortings` | 91 |
 | `number theory` | 76 |
 | `dfs and similar` | 73 |
@@ -740,7 +742,7 @@
 | `trees` | 54 |
 | `combinatorics` | 51 |
 | `strings` | 44 |
-| `bitmasks` | 39 |
+| `bitmasks` | 40 |
 | `games` | 22 |
 | `probabilities` | 22 |
 | `dsu` | 19 |
@@ -773,7 +775,7 @@
 | 1500 | 72 |
 | 1600 | 60 |
 | 1700 | 56 |
-| 1800 | 38 |
+| 1800 | 39 |
 | 1900 | 50 |
 | 2000 | 13 |
 | 2100 | 12 |
@@ -782,4 +784,4 @@
 | 2400 | 2 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 67 |
+| Unrated | 68 |
