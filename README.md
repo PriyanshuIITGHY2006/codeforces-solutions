@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 708
+**Total Problems:** 710
 
-**With Source Code:** 457 / 708
+**With Source Code:** 457 / 710
 
 
 ## Problems
@@ -15,6 +15,8 @@
 |---|---------|--------|------|------|------|
 | 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2277/problem/C) |
 | 2278E | [Swap and Negate](problems/Unrated/2278E-Swap-and-Negate) | ? | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2278/problem/E) |
+| 2283E | [Partition of a Binary String](problems/Unrated/2283E-Partition-of-a-Binary-String) | ? | `combinatorics`, `dp` | - | [CF](https://codeforces.com/contest/2283/problem/E) |
+| 2283D | [Black, Gray and White](problems/Unrated/2283D-Black-Gray-and-White) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/2283/problem/D) |
 | 2283C | [Big XOR](problems/Unrated/2283C-Big-XOR) | ? | `bitmasks`, `constructive algorithms` | - | [CF](https://codeforces.com/contest/2283/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
@@ -729,18 +731,18 @@
 | `greedy` | 295 |
 | `math` | 246 |
 | `implementation` | 158 |
-| `dp` | 148 |
-| `brute force` | 127 |
-| `constructive algorithms` | 120 |
+| `dp` | 149 |
+| `brute force` | 128 |
+| `constructive algorithms` | 121 |
 | `binary search` | 97 |
 | `data structures` | 97 |
 | `sortings` | 91 |
 | `number theory` | 76 |
-| `dfs and similar` | 73 |
+| `dfs and similar` | 74 |
 | `two pointers` | 63 |
+| `trees` | 55 |
 | `graphs` | 54 |
-| `trees` | 54 |
-| `combinatorics` | 51 |
+| `combinatorics` | 52 |
 | `strings` | 44 |
 | `bitmasks` | 40 |
 | `games` | 22 |
@@ -784,4 +786,4 @@
 | 2400 | 2 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 68 |
+| Unrated | 70 |
