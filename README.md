@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 710
+**Total Problems:** 712
 
-**With Source Code:** 457 / 710
+**With Source Code:** 457 / 712
 
 
 ## Problems
@@ -18,6 +18,7 @@
 | 2283E | [Partition of a Binary String](problems/Unrated/2283E-Partition-of-a-Binary-String) | ? | `combinatorics`, `dp` | - | [CF](https://codeforces.com/contest/2283/problem/E) |
 | 2283D | [Black, Gray and White](problems/Unrated/2283D-Black-Gray-and-White) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/2283/problem/D) |
 | 2283C | [Big XOR](problems/Unrated/2283C-Big-XOR) | ? | `bitmasks`, `constructive algorithms` | - | [CF](https://codeforces.com/contest/2283/problem/C) |
+| 2289C | [Problem from Ust-Katav](problems/Unrated/2289C-Problem-from-Ust-Katav) | ? | `binary search`, `data structures` | - | [CF](https://codeforces.com/contest/2289/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -645,6 +646,7 @@
 | 803D | [Magazine Ad](problems/1900/803D-Magazine-Ad) | 1900 | `binary search`, `greedy` | Yes | [CF](https://codeforces.com/contest/803/problem/D) |
 | 935D | [Fafa and Ancient Alphabet](problems/1900/935D-Fafa-and-Ancient-Alphabet) | 1900 | `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/935/problem/D) |
 | 1012C | [Hills](problems/1900/1012C-Hills) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1012/problem/C) |
+| 1036C | [Classy Numbers](problems/1900/1036C-Classy-Numbers) | 1900 | `combinatorics`, `dp` | - | [CF](https://codeforces.com/contest/1036/problem/C) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | Yes | [CF](https://codeforces.com/contest/1245/problem/D) |
@@ -731,18 +733,18 @@
 | `greedy` | 295 |
 | `math` | 246 |
 | `implementation` | 158 |
-| `dp` | 149 |
+| `dp` | 150 |
 | `brute force` | 128 |
 | `constructive algorithms` | 121 |
-| `binary search` | 97 |
-| `data structures` | 97 |
+| `binary search` | 98 |
+| `data structures` | 98 |
 | `sortings` | 91 |
 | `number theory` | 76 |
 | `dfs and similar` | 74 |
 | `two pointers` | 63 |
 | `trees` | 55 |
 | `graphs` | 54 |
-| `combinatorics` | 52 |
+| `combinatorics` | 53 |
 | `strings` | 44 |
 | `bitmasks` | 40 |
 | `games` | 22 |
@@ -778,7 +780,7 @@
 | 1600 | 60 |
 | 1700 | 56 |
 | 1800 | 39 |
-| 1900 | 50 |
+| 1900 | 51 |
 | 2000 | 13 |
 | 2100 | 12 |
 | 2200 | 1 |
@@ -786,4 +788,4 @@
 | 2400 | 2 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 70 |
+| Unrated | 71 |
