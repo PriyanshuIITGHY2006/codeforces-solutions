@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 712
+**Total Problems:** 713
 
-**With Source Code:** 467 / 712
+**With Source Code:** 467 / 713
 
 
 ## Problems
@@ -19,6 +19,7 @@
 | 2283D | [Black, Gray and White](problems/Unrated/2283D-Black-Gray-and-White) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/2283/problem/D) |
 | 2283C | [Big XOR](problems/Unrated/2283C-Big-XOR) | ? | `bitmasks`, `constructive algorithms` | Yes | [CF](https://codeforces.com/contest/2283/problem/C) |
 | 2289C | [Problem from Ust-Katav](problems/Unrated/2289C-Problem-from-Ust-Katav) | ? | `binary search`, `data structures` | Yes | [CF](https://codeforces.com/contest/2289/problem/C) |
+| 2292E | [Blush](problems/Unrated/2292E-Blush) | ? | `binary search`, `bitmasks`, `math` | - | [CF](https://codeforces.com/contest/2292/problem/E) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -731,12 +732,12 @@
 | Tag | Count |
 |-----|-------|
 | `greedy` | 295 |
-| `math` | 246 |
+| `math` | 247 |
 | `implementation` | 158 |
 | `dp` | 150 |
 | `brute force` | 128 |
 | `constructive algorithms` | 121 |
-| `binary search` | 98 |
+| `binary search` | 99 |
 | `data structures` | 98 |
 | `sortings` | 91 |
 | `number theory` | 76 |
@@ -746,7 +747,7 @@
 | `graphs` | 54 |
 | `combinatorics` | 53 |
 | `strings` | 44 |
-| `bitmasks` | 40 |
+| `bitmasks` | 41 |
 | `games` | 22 |
 | `probabilities` | 22 |
 | `dsu` | 19 |
@@ -788,4 +789,4 @@
 | 2400 | 2 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 71 |
+| Unrated | 72 |
