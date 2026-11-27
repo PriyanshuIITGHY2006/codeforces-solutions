@@ -6,7 +6,7 @@
 
 **Total Problems:** 712
 
-**With Source Code:** 457 / 712
+**With Source Code:** 467 / 712
 
 
 ## Problems
@@ -14,11 +14,11 @@
 | # | Problem | Rating | Tags | Code | Link |
 |---|---------|--------|------|------|------|
 | 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2277/problem/C) |
-| 2278E | [Swap and Negate](problems/Unrated/2278E-Swap-and-Negate) | ? | `constructive algorithms`, `greedy` | - | [CF](https://codeforces.com/contest/2278/problem/E) |
-| 2283E | [Partition of a Binary String](problems/Unrated/2283E-Partition-of-a-Binary-String) | ? | `combinatorics`, `dp` | - | [CF](https://codeforces.com/contest/2283/problem/E) |
-| 2283D | [Black, Gray and White](problems/Unrated/2283D-Black-Gray-and-White) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `trees` | - | [CF](https://codeforces.com/contest/2283/problem/D) |
-| 2283C | [Big XOR](problems/Unrated/2283C-Big-XOR) | ? | `bitmasks`, `constructive algorithms` | - | [CF](https://codeforces.com/contest/2283/problem/C) |
-| 2289C | [Problem from Ust-Katav](problems/Unrated/2289C-Problem-from-Ust-Katav) | ? | `binary search`, `data structures` | - | [CF](https://codeforces.com/contest/2289/problem/C) |
+| 2278E | [Swap and Negate](problems/Unrated/2278E-Swap-and-Negate) | ? | `constructive algorithms`, `greedy` | Yes | [CF](https://codeforces.com/contest/2278/problem/E) |
+| 2283E | [Partition of a Binary String](problems/Unrated/2283E-Partition-of-a-Binary-String) | ? | `combinatorics`, `dp` | Yes | [CF](https://codeforces.com/contest/2283/problem/E) |
+| 2283D | [Black, Gray and White](problems/Unrated/2283D-Black-Gray-and-White) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/2283/problem/D) |
+| 2283C | [Big XOR](problems/Unrated/2283C-Big-XOR) | ? | `bitmasks`, `constructive algorithms` | Yes | [CF](https://codeforces.com/contest/2283/problem/C) |
+| 2289C | [Problem from Ust-Katav](problems/Unrated/2289C-Problem-from-Ust-Katav) | ? | `binary search`, `data structures` | Yes | [CF](https://codeforces.com/contest/2289/problem/C) |
 | 102694B | [Dynamic Diameter](problems/Unrated/102694B-Dynamic-Diameter) | ? |  | Yes | [CF](https://codeforces.com/contest/102694/problem/B) |
 | 105584E | [Colorful Residential Area](problems/Unrated/105584E-Colorful-Residential-Area) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/E) |
 | 105584D | [A Bug That's Not a Pill Bug](problems/Unrated/105584D-A-Bug-Thats-Not-a-Pill-Bug) | ? |  | - | [CF](https://codeforces.com/contest/105584/problem/D) |
@@ -575,10 +575,10 @@
 | 2039D | [Shohag Loves GCD](problems/1700/2039D-Shohag-Loves-GCD) | 1700 | `constructive algorithms`, `greedy`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2039/problem/D) |
 | 2041D | [Drunken Maze](problems/1700/2041D-Drunken-Maze) | 1700 | `brute force`, `dfs and similar`, `graphs`, `shortest paths` | Yes | [CF](https://codeforces.com/contest/2041/problem/D) |
 | 2045A | [Scrambled Scrabble](problems/1700/2045A-Scrambled-Scrabble) | 1700 | `brute force`, `greedy` | Yes | [CF](https://codeforces.com/contest/2045/problem/A) |
-| 2052F | [Fix Flooded Floor](problems/1700/2052F-Fix-Flooded-Floor) | 1700 | `constructive algorithms`, `dp`, `graphs` | - | [CF](https://codeforces.com/contest/2052/problem/F) |
+| 2052F | [Fix Flooded Floor](problems/1700/2052F-Fix-Flooded-Floor) | 1700 | `constructive algorithms`, `dp`, `graphs` | Yes | [CF](https://codeforces.com/contest/2052/problem/F) |
 | 2065G | [Skibidus and Capping](problems/1700/2065G-Skibidus-and-Capping) | 1700 | `combinatorics`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2065/problem/G) |
 | 2071C | [Trapmigiano Reggiano](problems/1700/2071C-Trapmigiano-Reggiano) | 1700 | `constructive algorithms`, `data structures`, `dfs and similar`, `dp`, `greedy`, `sortings`, `trees` | Yes | [CF](https://codeforces.com/contest/2071/problem/C) |
-| 2086D | [Even String](problems/1700/2086D-Even-String) | 1700 | `brute force`, `combinatorics`, `dp`, `math`, `strings` | - | [CF](https://codeforces.com/contest/2086/problem/D) |
+| 2086D | [Even String](problems/1700/2086D-Even-String) | 1700 | `brute force`, `combinatorics`, `dp`, `math`, `strings` | Yes | [CF](https://codeforces.com/contest/2086/problem/D) |
 | 2089A | [Simple Permutation](problems/1700/2089A-Simple-Permutation) | 1700 | `constructive algorithms`, `number theory` | Yes | [CF](https://codeforces.com/contest/2089/problem/A) |
 | 2104E | [Unpleasant Strings](problems/1700/2104E-Unpleasant-Strings) | 1700 | `binary search`, `dp`, `greedy`, `strings` | Yes | [CF](https://codeforces.com/contest/2104/problem/E) |
 | 2122C | [Manhattan Pairs](problems/1700/2122C-Manhattan-Pairs) | 1700 | `constructive algorithms`, `geometry`, `greedy`, `math`, `sortings` | - | [CF](https://codeforces.com/contest/2122/problem/C) |
@@ -619,7 +619,7 @@
 | 2033F | [Kosuke's Sloth](problems/1800/2033F-Kosukes-Sloth) | 1800 | `brute force`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2033/problem/F) |
 | 2042C | [Competitive Fishing](problems/1800/2042C-Competitive-Fishing) | 1800 | `greedy` | Yes | [CF](https://codeforces.com/contest/2042/problem/C) |
 | 2043D | [Problem about GCD](problems/1800/2043D-Problem-about-GCD) | 1800 | `brute force`, `flows`, `math`, `number theory` | Yes | [CF](https://codeforces.com/contest/2043/problem/D) |
-| 2091F | [Igor and Mountain](problems/1800/2091F-Igor-and-Mountain) | 1800 | `binary search`, `brute force`, `dp` | - | [CF](https://codeforces.com/contest/2091/problem/F) |
+| 2091F | [Igor and Mountain](problems/1800/2091F-Igor-and-Mountain) | 1800 | `binary search`, `brute force`, `dp` | Yes | [CF](https://codeforces.com/contest/2091/problem/F) |
 | 2093F | [Hackers and Neural Networks](problems/1800/2093F-Hackers-and-Neural-Networks) | 1800 | `bitmasks`, `brute force`, `greedy` | Yes | [CF](https://codeforces.com/contest/2093/problem/F) |
 | 2106E | [Wolf](problems/1800/2106E-Wolf) | 1800 | `binary search`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/2106/problem/E) |
 | 2117F | [Wildflower](problems/1800/2117F-Wildflower) | 1800 | `combinatorics`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/2117/problem/F) |
@@ -646,13 +646,13 @@
 | 803D | [Magazine Ad](problems/1900/803D-Magazine-Ad) | 1900 | `binary search`, `greedy` | Yes | [CF](https://codeforces.com/contest/803/problem/D) |
 | 935D | [Fafa and Ancient Alphabet](problems/1900/935D-Fafa-and-Ancient-Alphabet) | 1900 | `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/935/problem/D) |
 | 1012C | [Hills](problems/1900/1012C-Hills) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1012/problem/C) |
-| 1036C | [Classy Numbers](problems/1900/1036C-Classy-Numbers) | 1900 | `combinatorics`, `dp` | - | [CF](https://codeforces.com/contest/1036/problem/C) |
+| 1036C | [Classy Numbers](problems/1900/1036C-Classy-Numbers) | 1900 | `combinatorics`, `dp` | Yes | [CF](https://codeforces.com/contest/1036/problem/C) |
 | 1077F1 | [Pictures with Kittens (easy version)](problems/1900/1077F1-Pictures-with-Kittens-easy-version) | 1900 | `dp` | Yes | [CF](https://codeforces.com/contest/1077/problem/F1) |
 | 1092F | [Tree with Maximum Cost](problems/1900/1092F-Tree-with-Maximum-Cost) | 1900 | `dfs and similar`, `dp`, `trees` | Yes | [CF](https://codeforces.com/contest/1092/problem/F) |
 | 1245D | [Shichikuji and Power Grid](problems/1900/1245D-Shichikuji-and-Power-Grid) | 1900 | `dsu`, `graphs`, `greedy`, `shortest paths`, `trees` | Yes | [CF](https://codeforces.com/contest/1245/problem/D) |
 | 1361B | [Johnny and Grandmaster](problems/1900/1361B-Johnny-and-Grandmaster) | 1900 | `greedy`, `implementation`, `math`, `sortings` | Yes | [CF](https://codeforces.com/contest/1361/problem/B) |
 | 1453D | [Checkpoints](problems/1900/1453D-Checkpoints) | 1900 | `brute force`, `constructive algorithms`, `greedy`, `math`, `probabilities` | Yes | [CF](https://codeforces.com/contest/1453/problem/D) |
-| 1601B | [Frog Traveler](problems/1900/1601B-Frog-Traveler) | 1900 | `data structures`, `dfs and similar`, `dp`, `graphs`, `shortest paths`, `two pointers` | - | [CF](https://codeforces.com/contest/1601/problem/B) |
+| 1601B | [Frog Traveler](problems/1900/1601B-Frog-Traveler) | 1900 | `data structures`, `dfs and similar`, `dp`, `graphs`, `shortest paths`, `two pointers` | Yes | [CF](https://codeforces.com/contest/1601/problem/B) |
 | 1702G1 | [Passable Paths (easy version)](problems/1900/1702G1-Passable-Paths-easy-version) | 1900 | `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/1702/problem/G1) |
 | 1714F | [Build a Tree and That Is It](problems/1900/1714F-Build-a-Tree-and-That-Is-It) | 1900 | `constructive algorithms`, `implementation`, `trees` | Yes | [CF](https://codeforces.com/contest/1714/problem/F) |
 | 1759G | [Restore the Permutation](problems/1900/1759G-Restore-the-Permutation) | 1900 | `binary search`, `constructive algorithms`, `data structures`, `greedy`, `math` | Yes | [CF](https://codeforces.com/contest/1759/problem/G) |
