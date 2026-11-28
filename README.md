@@ -4,9 +4,9 @@
 
 **Language:** C++
 
-**Total Problems:** 713
+**Total Problems:** 714
 
-**With Source Code:** 467 / 713
+**With Source Code:** 467 / 714
 
 
 ## Problems
@@ -15,6 +15,7 @@
 |---|---------|--------|------|------|------|
 | 2277C | [Edge Addeleting](problems/Unrated/2277C-Edge-Addeleting) | ? | `dfs and similar`, `greedy`, `trees` | Yes | [CF](https://codeforces.com/contest/2277/problem/C) |
 | 2278E | [Swap and Negate](problems/Unrated/2278E-Swap-and-Negate) | ? | `constructive algorithms`, `greedy` | Yes | [CF](https://codeforces.com/contest/2278/problem/E) |
+| 2280B | [Secret String Patterns](problems/Unrated/2280B-Secret-String-Patterns) | ? | `interactive` | - | [CF](https://codeforces.com/contest/2280/problem/B) |
 | 2283E | [Partition of a Binary String](problems/Unrated/2283E-Partition-of-a-Binary-String) | ? | `combinatorics`, `dp` | Yes | [CF](https://codeforces.com/contest/2283/problem/E) |
 | 2283D | [Black, Gray and White](problems/Unrated/2283D-Black-Gray-and-White) | ? | `brute force`, `constructive algorithms`, `dfs and similar`, `trees` | Yes | [CF](https://codeforces.com/contest/2283/problem/D) |
 | 2283C | [Big XOR](problems/Unrated/2283C-Big-XOR) | ? | `bitmasks`, `constructive algorithms` | Yes | [CF](https://codeforces.com/contest/2283/problem/C) |
@@ -754,7 +755,7 @@
 | `shortest paths` | 16 |
 | `divide and conquer` | 12 |
 | `geometry` | 11 |
-| `interactive` | 9 |
+| `interactive` | 10 |
 | `hashing` | 7 |
 | `ternary search` | 6 |
 | `matrices` | 4 |
@@ -789,4 +790,4 @@
 | 2400 | 2 |
 | 2500 | 2 |
 | 900 | 12 |
-| Unrated | 72 |
+| Unrated | 73 |
